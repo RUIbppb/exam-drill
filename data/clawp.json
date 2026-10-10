@@ -66,6 +66,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -124,6 +125,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -140,6 +142,7 @@
     },
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -156,6 +159,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -210,6 +214,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -267,6 +272,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -283,6 +289,7 @@
     },
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -339,6 +346,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -395,6 +403,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -451,6 +460,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -544,6 +554,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -637,6 +648,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -693,6 +705,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -784,6 +797,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -840,6 +854,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -896,6 +911,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -952,6 +968,7 @@
    "detail": [
     {
      "law": "通訊保障及監察法",
+     "lawCode": "communication-protection-act",
      "modifiedAfter": [
       "113-07-31"
      ],
@@ -1006,6 +1023,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -1060,6 +1078,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -1118,6 +1137,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -1174,6 +1194,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -1233,6 +1254,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -1291,6 +1313,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -1348,6 +1371,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -1446,6 +1470,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -1505,6 +1530,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -1563,6 +1589,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -1622,6 +1649,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -1883,6 +1911,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -1899,6 +1928,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -1956,6 +1986,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -2015,6 +2046,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -2074,6 +2106,7 @@
    "detail": [
     {
      "law": "通訊保障及監察法",
+     "lawCode": "communication-protection-act",
      "modifiedAfter": [
       "113-07-31"
      ],
@@ -2275,6 +2308,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -2331,6 +2365,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -2424,6 +2459,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -2480,6 +2516,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -2536,6 +2573,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -2593,6 +2631,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -2609,6 +2648,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -2663,6 +2703,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -2720,6 +2761,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -2736,6 +2778,7 @@
     },
     {
      "law": "毒品危害防制條例",
+     "lawCode": "narcotics-control-act",
      "modifiedAfter": [
       "111-05-04"
      ],
@@ -2787,6 +2830,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -2843,6 +2887,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -2899,6 +2944,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -2955,6 +3001,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -3011,6 +3058,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -3068,6 +3116,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -3084,6 +3133,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -3176,6 +3226,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -3192,6 +3243,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -3250,6 +3302,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -3309,6 +3362,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -3406,6 +3460,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -3464,6 +3519,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -3561,6 +3617,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -3619,6 +3676,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -3678,6 +3736,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -3736,6 +3795,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -3794,6 +3854,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -3853,6 +3914,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -3911,6 +3973,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -3969,6 +4032,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -4028,6 +4092,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -4044,6 +4109,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -4100,6 +4166,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -4158,6 +4225,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -4217,6 +4285,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -4275,6 +4344,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -4740,6 +4810,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -4796,6 +4867,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -4853,6 +4925,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -4869,6 +4942,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -4960,6 +5034,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -5284,6 +5359,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -5342,6 +5418,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -5402,6 +5479,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -5418,6 +5496,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -5514,6 +5593,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -5573,6 +5653,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -5712,6 +5793,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -5808,6 +5890,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -5867,6 +5950,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -5926,6 +6010,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -6107,6 +6192,7 @@
    "detail": [
     {
      "law": "通訊保障及監察法",
+     "lawCode": "communication-protection-act",
      "modifiedAfter": [
       "113-07-31"
      ],
@@ -6161,6 +6247,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -6217,6 +6304,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -6273,6 +6361,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -6329,6 +6418,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -6385,6 +6475,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -6441,6 +6532,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -6534,6 +6626,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -6667,6 +6760,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -6757,6 +6851,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -6847,6 +6942,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -7011,6 +7107,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -7144,6 +7241,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -7160,6 +7258,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -7257,6 +7356,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -7316,6 +7416,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -7374,6 +7475,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -7474,6 +7576,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -7533,6 +7636,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -7708,6 +7812,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -7884,6 +7989,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -7941,6 +8047,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -7957,6 +8064,7 @@
     },
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -7970,6 +8078,7 @@
     },
     {
      "law": "通訊保障及監察法",
+     "lawCode": "communication-protection-act",
      "modifiedAfter": [
       "113-07-31"
      ],
@@ -8023,6 +8132,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -8119,6 +8229,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -8135,6 +8246,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -8264,6 +8376,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-05-28",
       "114-08-01",
@@ -8278,6 +8391,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "115-01-21"
      ],
@@ -8403,6 +8517,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-05-28",
       "114-08-01",
@@ -8679,6 +8794,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -8768,6 +8884,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -8894,6 +9011,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -8946,6 +9064,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "114-11-11"
      ],
@@ -9036,6 +9155,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-05-28",
       "114-08-01",
@@ -9093,6 +9213,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-05-28",
       "114-08-01",
@@ -9188,6 +9309,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-05-28",
       "114-08-01",
@@ -9245,6 +9367,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-05-28",
       "114-08-01",
@@ -9303,6 +9426,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "115-01-21"
      ],
@@ -9396,6 +9520,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -9533,6 +9658,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -9587,6 +9713,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -9642,6 +9769,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -9739,6 +9867,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -9793,6 +9922,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -9889,6 +10019,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-05-28",
       "114-08-01",
@@ -9945,6 +10076,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -10002,6 +10134,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -10165,6 +10298,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-03-13",
       "115-07-22"
@@ -10254,6 +10388,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-03-13",
       "115-07-22"
@@ -10343,6 +10478,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-03-13",
       "115-07-22"
@@ -10395,6 +10531,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-03-13",
       "115-07-22"
@@ -10447,6 +10584,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-03-13",
       "115-07-22"
@@ -10499,6 +10637,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "115-05-13"
      ],
@@ -10661,6 +10800,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "115-05-13"
      ],
@@ -10826,6 +10966,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "115-05-13"
      ],
@@ -10877,6 +11018,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "115-05-13"
      ],
@@ -10931,6 +11073,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-03-13",
       "115-07-22"
@@ -10987,6 +11130,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-03-13",
       "115-07-22"
@@ -11042,6 +11186,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-03-13",
       "115-07-22"
@@ -11097,6 +11242,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-03-13",
       "115-07-22"
@@ -11152,6 +11298,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-03-13",
       "115-07-22"
@@ -11288,6 +11435,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-03-13",
       "115-07-22"
@@ -11384,6 +11532,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "115-05-13"
      ],
@@ -11438,6 +11587,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "115-05-13"
      ],
@@ -11492,6 +11642,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "115-05-13"
      ],
@@ -11709,6 +11860,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-03-13",
       "115-07-22"
@@ -11765,6 +11917,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-03-13",
       "115-07-22"
@@ -11859,6 +12012,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-03-13",
       "115-07-22"
@@ -11911,6 +12065,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -11967,6 +12122,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -12023,6 +12179,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -12081,6 +12238,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -12139,6 +12297,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -12271,6 +12430,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -12327,6 +12487,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -12381,6 +12542,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -12435,6 +12597,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -12715,6 +12878,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -12772,6 +12936,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -12788,6 +12953,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -12842,6 +13008,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -13066,6 +13233,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -13204,6 +13372,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -13344,6 +13513,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -13360,6 +13530,7 @@
     },
     {
      "law": "毒品危害防制條例",
+     "lawCode": "narcotics-control-act",
      "modifiedAfter": [
       "105-06-22",
       "106-06-14",
@@ -13417,6 +13588,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -13433,6 +13605,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -13490,6 +13663,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -13592,6 +13766,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -13693,6 +13868,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -13834,6 +14010,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -13852,6 +14029,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -13863,6 +14041,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -14062,6 +14241,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -14118,6 +14298,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -14174,6 +14355,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -14304,6 +14486,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -14738,6 +14921,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -14754,6 +14938,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -14930,6 +15115,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -15024,6 +15210,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -15084,6 +15271,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -15182,6 +15370,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -15403,6 +15592,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -15461,6 +15651,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -15681,6 +15872,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -15811,6 +16003,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -15904,6 +16097,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -15997,6 +16191,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -16127,6 +16322,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -16183,6 +16379,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -16313,6 +16510,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -16406,6 +16604,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -16499,6 +16698,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -16555,6 +16755,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -16613,6 +16814,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -16672,6 +16874,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -16731,6 +16934,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -16828,6 +17032,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -16886,6 +17091,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -17023,6 +17229,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -17279,6 +17486,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -17295,6 +17503,7 @@
     },
     {
      "law": "組織犯罪防制條例",
+     "lawCode": "organized-crime-act",
      "modifiedAfter": [
       "112-05-24"
      ],
@@ -17306,6 +17515,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -17444,6 +17654,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -17460,6 +17671,7 @@
     },
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -17520,6 +17732,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -17578,6 +17791,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -17671,6 +17885,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -17801,6 +18016,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -17857,6 +18073,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -17913,6 +18130,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -18006,6 +18224,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -18099,6 +18318,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -18153,6 +18373,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -18283,6 +18504,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -18339,6 +18561,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -18586,6 +18809,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -18644,6 +18868,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -18820,6 +19045,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -18958,6 +19184,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -19016,6 +19243,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -19074,6 +19302,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -19171,6 +19400,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -19225,6 +19455,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -19282,6 +19513,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -19340,6 +19572,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -19356,6 +19589,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -19411,6 +19645,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -19469,6 +19704,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -19565,6 +19801,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -19621,6 +19858,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -19677,6 +19915,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -19771,6 +20010,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -19787,6 +20027,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -19841,6 +20082,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -19897,6 +20139,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -19953,6 +20196,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -20009,6 +20253,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -20176,6 +20421,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -20232,6 +20478,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -20288,6 +20535,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -20381,6 +20629,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -20437,6 +20686,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -20530,6 +20780,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -20590,6 +20841,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -20649,6 +20901,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -20665,6 +20918,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -20721,6 +20975,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -20781,6 +21036,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -20797,6 +21053,7 @@
     },
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "113-01-03"
      ],
@@ -20850,6 +21107,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -20910,6 +21168,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -20968,6 +21227,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -21106,6 +21366,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -21166,6 +21427,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -21224,6 +21486,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -21362,6 +21625,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -21463,6 +21727,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -21522,6 +21787,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -21581,6 +21847,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -21640,6 +21907,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -21696,6 +21964,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -21752,6 +22021,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -21882,6 +22152,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -22012,6 +22283,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -22068,6 +22340,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -22198,6 +22471,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -22328,6 +22602,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -22421,6 +22696,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -22477,6 +22753,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -22608,6 +22885,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -22668,6 +22946,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -22684,6 +22963,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -22741,6 +23021,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -22800,6 +23081,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -22860,6 +23142,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -23076,6 +23359,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -23374,6 +23658,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -23586,6 +23871,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -23753,6 +24039,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -23846,6 +24133,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -24233,6 +24521,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -24365,6 +24654,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -24381,6 +24671,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -24439,6 +24730,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -24455,6 +24747,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -24550,6 +24843,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -24650,6 +24944,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -24666,6 +24961,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -24722,6 +25018,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -24780,6 +25077,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -24838,6 +25136,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -24896,6 +25195,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -24955,6 +25255,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -25092,6 +25393,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -25227,6 +25529,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -25282,6 +25585,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -25339,6 +25643,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -25352,6 +25657,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -25408,6 +25714,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -25461,6 +25768,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -25514,6 +25822,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -25567,6 +25876,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -25620,6 +25930,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -25784,6 +26095,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -25947,6 +26259,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -25999,6 +26312,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -26313,6 +26627,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -26408,6 +26723,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -26465,6 +26781,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -26520,6 +26837,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -26577,6 +26895,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -26633,6 +26952,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -26690,6 +27010,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -26746,6 +27067,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -26759,6 +27081,7 @@
     },
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -26814,6 +27137,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -26870,6 +27194,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -26883,6 +27208,7 @@
     },
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -26940,6 +27266,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -26953,6 +27280,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "115-01-21"
      ],
@@ -27009,6 +27337,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -27064,6 +27393,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -27120,6 +27450,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -27175,6 +27506,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -27230,6 +27562,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -27286,6 +27619,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -27341,6 +27675,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -27353,6 +27688,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "115-01-21"
      ],
@@ -27406,6 +27742,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -27458,6 +27795,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-07-22"
      ],
@@ -27583,6 +27921,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-07-22"
      ],
@@ -27634,6 +27973,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-07-22"
      ],
@@ -27759,6 +28099,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-07-22"
      ],
@@ -27810,6 +28151,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-07-22"
      ],
@@ -27935,6 +28277,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-07-22"
      ],
@@ -28284,6 +28627,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-07-22"
      ],
@@ -28339,6 +28683,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-07-22"
      ],
@@ -28433,6 +28778,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-07-22"
      ],
@@ -28608,6 +28954,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-07-22"
      ],
@@ -28662,6 +29009,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-07-22"
      ],
@@ -28717,6 +29065,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-07-22"
      ],
@@ -29170,6 +29519,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -29226,6 +29576,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -29282,6 +29633,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -29338,6 +29690,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -29394,6 +29747,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -29450,6 +29804,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -29506,6 +29861,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -29599,6 +29955,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -29655,6 +30012,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -29711,6 +30069,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -29915,6 +30274,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -29971,6 +30331,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -30027,6 +30388,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -30083,6 +30445,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -30250,6 +30613,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -30306,6 +30670,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -30362,6 +30727,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -30418,6 +30784,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -30472,6 +30839,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -30528,6 +30896,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -30659,6 +31028,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -30675,6 +31045,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -30803,6 +31174,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -30896,6 +31268,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -31135,6 +31508,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -31191,6 +31565,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -31284,6 +31659,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -31451,6 +31827,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -31543,6 +31920,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -31559,6 +31937,7 @@
     },
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -31615,6 +31994,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -31671,6 +32051,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -31801,6 +32182,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -32042,6 +32424,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -32098,6 +32481,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -32191,6 +32575,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -32467,6 +32852,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -32523,6 +32909,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -32579,6 +32966,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -32635,6 +33023,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -32691,6 +33080,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -32858,6 +33248,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -32915,6 +33306,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -32931,6 +33323,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -33024,6 +33417,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -33040,6 +33434,7 @@
     },
     {
      "law": "洗錢防制法",
+     "lawCode": "money-laundering-act",
      "modifiedAfter": [
       "112-06-14",
       "113-07-31"
@@ -33054,6 +33449,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -33108,6 +33504,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -33164,6 +33561,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -33220,6 +33618,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -33276,6 +33675,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -33369,6 +33769,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -33462,6 +33863,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -33518,6 +33920,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -33646,6 +34049,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -33739,6 +34143,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -33906,6 +34311,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -33999,6 +34405,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -34055,6 +34462,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -34180,6 +34588,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -34458,6 +34867,7 @@
    "detail": [
     {
      "law": "家庭暴力防治法",
+     "lawCode": "domestic-violence-act",
      "modifiedAfter": [
       "110-01-27",
       "112-12-06"
@@ -34547,6 +34957,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -34640,6 +35051,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -34733,6 +35145,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -34826,6 +35239,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -34882,6 +35296,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -35012,6 +35427,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -35142,6 +35558,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -35235,6 +35652,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -35291,6 +35709,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -35459,6 +35878,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -35475,6 +35895,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -35529,6 +35950,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -35585,6 +36007,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -35752,6 +36175,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -35808,6 +36232,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -35901,6 +36326,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -35957,6 +36383,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -36013,6 +36440,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -36106,6 +36534,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -36163,6 +36592,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -36179,6 +36609,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -36233,6 +36664,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -36326,6 +36758,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -36604,6 +37037,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -36660,6 +37094,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -36790,6 +37225,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -36846,6 +37282,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -36902,6 +37339,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -36958,6 +37396,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -37125,6 +37564,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -37255,6 +37695,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -37311,6 +37752,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -37367,6 +37809,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -37423,6 +37866,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -37590,6 +38034,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -37792,6 +38237,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -37849,6 +38295,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -37865,6 +38312,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -37956,6 +38404,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -38160,6 +38609,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -38216,6 +38666,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -38272,6 +38723,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "112-05-31",
       "114-11-11"
@@ -38324,6 +38776,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -38417,6 +38870,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -38510,6 +38964,7 @@
    "detail": [
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "112-02-15"
      ],
@@ -38561,6 +39016,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -38617,6 +39073,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -38673,6 +39130,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -38729,6 +39187,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -38785,6 +39244,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -38841,6 +39301,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -39305,6 +39766,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -39321,6 +39783,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -39412,6 +39875,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -39468,6 +39932,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -39561,6 +40026,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -39654,6 +40120,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -39747,6 +40214,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -39803,6 +40271,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -39896,6 +40365,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -39952,6 +40422,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40045,6 +40516,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40101,6 +40573,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40157,6 +40630,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40213,6 +40687,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40269,6 +40744,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40325,6 +40801,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40381,6 +40858,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40437,6 +40915,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40604,6 +41083,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40660,6 +41140,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40753,6 +41234,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40809,6 +41291,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40903,6 +41386,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40919,6 +41403,7 @@
     },
     {
      "law": "毒品危害防制條例",
+     "lawCode": "narcotics-control-act",
      "modifiedAfter": [
       "111-05-04"
      ],
@@ -41081,6 +41566,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -41206,6 +41692,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -41262,6 +41749,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -41318,6 +41806,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -41485,6 +41974,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -41684,6 +42174,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -41851,6 +42342,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -41907,6 +42399,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -41961,6 +42454,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -42054,6 +42548,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -42110,6 +42605,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -42166,6 +42662,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -42259,6 +42756,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -42315,6 +42813,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -42371,6 +42870,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -42501,6 +43001,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -42631,6 +43132,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -42761,6 +43263,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -42815,6 +43318,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -42871,6 +43375,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -42964,6 +43469,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -43055,6 +43561,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -43111,6 +43618,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -43204,6 +43712,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -43260,6 +43769,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -43316,6 +43826,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -43446,6 +43957,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -43576,6 +44088,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -43632,6 +44145,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -43688,6 +44202,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -43855,6 +44370,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -43911,6 +44427,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -43967,6 +44484,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -44023,6 +44541,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -44079,6 +44598,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -44172,6 +44692,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -44228,6 +44749,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -44284,6 +44806,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -44377,6 +44900,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -44433,6 +44957,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -44674,6 +45199,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -44730,6 +45256,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -44787,6 +45314,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -44803,6 +45331,7 @@
     },
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "112-05-31",
       "114-11-11"
@@ -44855,6 +45384,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -44912,6 +45442,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -44928,6 +45459,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -44982,6 +45514,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -45038,6 +45571,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -45168,6 +45702,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -45299,6 +45834,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -45315,6 +45851,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -45369,6 +45906,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -45460,6 +45998,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -45514,6 +46053,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -45642,6 +46182,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -45698,6 +46239,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -45829,6 +46371,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -45845,6 +46388,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -45933,6 +46477,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -45989,6 +46534,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -46191,6 +46737,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -46395,6 +46942,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -46451,6 +46999,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -46507,6 +47056,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -46563,6 +47113,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -46619,6 +47170,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -46675,6 +47227,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -46805,6 +47358,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -46861,6 +47415,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -46955,6 +47510,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -46971,6 +47527,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -47063,6 +47620,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -47079,6 +47637,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -47130,6 +47689,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -47187,6 +47747,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -47203,6 +47764,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -47257,6 +47819,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -47350,6 +47913,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -47406,6 +47970,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -47499,6 +48064,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -47592,6 +48158,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -47648,6 +48215,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -47704,6 +48272,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -47797,6 +48366,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -47853,6 +48423,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -47907,6 +48478,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -47963,6 +48535,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -48056,6 +48629,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -48112,6 +48686,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -48168,6 +48743,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -48224,6 +48800,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -48317,6 +48894,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -48442,6 +49020,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -48609,6 +49188,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -48734,6 +49314,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -48938,6 +49519,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49031,6 +49613,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49087,6 +49670,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49143,6 +49727,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49199,6 +49784,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49292,6 +49878,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49348,6 +49935,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49404,6 +49992,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -49458,6 +50047,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49514,6 +50104,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49570,6 +50161,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49663,6 +50255,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49756,6 +50349,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49812,6 +50406,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49905,6 +50500,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49998,6 +50594,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -50052,6 +50649,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -50107,6 +50705,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -50123,6 +50722,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -50214,6 +50814,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -50270,6 +50871,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -50321,6 +50923,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -50377,6 +50980,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -50433,6 +51037,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -50489,6 +51094,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -50693,6 +51299,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -50786,6 +51393,7 @@
    "detail": [
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "112-02-15"
      ],
@@ -50874,6 +51482,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -50930,6 +51539,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -51023,6 +51633,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -51079,6 +51690,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -51135,6 +51747,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -51191,6 +51804,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -51247,6 +51861,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -51341,6 +51956,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -51357,6 +51973,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -51448,6 +52065,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -51541,6 +52159,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -51597,6 +52216,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -51727,6 +52347,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -51968,6 +52589,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52098,6 +52720,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52191,6 +52814,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52247,6 +52871,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52303,6 +52928,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52359,6 +52985,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52452,6 +53079,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52508,6 +53136,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52601,6 +53230,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52694,6 +53324,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52750,6 +53381,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52843,6 +53475,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52899,6 +53532,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52955,6 +53589,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -53048,6 +53683,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -53105,6 +53741,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -53121,6 +53758,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -53176,6 +53814,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -53192,6 +53831,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -53391,6 +54031,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -53447,6 +54088,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -53614,6 +54256,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -53707,6 +54350,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -53763,6 +54407,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -53819,6 +54464,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -53875,6 +54521,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -53931,6 +54578,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -54098,6 +54746,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -54154,6 +54803,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -54284,6 +54934,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -54340,6 +54991,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -54396,6 +55048,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -54452,6 +55105,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -54545,6 +55199,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -54601,6 +55256,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -54657,6 +55313,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -54750,6 +55407,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -54843,6 +55501,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -54899,6 +55558,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -54955,6 +55615,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -55011,6 +55672,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -55067,6 +55729,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -55160,6 +55823,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -55216,6 +55880,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -55272,6 +55937,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -55328,6 +55994,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -55384,6 +56051,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -55440,6 +56108,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -55496,6 +56165,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -55552,6 +56222,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -55645,6 +56316,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -55701,6 +56373,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -55826,6 +56499,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -55993,6 +56667,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -56118,6 +56793,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -56174,6 +56850,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -56267,6 +56944,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -56323,6 +57001,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -56416,6 +57095,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -56472,6 +57152,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -56528,6 +57209,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -56622,6 +57304,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -56638,6 +57321,7 @@
     },
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "112-05-31",
       "114-11-11"
@@ -56690,6 +57374,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -56746,6 +57431,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -56802,6 +57488,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -56895,6 +57582,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -56951,6 +57639,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -57007,6 +57696,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -57063,6 +57753,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -57156,6 +57847,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -57249,6 +57941,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -57305,6 +57998,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -57361,6 +58055,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -57417,6 +58112,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -57473,6 +58169,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -57529,6 +58226,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -57696,6 +58394,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -57789,6 +58488,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -57845,6 +58545,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -57902,6 +58603,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -57918,6 +58620,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -58009,6 +58712,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58065,6 +58769,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58121,6 +58826,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58177,6 +58883,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58233,6 +58940,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58290,6 +58998,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58306,6 +59015,7 @@
     },
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -58362,6 +59072,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58416,6 +59127,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58473,6 +59185,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58489,6 +59202,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -58577,6 +59291,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58633,6 +59348,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58689,6 +59405,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58745,6 +59462,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58801,6 +59519,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58857,6 +59576,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58913,6 +59633,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -58969,6 +59690,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -59025,6 +59747,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -59081,6 +59804,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -59137,6 +59861,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -59194,6 +59919,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -59210,6 +59936,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -59261,6 +59988,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -59317,6 +60045,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -59373,6 +60102,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -59429,6 +60159,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -59559,6 +60290,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -59615,6 +60347,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -59669,6 +60402,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -59762,6 +60496,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -59818,6 +60553,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -59911,6 +60647,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -59967,6 +60704,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60023,6 +60761,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60116,6 +60855,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60172,6 +60912,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60228,6 +60969,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60284,6 +61026,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60340,6 +61083,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60396,6 +61140,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60489,6 +61234,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60545,6 +61291,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60601,6 +61348,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60657,6 +61405,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60713,6 +61462,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60769,6 +61519,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60862,6 +61613,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60918,6 +61670,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -60974,6 +61727,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -61104,6 +61858,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -61345,6 +62100,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -61438,6 +62194,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -61495,6 +62252,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -61511,6 +62269,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -61565,6 +62324,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -61621,6 +62381,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -61714,6 +62475,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -61770,6 +62532,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -61826,6 +62589,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -61882,6 +62646,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -61975,6 +62740,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -62068,6 +62834,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -62124,6 +62891,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -62180,6 +62948,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -62236,6 +63005,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -62292,6 +63062,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -62348,6 +63119,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -62441,6 +63213,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -62534,6 +63307,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -62590,6 +63364,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -62757,6 +63532,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -62850,6 +63626,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -62943,6 +63720,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -62999,6 +63777,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -63055,6 +63834,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -63111,6 +63891,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -63168,6 +63949,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -63184,6 +63966,7 @@
     },
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "名稱",
@@ -63233,6 +64016,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -63289,6 +64073,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -63345,6 +64130,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -63438,6 +64224,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -63531,6 +64318,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -63698,6 +64486,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -63828,6 +64617,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -63995,6 +64785,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -64051,6 +64842,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -64107,6 +64899,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -64238,6 +65031,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -64254,6 +65048,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -64308,6 +65103,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -64401,6 +65197,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -64457,6 +65254,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -64515,6 +65313,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -64531,6 +65330,7 @@
     },
     {
      "law": "洗錢防制法",
+     "lawCode": "money-laundering-act",
      "modifiedAfter": [
       "112-06-14",
       "113-07-31"
@@ -64545,6 +65345,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -64599,6 +65400,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -64653,6 +65455,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -64783,6 +65586,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -64876,6 +65680,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -64969,6 +65774,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -65025,6 +65831,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -65081,6 +65888,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -65137,6 +65945,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -65305,6 +66114,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -65321,6 +66131,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -65375,6 +66186,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -65503,6 +66315,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -65559,6 +66372,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -65652,6 +66466,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -65745,6 +66560,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -65801,6 +66617,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -66042,6 +66859,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -66098,6 +66916,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -66162,6 +66981,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -66218,6 +67038,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -66274,6 +67095,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -66367,6 +67189,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -66423,6 +67246,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -66479,6 +67303,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -66535,6 +67360,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -66626,6 +67452,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -66682,6 +67509,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -66775,6 +67603,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -66868,6 +67697,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -66961,6 +67791,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -67017,6 +67848,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -67110,6 +67942,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -67203,6 +68036,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -67296,6 +68130,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -67389,6 +68224,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -67445,6 +68281,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -67501,6 +68338,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -67557,6 +68395,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -67613,6 +68452,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -67669,6 +68509,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -67725,6 +68566,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -67781,6 +68623,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -67837,6 +68680,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -67891,6 +68735,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -67947,6 +68792,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -68003,6 +68849,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -68170,6 +69017,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -68226,6 +69074,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -68282,6 +69131,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -68338,6 +69188,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -68394,6 +69245,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -68744,6 +69596,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -68834,6 +69687,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -68887,6 +69741,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -68940,6 +69795,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -69030,6 +69886,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -69083,6 +69940,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -69139,6 +69997,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -69195,6 +70054,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -69436,6 +70296,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -69640,6 +70501,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -69770,6 +70632,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -69863,6 +70726,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -69919,6 +70783,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -69975,6 +70840,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -70076,6 +70942,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -70169,6 +71036,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -70262,6 +71130,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -70318,6 +71187,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -70448,6 +71318,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -70541,6 +71412,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -70597,6 +71469,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -70653,6 +71526,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -70709,6 +71583,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -70765,6 +71640,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -70858,6 +71734,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -70914,6 +71791,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -70970,6 +71848,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -71026,6 +71905,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -71193,6 +72073,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -71284,6 +72165,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -71449,6 +72331,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -71542,6 +72425,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -71635,6 +72519,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -71691,6 +72576,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -71747,6 +72633,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -71914,6 +72801,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -72007,6 +72895,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -72100,6 +72989,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -72193,6 +73083,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -72249,6 +73140,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -72305,6 +73197,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -72402,6 +73295,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -72458,6 +73352,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -72514,6 +73409,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -72570,6 +73466,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -72663,6 +73560,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -72717,6 +73615,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -72730,6 +73629,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "115-01-21"
      ],
@@ -72966,6 +73866,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -73093,6 +73994,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -73146,6 +74048,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -73199,6 +74102,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -73252,6 +74156,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -73305,6 +74210,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -73395,6 +74301,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -73448,6 +74355,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -73501,6 +74409,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -73554,6 +74463,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -73608,6 +74518,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -73621,6 +74532,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "115-01-21"
      ],
@@ -73747,6 +74659,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -73760,6 +74673,7 @@
     },
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -73812,6 +74726,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -74087,6 +75002,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "115-01-21"
      ],
@@ -74138,6 +75054,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -74191,6 +75108,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -74281,6 +75199,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -74335,6 +75254,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -74348,6 +75268,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "115-01-21"
      ],
@@ -74473,6 +75394,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -74599,6 +75521,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -74651,6 +75574,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -74703,6 +75627,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -74792,6 +75717,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -74844,6 +75770,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -74933,6 +75860,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -74986,6 +75914,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -75039,6 +75968,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -75092,6 +76022,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -75145,6 +76076,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -75198,6 +76130,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -75288,6 +76221,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -75379,6 +76313,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -75392,6 +76327,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "115-01-21"
      ],
@@ -75443,6 +76379,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -75496,6 +76433,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -75734,6 +76672,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -75824,6 +76763,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -75877,6 +76817,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -76004,6 +76945,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -76057,6 +76999,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -76147,6 +77090,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -76237,6 +77181,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -76290,6 +77235,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -76343,6 +77289,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -76433,6 +77380,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -76486,6 +77434,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -76576,6 +77525,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -76629,6 +77579,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -76719,6 +77670,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -76809,6 +77761,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -76899,6 +77852,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -76989,6 +77943,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -77042,6 +77997,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -77095,6 +78051,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -77185,6 +78142,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -77238,6 +78196,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "115-01-21"
      ],
@@ -77289,6 +78248,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -77342,6 +78302,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -77395,6 +78356,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -77522,6 +78484,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -77575,6 +78538,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -77628,6 +78592,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -77681,6 +78646,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -77771,6 +78737,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -77824,6 +78791,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -77877,6 +78845,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -77967,6 +78936,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -78020,6 +78990,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -78073,6 +79044,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -78126,6 +79098,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -78179,6 +79152,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -78232,6 +79206,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -78285,6 +79260,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -78338,6 +79314,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -78391,6 +79368,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -78444,6 +79422,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",
@@ -78497,6 +79476,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-08-01",
       "115-03-13",

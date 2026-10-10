@@ -884,6 +884,190 @@
     assertSame(PQPure.userStaleNotice(progress, 'q2'), null);
   });
 
+  /* ---------- 情境：法條速查 ---------- */
+
+  group('法條速查');
+
+  var LAW_LIST = [
+    { code: 'criminal-code', name: '中華民國刑法', category: '刑事法', articles: 422, modified: '115-07-22' },
+    { code: 'criminal-procedure', name: '刑事訴訟法', category: '刑事法', articles: 712, modified: '114-12-01' },
+    { code: 'police-power', name: '警察職權行使法', category: '警察法規', articles: 32, modified: '110-05-26' },
+    { code: 'social-order', name: '社會秩序維護法', category: '警察法規', articles: 94, modified: '114-06-11' }
+  ];
+
+  // 條號寫法照全國法規資料庫的實際格式（第 185-3 條）
+  var ARTICLES = [
+    { no: '第 184 條', text: '損壞軌道、燈塔、標識…' },
+    { no: '第 185 條', text: '損壞或壅塞陸路、水路、橋樑…' },
+    { no: '第 185-1 條', text: '以強暴、脅迫…劫持使用中之航空器…' },
+    { no: '第 185-3 條', text: '駕駛動力交通工具而有下列情形之一者，處三年以下有期徒刑…' },
+    { no: '第 186 條', text: '未受允准，而製造、販賣、運輸…' }
+  ];
+
+  test('條號整理成統一格式', function () {
+    assertSame(PQPure.normalizeArticleKey('第 185 條之 3'), '185-3');
+    assertSame(PQPure.normalizeArticleKey('第185條'), '185');
+    assertSame(PQPure.normalizeArticleKey('185-3'), '185-3');
+    assertSame(PQPure.normalizeArticleKey('185'), '185');
+    assertSame(PQPure.normalizeArticleKey('通訊監察'), null);
+  });
+
+  test('全形數字也認得', function () {
+    assertSame(PQPure.normalizeArticleKey('第１８５條之３'), '185-3');
+  });
+
+  test('認得全國法規資料庫的寫法「第 185-3 條」', function () {
+    // 真實資料用的就是這種寫法，使用者習慣打的是「第 185 條之 3」，兩種都要認
+    assertSame(PQPure.normalizeArticleKey('第 185-3 條'), '185-3');
+    assertSame(PQPure.normalizeArticleKey('第 37-1 條'), '37-1');
+    assertSame(PQPure.parseLawQuery('第 185-3 條').articleKey, '185-3');
+    assertSame(PQPure.parseLawQuery('刑法第 185-3 條').keyword, '刑法');
+  });
+
+  test('條號排版成法規資料庫的寫法', function () {
+    assertSame(PQPure.formatArticleKey('185-3'), '第 185-3 條');
+    assertSame(PQPure.formatArticleKey('185'), '第 185 條');
+    assertSame(PQPure.formatArticleKey(''), '');
+  });
+
+  test('「刑法 185-3」拆得出法規名與條號', function () {
+    var q = PQPure.parseLawQuery('刑法 185-3');
+    assertSame([q.articleKey, q.keyword], ['185-3', '刑法']);
+  });
+
+  test('「第 185 條」只拆出條號', function () {
+    var q = PQPure.parseLawQuery('第 185 條');
+    assertSame([q.articleKey, q.keyword], ['185', '']);
+  });
+
+  test('純關鍵字不會被誤認成條號', function () {
+    var q = PQPure.parseLawQuery('通訊監察');
+    assertSame([q.articleKey, q.keyword], [null, '通訊監察']);
+  });
+
+  test('空字串會被擋下來，不可以搜出全部', function () {
+    assertSame(PQPure.parseLawQuery('').empty, true);
+    assertSame(PQPure.parseLawQuery('   ').empty, true);
+    assertSame(PQPure.searchLawList(LAW_LIST, ''), []);
+    assertSame(PQPure.searchLawList(LAW_LIST, '   '), []);
+    assertSame(PQPure.searchArticles(ARTICLES, ''), []);
+    assertSame(PQPure.searchArticles(ARTICLES, '  '), []);
+  });
+
+  test('搜法規名稱找得到', function () {
+    assertSame(PQPure.searchLawList(LAW_LIST, '刑法').map(function (l) { return l.code; }),
+      ['criminal-code']);
+    assertSame(PQPure.searchLawList(LAW_LIST, '刑事').map(function (l) { return l.code; }),
+      ['criminal-code', 'criminal-procedure']);
+  });
+
+  test('搜分類也找得到', function () {
+    assertSame(PQPure.searchLawList(LAW_LIST, '警察法規').length, 2);
+  });
+
+  test('搜條號會把「之 N」一起帶出來', function () {
+    var hits = PQPure.searchArticles(ARTICLES, '185');
+    assertSame(hits.map(function (a) { return a.no; }),
+      ['第 185 條', '第 185-1 條', '第 185-3 條']);
+  });
+
+  test('搜「185-3」完全相符的排最前面', function () {
+    var hits = PQPure.searchArticles(ARTICLES, '185-3');
+    assertSame(hits[0].no, '第 185-3 條');
+  });
+
+  test('搜條文關鍵字找得到', function () {
+    var hits = PQPure.searchArticles(ARTICLES, '動力交通工具');
+    assertSame(hits.length, 1);
+    assertSame(hits[0].no, '第 185-3 條');
+  });
+
+  test('條號加關鍵字可以一起篩', function () {
+    assertSame(PQPure.searchArticles(ARTICLES, '185 航空器').length, 1);
+    assertSame(PQPure.searchArticles(ARTICLES, '185 不存在的詞').length, 0);
+  });
+
+  test('搜不到東西時回空陣列，不會爆掉', function () {
+    assertSame(PQPure.searchArticles(ARTICLES, '完全不存在的字串'), []);
+    assertSame(PQPure.searchArticles(null, '185'), []);
+    assertSame(PQPure.searchLawList(null, '刑法'), []);
+  });
+
+  test('搜尋結果有筆數上限', function () {
+    var many = [];
+    for (var i = 1; i <= 300; i += 1) many.push({ no: '第 ' + i + ' 條', text: '測試條文' });
+    assertSame(PQPure.searchArticles(many, '測試條文', 50).length, 50);
+  });
+
+  test('法規依分類分組，條文多的排前面', function () {
+    var groups = PQPure.groupLawsByCategory(LAW_LIST);
+    assertSame(groups.map(function (g) { return g.category; }), ['刑事法', '警察法規']);
+    assertSame(groups[0].laws.map(function (l) { return l.name; }), ['刑事訴訟法', '中華民國刑法']);
+  });
+
+  test('用法規名稱找得到代號（題目跳法條用）', function () {
+    assertSame(PQPure.findLawCode(LAW_LIST, '社會秩序維護法'), 'social-order');
+    assertSame(PQPure.findLawCode(LAW_LIST, '刑法'), 'criminal-code');
+    assertSame(PQPure.findLawCode(LAW_LIST, '不存在的法'), null);
+    assertSame(PQPure.findLawCode(LAW_LIST, ''), null);
+  });
+
+  test('法規清單讀得出 index.json 的「法規」區塊', function () {
+    var laws = PQPure.listLaws({
+      '法規': { 'criminal-code': { name: '中華民國刑法', category: '刑事法', articles: 422 } }
+    });
+    assertSame([laws.length, laws[0].code, laws[0].file], [1, 'criminal-code', 'criminal-code.json']);
+  });
+
+  /* ---------- 情境：題目命中的法規 ---------- */
+
+  group('題目命中的法規');
+
+  test('讀得出建置器實際產出的 detail 格式', function () {
+    var question = singleQuestion();
+    question.staleRisk = {
+      level: '中', laws: ['社會秩序維護法'],
+      detail: [{ law: '社會秩序維護法', modifiedAfter: ['110-05-26', '114-06-11'],
+        abandoned: false, matched: '名稱', changeCount: 2 }]
+    };
+    var refs = PQPure.staleLawRefs(question);
+    assertSame([refs.length, refs[0].law, refs[0].abandoned], [1, '社會秩序維護法', false]);
+    assert(PQPure.staleNotice(question).text.indexOf('修正過 2 次') !== -1,
+      '要講修正過幾次：' + PQPure.staleNotice(question).text);
+  });
+
+  test('只修正過一次就直接講日期', function () {
+    var question = singleQuestion();
+    question.staleRisk = { level: '中', detail: [{ law: '警察職權行使法', modifiedAfter: ['110-05-26'] }] };
+    assert(PQPure.staleNotice(question).text.indexOf('警察職權行使法在 110-05-26 修正過') !== -1,
+      '實際：' + PQPure.staleNotice(question).text);
+  });
+
+  test('法規已廢止要特別講清楚', function () {
+    var question = singleQuestion();
+    question.staleRisk = {
+      level: '高', detail: [{ law: '檢肅流氓條例', abandoned: true, modifiedAfter: [] }]
+    };
+    var notice = PQPure.staleNotice(question);
+    assert(notice.abandoned === true, '要標成已廢止');
+    assert(notice.text.indexOf('已經廢止') !== -1 && notice.text.indexOf('不能用') !== -1,
+      '要講得夠白：' + notice.text);
+  });
+
+  test('有 lawCode 時直接用，沒有才用名稱去對', function () {
+    var question = singleQuestion();
+    question.staleRisk = { level: '中', detail: [{ law: '中華民國刑法', lawCode: 'criminal-code' }] };
+    assertSame(PQPure.staleLawRefs(question)[0].lawCode, 'criminal-code');
+    question.staleRisk = { level: '中', detail: [{ law: '中華民國刑法' }] };
+    assertSame(PQPure.staleLawRefs(question)[0].lawCode, null);
+    assertSame(PQPure.findLawCode(LAW_LIST, '中華民國刑法'), 'criminal-code');
+  });
+
+  test('沒有命中法規時回空陣列', function () {
+    assertSame(PQPure.staleLawRefs(singleQuestion()), []);
+    assertSame(PQPure.staleLawRefs(null), []);
+  });
+
   /* ---------- 情境十：錯誤訊息（不可以出現英文原文） ---------- */
 
   group('錯誤訊息');

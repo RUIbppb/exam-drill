@@ -75,6 +75,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -119,6 +120,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -161,6 +163,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -315,6 +318,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -386,6 +390,7 @@
    "detail": [
     {
      "law": "毒品危害防制條例",
+     "lawCode": "narcotics-control-act",
      "modifiedAfter": [
       "104-02-04",
       "105-06-22",
@@ -401,6 +406,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -555,6 +561,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -787,6 +794,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "109-06-10",
       "113-01-03"
@@ -991,6 +999,7 @@
    "detail": [
     {
      "law": "家庭暴力防治法",
+     "lawCode": "domestic-violence-act",
      "modifiedAfter": [
       "110-01-27",
       "112-12-06"
@@ -1060,6 +1069,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -1128,6 +1138,7 @@
    "detail": [
     {
      "law": "家庭暴力防治法",
+     "lawCode": "domestic-violence-act",
      "modifiedAfter": [
       "112-12-06"
      ],
@@ -1331,6 +1342,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -1426,6 +1438,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "115-01-21"
      ],

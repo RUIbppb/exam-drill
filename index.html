@@ -104,6 +104,7 @@
     <div class="card">
       <p class="card-title">其他</p>
       <div class="link-row">
+        <button type="button" class="btn-text" id="laws-btn">法條速查</button>
         <button type="button" class="btn-text" id="settings-btn">設定</button>
         <a href="./使用說明.html">使用說明</a>
         <a href="./self-test.html">自我檢查</a>
@@ -319,6 +320,51 @@
     </div>
   </section>
 
+  <!-- ===== 畫面十：法條速查 ===== -->
+  <section id="screen-laws" class="screen hidden">
+
+    <div class="card">
+      <p class="card-title">法條速查</p>
+      <div class="field">
+        <label for="law-search">搜尋法規、條號或條文關鍵字</label>
+        <input type="search" id="law-search" placeholder="例如：刑法 185-3、第 185 條、通訊監察"
+               autocomplete="off" enterkeyhint="search">
+      </div>
+      <p class="small" id="law-search-info">可以打法規名稱、條號（185-3）或條文裡的字。</p>
+      <div id="law-search-result"></div>
+      <button type="button" class="btn-secondary" id="law-back-btn">回首頁</button>
+    </div>
+
+    <div class="card" id="law-catalog-card">
+      <p class="card-title">全部法規</p>
+      <div id="law-catalog"></div>
+      <hr class="divider">
+      <p class="small" id="law-source"></p>
+    </div>
+
+    <div class="card hidden" id="law-detail-card">
+      <div class="law-head">
+        <p class="law-name" id="law-name"></p>
+        <p class="small" id="law-meta"></p>
+      </div>
+      <div id="law-amendments"></div>
+
+      <div class="field" style="margin-top:0.9rem;">
+        <label for="law-article-search">在這部法規裡找條文</label>
+        <input type="search" id="law-article-search" placeholder="例如：185-3 或 不能安全駕駛"
+               autocomplete="off" enterkeyhint="search">
+      </div>
+      <p class="small" id="law-article-info"></p>
+
+      <div id="law-articles"></div>
+      <button type="button" class="btn-secondary" id="law-more-btn">再顯示更多條文</button>
+      <hr class="divider">
+      <p class="small"><a id="law-official-link" href="#" target="_blank" rel="noopener noreferrer">在全國法規資料庫看這部法規</a></p>
+      <button type="button" class="btn-secondary" id="law-list-btn">回法規清單</button>
+    </div>
+
+  </section>
+
   <!-- ===== 畫面九：設定 ===== -->
   <section id="screen-settings" class="screen hidden">
 
@@ -451,5 +497,6 @@
 <script src="./js/app.js"></script>
 <script src="./js/exam.js"></script>
 <script src="./js/essay.js"></script>
+<script src="./js/laws.js"></script>
 </body>
 </html>

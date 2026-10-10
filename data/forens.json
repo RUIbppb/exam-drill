@@ -865,6 +865,7 @@
    "detail": [
     {
      "law": "毒品危害防制條例",
+     "lawCode": "narcotics-control-act",
      "modifiedAfter": [
       "104-02-04",
       "105-06-22",
@@ -1339,6 +1340,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "106-06-14",
       "109-06-10",
@@ -1697,6 +1699,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "104-12-30",
       "112-05-31",
@@ -1943,6 +1946,7 @@
    "detail": [
     {
      "law": "毒品危害防制條例",
+     "lawCode": "narcotics-control-act",
      "modifiedAfter": [
       "104-02-04",
       "105-06-22",
@@ -2645,6 +2649,7 @@
    "detail": [
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "104-12-23",
       "112-02-15"
@@ -2888,6 +2893,7 @@
    "detail": [
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "104-12-23",
       "112-02-15"
@@ -3701,6 +3707,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -4095,6 +4102,7 @@
    "detail": [
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "104-12-23",
       "112-02-15"
@@ -4262,6 +4270,7 @@
    "detail": [
     {
      "law": "毒品危害防制條例",
+     "lawCode": "narcotics-control-act",
      "modifiedAfter": [
       "105-06-22",
       "106-06-14",
@@ -5145,6 +5154,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "112-05-31",
       "114-11-11"
@@ -5271,6 +5281,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -5438,6 +5449,7 @@
    "detail": [
     {
      "law": "毒品危害防制條例",
+     "lawCode": "narcotics-control-act",
      "modifiedAfter": [
       "105-06-22",
       "106-06-14",
@@ -11053,6 +11065,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -12550,6 +12563,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"

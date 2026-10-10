@@ -40,8 +40,10 @@ var SHELL_FILES = [
   './js/app.js',
   './js/exam.js',
   './js/essay.js',
+  './js/laws.js',
   './manifest.json',
   './data/index.json',
+  './data/laws/index.json',
   './使用說明.html',
   './self-test.html',
   './icons/icon-192.png',
@@ -182,7 +184,9 @@ self.addEventListener('fetch', function (event) {
   if (url.searchParams && url.searchParams.has('pq-ping')) return;
 
   // 題庫索引（index.json）要先問網路，不然永遠不知道有新題庫
-  var isBankIndex = /\/data\/index\.json$/.test(url.pathname);
+  // 這裡要同時涵蓋 data/index.json 與 data/laws/index.json，
+  // 不然法規清單會被當成一般資料檔「先拿快取」，新版法規就永遠進不來。
+  var isBankIndex = /\/data\/(?:[^/]+\/)?index\.json$/.test(url.pathname);
   var isBankFile = /\/data\/.+\.json$/.test(url.pathname) && !isBankIndex;
 
   if (isBankFile) {

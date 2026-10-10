@@ -929,3 +929,128 @@ input:focus-visible {
 .dialog-body p:last-child {
   margin-bottom: 0;
 }
+
+/* ===================================================================
+ * 法條速查
+ * =================================================================== */
+
+input[type="search"] {
+  width: 100%;
+  min-height: 48px;
+  padding: 0.5rem 0.8rem;
+  font-size: 1rem;
+  color: var(--text);
+  background: var(--card);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.law-category {
+  margin: 1.1rem 0 0.5rem;
+  font-size: 0.86rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--text-sub);
+}
+
+.law-category:first-child {
+  margin-top: 0;
+}
+
+/* 一部法規一列，整列都可以點 */
+.law-row {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.1rem;
+  width: 100%;
+  min-height: 52px;
+  padding: 0.6rem 0.9rem;
+  margin-bottom: 0.45rem;
+  text-align: left;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.law-row-name {
+  font-size: 0.96rem;
+  font-weight: 600;
+}
+
+.law-row-meta {
+  font-size: 0.8rem;
+  color: var(--text-sub);
+}
+
+.law-head {
+  margin-bottom: 0.7rem;
+}
+
+.law-name {
+  margin: 0 0 0.2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.amend-title {
+  font-weight: 600;
+}
+
+/* 條文：原樣保留全形空格的縮排與換行，不要壓成一行 */
+.article {
+  padding: 0.8rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.article:last-child {
+  border-bottom: 0;
+}
+
+.article-no {
+  margin: 0 0 0.3rem;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.article-text {
+  margin: 0;
+  font-size: 0.96rem;
+  line-height: 1.95;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* 作答後的「查看相關法條」 */
+.law-link-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.7rem;
+  padding-top: 0.6rem;
+  border-top: 1px dashed var(--border);
+}
+
+.law-link-label {
+  font-size: 0.86rem;
+  color: var(--text-sub);
+}
+
+.law-link {
+  min-height: 40px;
+  padding: 0.3rem 0.7rem;
+  font-size: 0.86rem;
+  color: var(--accent);
+  background: var(--card);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+}
+
+.law-link-plain {
+  font-size: 0.86rem;
+  color: var(--text-sub);
+}

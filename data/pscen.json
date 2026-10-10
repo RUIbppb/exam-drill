@@ -33,6 +33,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -92,6 +93,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -144,6 +146,7 @@
    "detail": [
     {
      "law": "家庭暴力防治法",
+     "lawCode": "domestic-violence-act",
      "modifiedAfter": [
       "104-02-04",
       "110-01-27",
@@ -312,6 +315,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -364,6 +368,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -723,6 +728,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -739,6 +745,7 @@
     },
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "100-11-23",
       "106-06-14",
@@ -753,6 +760,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -769,6 +777,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -821,6 +830,7 @@
    "detail": [
     {
      "law": "公務人員行政中立法",
+     "lawCode": "civil-servant-neutrality-act",
      "modifiedAfter": [
       "103-11-26"
      ],
@@ -873,6 +883,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -963,6 +974,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -1015,6 +1027,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -1190,6 +1203,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -1206,6 +1220,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -1222,6 +1237,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -1312,6 +1328,7 @@
    "detail": [
     {
      "law": "通訊保障及監察法",
+     "lawCode": "communication-protection-act",
      "modifiedAfter": [
       "103-01-29",
       "105-04-13",
@@ -1446,6 +1463,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -1462,6 +1480,7 @@
     },
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -1901,6 +1920,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -2113,6 +2133,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -2129,6 +2150,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -3169,6 +3191,7 @@
    "detail": [
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "104-12-23",
       "112-02-15"
@@ -3223,6 +3246,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -3239,6 +3263,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -3334,6 +3359,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -3387,6 +3413,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -3403,6 +3430,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -3455,6 +3483,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -3507,6 +3536,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -3602,6 +3632,7 @@
    "detail": [
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "104-12-23",
       "112-02-15"
@@ -3693,6 +3724,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -3821,6 +3853,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -3955,6 +3988,7 @@
    "detail": [
     {
      "law": "洗錢防制法",
+     "lawCode": "money-laundering-act",
      "modifiedAfter": [
       "105-04-13",
       "105-12-28",
@@ -3972,6 +4006,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -4142,6 +4177,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -4153,6 +4189,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -4395,6 +4432,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -4595,6 +4633,7 @@
    "detail": [
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "112-02-15"
      ],
@@ -4646,6 +4685,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -4697,6 +4737,7 @@
    "detail": [
     {
      "law": "家庭暴力防治法",
+     "lawCode": "domestic-violence-act",
      "modifiedAfter": [
       "110-01-27",
       "112-12-06"
@@ -4751,6 +4792,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -4767,6 +4809,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -4781,6 +4824,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -4832,6 +4876,7 @@
    "detail": [
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "112-02-15"
      ],
@@ -4921,6 +4966,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -4937,6 +4983,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -5250,6 +5297,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -5301,6 +5349,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -5498,6 +5547,7 @@
    "detail": [
     {
      "law": "毒品危害防制條例",
+     "lawCode": "narcotics-control-act",
      "modifiedAfter": [
       "106-06-14",
       "109-01-15",
@@ -5589,6 +5639,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -5605,6 +5656,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -6214,6 +6266,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -6379,6 +6432,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -6433,6 +6487,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -6714,6 +6769,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -6771,6 +6827,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -6787,6 +6844,7 @@
     },
     {
      "law": "通訊保障及監察法",
+     "lawCode": "communication-protection-act",
      "modifiedAfter": [
       "113-07-31"
      ],
@@ -6949,6 +7007,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -7037,6 +7096,7 @@
    "detail": [
     {
      "law": "家庭暴力防治法",
+     "lawCode": "domestic-violence-act",
      "modifiedAfter": [
       "110-01-27",
       "112-12-06"
@@ -7089,6 +7149,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -7145,6 +7206,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -7421,6 +7483,7 @@
    "detail": [
     {
      "law": "毒品危害防制條例",
+     "lawCode": "narcotics-control-act",
      "modifiedAfter": [
       "109-01-15",
       "111-05-04"
@@ -7547,6 +7610,7 @@
    "detail": [
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "112-02-15"
      ],
@@ -7783,6 +7847,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -7837,6 +7902,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "名稱",
@@ -7846,6 +7912,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -7859,6 +7926,7 @@
     },
     {
      "law": "組織犯罪防制條例",
+     "lawCode": "organized-crime-act",
      "modifiedAfter": [
       "112-05-24"
      ],
@@ -7870,6 +7938,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -7995,6 +8064,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -8123,6 +8193,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -8139,6 +8210,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -8193,6 +8265,7 @@
    "detail": [
     {
      "law": "家庭暴力防治法",
+     "lawCode": "domestic-violence-act",
      "modifiedAfter": [
       "110-01-27",
       "112-12-06"
@@ -8205,6 +8278,7 @@
     },
     {
      "law": "跟蹤騷擾防制法",
+     "lawCode": "stalking-harassment-act",
      "modifiedAfter": [
       "110-12-01"
      ],
@@ -8293,6 +8367,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -8344,6 +8419,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -8628,6 +8704,7 @@
    "detail": [
     {
      "law": "家庭暴力防治法",
+     "lawCode": "domestic-violence-act",
      "modifiedAfter": [
       "110-01-27",
       "112-12-06"
@@ -9012,6 +9089,7 @@
    "detail": [
     {
      "law": "家庭暴力防治法",
+     "lawCode": "domestic-violence-act",
      "modifiedAfter": [
       "112-12-06"
      ],
@@ -9023,6 +9101,7 @@
     },
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "112-02-15"
      ],
@@ -9074,6 +9153,7 @@
    "detail": [
     {
      "law": "家庭暴力防治法",
+     "lawCode": "domestic-violence-act",
      "modifiedAfter": [
       "112-12-06"
      ],
@@ -9236,6 +9316,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -9586,6 +9667,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -9716,6 +9798,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -9732,6 +9815,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -9743,6 +9827,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -9834,6 +9919,7 @@
    "detail": [
     {
      "law": "家庭暴力防治法",
+     "lawCode": "domestic-violence-act",
      "modifiedAfter": [
       "112-12-06"
      ],
@@ -9960,6 +10046,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -9976,6 +10063,7 @@
     },
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -10143,6 +10231,7 @@
    "detail": [
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "112-02-15"
      ],
@@ -10305,6 +10394,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "112-05-31",
       "114-11-11"
@@ -10357,6 +10447,7 @@
    "detail": [
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "112-02-15"
      ],
@@ -10408,6 +10499,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -10575,6 +10667,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -10668,6 +10761,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -10719,6 +10813,7 @@
    "detail": [
     {
      "law": "家庭暴力防治法",
+     "lawCode": "domestic-violence-act",
      "modifiedAfter": [
       "112-12-06"
      ],
@@ -10771,6 +10866,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -10787,6 +10883,7 @@
     },
     {
      "law": "家庭暴力防治法",
+     "lawCode": "domestic-violence-act",
      "modifiedAfter": [
       "112-12-06"
      ],
@@ -10836,6 +10933,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "113-01-03"
      ],
@@ -10887,6 +10985,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "114-11-11"
      ],
@@ -10976,6 +11075,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -10992,6 +11092,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -11046,6 +11147,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -11097,6 +11199,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -11301,6 +11404,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -11431,6 +11535,7 @@
    "detail": [
     {
      "law": "通訊保障及監察法",
+     "lawCode": "communication-protection-act",
      "modifiedAfter": [
       "113-07-31"
      ],
@@ -11519,6 +11624,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -11762,6 +11868,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -11892,6 +11999,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -11945,6 +12053,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "113-07-31",
       "114-11-11",
@@ -12187,6 +12296,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "114-11-11"
      ],
@@ -12238,6 +12348,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -12326,6 +12437,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -12415,6 +12527,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -12689,6 +12802,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "115-01-21"
      ],
@@ -12777,6 +12891,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -12828,6 +12943,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "115-01-21"
      ],

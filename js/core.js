@@ -408,6 +408,220 @@ var PQPure = (function () {
   }
 
   // ============================================================
+  // 法條速查
+  // ============================================================
+
+  /** 全形數字轉半形，順便去掉空白（使用者可能用注音輸入法打出全形數字） */
+  function toHalfWidthDigits(text) {
+    return String(text === null || text === undefined ? '' : text)
+      .replace(/[０-９]/g, function (ch) {
+        return String.fromCharCode(ch.charCodeAt(0) - 0xFEE0);
+      });
+  }
+
+  /**
+   * 把條號整理成統一的鍵，方便比對。
+   *   「第 185 條之 3」→「185-3」　「第1條」→「1」　「185-3」→「185-3」
+   * @returns {string|null} 看不出是條號就回 null
+   */
+  function normalizeArticleKey(text) {
+    var clean = toHalfWidthDigits(text).replace(/\s+/g, '');
+    if (!clean) return null;
+
+    /*
+     * 全國法規資料庫的條號寫法是「第 185-3 條」，
+     * 但使用者習慣打「第 185 條之 3」或「185-3」，兩種都要認得。
+     */
+    var dashInside = clean.match(/第(\d+)[-－](\d+)條/);
+    if (dashInside) return dashInside[1] + '-' + dashInside[2];
+
+    var formal = clean.match(/第(\d+)條(?:之(\d+))?/);
+    if (formal) return formal[2] ? (formal[1] + '-' + formal[2]) : formal[1];
+
+    var dashed = clean.match(/^(\d+)[-－之](\d+)$/);
+    if (dashed) return dashed[1] + '-' + dashed[2];
+
+    var bare = clean.match(/^(\d+)$/);
+    if (bare) return bare[1];
+
+    return null;
+  }
+
+  /** 把條號鍵排版成法規資料庫的寫法：'185-3' → 「第 185-3 條」 */
+  function formatArticleKey(key) {
+    var text = String(key || '').trim();
+    return text ? ('第 ' + text + ' 條') : '';
+  }
+
+  /**
+   * 拆解使用者打的搜尋字串。
+   * 例如「刑法 185-3」→ 條號 185-3、關鍵字「刑法」
+   *     「第 185 條」→ 條號 185
+   *     「通訊監察」→ 關鍵字「通訊監察」
+   * @returns {{raw, articleKey, keyword, empty}}
+   */
+  function parseLawQuery(text) {
+    var raw = String(text === null || text === undefined ? '' : text).trim();
+    if (!raw) return { raw: '', articleKey: null, keyword: '', empty: true };
+
+    var working = toHalfWidthDigits(raw);
+    var articleKey = null;
+
+    // 1a. 法規資料庫的寫法「第 185-3 條」
+    var dashInside = working.match(/第\s*(\d+)\s*[-－]\s*(\d+)\s*條/);
+    if (dashInside) {
+      articleKey = dashInside[1] + '-' + dashInside[2];
+      working = working.replace(dashInside[0], ' ');
+    }
+
+    // 1b. 使用者習慣的寫法「第 185 條之 3」
+    var formal = !articleKey && working.match(/第\s*(\d+)\s*條(?:\s*之\s*(\d+))?/);
+    if (formal) {
+      articleKey = formal[2] ? (formal[1] + '-' + formal[2]) : formal[1];
+      working = working.replace(formal[0], ' ');
+    } else if (!articleKey) {
+      // 2. 再找「185-3」這種簡寫（前後要是空白或字串邊界，免得把年份切壞）
+      var dashed = working.match(/(^|\s)(\d+)\s*[-－]\s*(\d+)(\s|$)/);
+      if (dashed) {
+        articleKey = dashed[2] + '-' + dashed[3];
+        working = working.replace(dashed[0], ' ');
+      } else {
+        // 3. 最後才看單獨的數字
+        var bare = working.match(/(^|\s)(\d+)(\s|$)/);
+        if (bare) {
+          articleKey = bare[2];
+          working = working.replace(bare[0], ' ');
+        }
+      }
+    }
+
+    return {
+      raw: raw,
+      articleKey: articleKey,
+      keyword: working.replace(/\s+/g, ' ').trim(),
+      empty: false
+    };
+  }
+
+  /** 法規清單整理成陣列（index.json 的「法規」區塊） */
+  function listLaws(lawIndex) {
+    var table = (lawIndex && (lawIndex['法規'] || lawIndex.laws)) || {};
+    return Object.keys(table).map(function (code) {
+      var item = table[code] || {};
+      return {
+        code: code,
+        name: item.name || code,
+        file: item.file || (code + '.json'),
+        category: item.category || '其他',
+        articles: Number(item.articles) || 0,
+        modified: item.modified || '',
+        url: item.url || ''
+      };
+    });
+  }
+
+  /**
+   * 依分類分組（畫面上一類一區）。
+   * @param {Array} laws 法規清單
+   * @param {Array} categoryOrder 索引裡的「分類順序」，有給就照它排，沒給就照出現順序
+   */
+  function groupLawsByCategory(laws, categoryOrder) {
+    var order = [];
+    var groups = {};
+    (Array.isArray(laws) ? laws : []).forEach(function (law) {
+      var key = law.category || '其他';
+      if (!groups[key]) { groups[key] = []; order.push(key); }
+      groups[key].push(law);
+    });
+
+    if (Array.isArray(categoryOrder) && categoryOrder.length > 0) {
+      var wanted = categoryOrder.filter(function (name) { return groups[name]; });
+      order.forEach(function (name) {
+        if (wanted.indexOf(name) === -1) wanted.push(name);   // 索引沒列到的排最後
+      });
+      order = wanted;
+    }
+
+    return order.map(function (name) {
+      return {
+        category: name,
+        laws: groups[name].slice().sort(function (a, b) { return b.articles - a.articles; })
+      };
+    });
+  }
+
+  /**
+   * 搜尋法規清單（只找法規名稱與分類，很便宜，可以邊打邊找）。
+   * 空字串一律回空陣列——不可以讓「什麼都沒打」變成「列出全部」。
+   */
+  function searchLawList(laws, query) {
+    var parsed = typeof query === 'string' ? parseLawQuery(query) : (query || {});
+    var keyword = (parsed.keyword || '').trim();
+    if (!keyword) return [];
+    return (Array.isArray(laws) ? laws : []).filter(function (law) {
+      return String(law.name).indexOf(keyword) !== -1 ||
+        String(law.category).indexOf(keyword) !== -1;
+    });
+  }
+
+  /**
+   * 在一部法規裡面找條文。
+   *   有條號 → 先給完全相同的，再給同一條的「之 N」
+   *   有關鍵字 → 條文內容或條號含關鍵字
+   *   兩個都有 → 先用條號篩，再用關鍵字篩
+   * @returns {Array} 命中的條文（已排序，完全相符的排最前面）
+   */
+  function searchArticles(articles, query, limit) {
+    var list = Array.isArray(articles) ? articles : [];
+    var parsed = typeof query === 'string' ? parseLawQuery(query) : (query || {});
+    if (parsed.empty || (!parsed.articleKey && !parsed.keyword)) return [];
+
+    var max = Number(limit) > 0 ? Number(limit) : 200;
+    var keyword = parsed.keyword || '';
+    var key = parsed.articleKey;
+    var exact = [];
+    var related = [];
+
+    list.forEach(function (article) {
+      if (!article) return;
+      var text = String(article.text || '');
+      var hitKeyword = !keyword ||
+        text.indexOf(keyword) !== -1 || String(article.no || '').indexOf(keyword) !== -1;
+      if (!hitKeyword) return;
+
+      if (!key) { related.push(article); return; }
+
+      var articleKey = normalizeArticleKey(article.no);
+      if (articleKey === key) {
+        exact.push(article);
+      } else if (articleKey && articleKey.split('-')[0] === key.split('-')[0]) {
+        related.push(article);        // 同一條的「之 1」「之 2」也一起帶出來
+      }
+    });
+
+    return exact.concat(related).slice(0, max);
+  }
+
+  /**
+   * 用法規名稱找代號（題目跳到法條用）。
+   * 建置器還沒附 lawCode 時，靠名稱對一樣找得到。
+   */
+  function findLawCode(laws, lawName) {
+    var name = String(lawName || '').trim();
+    if (!name) return null;
+    var list = Array.isArray(laws) ? laws : [];
+
+    var exact = list.filter(function (law) { return law.name === name; })[0];
+    if (exact) return exact.code;
+
+    // 名稱略有出入時（例如「刑法」對「中華民國刑法」）用包含關係找，取最短的那個
+    var loose = list.filter(function (law) {
+      return String(law.name).indexOf(name) !== -1 || name.indexOf(String(law.name)) !== -1;
+    }).sort(function (a, b) { return String(a.name).length - String(b.name).length; });
+    return loose.length ? loose[0].code : null;
+  }
+
+  // ============================================================
   // AI 詳解的提示詞與錯誤訊息
   // ============================================================
 
@@ -1048,31 +1262,88 @@ var PQPure = (function () {
      * 接不到就退回只列法規名稱，再接不到就退回一般提示，不會因為格式變動就壞掉。
      */
     var pieces = [];
+    var abandonedLaws = [];
     var detail = risk.detail || risk.details || risk.hits;
+
     if (Array.isArray(detail)) {
       detail.forEach(function (item) {
         if (!item) return;
         if (typeof item === 'string') { pieces.push(item); return; }
         var law = item.law || item.name || item['法規'] || item.title;
-        var when = item.amendedAt || item.amendedOn || item.revisedAt || item.revisedDate ||
-          item.date || item['修正日期'] || item.year || item['修正年'];
         if (!law) return;
-        if (!when) { pieces.push(String(law)); return; }
-        // 中文排版：數字結尾要補半形空格，「113 年」這種已經是中文結尾就不用
-        var whenText = String(when);
-        var tail = /[0-9A-Za-z]$/.test(whenText) ? ' ' : '';
-        pieces.push(law + '在 ' + whenText + tail + '修正過');
+
+        // 法規已經廢止：這題的答案幾乎一定不能用了，要單獨講
+        if (item.abandoned === true) {
+          abandonedLaws.push(String(law));
+          return;
+        }
+
+        // 出題之後修正過的日期（建置器給的是清單，可能好幾次）
+        var dates = Array.isArray(item.modifiedAfter) ? item.modifiedAfter.filter(Boolean) : [];
+        var count = Number(item.changeCount) || dates.length;
+        var single = item.amendedAt || item.amendedOn || item.revisedAt || item.revisedDate ||
+          item.date || item['修正日期'] || item.year || item['修正年'];
+
+        if (dates.length > 1) {
+          pieces.push(law + '在出題後修正過 ' + count + ' 次（最近 ' + dates[dates.length - 1] + '）');
+        } else if (dates.length === 1) {
+          pieces.push(law + '在 ' + dates[0] + ' 修正過');
+        } else if (single) {
+          // 中文排版：數字結尾要補半形空格，「113 年」這種已經是中文結尾就不用
+          var whenText = String(single);
+          var tail = /[0-9A-Za-z]$/.test(whenText) ? ' ' : '';
+          pieces.push(law + '在 ' + whenText + tail + '修正過');
+        } else {
+          pieces.push(String(law));
+        }
       });
     }
-    if (pieces.length === 0) {
+    if (pieces.length === 0 && abandonedLaws.length === 0) {
       var laws = Array.isArray(risk.laws) ? risk.laws.filter(Boolean) : [];
       laws.forEach(function (law) { pieces.push(String(law)); });
     }
 
-    var text = pieces.length > 0
-      ? ('這題涉及的' + pieces.join('、') + '，答案僅供參考')
-      : '這題涉及的法規已修正，答案僅供參考';
-    return { level: risk.level, text: text };
+    var text;
+    if (abandonedLaws.length > 0) {
+      text = '這題依據的' + abandonedLaws.join('、') + '已經廢止，這題的答案已經不能用了';
+      if (pieces.length > 0) text += '；另外' + pieces.join('、');
+    } else if (pieces.length > 0) {
+      text = '這題涉及的' + pieces.join('、') + '，答案僅供參考';
+    } else {
+      text = '這題涉及的法規已修正，答案僅供參考';
+    }
+    return { level: risk.level, text: text, abandoned: abandonedLaws.length > 0 };
+  }
+
+  /**
+   * 把一題命中的法規整理出來，給「查看相關法條」用。
+   * 建置器之後會補 lawCode；在那之前用法規名稱去法規清單裡對，一樣找得到。
+   * @returns {Array} [{ law, lawCode, abandoned, modifiedAfter, matched }]
+   */
+  function staleLawRefs(question) {
+    var risk = (question && question.staleRisk) || {};
+    var detail = risk.detail || risk.details || risk.hits;
+    var refs = [];
+
+    if (Array.isArray(detail)) {
+      detail.forEach(function (item) {
+        if (!item) return;
+        if (typeof item === 'string') { refs.push({ law: item }); return; }
+        var law = item.law || item.name || item['法規'] || item.title;
+        if (!law) return;
+        refs.push({
+          law: String(law),
+          lawCode: item.lawCode || item.code || null,
+          abandoned: item.abandoned === true,
+          modifiedAfter: Array.isArray(item.modifiedAfter) ? item.modifiedAfter : [],
+          matched: item.matched || null
+        });
+      });
+    }
+    if (refs.length === 0 && Array.isArray(risk.laws)) {
+      risk.laws.filter(Boolean).forEach(function (law) { refs.push({ law: String(law) }); });
+    }
+    return refs;
   }
 
   /**
@@ -1140,7 +1411,19 @@ var PQPure = (function () {
     summarizeSession: summarizeSession,
     summarizeProgress: summarizeProgress,
     staleNotice: staleNotice,
+    staleLawRefs: staleLawRefs,
     oldQuestionNotice: oldQuestionNotice,
+
+    // 法條速查
+    normalizeArticleKey: normalizeArticleKey,
+    formatArticleKey: formatArticleKey,
+    parseLawQuery: parseLawQuery,
+    listLaws: listLaws,
+    groupLawsByCategory: groupLawsByCategory,
+    searchLawList: searchLawList,
+    searchArticles: searchArticles,
+    findLawCode: findLawCode,
+
     userStaleNotice: userStaleNotice,
     mappingNotice: mappingNotice,
     revisionNotice: revisionNotice,

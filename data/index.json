@@ -1,9 +1,15 @@
 {
- "version": "build-0c3b2b1c080d",
+ "version": "build-253b01f487bf",
  "maker": "製作人Rui",
  "note": "由 建置/建置題庫.py 產生，請勿手動修改",
  "lawDataSource": "法條時效判定之法規沿革資料來源：全國法規資料庫（法務部） https://law.moj.gov.tw/",
  "lawDataUpdatedAt": "2026/10/2 上午 12:00:00",
+ "laws": {
+  "file": "laws/index.json",
+  "count": 41,
+  "articles": 3348,
+  "version": "laws-43cf9b4a1c9c"
+ },
  "subjects": {
   "clawp": {
    "name": "刑法及刑事訴訟法",
@@ -29,7 +35,7 @@
   "consteng": {
    "name": "中華民國憲法與警察專業英文",
    "file": "consteng.json",
-   "count": 1397,
+   "count": 1430,
    "years": [
     95,
     96,

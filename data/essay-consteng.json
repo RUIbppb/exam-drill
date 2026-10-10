@@ -489,6 +489,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "112-05-31",
       "114-11-11"
@@ -501,6 +502,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -707,6 +709,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"

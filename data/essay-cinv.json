@@ -20,6 +20,7 @@
    "detail": [
     {
      "law": "組織犯罪防制條例",
+     "lawCode": "organized-crime-act",
      "modifiedAfter": [
       "105-07-20",
       "106-04-19",
@@ -34,6 +35,7 @@
     },
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -247,6 +249,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -345,6 +348,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -389,6 +393,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -518,6 +523,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -564,6 +570,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -637,6 +644,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -683,6 +691,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"

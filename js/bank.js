@@ -469,6 +469,79 @@ var PQBank = (function () {
     });
   }
 
+  /* ---------- 法條速查 ---------- */
+
+  var LAW_DIR = './data/laws/';
+  var lawIndexCache = null;
+  var lawCache = {};
+
+  /**
+   * 載入法規清單。
+   * 格式見 docs/題庫格式.md：最外層有「說明」「資料來源」「版本」「法規」四個鍵。
+   * 法規資料是另外建置的，版本號也獨立，所以不跟題庫共用版本。
+   */
+  function loadLawIndex() {
+    if (lawIndexCache) return Promise.resolve(lawIndexCache);
+    return fetchJson(LAW_DIR + 'index.json', '法規清單').then(function (data) {
+      var table = data && (data['法規'] || data.laws);
+      if (!table || typeof table !== 'object' || Object.keys(table).length === 0) {
+        logDetail('法規清單缺少「法規」區塊', data);
+        throw makeUserError('broken', '法規清單', '缺少法規區塊');
+      }
+      lawIndexCache = data;
+      return lawIndexCache;
+    });
+  }
+
+  /** 某一部法規的網址（帶版本號，版本一變才重抓） */
+  function lawUrl(lawIndex, entry) {
+    var version = (lawIndex && (lawIndex['版本'] || lawIndex.version)) || '0';
+    return LAW_DIR + entry.file + '?v=' + encodeURIComponent(version);
+  }
+
+  /** 法規清單整理成陣列（含資料來源資訊，畫面要標示出處） */
+  function lawCatalog() {
+    return loadLawIndex().then(function (index) {
+      return {
+        laws: PQPure.listLaws(index),
+        source: index['資料來源'] || index.source || '全國法規資料庫（法務部）',
+        officialUpdatedAt: index['官方更新日期'] || index.officialUpdatedAt || '',
+        categoryOrder: index['分類順序'] || index.categoryOrder || null,
+        note: index['說明'] || index.note || '',
+        version: index['版本'] || index.version || ''
+      };
+    });
+  }
+
+  /** 載入一部法規的全部條文 */
+  function loadLaw(code) {
+    if (lawCache[code]) return Promise.resolve(lawCache[code]);
+    return loadLawIndex().then(function (index) {
+      var entry = PQPure.listLaws(index).filter(function (law) { return law.code === code; })[0];
+      if (!entry) {
+        throw makeUserError('broken', '法規清單', '找不到法規 ' + code);
+      }
+      return fetchJson(lawUrl(index, entry), '「' + entry.name + '」的條文').then(function (data) {
+        var articles = (data && Array.isArray(data.articles)) ? data.articles : [];
+        if (articles.length === 0) {
+          throw makeUserError('broken', '「' + entry.name + '」的條文', '沒有條文');
+        }
+        var result = {
+          code: code,
+          name: data.name || entry.name,
+          category: entry.category,
+          modified: data.modified || entry.modified || '',
+          abandoned: data.abandoned === true,
+          url: data.url || entry.url || '',
+          recentAmendments: Array.isArray(data.recentAmendments) ? data.recentAmendments : [],
+          articles: articles
+        };
+        lawCache[code] = result;
+        return result;
+      });
+    });
+  }
+
   /* ---------- 離線準備 ---------- */
 
   /** 等 service worker 接管這個頁面（第一次開啟時要等它裝好才接管） */
@@ -509,16 +582,31 @@ var PQBank = (function () {
     return loadIndex().then(function (index) {
       var codes = Object.keys(index.subjects);
       if (!window.caches || !('serviceWorker' in navigator)) {
-        return { ready: 0, total: codes.length, supported: false };
+        return { ready: 0, total: codes.length, lawsReady: 0, lawsTotal: 0, supported: false };
       }
-      return Promise.all(codes.map(function (code) { return isCached(index, code); }))
-        .then(function (flags) {
-          return {
-            ready: flags.filter(Boolean).length,
-            total: codes.length,
-            supported: true
-          };
+
+      // 法規清單讀不到也不要讓整個狀態壞掉（法規資料是另外建置的，可能還沒上線）
+      var lawPart = loadLawIndex().then(function (lawIndex) {
+        var entries = PQPure.listLaws(lawIndex);
+        return Promise.all(entries.map(function (entry) {
+          return isCached(null, null, lawUrl(lawIndex, entry));
+        })).then(function (flags) {
+          return { ready: flags.filter(Boolean).length, total: entries.length };
         });
+      }).catch(function () { return { ready: 0, total: 0 }; });
+
+      var subjectPart = Promise.all(codes.map(function (code) { return isCached(index, code); }))
+        .then(function (flags) { return flags.filter(Boolean).length; });
+
+      return Promise.all([subjectPart, lawPart]).then(function (both) {
+        return {
+          ready: both[0],
+          total: codes.length,
+          lawsReady: both[1].ready,
+          lawsTotal: both[1].total,
+          supported: true
+        };
+      });
     });
   }
 
@@ -569,10 +657,61 @@ var PQBank = (function () {
           });
         });
 
+        // 題庫存完之後，接著把法規一部一部存起來（41 部，不要一次全抓）
         return chain.then(function () {
-          return { ready: ready, total: codes.length, supported: true };
+          return warmLaws(function (lawProgress) {
+            if (typeof onProgress === 'function') {
+              onProgress({
+                ready: ready, total: codes.length, supported: true,
+                lawsReady: lawProgress.ready, lawsTotal: lawProgress.total
+              });
+            }
+          });
+        }).then(function (lawResult) {
+          return {
+            ready: ready, total: codes.length, supported: true,
+            lawsReady: lawResult.ready, lawsTotal: lawResult.total
+          };
         });
       });
+    });
+  }
+
+  /**
+   * 把法規一部一部存進離線快取。
+   * 法規資料還沒上線時（檔案不存在）就安靜跳過，不要讓首頁一直顯示錯誤。
+   */
+  function warmLaws(onProgress) {
+    return loadLawIndex().then(function (lawIndex) {
+      var entries = PQPure.listLaws(lawIndex);
+      var ready = 0;
+      var chain = Promise.resolve();
+
+      entries.forEach(function (entry) {
+        chain = chain.then(function () {
+          var url = lawUrl(lawIndex, entry);
+          return isCached(null, null, url).then(function (cached) {
+            if (cached) return true;
+            return fetchWithTimeout(url, { credentials: 'same-origin' })
+              .then(function (response) { return response && response.ok; })
+              .catch(function (error) {
+                logDetail('背景存取法規「' + entry.name + '」失敗', error);
+                return false;
+              });
+          }).then(function (ok) {
+            if (ok) ready += 1;
+            if (typeof onProgress === 'function') {
+              onProgress({ ready: ready, total: entries.length });
+            }
+          });
+        });
+      });
+
+      return chain.then(function () {
+        return { ready: ready, total: entries.length };
+      });
+    }).catch(function () {
+      return { ready: 0, total: 0 };     // 法規資料還沒產出，不算錯
     });
   }
 
@@ -617,6 +756,8 @@ var PQBank = (function () {
     subjectCache = {};
     examsCache = null;
     essayCache = {};
+    lawIndexCache = null;
+    lawCache = {};
   }
 
   return {
@@ -630,6 +771,9 @@ var PQBank = (function () {
     loadPaper: loadPaper,
     loadEssaySubjects: loadEssaySubjects,
     loadEssayQuestions: loadEssayQuestions,
+    loadLawIndex: loadLawIndex,
+    lawCatalog: lawCatalog,
+    loadLaw: loadLaw,
     offlineStatus: offlineStatus,
     warmOfflineCache: warmOfflineCache,
     checkOnline: checkOnline,

@@ -66,6 +66,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-05-26",
       "114-06-11"
@@ -118,6 +119,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-05-26",
       "114-06-11"
@@ -170,6 +172,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -443,6 +446,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-05-26",
       "114-06-11"
@@ -495,6 +499,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-05-26",
       "114-06-11"
@@ -547,6 +552,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-05-26",
       "114-06-11"
@@ -944,6 +950,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -1115,6 +1122,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-05-26",
       "114-06-11"
@@ -1209,6 +1217,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -1263,6 +1272,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-05-26",
       "114-06-11"
@@ -1275,6 +1285,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -1369,6 +1380,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-05-26",
       "114-06-11"
@@ -1381,6 +1393,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -1436,6 +1449,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -1490,6 +1504,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-05-26",
       "114-06-11"
@@ -1546,6 +1561,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-05-26",
       "114-06-11"
@@ -1643,6 +1659,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-05-26",
       "114-06-11"
@@ -1696,6 +1713,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-05-26",
       "114-06-11"
@@ -1900,6 +1918,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -1951,6 +1970,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -2002,6 +2022,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -2053,6 +2074,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -2104,6 +2126,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -2155,6 +2178,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -2206,6 +2230,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -2260,6 +2285,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -2276,6 +2302,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -2287,6 +2314,7 @@
     },
     {
      "law": "組織犯罪防制條例",
+     "lawCode": "organized-crime-act",
      "modifiedAfter": [
       "112-05-24"
      ],
@@ -2298,6 +2326,7 @@
     },
     {
      "law": "通訊保障及監察法",
+     "lawCode": "communication-protection-act",
      "modifiedAfter": [
       "113-07-31"
      ],
@@ -2349,6 +2378,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -2476,6 +2506,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "113-01-03"
      ],
@@ -2487,6 +2518,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -2498,6 +2530,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -2549,6 +2582,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -2600,6 +2634,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -2728,6 +2763,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -2779,6 +2815,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -2878,6 +2915,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -2931,6 +2969,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -2985,6 +3024,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -3163,6 +3203,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "112-05-31",
       "114-11-11"
@@ -3219,6 +3260,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -3274,6 +3316,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -3330,6 +3373,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "112-05-31",
       "114-11-11"
@@ -3342,6 +3386,7 @@
     },
     {
      "law": "通訊保障及監察法",
+     "lawCode": "communication-protection-act",
      "modifiedAfter": [
       "113-07-31"
      ],
@@ -3600,6 +3645,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -3656,6 +3702,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -3751,6 +3798,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -3876,6 +3924,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -3927,6 +3976,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -4237,6 +4287,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -4288,6 +4339,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -4413,6 +4465,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -4464,6 +4517,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -4589,6 +4643,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -4761,6 +4816,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -4814,6 +4870,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "113-01-03"
      ],
@@ -5187,6 +5244,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -5322,6 +5380,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -5338,6 +5397,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -5430,6 +5490,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -5484,6 +5545,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -5646,6 +5708,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -5808,6 +5871,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -5859,6 +5923,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -5947,6 +6012,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -5998,6 +6064,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -6308,6 +6375,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -6600,6 +6668,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -6653,6 +6722,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -6706,6 +6776,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -6761,6 +6832,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -6857,6 +6929,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -6912,6 +6985,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -7128,6 +7202,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -7263,6 +7338,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -7542,6 +7618,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -7593,6 +7670,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -7829,6 +7907,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -7881,6 +7960,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "114-05-28",
       "114-08-01",
@@ -7895,6 +7975,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -7946,6 +8027,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -7997,6 +8079,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -8125,6 +8208,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -8178,6 +8262,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -8474,6 +8559,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -8527,6 +8613,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -10641,6 +10728,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -10729,6 +10817,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -10817,6 +10906,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -10983,6 +11073,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "112-05-31",
       "114-11-11"
@@ -10995,6 +11086,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -11083,6 +11175,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -11174,6 +11267,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -11299,6 +11393,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -11350,6 +11445,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -11487,6 +11583,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -11501,6 +11598,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -11556,6 +11654,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -11770,6 +11869,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -11827,6 +11927,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -11884,6 +11985,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -11939,6 +12041,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -11993,6 +12096,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -12087,6 +12191,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -12144,6 +12249,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -12323,6 +12429,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -12525,6 +12632,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -12579,6 +12687,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -12633,6 +12742,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -12761,6 +12871,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -12886,6 +12997,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -13048,6 +13160,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -13102,6 +13215,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -13193,6 +13307,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -13449,6 +13564,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -13506,6 +13622,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -13684,6 +13801,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "112-05-31",
       "114-11-11"
@@ -13984,6 +14102,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -14000,6 +14119,7 @@
     },
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "106-06-14",
       "109-06-10",
@@ -14013,6 +14133,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -14027,6 +14148,7 @@
     },
     {
      "law": "組織犯罪防制條例",
+     "lawCode": "organized-crime-act",
      "modifiedAfter": [
       "107-01-03",
       "112-05-24"
@@ -14039,6 +14161,7 @@
     },
     {
      "law": "通訊保障及監察法",
+     "lawCode": "communication-protection-act",
      "modifiedAfter": [
       "107-05-23",
       "113-07-31"
@@ -14093,6 +14216,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -14225,6 +14349,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -14350,6 +14475,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -14401,6 +14527,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -14452,6 +14579,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -14505,6 +14633,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -14593,6 +14722,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -14646,6 +14776,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -14771,6 +14902,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -14898,6 +15030,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -14990,6 +15123,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "109-06-10",
       "113-01-03"
@@ -15002,6 +15136,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -15015,6 +15150,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -15146,6 +15282,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -15159,6 +15296,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -15214,6 +15352,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -15269,6 +15408,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -15325,6 +15465,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -15381,6 +15522,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -15436,6 +15578,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -15571,6 +15714,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -15665,6 +15809,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -15804,6 +15949,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -15860,6 +16006,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -15876,6 +16023,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -16013,6 +16161,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -16069,6 +16218,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -16381,6 +16531,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -16580,6 +16731,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -16780,6 +16932,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "113-01-03"
      ],
@@ -16791,6 +16944,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -16842,6 +16996,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -16893,6 +17048,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -16948,6 +17104,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -17042,6 +17199,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -17218,6 +17376,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -17273,6 +17432,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -17328,6 +17488,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -17670,6 +17831,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -17878,6 +18040,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -17894,6 +18057,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -17945,6 +18109,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -18033,6 +18198,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -18084,6 +18250,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -18135,6 +18302,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -18186,6 +18354,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -18607,6 +18776,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -18902,6 +19072,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -18955,6 +19126,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -19009,6 +19181,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -19025,6 +19198,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -19078,6 +19252,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -19132,6 +19307,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -19143,6 +19319,7 @@
     },
     {
      "law": "組織犯罪防制條例",
+     "lawCode": "organized-crime-act",
      "modifiedAfter": [
       "112-05-24"
      ],
@@ -19479,6 +19656,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -19832,6 +20010,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -20031,6 +20210,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -20119,6 +20299,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -20394,6 +20575,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -20648,6 +20830,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -20702,6 +20885,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -20797,6 +20981,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "114-11-11"
      ],
@@ -20808,6 +20993,7 @@
     },
     {
      "law": "通訊保障及監察法",
+     "lawCode": "communication-protection-act",
      "modifiedAfter": [
       "113-07-31"
      ],
@@ -20862,6 +21048,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -21162,6 +21349,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -21178,6 +21366,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -21678,6 +21867,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -21729,6 +21919,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -22039,6 +22230,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -22175,6 +22367,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "114-11-11"
      ],
@@ -22229,6 +22422,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -22324,6 +22518,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -22378,6 +22573,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -22514,6 +22710,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -22569,6 +22766,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -22622,6 +22820,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -22795,6 +22994,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -22930,6 +23130,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -23243,6 +23444,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -23294,6 +23496,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -23345,6 +23548,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -23433,6 +23637,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -23484,6 +23689,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -23572,6 +23778,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -24048,6 +24255,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -24101,6 +24309,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -24195,6 +24404,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -24292,6 +24502,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -24386,6 +24597,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "114-11-11",
       "115-05-13"
@@ -24565,6 +24777,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -24619,6 +24832,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -24712,6 +24926,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -25281,6 +25496,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-07-22"
      ],
@@ -25643,6 +25859,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "115-07-22"
      ],
@@ -26330,6 +26547,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -26382,6 +26600,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -26435,6 +26654,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -26453,6 +26673,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -26586,6 +26807,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -26643,6 +26865,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -26739,6 +26962,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -26757,6 +26981,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -26852,6 +27077,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -26907,6 +27133,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -26923,6 +27150,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -26975,6 +27203,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -27108,6 +27337,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -27279,6 +27509,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "96-03-21",
       "98-04-29",
@@ -27372,6 +27603,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "96-03-21",
       "98-04-29",
@@ -27427,6 +27659,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "96-03-21",
       "98-04-29",
@@ -27482,6 +27715,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "名稱",
@@ -27534,6 +27768,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -27586,6 +27821,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -27640,6 +27876,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -27656,6 +27893,7 @@
     },
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "名稱",
@@ -27667,6 +27905,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -27719,6 +27958,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -27771,6 +28011,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "名稱",
@@ -27823,6 +28064,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -27875,6 +28117,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -27929,6 +28172,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -27940,6 +28184,7 @@
     },
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "96-03-21",
       "98-04-29",
@@ -27954,6 +28199,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -28008,6 +28254,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -28060,6 +28307,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -28151,6 +28399,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -28162,6 +28411,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -28214,6 +28464,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -28271,6 +28522,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -28366,6 +28618,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -28464,6 +28717,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -28480,6 +28734,7 @@
     },
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "名稱",
@@ -28491,6 +28746,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -28507,6 +28763,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -28560,6 +28817,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -28578,6 +28836,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -28635,6 +28894,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -28730,6 +28990,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -28787,6 +29048,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -28844,6 +29106,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -28901,6 +29164,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -28958,6 +29222,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -29053,6 +29318,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "99-05-26",
       "104-12-30",
@@ -29148,6 +29414,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -29240,6 +29507,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -29371,6 +29639,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -29382,6 +29651,7 @@
     },
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "96-03-21",
       "98-04-29",
@@ -29437,6 +29707,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -29529,6 +29800,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -29659,6 +29931,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -29792,6 +30065,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -29922,6 +30196,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -30014,6 +30289,7 @@
    "detail": [
     {
      "law": "警察勤務條例",
+     "lawCode": "police-duties-act",
      "modifiedAfter": [
       "96-07-04",
       "97-07-02"
@@ -30372,6 +30648,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -30390,6 +30667,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -30447,6 +30725,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -30504,6 +30783,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -30557,6 +30837,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -30573,6 +30854,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -30630,6 +30912,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-04-29",
       "98-12-30",
@@ -30685,6 +30968,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -30698,6 +30982,7 @@
     },
     {
      "law": "通訊保障及監察法",
+     "lawCode": "communication-protection-act",
      "modifiedAfter": [
       "96-07-11",
       "103-01-29",
@@ -30756,6 +31041,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "名稱",
@@ -30846,6 +31132,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -30903,6 +31190,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "名稱",
@@ -31031,6 +31319,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -31085,6 +31374,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -31139,6 +31429,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -31234,6 +31525,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -31288,6 +31580,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -31378,6 +31671,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -31430,6 +31724,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -31484,6 +31779,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -31536,6 +31832,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "名稱",
@@ -31588,6 +31885,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -31640,6 +31938,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "名稱",
@@ -31695,6 +31994,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -31706,6 +32006,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -31722,6 +32023,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -31733,6 +32035,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -31785,6 +32088,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -31837,6 +32141,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -31894,6 +32199,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-04-29",
       "98-12-30",
@@ -31986,6 +32292,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-04-29",
       "98-12-30",
@@ -32040,6 +32347,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -32168,6 +32476,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -32226,6 +32535,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -32239,6 +32549,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -32291,6 +32602,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -32343,6 +32655,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "名稱",
@@ -32699,6 +33012,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -32751,6 +33065,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-04-29",
       "98-12-30",
@@ -32809,6 +33124,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -32825,6 +33141,7 @@
     },
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -32841,6 +33158,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -32857,6 +33175,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -32870,6 +33189,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -32922,6 +33242,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -32982,6 +33303,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -32993,6 +33315,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -33009,6 +33332,7 @@
     },
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-04-29",
       "98-12-30",
@@ -33022,6 +33346,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -33074,6 +33399,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -33128,6 +33454,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -33183,6 +33510,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -33194,6 +33522,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -33249,6 +33578,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-04-29",
       "98-12-30",
@@ -33262,6 +33592,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -33316,6 +33647,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -33368,6 +33700,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -33421,6 +33754,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -33432,6 +33766,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -33522,6 +33857,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -33574,6 +33910,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -33626,6 +33963,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -33678,6 +34016,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -33730,6 +34069,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "名稱",
@@ -33782,6 +34122,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -33836,6 +34177,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -33847,6 +34189,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -33860,6 +34203,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -33912,6 +34256,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "名稱",
@@ -33964,6 +34309,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -34021,6 +34367,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -34116,6 +34463,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -34168,6 +34516,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -34222,6 +34571,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -34238,6 +34588,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -34254,6 +34605,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -34309,6 +34661,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -34325,6 +34678,7 @@
     },
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-04-29",
       "98-12-30",
@@ -34338,6 +34692,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -34349,6 +34704,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -34439,6 +34795,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-04-29",
       "98-12-30",
@@ -34493,6 +34850,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-04-29",
       "98-12-30",
@@ -34585,6 +34943,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-04-29",
       "98-12-30",
@@ -34639,6 +34998,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -34696,6 +35056,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -34753,6 +35114,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -34810,6 +35172,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -34867,6 +35230,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -34924,6 +35288,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -34981,6 +35346,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -35038,6 +35404,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -35096,6 +35463,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -35112,6 +35480,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -35169,6 +35538,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -35342,6 +35712,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -35358,6 +35729,7 @@
     },
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-04-29",
       "98-12-30",
@@ -35371,6 +35743,7 @@
     },
     {
      "law": "警察勤務條例",
+     "lawCode": "police-duties-act",
      "modifiedAfter": [
       "97-07-02"
      ],
@@ -35651,6 +36024,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-12-30",
       "99-02-03"
@@ -35780,6 +36154,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -35870,6 +36245,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-12-30",
       "99-02-03"
@@ -35923,6 +36299,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-12-30",
       "99-02-03"
@@ -35976,6 +36353,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-12-30",
       "99-02-03"
@@ -36029,6 +36407,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -36083,6 +36462,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -36137,6 +36517,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "100-01-05",
       "100-11-23",
@@ -36232,6 +36613,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-12-30",
       "99-02-03"
@@ -36244,6 +36626,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -36299,6 +36682,7 @@
    "detail": [
     {
      "law": "證人保護法",
+     "lawCode": "witness-protection-act",
      "modifiedAfter": [
       "103-06-18",
       "105-04-13",
@@ -36313,6 +36697,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -36405,6 +36790,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "100-01-05",
       "100-11-23",
@@ -36461,6 +36847,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-12-30",
       "99-02-03"
@@ -36553,6 +36940,7 @@
    "detail": [
     {
      "law": "檢肅流氓條例",
+     "lawCode": "",
      "modifiedAfter": [],
      "abandoned": true,
      "matched": "關鍵詞",
@@ -36564,6 +36952,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -36618,6 +37007,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -36710,6 +37100,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -36762,6 +37153,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -36971,6 +37363,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -36987,6 +37380,7 @@
     },
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "100-01-05",
       "100-11-23",
@@ -37002,6 +37396,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -37018,6 +37413,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -37070,6 +37466,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -37127,6 +37524,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -37179,6 +37577,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -37231,6 +37630,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -37326,6 +37726,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -37378,6 +37779,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -37430,6 +37832,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -37563,6 +37966,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -37620,6 +38024,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -37716,6 +38121,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -37732,6 +38138,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -37789,6 +38196,7 @@
    "detail": [
     {
      "law": "行政執行法",
+     "lawCode": "administrative-execution-act",
      "modifiedAfter": [
       "98-12-30",
       "99-02-03"
@@ -37842,6 +38250,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -37899,6 +38308,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -37956,6 +38366,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -38013,6 +38424,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -38070,6 +38482,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -38127,6 +38540,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -38184,6 +38598,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -38287,6 +38702,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -38645,6 +39061,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -38780,6 +39197,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -38834,6 +39252,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -39000,6 +39419,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -39052,6 +39472,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -39142,6 +39563,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -39194,6 +39616,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -39248,6 +39671,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -39302,6 +39726,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -39356,6 +39781,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -39448,6 +39874,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -39540,6 +39967,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -39632,6 +40060,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -39686,6 +40115,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -39743,6 +40173,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -39800,6 +40231,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -39857,6 +40289,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -39914,6 +40347,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -39971,6 +40405,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -40028,6 +40463,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -40085,6 +40521,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -40143,6 +40580,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40159,6 +40597,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -40216,6 +40655,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -40276,6 +40716,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -40292,6 +40733,7 @@
     },
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "100-01-05",
       "100-11-23",
@@ -40307,6 +40749,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -40323,6 +40766,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -40375,6 +40819,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "100-01-05",
       "100-11-23",
@@ -40431,6 +40876,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "100-01-05",
       "100-11-23",
@@ -40487,6 +40933,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "100-01-05",
       "100-11-23",
@@ -40543,6 +40990,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "100-01-05",
       "100-11-23",
@@ -40637,6 +41085,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "100-01-05",
       "100-11-23",
@@ -40693,6 +41142,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "100-01-05",
       "100-11-23",
@@ -40787,6 +41237,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -40877,6 +41328,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -40929,6 +41381,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -40981,6 +41434,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -41038,6 +41492,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -41128,6 +41583,7 @@
    "detail": [
     {
      "law": "公務人員行政中立法",
+     "lawCode": "civil-servant-neutrality-act",
      "modifiedAfter": [
       "103-11-26"
      ],
@@ -41180,6 +41636,7 @@
    "detail": [
     {
      "law": "公務人員行政中立法",
+     "lawCode": "civil-servant-neutrality-act",
      "modifiedAfter": [
       "103-11-26"
      ],
@@ -41316,6 +41773,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -41368,6 +41826,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -41420,6 +41879,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -41472,6 +41932,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -41524,6 +41985,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -41576,6 +42038,7 @@
    "detail": [
     {
      "law": "公務人員行政中立法",
+     "lawCode": "civil-servant-neutrality-act",
      "modifiedAfter": [
       "103-11-26"
      ],
@@ -41628,6 +42091,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -41685,6 +42149,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -41780,6 +42245,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -41838,6 +42304,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -41854,6 +42321,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -41908,6 +42376,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -41924,6 +42393,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -41935,6 +42405,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -42063,6 +42534,7 @@
    "detail": [
     {
      "law": "毒品危害防制條例",
+     "lawCode": "narcotics-control-act",
      "modifiedAfter": [
       "104-02-04",
       "105-06-22",
@@ -42119,6 +42591,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -42176,6 +42649,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -42234,6 +42708,7 @@
    "detail": [
     {
      "law": "個人資料保護法",
+     "lawCode": "personal-data-protection-act",
      "modifiedAfter": [
       "104-12-30",
       "112-05-31",
@@ -42249,6 +42724,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -42306,6 +42782,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -42358,6 +42835,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -42448,6 +42926,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -42539,6 +43018,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -42550,6 +43030,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -42602,6 +43083,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -42659,6 +43141,7 @@
    "detail": [
     {
      "law": "公務人員行政中立法",
+     "lawCode": "civil-servant-neutrality-act",
      "modifiedAfter": [
       "103-11-26"
      ],
@@ -42711,6 +43194,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -42763,6 +43247,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -42815,6 +43300,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -42867,6 +43353,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -42957,6 +43444,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -43199,6 +43687,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -43256,6 +43745,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -43314,6 +43804,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -43325,6 +43816,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -43377,6 +43869,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -43434,6 +43927,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -43486,6 +43980,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -43581,6 +44076,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -43638,6 +44134,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -43728,6 +44225,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -43780,6 +44278,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -43833,6 +44332,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -43844,6 +44344,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -43935,6 +44436,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "106-06-14",
       "109-06-10",
@@ -43948,6 +44450,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -44000,6 +44503,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -44052,6 +44556,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -44147,6 +44652,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -44237,6 +44743,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -44328,6 +44835,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -44344,6 +44852,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -44396,6 +44905,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -44448,6 +44958,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -44506,6 +45017,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -44522,6 +45034,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -44574,6 +45087,7 @@
    "detail": [
     {
      "law": "公務人員行政中立法",
+     "lawCode": "civil-servant-neutrality-act",
      "modifiedAfter": [
       "103-11-26"
      ],
@@ -44627,6 +45141,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -44638,6 +45153,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -44804,6 +45320,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -44932,6 +45449,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -45060,6 +45578,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -45226,6 +45745,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -45283,6 +45803,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -45340,6 +45861,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -45397,6 +45919,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -45530,6 +46053,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -45701,6 +46225,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -45905,6 +46430,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -46038,6 +46564,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -46133,6 +46660,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -46185,6 +46713,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -46471,6 +47000,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -46489,6 +47019,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "105-05-25",
       "105-06-01",
@@ -46546,6 +47077,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -46674,6 +47206,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -46727,6 +47260,7 @@
    "detail": [
     {
      "law": "組織犯罪防制條例",
+     "lawCode": "organized-crime-act",
      "modifiedAfter": [
       "105-07-20",
       "106-04-19",
@@ -46741,6 +47275,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -46831,6 +47366,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -46886,6 +47422,7 @@
    "detail": [
     {
      "law": "詐欺犯罪危害防制條例",
+     "lawCode": "fraud-prevention-act",
      "modifiedAfter": [
       "113-07-31",
       "115-01-21"
@@ -46900,6 +47437,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -47062,6 +47600,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -47114,6 +47653,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "關鍵詞",
@@ -47125,6 +47665,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -47213,6 +47754,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -47264,6 +47806,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -47315,6 +47858,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -47478,6 +48022,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -47496,6 +48041,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -47548,6 +48094,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "106-06-14",
       "109-06-10",
@@ -47601,6 +48148,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -47692,6 +48240,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -47746,6 +48295,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -47797,6 +48347,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -47848,6 +48399,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -47899,6 +48451,7 @@
    "detail": [
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [],
      "abandoned": false,
      "matched": "名稱",
@@ -47950,6 +48503,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -48004,6 +48558,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -48058,6 +48613,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -48183,6 +48739,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -48237,6 +48794,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -48291,6 +48849,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -48345,6 +48904,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -48402,6 +48962,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -48418,6 +48979,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -48432,6 +48994,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -48443,6 +49006,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -48531,6 +49095,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -48588,6 +49153,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "106-06-14",
       "109-06-10",
@@ -48601,6 +49167,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -48763,6 +49330,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -48814,6 +49382,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -48902,6 +49471,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -48953,6 +49523,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -49007,6 +49578,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -49061,6 +49633,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -49115,6 +49688,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -49206,6 +49780,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -49294,6 +49869,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -49348,6 +49924,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -49402,6 +49979,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -49456,6 +50034,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -49510,6 +50089,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -49564,6 +50144,7 @@
    "detail": [
     {
      "law": "通訊保障及監察法",
+     "lawCode": "communication-protection-act",
      "modifiedAfter": [
       "113-07-31"
      ],
@@ -49742,6 +50323,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -49793,6 +50375,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -49882,6 +50465,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -49898,6 +50482,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -50026,6 +50611,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -50077,6 +50663,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -50165,6 +50752,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -50368,6 +50956,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -50382,6 +50971,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -50618,6 +51208,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -50669,6 +51260,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -50831,6 +51423,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -50882,6 +51475,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -50933,6 +51527,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -50987,6 +51582,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -51041,6 +51637,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -51281,6 +51878,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -51297,6 +51895,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "108-12-31",
       "110-01-20",
@@ -51425,6 +52024,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -51593,6 +52193,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -51645,6 +52246,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -51661,6 +52263,7 @@
     },
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -51786,6 +52389,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -51837,6 +52441,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -51888,6 +52493,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -51941,6 +52547,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -52002,6 +52609,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -52056,6 +52664,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -52069,6 +52678,7 @@
     },
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -52120,6 +52730,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -52208,6 +52819,7 @@
    "detail": [
     {
      "law": "集會遊行法",
+     "lawCode": "assembly-parade-act",
      "modifiedAfter": [
       "110-01-27"
      ],
@@ -52259,6 +52871,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -52347,6 +52960,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -52546,6 +53160,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -52599,6 +53214,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -52652,6 +53268,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52709,6 +53326,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -52725,6 +53343,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "110-01-20",
       "110-05-26",
@@ -52889,6 +53508,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -52977,6 +53597,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -53028,6 +53649,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -53154,6 +53776,7 @@
    "detail": [
     {
      "law": "少年事件處理法",
+     "lawCode": "juvenile-justice-act",
      "modifiedAfter": [
       "110-12-15",
       "112-06-21"
@@ -53166,6 +53789,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -53217,6 +53841,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -53268,6 +53893,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -53578,6 +54204,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -53630,6 +54257,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -53646,6 +54274,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -53845,6 +54474,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -53902,6 +54532,7 @@
    "detail": [
     {
      "law": "中華民國刑法",
+     "lawCode": "criminal-code",
      "modifiedAfter": [
       "113-06-24",
       "113-07-31",
@@ -53918,6 +54549,7 @@
     },
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -54004,6 +54636,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -54252,6 +54885,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -54451,6 +55085,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -54502,6 +55137,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -54627,6 +55263,7 @@
    "detail": [
     {
      "law": "警械使用條例",
+     "lawCode": "police-weapon-use-act",
      "modifiedAfter": [
       "111-10-19"
      ],
@@ -54715,6 +55352,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -55025,6 +55663,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -55224,6 +55863,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -55423,6 +56063,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -55659,6 +56300,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -55710,6 +56352,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -55798,6 +56441,7 @@
    "detail": [
     {
      "law": "刑事訴訟法",
+     "lawCode": "criminal-procedure",
      "modifiedAfter": [
       "112-06-21",
       "112-12-15",
@@ -56039,6 +56683,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -56645,6 +57290,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],
@@ -57730,6 +58376,7 @@
    "detail": [
     {
      "law": "社會秩序維護法",
+     "lawCode": "social-order-maintenance-act",
      "modifiedAfter": [
       "114-06-11"
      ],

@@ -58,6 +58,7 @@ var PQApp = (function () {
     exportBtn: $('export-btn'),
     importBtn: $('import-btn'),
     importFile: $('import-file'),
+    lawsBtn: $('laws-btn'),
     settingsBtn: $('settings-btn'),
     updateBtn: $('update-btn'),
     offlineNote: $('offline-note'),
@@ -128,11 +129,13 @@ var PQApp = (function () {
     confirmCancel: $('confirm-cancel')
   };
 
-  var SCREENS = ['home', 'setup', 'quiz', 'done', 'exam-setup', 'exam', 'exam-result', 'essay', 'settings'];
+  // 【新增畫面時這兩個清單都要加，漏了的話畫面會切不過去】
+  var SCREENS = ['home', 'setup', 'quiz', 'done', 'exam-setup', 'exam', 'exam-result',
+    'essay', 'laws', 'settings'];
   var SCREEN_TITLES = {
     home: '首頁', setup: '隨機練習', quiz: '練習中', done: '本回成績',
     'exam-setup': '模擬整卷', exam: '模擬作答中', 'exam-result': '模擬結果',
-    essay: '申論題', settings: '設定'
+    essay: '申論題', laws: '法條速查', settings: '設定'
   };
 
   var state = {
@@ -149,7 +152,8 @@ var PQApp = (function () {
     storageWarned: false,
     updating: false,
     subjectSeq: 0,
-    aiBusy: false
+    aiBusy: false,
+    lawList: []        // 法規清單（用來把題目命中的法規名對成代號）
   };
 
   /* ================= 共用小工具 ================= */
@@ -787,6 +791,35 @@ var PQApp = (function () {
     if (stale) {
       el.resultBox.appendChild(makeEl('span', 'result-sub', '提醒：' + stale.text + '，請以現行法條原文為準。'));
     }
+    renderLawLinks(question);
+  }
+
+  /**
+   * 「查看相關法條」：直接跳到那部法規，不用切到瀏覽器。
+   * 建置器還沒附 lawCode，所以用法規名稱去法規清單裡對；
+   * 對不到的（例如警察偵查犯罪手冊這種非法規）就只顯示名稱，不給連結。
+   */
+  function renderLawLinks(question) {
+    var refs = PQPure.staleLawRefs(question);
+    if (refs.length === 0) return;
+
+    var row = makeEl('div', 'law-link-row');
+    row.appendChild(makeEl('span', 'law-link-label', '相關法規：'));
+
+    refs.forEach(function (ref) {
+      var code = ref.lawCode || PQPure.findLawCode(state.lawList, ref.law);
+      if (!code) {
+        row.appendChild(makeEl('span', 'law-link-plain', ref.law));
+        return;
+      }
+      var button = makeEl('button', 'law-link', '查看' + ref.law);
+      button.type = 'button';
+      button.addEventListener('click', function () {
+        if (window.PQLaws) PQLaws.open(code);
+      });
+      row.appendChild(button);
+    });
+    el.resultBox.appendChild(row);
   }
 
   function scrollResultIntoView() {
@@ -1179,9 +1212,13 @@ var PQApp = (function () {
         el.offlineNote.textContent = '離線功能尚未就緒，這次請連著網路刷。';
         return;
       }
-      el.offlineNote.textContent = status.ready >= status.total && status.total > 0
-        ? ('離線可用：' + status.ready + '／' + status.total + ' 科（已經可以斷網刷題）')
-        : ('離線可用：' + status.ready + '／' + status.total + ' 科（還在存，請先連著網路）');
+      var lawPart = status.lawsTotal
+        ? ('、法條 ' + status.lawsReady + '／' + status.lawsTotal + ' 部') : '';
+      var subjectsDone = status.ready >= status.total && status.total > 0;
+      var lawsDone = !status.lawsTotal || status.lawsReady >= status.lawsTotal;
+      el.offlineNote.textContent = (subjectsDone && lawsDone)
+        ? ('離線可用：題庫 ' + status.ready + '／' + status.total + ' 科' + lawPart + '（已經可以斷網用）')
+        : ('離線可用：題庫 ' + status.ready + '／' + status.total + ' 科' + lawPart + '（還在存，請先連著網路）');
     };
 
     PQBank.warmOfflineCache(paint).then(paint).catch(function (error) {
@@ -1255,6 +1292,9 @@ var PQApp = (function () {
     el.importFile.addEventListener('change', onImportFileChosen);
 
     // 設定
+    el.lawsBtn.addEventListener('click', function () {
+      if (window.PQLaws) PQLaws.open();
+    });
     el.settingsBtn.addEventListener('click', openSettings);
     el.settingsBackBtn.addEventListener('click', goHome);
     [el.examDateCpu, el.examDateMoex, el.setThreshold, el.setDaily, el.setYearSpan]
@@ -1331,6 +1371,12 @@ var PQApp = (function () {
       renderSubjectOptions();
       return loadSelectedSubject();
     }).then(function () {
+      // 法規清單只有幾 KB，先讀起來放著，作答後才有辦法把法規名對成連結
+      PQBank.lawCatalog().then(function (data) {
+        state.lawList = data.laws;
+      }).catch(function () {
+        state.lawList = [];       // 法規資料還沒上線，就只顯示法規名稱不給連結
+      });
       prepareOffline();
     }).catch(function (error) {
       el.poolInfo.textContent = '題庫沒有載入成功。';

@@ -47,6 +47,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "98-05-27",
       "100-01-05",
@@ -430,6 +431,7 @@
    "detail": [
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "99-01-13",
       "100-11-09",
@@ -672,6 +674,7 @@
    "detail": [
     {
      "law": "毒品危害防制條例",
+     "lawCode": "narcotics-control-act",
      "modifiedAfter": [
       "99-11-24",
       "104-02-04",
@@ -688,6 +691,7 @@
     },
     {
      "law": "警察職權行使法",
+     "lawCode": "police-power-exercise-act",
      "modifiedAfter": [
       "100-04-27"
      ],
@@ -788,6 +792,7 @@
    "detail": [
     {
      "law": "去氧核醣核酸採樣條例",
+     "lawCode": "dna-sampling-act",
      "modifiedAfter": [
       "101-01-04"
      ],
@@ -970,6 +975,7 @@
    "detail": [
     {
      "law": "槍砲彈藥刀械管制條例",
+     "lawCode": "firearms-control-act",
      "modifiedAfter": [
       "100-01-05",
       "100-11-23",
@@ -1352,6 +1358,7 @@
    "detail": [
     {
      "law": "性侵害犯罪防治法",
+     "lawCode": "sexual-assault-prevention-act",
      "modifiedAfter": [
       "100-11-09",
       "104-12-23",
@@ -1648,6 +1655,7 @@
    "detail": [
     {
      "law": "毒品危害防制條例",
+     "lawCode": "narcotics-control-act",
      "modifiedAfter": [
       "105-06-22",
       "106-06-14",
