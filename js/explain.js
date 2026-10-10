@@ -154,9 +154,9 @@ var PQExplain = (function () {
     anthropic: {
       name: 'Anthropic（Claude）',
       models: [
-        { id: 'claude-sonnet-4-5', name: 'Claude Sonnet 4.5（推薦）' },
-        { id: 'claude-opus-4-1', name: 'Claude Opus 4.1（最強、較貴）' },
-        { id: 'claude-haiku-4-5', name: 'Claude Haiku 4.5（最快、最便宜）' }
+        { id: 'claude-opus-5-5', name: 'Claude Opus 5.5（最準，一題約 0.3 元）' },
+        { id: 'claude-sonnet-5-5', name: 'Claude Sonnet 5.5（均衡，一題約 0.16 元）' },
+        { id: 'claude-haiku-5-5', name: 'Claude Haiku 5.5（最便宜，一題約 0.01 元）' }
       ],
       keyHint: '金鑰格式是 sk-ant- 開頭，到 Anthropic 官網的 API Keys 頁面申請。',
       send: function (prompt, key, model, signal) {
