@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>使用說明｜警察考試刷題</title>
+<meta name="theme-color" content="#FAF8F4">
+<link rel="stylesheet" href="./css/style.css">
+<style>
+/* 這一頁專用的小樣式，其餘沿用全站的 style.css */
+.guide h2 {
+  margin: 0 0 0.6rem;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+.guide p { margin: 0 0 0.8rem; }
+.guide p:last-child { margin-bottom: 0; }
+.guide ol, .guide ul { margin: 0 0 0.8rem; padding-left: 1.4rem; }
+.guide li { margin-bottom: 0.45rem; line-height: 1.85; }
+.guide li:last-child { margin-bottom: 0; }
+.key-point {
+  border: 1px solid var(--warn-border);
+  border-left: 4px solid var(--warn);
+  background: var(--warn-bg);
+  border-radius: var(--radius);
+  padding: 1rem 1.1rem;
+  margin-bottom: 1.1rem;
+}
+.key-point .key-title {
+  display: block;
+  font-size: 1.02rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+.step-no {
+  display: inline-block;
+  min-width: 1.5rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+code {
+  font-family: var(--font);
+  font-size: 0.9rem;
+  background: var(--accent-tint);
+  border-radius: 3px;
+  padding: 0.05rem 0.35rem;
+}
+</style>
+</head>
+<body>
+
+<div class="page guide">
+
+  <header class="app-head">
+    <h1>使用說明</h1>
+    <span class="app-sub"><a href="./index.html">回刷題</a></span>
+  </header>
+
+  <!-- ===== 最重要的一件事，放在第一段 ===== -->
+  <div class="key-point">
+    <span class="key-title">第一件事：先加到主畫面，再開始刷</span>
+    <p>這個 App 的作答進度只存在你手機裡面，<strong>沒有雲端備份，弄丟就是真的弄丟</strong>。</p>
+    <p>iPhone 的 Safari 有一條規定：<strong>一個網站如果連續 7 天沒打開，系統會自動把它存在手機裡的資料清掉</strong>。
+       你刷了一個月的紀錄，出差或忙起來一個禮拜沒碰，回來就全空了。</p>
+    <p>但是<strong>「加到主畫面」之後，系統會把它當成一個獨立的 App，不受這條 7 天規定限制</strong>，
+       進度才會穩穩地留著。所以請先加到主畫面，之後固定從桌面那個圖示打開來刷。</p>
+    <p><strong>還有一個坑要特別注意：</strong>你在 Safari 裡先刷的進度，加到主畫面之後<strong>不會跟過去</strong>。
+       iPhone 把「Safari 裡的網頁」和「主畫面的 App」當成兩個互不相干的東西，各記各的。
+       所以正確順序是：<span class="step-no">①</span> 打開網址 →
+       <span class="step-no">②</span> 立刻加到主畫面 →
+       <span class="step-no">③</span> 從主畫面的圖示打開，<strong>連著網路等首頁出現「已經可以斷網刷題」</strong> →
+       <span class="step-no">④</span> 之後就可以斷網刷。先刷了才加，前面的進度等於白刷。</p>
+  </div>
+
+  <div class="card">
+    <h2>怎麼加到主畫面</h2>
+    <p><strong>iPhone（Safari）</strong></p>
+    <ol>
+      <li>用 Safari 打開這個 App 的網址（不要用 Chrome 或 Line 內建的瀏覽器開，那些加不了）。</li>
+      <li>按畫面最下面中間的「分享」圖示（方框往上一個箭頭）。</li>
+      <li>往下滑，選「加入主畫面」。</li>
+      <li>按右上角「新增」。桌面就會多一個刷題圖示。</li>
+      <li>以後一律從<strong>那個圖示</strong>打開來刷。</li>
+    </ol>
+    <p><strong>Android（Chrome）</strong></p>
+    <ol>
+      <li>用 Chrome 打開網址。</li>
+      <li>按右上角三個點 →「加到主畫面」或「安裝應用程式」。</li>
+    </ol>
+    <p><strong>電腦</strong>：直接用瀏覽器開網址就好，不用安裝。電腦跟手機的進度是<strong>分開記的</strong>，不會互通。</p>
+  </div>
+
+  <div class="card">
+    <h2>五種模式，什麼時候用哪一個</h2>
+    <ul>
+      <li><strong>隨機練習</strong>：自己挑科目與年度，一題一題出。平常累積題量用這個。</li>
+      <li><strong>今天該複習的</strong>：系統依「間隔重複」算出今天該回頭看的題目，先出你比較不熟的。
+          <strong>每天先把這個清空，是效率最高的做法。</strong></li>
+      <li><strong>錯題本</strong>：答錯過、而且還沒連續答對三次的題目。想集中火力補弱點時用。</li>
+      <li><strong>模擬整卷</strong>：照官方試卷整份出題、計時，交卷後用真實計分規則算分。考前抓手感與配速用。</li>
+      <li><strong>申論題</strong>：只能翻閱與自己寫草稿，系統不批改。</li>
+    </ul>
+    <p>首頁上面三個數字就是：今天到期幾題、錯題本有幾題、已經練熟幾題，
+       下面會顯示距離兩場考試各剩幾天。</p>
+  </div>
+
+  <div class="card">
+    <h2>怎麼刷題</h2>
+    <ol>
+      <li><strong>選科目</strong>：下拉選單裡是你要準備的那兩場考試實際在考的科目，後面括號是這一科有幾題。
+          那兩場是：<strong>116 年 3 月中央警察大學警佐班第 3 類</strong>、
+          <strong>116 年 6 月警察人員考試三等刑事警察人員</strong>。</li>
+      <li><strong>選年度範圍</strong>：預設是<strong>最近 5 年</strong>（可以在設定頁改成 3 年、10 年或全部年度）。</li>
+      <li>按<strong>「開始隨機練習」</strong>。題目會隨機排過，同一回裡不會重複出現同一題。</li>
+      <li><strong>單選題</strong>：點下去就直接判對錯，馬上看到正解，省一次點擊。</li>
+      <li><strong>多選題</strong>：可以點好幾個，點過的再點一次就取消；選好之後按下面的<strong>「送出答案」</strong>。
+          多選題<strong>要全部選對才算答對</strong>，少選一個也算錯。</li>
+      <li>看完正解按<strong>「下一題」</strong>。想中途停下來看成績，按「結束本回、看成績」。</li>
+      <li>一回結束後會顯示<strong>本回成績</strong>，可以按<strong>「再來一回」</strong>重新洗牌再刷一輪。</li>
+    </ol>
+    <p><strong>電腦上可以用鍵盤</strong>：按 A～E 選選項，按 Enter 送出答案或跳下一題。</p>
+  </div>
+
+  <div class="card">
+    <h2>「今天該複習的」是怎麼排的</h2>
+    <p>用的是<strong>五格抽屜</strong>：想像桌上五個抽屜，答對的往後移一格（下次更晚才出現），
+       答錯的打回第一格（明天再見）。</p>
+    <ul>
+      <li>第 1 格 1 天後再出、第 2 格 2 天、第 3 格 4 天、第 4 格 8 天、第 5 格 16 天。</li>
+      <li>過了第 5 格就「畢業」，標示<strong>已熟</strong>，30 天後再出一次確認。</li>
+      <li><strong>多選題部分答對只退一格</strong>，不會打回第一格——不然多選題會天天出現，刷到崩潰。</li>
+    </ul>
+    <p><strong>越接近考試，它會自動把間隔壓短，你不用自己調：</strong></p>
+    <ul>
+      <li>距考試還有 150 天時，最長間隔 50 天；剩 30 天時最長 10 天；剩 9 天時最長 3 天。</li>
+      <li>任何一題的下次複習日，都不會晚於考試日的前 3 天。</li>
+      <li><strong>警察法規這種兩場都考的科目，一律照比較近的那一場（3 月）壓</strong>。
+          3 月那場滾得夠緊，6 月那場自然早就滾過好幾輪。</li>
+      <li>每天最多出 60 題（設定頁可改），超過的自動往後順延，先出比較不熟的。</li>
+    </ul>
+    <p>作答完會在結果下面直接告訴你「下次複習：幾月幾日」，不用自己記。</p>
+  </div>
+
+  <div class="card">
+    <h2>題目上那些標籤是什麼意思</h2>
+    <ul>
+      <li><strong>「115 年」</strong>（深色那個）：這題是哪一年考的。<strong>這個一定要看</strong>——
+          這二十年法條改過很多次，舊題的正解有可能已經不符合現行法了。</li>
+      <li><strong>「單選題」「多選題」</strong>：單選只能選一個，多選要全部對才算對。</li>
+      <li><strong>科目名與「原始科目：○○」</strong>：後者是這題當年歸在哪一科。
+          科目名稱改過好幾次，App 用現在的科目分類，但保留當年的名字給你參考。</li>
+      <li><strong>「第 3 格｜對 5／錯 2」</strong>：這題目前在第幾個抽屜、你答對過幾次、答錯過幾次。</li>
+      <li><strong>「英文題」</strong>：這題是英文出的（警佐班不考英文，三等的憲法與警察專業英文才有）。</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>看到這些提醒的時候</h2>
+    <ul>
+      <li><strong>「這題涉及的○○法在 113 年修正過，答案僅供參考」</strong>：
+          這題考的法條後來改過，官方當年的正解現在不一定對。<strong>請以現行法條原文為準</strong>，不要硬背。</li>
+      <li><strong>「這是 ○○ 年的舊題，法規與實務見解可能已經變動」</strong>：
+          104 年以前的題目都會提醒一次，當延伸練習看就好。</li>
+      <li><strong>「這科的出題範圍與現行考試已有差異」</strong>：
+          這題的舊科目跟現在的科目只是大致對應，範圍不完全一樣。</li>
+      <li><strong>「本題官方公告一律給分」</strong>：這題當年有爭議，官方送分，怎麼選都算對。</li>
+      <li><strong>「本題是雙正解」「本題官方認定 3 組答案都算對」</strong>：
+          釋疑之後官方認定好幾組答案都給分，你選中任何一組都算答對。</li>
+      <li><strong>「官方釋疑更正：…」</strong>：官方改過答案，App 顯示的是<strong>更正後</strong>的正解，
+          跟你手邊舊的答案卷可能不一樣，以這裡的為準。</li>
+      <li><strong>「這一科有 N 題的正解資料有問題，已經先跳過不出題」</strong>：
+          題庫是從官方 PDF 自動拆出來的，極少數題目會拆壞。
+          為了不讓你背到錯的答案，這些題目會先被跳過。</li>
+    </ul>
+  </div>
+
+  <div class="key-point">
+    <span class="key-title">你自己覺得這題過時了，就按「標記已過時」</span>
+    <p>你是現職刑警，法規實務的判斷比程式準。答完題之後下面有一顆
+       <strong>「標記已過時」</strong>，按下去這題就不會再出現在任何練習裡。</p>
+    <p>標錯了也沒關係：再按一次就取消，或到<strong>設定頁的「我標成已過時的題目」</strong>一次全部清掉。</p>
+  </div>
+
+  <div class="card">
+    <h2>問 AI 為什麼（詳解）</h2>
+    <p>官方只公布答案字母、沒有任何解析。所以答完題之後有一顆<strong>「問 AI 為什麼」</strong>，
+       按下去會請 AI 講解：為什麼選這個、其他選項錯在哪、
+       <strong>以及這題的法條到現在有沒有修正過</strong>。</p>
+    <p><strong>答對也可以按</strong>——答對常常是猜對的，而且問過一次就存起來，第二次看不用再花錢。</p>
+    <ul>
+      <li><strong>要先設定金鑰</strong>：設定頁的「AI 詳解」裡貼上你自己的金鑰
+          （Anthropic 官網申請，sk-ant- 開頭）。</li>
+      <li>金鑰<strong>只存在這台裝置</strong>，不會上傳、也不會跟著進度匯出。<strong>不要在公用電腦上貼。</strong></li>
+      <li>問過的詳解會存起來，<strong>離線也看得到</strong>，第二次不用再付費。</li>
+      <li>費用算在你自己的 AI 帳單上，一題大概幾毛錢。</li>
+      <li><strong>詳解下面固定寫著「本詳解由 AI 生成，可能有誤，以法條原文為準」。</strong>
+          法條題 AI 偶爾會講錯，而這是要拿去考試的，看到有疑問一定要翻法條確認。</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>模擬整卷</h2>
+    <p>一次一份試卷（某一個場次的某一科），照官方題數整份出題並計時。
+       作答中<strong>不顯示對錯</strong>，可以用下面的題號方格跳題、改答案，交卷後才算分。</p>
+    <p><strong>兩場考試的計分規則不一樣，App 分開算：</strong></p>
+    <ul>
+      <li><strong>警佐班</strong>：單選每題 2 分、<strong>答錯倒扣 1/3 題分</strong>；
+          多選每題 3 分，<strong>五個選項每判斷正確一個得 1/5 題分</strong>
+          （「正確地不選一個不該選的」也算判斷正確）。所以：五個都判斷對＝滿分 3 分、
+          判斷錯 1 個＝1.8 分、錯 2 個＝0.6 分、錯 3 個以上＝0 分，單題不會扣成負分。</li>
+      <li><strong>刑事三等</strong>：<strong>答錯不倒扣</strong>，每題配分依該科試卷封面
+          （憲法與警察專業英文每題 1.25 分、其他科多為 2 分）。</li>
+    </ul>
+    <p><strong>刑事三等的成績畫面會標明「這是測驗題部分的分數，申論題未計入」</strong>——
+       測驗題只占該科一半分數，不要看到分數低就以為自己沒救，另一半還在申論。</p>
+    <p>試卷清單裡標<strong>「（補充題源）」</strong>的，是為了補題量收進來的其他類科考卷
+       （例如司法四等的刑法概要），不是這場考試的正式考卷，命題深度可能不同，練手感用。</p>
+    <p>交卷後可以按<strong>「逐題檢討」</strong>看每一題你選了什麼、正解是什麼。模擬紀錄只保留最近 20 次。</p>
+  </div>
+
+  <div class="card">
+    <h2>申論題</h2>
+    <p>申論題沒有選項、不能判對錯，所以這裡只有三件事：按科目與年度<strong>翻閱題目</strong>、
+       在下面<strong>寫自己的答案草稿</strong>、之後反覆修改訂正。<strong>系統不批改。</strong></p>
+    <p>草稿會自動存（換題、離開畫面都會存一次），而且<strong>會跟著進度一起匯出</strong>，換裝置接得回來。</p>
+    <p>如果題目上標著<strong>「示範題目」</strong>，代表正式的申論題庫還在製作中，那幾題只是讓你先看畫面，
+       不是真的考古題。題庫做好之後會自動換成真的，你寫的草稿不會不見。</p>
+  </div>
+
+  <div class="key-point">
+    <span class="key-title">每週匯出一次進度，這是救命功能</span>
+    <p>進度存在<strong>你這台裝置的瀏覽器裡</strong>，沒有帳號、沒有雲端、沒有自動同步。
+       清掉瀏覽器資料、換手機、刪掉主畫面圖示，進度就跟著不見。</p>
+    <p>首頁「我的進度」下面有<strong>「匯出進度備份」</strong>，按下去會存成
+       <code>刷題進度_20261010.json</code> 這樣的檔案，<strong>把它放到雲端硬碟</strong>就安全了。
+       首頁會顯示上次備份是幾天前，超過 7 天會提醒你一次。</p>
+    <p><strong>匯入預設是「合併」</strong>：兩邊的紀錄湊在一起，同一題以比較新的那一次為準，
+       你現在的進度不會不見。要整個覆蓋得另外再確認一次——覆蓋按下去就回不來了。</p>
+    <p>匯入前會先告訴你「這個檔有幾題紀錄、最後作答日是哪天」，確認是對的檔案再按。</p>
+  </div>
+
+  <div class="card">
+    <h2>進度記了哪些東西</h2>
+    <p>每一題的<strong>答對幾次、答錯幾次、連續答對幾次、在第幾個抽屜、下次複習日、最後作答日</strong>
+       （時間一律用台北時間），加上你的<strong>申論草稿、過時標記、模擬紀錄與設定</strong>。</p>
+    <p>首頁「我的進度」那三個數字分別是：刷過幾題（同一題刷兩次只算一題）、總共作答幾次、累計答對率。</p>
+    <p><strong>這些事情會把進度清掉，請避開</strong>：清除瀏覽器資料與網站資料、用無痕模式刷、
+       把主畫面的圖示刪掉重加、換手機（換手機前記得先匯出）。</p>
+  </div>
+
+  <div class="card">
+    <h2>沒網路也能刷嗎</h2>
+    <p><strong>可以，但第一次要連著網路打開，等它把題庫存進手機。</strong>
+       題庫有五千多題、好幾 MB，不是一秒就下載得完。</p>
+    <p>首頁最下面會顯示<strong>「離線可用：N／M 科」</strong>：</p>
+    <ul>
+      <li>寫<strong>「還在存，請先連著網路」</strong>＝還沒存完，這時候斷網會有幾科打不開。</li>
+      <li>寫<strong>「已經可以斷網刷題」</strong>＝全部存好了，捷運地下、值班室沒訊號照樣刷。</li>
+    </ul>
+    <p>所以正確做法是：<strong>加到主畫面之後，先在有 Wi-Fi 的地方打開一次，
+       看到「已經可以斷網刷題」再出門</strong>。沒存完也不要緊，下次連上網路打開它會自己接著存。</p>
+    <p>題庫更新或程式改版之後，如果手機上看起來還是舊的，到首頁按一下<strong>「檢查更新」</strong>。
+       它會<strong>先確認真的連得上網路</strong>，連得上才清掉舊的暫存重新載入；
+       連不上就什麼都不動，不會把你的離線版弄壞。按這顆<strong>不會動到你的作答進度</strong>。</p>
+  </div>
+
+  <div class="card">
+    <h2>「自我檢查」是做什麼的</h2>
+    <p>首頁那個「自我檢查」連結打開之後會<strong>自動跑一輪測試</strong>，確認判對錯與排程的規則沒有壞掉
+       （單選、多選要全對、雙正解、送分題、抽屜間隔、考試日壓縮、匯入合併、日期計算）。</p>
+    <p><strong>看最上面那條橫幅就好</strong>：綠色＝規則正常；
+       琥珀色＝有狀況要看一下；紅色＝邏輯出問題了，先別依賴它的判定，把畫面截圖回報。</p>
+    <p>那一頁下半部還有<strong>題庫檢查</strong>，可以挑一科讀回來看有沒有題目的正解資料壞掉。
+       要自己按才會開始，一次只檢查一科，不會偷偷把整個題庫下載下來吃行動數據。</p>
+  </div>
+
+  <div class="card">
+    <h2>在自己電腦上測試的時候</h2>
+    <p><strong>不能直接雙擊 index.html 打開</strong>，瀏覽器基於安全考量會擋住讀取題庫檔，畫面會跳出載入失敗。</p>
+    <p>要在「網站」這個資料夾裡開一個小伺服器：按住 Shift 在資料夾空白處按右鍵選
+       「在這裡開啟 PowerShell 視窗」，輸入下面這一行後按 Enter：</p>
+    <p><code>python -m http.server 8000</code></p>
+    <p>然後用瀏覽器打開 <code>http://localhost:8000/</code>。測完在那個視窗按 Ctrl + C 就關掉了。</p>
+  </div>
+
+  <footer class="app-foot">製作人Rui ／ Maker Rui</footer>
+
+</div>
+
+</body>
+</html>

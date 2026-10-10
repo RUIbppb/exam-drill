@@ -1,0 +1,2964 @@
+[
+ {
+  "id": "moex-95-invjur-e01",
+  "source": "moex",
+  "session": "95 年刑事警察人員三等",
+  "year": 95,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲因生意失敗，窮愁潦倒，遂於民國95年5、6月間，連續侵入A、B兩家行竊；復於民國95年7月間，連續侵入C、D兩家行竊。試問對甲應如何論罪科刑？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "中華民國刑法"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "modifiedAfter": [
+      "113-06-24",
+      "113-07-31",
+      "114-05-28",
+      "114-08-01",
+      "115-03-13",
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 40,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "廢除連續犯、牽連犯與常業犯，改採一罪一罰；同時大修易科罰金、累犯、數罪併罰與保安處分。95 年以前的罪數與論罪科刑題目答案多半已經不對"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=095100&c=303&s=4001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-95-invjur-e02",
+  "source": "moex",
+  "session": "95 年刑事警察人員三等",
+  "year": 95,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲因遊手好閒，不務正業，屢向其父A索錢花用。某日，向其父索錢未果，憤而用手推A，致A撞及牆壁，幸未受傷。次日，甲復向A開口要錢，A仍不給，甲遂拾起桌上煙灰缸砸擲，致將A之頭部打傷。試問甲應負何刑責？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=095100&c=303&s=4001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-95-invjur-e03",
+  "source": "moex",
+  "session": "95 年刑事警察人員三等",
+  "year": 95,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "何謂「當事人平等原則」？試就「享有武器上之平等地位」申論之。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=095100&c=303&s=4001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-95-invjur-e04",
+  "source": "moex",
+  "session": "95 年刑事警察人員三等",
+  "year": 95,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "試比較「協助檢察官偵查之司法警察官」與「聽從檢察官指揮之司法警察官」之差異。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=095100&c=303&s=4001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-96-invjur-e01",
+  "source": "moex",
+  "session": "96 年刑事警察人員三等",
+  "year": 96,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "何謂中止犯?行為人雖有防止行為，但結果之不發生係因共犯中他人之行為所致者，該行為人是否仍成立中止犯？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=096120&c=303&s=c181&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-96-invjur-e02",
+  "source": "moex",
+  "session": "96 年刑事警察人員三等",
+  "year": 96,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "警官甲為求績效，於警察派出所內因受詢問之犯罪嫌疑人乙拒不供出煙毒來源，對乙刑求，造成乙多處瘀傷，嗣經友人從中斡旋，與乙成立賠償和解，乙未對甲提出告訴，問甲是否仍應負擔何刑責？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=096120&c=303&s=c181&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-96-invjur-e03",
+  "source": "moex",
+  "session": "96 年刑事警察人員三等",
+  "year": 96,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "南投縣信義鄉住民甲逮捕無故侵入其住宅之現行犯成年人乙，送交該管警察派出所警員A。試問：（25分）\n①A對甲、乙各應如何處理？\n② A另查悉乙係福建金門地方法院通緝中之被告，因當日颱風來襲，無法於二十四小時內將乙解送該法院，A對此案之乙，應如何處置？",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=096120&c=303&s=c181&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-96-invjur-e04",
+  "source": "moex",
+  "session": "96 年刑事警察人員三等",
+  "year": 96,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "司法警察（官）詢問受拘提、逮捕之犯罪嫌疑人，於下列情形所取得之自白，法院各得否以之作為該嫌疑人（被告）論罪之證據？試具理由解答：（25分）\n①未先告知嫌疑人得保持緘默及得選任辯護人。\n②於夜間未經嫌疑人明示同意而予詢問。\n③對嫌疑人表示「如坦白認罪，將建議檢察官不向法院聲請羈押」，嫌疑人因而自白。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=096120&c=303&s=c181&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-invjur-e01",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "幫派老大甲與丙間素有仇隙，乃唆使其手下乙殺害丙，當乙依甲之指示攜帶刀械前往遂行任務時，不巧於前往丙家途中，為警盤查而查獲。試從我國刑法第二十九條教唆犯修正前後規定檢討甲、乙二人刑事責任如何？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "中華民國刑法",
+    "警察職權行使法"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "modifiedAfter": [
+      "113-06-24",
+      "113-07-31",
+      "114-05-28",
+      "114-08-01",
+      "115-03-13",
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 38,
+     "lastChange": "修正"
+    },
+    {
+     "law": "警察職權行使法",
+     "modifiedAfter": [
+      "100-04-27"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c091&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-invjur-e02",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲於某日深夜酒後駕車返家，不慎將行人乙撞傷倒地，甲見狀畏罪加速逃逸，適為駕車跟隨在後之丙發現，即自後追趕並攔下甲車及報警處理，經警當場測試甲呼氣之酒精濃度竟高達每公升０‧七五毫克，而乙經路人送醫急救，倖免未死。試問對甲應如何論罪？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c091&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-invjur-e03",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "甲某日提早下班，在任職之電子公司旁因會款糾紛殺乙。甲於警局調查時承認與乙因會款爭吵但否認殺人，於審判中則否認當日與乙會面及殺人。嗣甲於民庭訴請乙子繼承給付會款時，於民庭法官丙前言及殺乙，甲當日提早下班經守衛丁記載於工作日誌上，同事戊在公司上廁所時適望見甲殺乙，於派出所初作筆錄時明確陳述望見情形，嗣於檢察官及法院偵審時則囿於同事之情否認望見之事。問下列證據資料有無證據能力試分別說明之：\n①如甲被緊急拘提時拘提警官匆忙未告知得選任辯護人，其在警局中承認與乙爭吵之筆錄。（7分）\n②甲向民庭法官丙之陳述筆錄。（6分）\n③守衛丁記載之工作日誌。（6分）\n④戊在派出所之陳述筆錄。（6分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 29,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c091&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-invjur-e04",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "送達文書依刑事訴訟法第六十一條第一項規定，由司法警察行之。甲係刑事被告，住於台北市大安區，乙係轄區司法警察，依法送達甲97年7月1日審判期日傳票，問下列送達是否合法，試分別說明之：\n①乙下班返家途中，於捷運板橋站巧遇甲，乃當面於車站將傳票交予甲。（6分）\n②乙於Sogo地下超市巧遇甲之妻丙，將傳票交予丙。（6分）\n③乙於甲之住所會晤甲欲交傳票時甲拒絕並將乙趕出，乙匆促間將傳票自窗口丟入屋內桌上。（6分）\n④乙赴甲住所三次均無人在家（中、午、晚各一次）乃在信箱內留字條，請甲至轄區派出所向乙領取傳票。（7分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 29,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c091&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-invjur-e01",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲夜間開車在十字路口候停，被後方機車騎士乙撞上。甲下車，發現乙受傷，渾身刺青並有濃濃酒味，甲擔心乙鬧事，雖然車後燈被撞破，但仍隱忍而去。數日後，甲在加油站停車加油，碰巧乙也在加油，乙朝甲走來。甲以為乙有意問罪，急速倒車，結果撞上進入加油站的另一車輛，駕駛人受傷。甲只好下車認賠。事實上，乙並未認出甲，只是要告訴甲，甲的車子底盤黏著一個特大的塑膠袋。問：\n①甲第一夜離開事故現場的行為，是否成立肇事逃逸罪？（13分）\n②甲誤以為乙企圖問罪，倒車撞傷他人，能否主張緊急避難？（12分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c031&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-invjur-e02",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲因長期失業，缺錢花用，乃於98年1月間，先竊取其父銀行存摺、印章及密碼，再冒名銀行專員，致電乙誆稱：「貸款已撥款，須至銀行辦理語音轉帳，以利撥款」。乙信以為真，親赴銀行為其原有帳戶辦理語音轉帳功能。俟甲騙取該語音轉帳之密碼後，輸入乙之資料，將乙帳戶內存款50萬元轉帳匯入甲父帳戶內，再提領花用。試問：\n①甲應負何刑責？（15分）\n②甲若致電乙佯稱：「汝之子因背書借貸50萬元，遭人挾持，須匯款始得釋放」云云。乙因護子心切，未加查證即依甲之指示，匯款50萬元至甲父之帳戶，旋遭甲提領花用。則甲之刑責又應如何？（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c031&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-invjur-e03",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "甲、乙因細故口角，乙憤而抽出身藏之水果刀猛刺甲，甲急忙閃開，手臂被割傷一處，爭執時路人報警，警員丙迅至現場，乙見狀持刀逃走，遁入丁宅，丙追躡入丁宅捕獲乙，並扣得該行兇水果刀，檢察官重罪聲押乙成功，並以殺人未遂罪提起公訴，一審法院變更法條改判傷害罪刑，並撤銷乙之羈押，問下列甲乙主張是否有理（說明理由，次序不可顛倒）：\n①甲主張法院改判傷害罪係違法；乙則主張法院未為其指定辯護係違法。（12分）\n②乙主張丙入丁宅將其逮捕並扣押水果刀係違法；甲則主張法院撤銷羈押係違法。（13分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c031&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-invjur-e04",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "被告涉嫌駕駛小自客車與被害人機車發生碰撞，導致被害人死亡，被害人之配偶提出告訴，案經該管檢察官函送車輛行車事故委員會鑑定結果認為「被害人機車倒地前與系爭小自客車接觸之可能性不大」，偵查終結對被告為不起訴處分或為緩起訴處分，試問下列有關不起訴及緩起訴處分的救濟程序。\n①若被告獲得不起訴處分，告訴人提出再議，而遭駁回再議後，告訴人如何救濟？其救濟程序的性質為何？（12分）\n②若被告之緩起訴被撤銷後，上級法院檢察署檢察長認為被告聲請之再議有理由，依照刑事訴訟法規定之程序應如何處理？緩起訴期滿緩起訴未經撤銷，其法律效力如何？（13分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 29,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c031&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-invjur-e01",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲熱愛名畫成痴，得知富商A近來高價購得一幅張大千之山水畫，為圖將之據為己有，遂決定於某夜11點左右，潛入A宅行竊。試問，在下列情形下，甲之刑責如何？\n①翻牆並進入A宅後，正準備開始四處搜查該幅畫作所在之際，突然間，警鈴大作，甲為恐遭人發覺，不得不放棄行竊計畫，乃中斷其物色行為，悻悻然快速離去。（10分）\n②翻牆並進入A宅，經其仔細搜查後，發覺A宅內並無任何張大千之山水畫存在，甲失望而不得不放棄行竊計畫，悻悻然快速離去。（15分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c33&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-invjur-e02",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "乙任職於B公司為業務員，某日，由客户處收得公司之貨款20萬元現金後，因遭地下錢莊暴力討債，為求脫身，乃挪用該筆貨款以償債。數日後，由於公司催促其繳回該筆貨款，為掩人耳目，乙竟至轄區派出所謊報遭歹徒持刀搶劫，以致失金，警方受理乙之報案後，全力開始偵辦，但毫無進展。試問乙之上述行為如何論罪？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c33&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-invjur-e03",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "甲被檢察官乙以殺害直系血親尊親屬罪提起公訴，甲選任丙律師為其辯護人，於審判期日進行言詞辯論時，被告甲選任之辯護律師丙僅陳述：「辯護意旨如辯護書所載」，惟該辯護人丙實際上並未提出任何辯護書狀。於辯論終結後不久，法院對甲為有罪判決。請詳附理由論述法院所為之判決是否違法？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c33&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-invjur-e04",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "偵查法學",
+  "originalSubject": "刑法與刑事訴訟法",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "甲被檢察官乙以竊盜罪提起公訴。於準備程序，甲對警詢錄音、錄影及其筆錄之正確性有所爭議，受命法官丙即裁定另行勘驗，惟進行勘驗時，卻未通知被告甲及其選任之辯護人丁到場。請詳附理由論述受命法官所為勘驗之程序有無違法？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑法與刑事訴訟法_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c33&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-100-invjur-e01",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "某病患受重傷，亟需輸特殊血型之血液以便進行手術挽救生命。恰巧血庫內同型血液不足，動手術的醫生甲知道醫院內行政人員乙有同型血液，遂要求乙捐血，但乙拒絕，甲遂將乙綑綁後，強制從其身上抽血500c.c.用以救治該病患。問甲是否構成犯罪？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=1102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-100-invjur-e02",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲打電話給乙，表示要購買海洛英若干，乙答應後即攜帶海洛英出門前往約定地點，未料在半路上即遭警方查獲。試問乙構成毒品危害防制條例何項犯罪？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "毒品危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "毒品危害防制條例",
+     "modifiedAfter": [
+      "104-02-04",
+      "105-06-22",
+      "106-06-14",
+      "109-01-15",
+      "111-05-04"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 5,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=1102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-100-invjur-e03",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "甲在公共場所吸食毒品，警察以現行犯逮捕之，並將其帶回警察局詢問。甲之母親聽聞此事，即委任辯護人乙到場，乙要求與甲見面會談，偵查隊隊長以詢問正在進行中，拒絕乙之請求，也不讓乙進入詢問室。在警詢結束後，偵查隊隊長准許甲與乙會談，但派警察丙坐在一旁監督，丙聽到甲告訴乙：「我除了吸毒外，也販賣一些毒品」，丙將此事告知偵查隊隊長。請分析此案警察所有行為的合法性。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=1102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-100-invjur-e04",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "大學生甲在書店偷一本書，書店老闆將甲逮捕扭送警察局，警察乙在做完筆錄後，認為甲深具悔意，所偷竊之物品價值又極輕微。在警告甲不得再犯後，要其父母到場將甲帶回。請分析此案警察行為的合法性。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=1102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-invjur-e01",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲得知仇人之住處後，即找乙借車欲駕車前往殺害仇人，乙明知甲的意圖，仍出借車輛給甲。未料甲駕駛該車前往尋仇時，半路上車輛居然拋錨，甲只好找拖吊車將車拖至維修場修理，尋仇之事遂作罷。試問甲、乙之刑責為何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1305&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-invjur-e02",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲與乙約好交易毒品。甲將一包海洛因交給乙，乙正要拿錢給甲時，突遇警方盤查，乙顧不得尚未付錢，立刻拔腿就跑，後甲遭警方逮捕。試問甲構成何罪？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "警察職權行使法"
+   ],
+   "detail": [
+    {
+     "law": "警察職權行使法",
+     "modifiedAfter": [],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 0,
+     "lastChange": "",
+     "manual": true,
+     "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1305&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-invjur-e03",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "甲與乙持刀進入超商，喝令櫃檯店員不准動，拿走收銀機內的現金後揚長而去。警察循線逮捕甲、乙二人，甲於警局接受偵訊時均避重就輕，說詞迂迴閃躲，詢問的警員為了釐清真相告以「不要再騙了，乙都已經認罪了」、「你都不敢承擔自己做的，筆錄再這樣作，你一定會被收押」等話語，事實上，乙堅持否認犯罪，甲擔心收押而無法回家過年，於是坦承犯罪，試問：自白任意性之法理基礎為何？甲之自白是否具有任意性？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 27,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1305&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-invjur-e04",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "警員甲等人依據線上監聽得知乙欲與丙在約定處所進行毒品交易，情形急迫，於追躡到場時，發現乙、丙已經同在車內，甲上前表明身分後逮捕二人，為避免妨害現場附近之交通，甲先將人、車帶回最近之警察局，之後再對乙、丙與汽車實施搜索，並在車上發現毒品與槍、彈，乙辯稱槍、彈係承辦警員栽贓，辯護律師主張警察查獲之證物是違法取得，試問：警員甲所搜扣之槍、彈有無證據能力與可否作為論罪之依據？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法",
+    "通訊保障及監察法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 27,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
+    },
+    {
+     "law": "通訊保障及監察法",
+     "modifiedAfter": [
+      "103-01-29",
+      "105-04-13",
+      "107-05-23",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "103 年以前涉及通聯調取的題目多已過時"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1305&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-invjur-e01",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲不知自己涉嫌犯罪已被通緝，對於前來逮捕之便衣警察乙，以為是來犯之歹徒，遂以暴力反抗，不欲就逮，乙因而受傷，而甲乘機脫逃。試問：甲之刑責為何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1205&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-invjur-e02",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "15歲之甲、乙兩姐妹同床而睡，歹徒丙潛入睡房內，欲向乙強制性交，乙驚醒大叫，因而吵醒甲，甲見狀後允諾，若丙停止對乙施暴且支付新臺幣3千元，其願以身相許，丙遂與甲性交易而放棄乙。試問：依據刑法或兒童及少年性交易防制條例之相關規定，丙之刑責為何？（25分）",
+  "staleRisk": {
+   "level": "高",
+   "laws": [
+    "中華民國刑法",
+    "兒童及少年性剝削防制條例"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "modifiedAfter": [
+      "113-06-24",
+      "113-07-31",
+      "114-05-28",
+      "114-08-01",
+      "115-03-13",
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 30,
+     "lastChange": "修正"
+    },
+    {
+     "law": "兒童及少年性剝削防制條例",
+     "modifiedAfter": [
+      "104-02-04",
+      "106-11-29",
+      "107-01-03",
+      "112-02-15",
+      "113-08-07"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "高",
+     "changeCount": 5,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1205&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-invjur-e03",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "甲遭人指控性侵，承辦警察逕以電話通知之方式，要求甲前往警察分局接受詢問。甲於18時40分自行到警局，詢問時雖被告知得選任辯護人，惟拒絕夜間詢問。之後，甲委任之律師乙到場，同意接受詢問，卻等到半夜一點多仍未開始詢問，乙乃先行離開，警察直到二點多才加以詢問，警詢時律師並未在場。\n①警察不依規定使用通知書，是否違背法定程序？（10分）\n②如題所載之警詢筆錄是否有證據能力？（15分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 25,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1205&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-invjur-e04",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "甲與乙妻丙在汽車旅館通姦時，乙陪同警察丁前來捉姦。乙要求甲付出遮羞費100萬元即不提出告訴。惟當甲付出100萬元以後，乙仍然提出通姦之告訴。試問乙對甲之告訴是否適法？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1205&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-invjur-e01",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲見電線桿上張貼懸賞1萬元尋找走失貴賓犬的啟事，於是打電話給失主乙，向乙佯稱狗在他手上，若想領回，必須依指示匯款3萬元，乙聲稱獎金只有1萬元，但甲堅稱要3萬元，否則將棄置於山區，乙擔心寵物安危，依約匯款，甲則失聯。問：甲的刑責為何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1205&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-invjur-e02",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲是太陽會的副會長，該會為天道盟的分支組織，副會長擔任文職工作，主要負責溝通，另設有組長、捍衛隊、特攻隊等。該會並成立太陽集團公司，旗下共有7家公司，以合法公司掩飾該會運作之事實。甲於會長入監服刑時，代理該會會長，負責操縱、指揮該會。乙於甲代理會長時參與該會，並聽從其指示做事。期間，甲曾經指示乙向經營牛郎店的丙索取保護費，如丙拒絕，則至該店滋事，使其無法營業，以迫使丙繳納。乙顧及丙是其先前跟隨的大哥之胞弟，最後未依甲的指示行事。問：甲、乙的刑責為何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1205&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-invjur-e03",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "檢察官於101年2月14日以關係人名義傳訊甲，經調查相關證據及告訴人乙之代理人表示欲將甲列為被告後，於同年2月28日以甲涉有詐欺罪嫌為由簽分偵字案，並於同年10月15日提起公訴。問：法院是否能直接採用甲於偵查中為不利於己之陳述，作為論罪之基礎？理由何在？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "113-07-31",
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1205&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-invjur-e04",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "甲涉嫌觸犯妨害風化罪，在拘留所接受詢問時遭警員毆打。稍後，在檢察官履行告知義務後進行偵訊，甲於已委任辯護人之情形下，未將遭警員刑求之事項立即向檢察官陳明，其辯護人反而表示：甲都承認犯行，請求檢察官給予甲交保等語。問：檢察官的偵訊筆錄是否具有證據能力？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 24,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1205&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-invjur-e01",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲以竊盜之故意侵入乙宅，取得財物後即被乙發覺，立即潛逃，惟乙緊追在後，甲迫不得已逃至距乙宅頗遠之垃圾場躲避。乙仍四處搜尋甲之蹤跡。2小時之後，甲認為乙應已離開，遂從藏身處所離開，未料，途中遇到乙，甲、乙兩人展開格鬥，乙被甲拿起路旁之鐵棒猛擊頭部，當場死亡。試論甲構成何罪？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1105&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-invjur-e02",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "乙向其友人甲云：「欲與未成年女子為性交行為」，甲遂意圖營利，介紹15歲女子丙與乙為性交易行為。試論甲、乙二人成立何罪？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1105&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-invjur-e03",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "司法警察官甲因有調查犯罪嫌疑人乙犯罪及蒐集證據之必要，以通知書合法通知乙到場詢問，惟乙無正當理由未到場，甲立即親自拘提乙後，並搜索乙之身體取得毒品。試論司法警察官甲搜索取得之毒品，是否具有證據能力？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 19,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1105&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-invjur-e04",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "甲被檢察官以殺人罪嫌提起公訴，準備程序時，被告甲及其所選任之辯護人明知檢察官提出目擊證人於審判庭外所做成之書面陳述係為傳聞證據，仍明示同意作為證據；惟甲於第一次審判期日時，立即向合議庭表示撤回該同意。試論法院是否仍得將目擊證人於審判庭外所做成之書面陳述作為裁判之依據？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 19,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1105&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-invjur-e01",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲、乙兩人基於共同傷害之犯意，找丙尋仇。某日，在路上堵到丙，兩人隨即毆打丙，丙倒地後仍不斷罵三字經，並大吼「有種就打死我！」，甲、乙本欲離去，乙聽後大怒，繼續朝丙亂毆，導致丙重傷，甲當時呆站在旁。試問甲、乙之刑責？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1105&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-invjur-e02",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲基於販賣之意思，於泰國向不知名人士購入毒品海洛因，並聯絡好買主乙，乙依約先匯一筆定金至甲指定之帳戶，甲即搭機返臺，未料在機場即被查獲。試問甲構成何罪？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1105&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-invjur-e03",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "甲因涉嫌殺人遭拘捕到案，檢察官訊問後向法院聲請羈押。甲之辯護人於聲押庭中要求閱覽共犯乙之訊問筆錄以及對被害人之鑑定報告，但均遭拒絕，後法院裁定羈押甲。試問此裁定是否合法？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1105&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-invjur-e04",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "實務上，有對被告施以測謊。試問依據現行法測謊屬於何種證據方法？在那些條件下，可認具有證據能力？法院對於被告接受測謊係「不通過」之結果，該如何評價？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 19,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1105&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-invjur-e01",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲開槍射殺乙，射殺後於心不忍，遂打電話呼叫救護車救乙，救護車在前往醫院途中，被闖紅燈的丙攔腰撞上救護車，乙當場死亡。事後證明，乙雖中槍傷，但並無大礙，若沒有發生死亡車禍，應可及時送醫倖免於死。試問甲之刑責？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "警械使用條例"
+   ],
+   "detail": [
+    {
+     "law": "警械使用條例",
+     "modifiedAfter": [
+      "111-10-19"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1305&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-invjur-e02",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲與乙女在旅館內進行性交易，被警方臨檢查獲，警方查驗證件時，發現乙女實際上僅有15歲，惟乙女外表打扮成熟，客觀上甲無從辨認乙是未成年人。試論甲構成何罪？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1305&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-invjur-e03",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "甲趁警員乙合法搜索汽車之際，趁隙逃跑並逃入丙之住宅。乙緊隨在後闖入丙宅搜索，後在臥室內找到甲並將之逮捕，同時在臥室的化妝台上，看見手槍一支，乙當場將之扣押。試問警員乙以上之行為是否合法？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1305&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-invjur-e04",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "甲涉嫌違犯行賄罪，警察在聲請搜索票獲准後，搜查甲的住家。甲得知後，通知甲的辯護人乙一同趕到甲的住家，並表示均希望在場。執行搜索的司法警察同意甲在場，但是要求乙立即離開。搜索後，警察扣得記載行賄對象與金額的帳冊。於審判中，檢察官提出該帳冊為證據，證明甲的行賄行為。試問警察得否拒絕乙在搜索扣押時之在場？警察於乙不在場時所得的帳冊是否具有證據能力？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 17,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1305&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-invjur-e01",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲、乙二人素有仇隙，某日甲駕駛汽車出外旅遊途中，適逢乙獨自散步於路旁，甲見狀想要以開車撞擊乙之方式報仇，且心中認為撞死亦無妨，遂開車撞向乙致當場死亡，甲並駕車逃離現場。試論甲應成立何罪責？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1106&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-invjur-e02",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲因股票失利而缺錢，見乙經常駕駛高級轎車接送小孩丙上下課，某日趁乙尚未到達學校前，強行將丙押走，關押於汽車旅館並取得乙的電話後，打電話給乙要其準備新臺幣1千萬元以贖回丙，經乙與甲談妥以新臺幣5百萬元贖回丙之條件後，甲在未取得贖金前，將丙釋放。試論甲成立何罪責？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1106&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-invjur-e03",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "甲為海軍某支部電工廠技術人員，涉犯刑法第335條侵占罪嫌，司法警察於甲軍中指揮官未到場之情形下，竟對甲訛稱指揮官到場，並以必遭羈押及停職等語脅迫甲，對甲取得之自白，3小時後將甲移送檢察官偵辦。甲於檢察官合法偵訊時亦自白其犯罪情事，檢察官偵查終結，向管轄法院提起公訴，審判期日時甲之辯護人主張，該檢訊筆錄不具任意性無證據能力。試論辯護人之主張是否有理由？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "中華民國刑法",
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "modifiedAfter": [
+      "113-06-24",
+      "113-07-31",
+      "114-05-28",
+      "114-08-01",
+      "115-03-13",
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 23,
+     "lastChange": "修正"
+    },
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 16,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1106&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-invjur-e04",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "甲涉犯刑法傷害罪嫌，經被害人告訴，檢察官偵查終結後，向管轄法院提起公訴，受命法官依法行準備程序時，僅依目擊證人乙之檢訊筆錄記載「審判期日有要事無法到庭」，遂傳喚證人乙到庭進行調查目擊事項。請詳附理由說明傳喚證人乙到庭進行調查目擊事項程序是否合法？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "中華民國刑法"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "modifiedAfter": [
+      "113-06-24",
+      "113-07-31",
+      "114-05-28",
+      "114-08-01",
+      "115-03-13",
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 23,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1106&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-invjur-e01",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲為乙女之長子，2人同住在一起，具有家庭暴力防治法第3條第3款規定之家庭成員關係。甲因經濟狀況不佳，長期照顧久病之乙，身心俱疲，竟酒後與其配偶丙發生爭執，心情低落，又受乙責備，一時氣憤，衝進住處廚房拿取菜刀2把，甲明知頭顱為人類身體之重要部位，如持利器砍擊該部位，足以產生使人死亡之結果，竟基於殺害乙之犯意，持菜刀2把追趕乙，並持菜刀2把朝乙頭部及身體其他部位揮砍至少10餘刀，乙倒臥客廳後拜託甲報案救護，甲竟對倒臥在血泊中之乙稱：要讓你血流乾，等你死了，其就自殺等語。嗣後因乙之次子丁返家後見狀立即報案，乙於同日晚間至戊醫院急診，惟仍因此受有失血性休克、頭部及全身多處撕裂傷等傷害，並於翌日術後入加護病房觀察，始倖免於難。試論甲應構成何罪？請詳述理由說明。（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "家庭暴力防治法"
+   ],
+   "detail": [
+    {
+     "law": "家庭暴力防治法",
+     "modifiedAfter": [
+      "110-01-27",
+      "112-12-06"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1406&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-invjur-e02",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲為高中畢業，有多年工作經驗，依其社會生活通常經驗，可預見將金融機構帳戶之存摺、提款卡或密碼等帳戶工具交付他人，可能成為不法集團詐欺被害人財物時，供匯交、提領款項所用，進而幫助該不法集團遂行詐欺取財犯行，且該不法集團於被害人匯入詐欺取財之贓款後，可再利用語音轉帳或以存摺、金融卡提領等方式，將詐欺犯罪所得之贓款領出，使檢、警、憲、調人員與被害人均難以追查該詐欺犯罪所得財物，而掩飾該不法集團所犯詐欺犯罪所得之去向，仍基於縱使他人利用其所提供之金融帳戶工具實施詐欺取財，並作為掩飾詐欺取財罪不法犯罪所得去向之用，亦不違其本意之洗錢及幫助詐欺不確定故意，將其所有之A金融帳戶之存摺、提款卡及密碼，交付予姓名及年籍均不詳之詐欺集團成員，以供該詐欺集團成員存、提款、轉帳及匯款所用，以此方式幫助該詐欺集團成員向他人詐取財物。嗣該詐欺集團成員即利用甲所提供之A帳戶存摺、提款卡及密碼等資料，以訛稱先前網路購物遭錯誤設定為分期約定轉帳，將導致重複扣款，需協助取消設定等方式，向乙施用詐術，致乙因此陷入錯誤，匯款新臺幣3萬元至上開A帳戶內，該姓名及年籍不詳之詐欺集團成員詐得上揭金額後，旋即自上開A帳戶內提領一空，而掩飾該詐欺取財罪犯罪所得之去向。試論甲應構成何罪？請詳述理由說明。（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "洗錢防制法",
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "洗錢防制法",
+     "modifiedAfter": [
+      "112-06-14",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "全文修正",
+     "manual": true,
+     "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
+    },
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "113-07-31",
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1406&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-invjur-e03",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "甲因涉及傷害案件，經檢察官起訴後，於第一審法院審理中，甲並未選任辯護人，亦未經法院指定辯護人，甲為證明自己清白，聲請法院拷貝付與檢察官引為證據之監視器錄影光碟內容，以供自己能詳細看過，作為訴訟防禦之用，試論法院應否准許？請詳述理由說明。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1406&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-invjur-e04",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "甲明知甲基安非他命係毒品危害防制條例所列管之第二級毒品，不得非法持有及販賣，竟基於販賣第二級毒品甲基安非他命以營利之犯意，以所持用行動電話連結網際網路登入A通訊軟體，並以暱稱「聞」在前開通訊軟體之「總代理」群組內，發送「銷售$品質優」之販售毒品訊息，伺機向不特定人兜售前開毒品。適有警員乙在執行網路巡邏勤務之際，見狀便與甲使用上開通訊軟體交談，雙方議定在B便利商店見面，以新臺幣8,000元之價格，販賣第二級毒品甲基安非他命5公克後，甲即騎乘機車攜帶上開毒品至B便利商店，擬與佯裝購買毒品之警員乙見面交易毒品，藉此販賣牟利。嗣甲抵達後，即與佯裝購買毒品之警員乙確認交易數量及價金，警員旋即表明警察身分，當場逮捕甲，並扣得上開第二級毒品及供甲聯繫販賣毒品事宜所使用之上開行動電話1支，甲始未得逞。試論扣案之第二級毒品甲基安非他命5公克及甲持用之行動電話1支，有無證據能力？請詳細敘明理由。（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法",
+    "毒品危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 14,
+     "lastChange": "修正"
+    },
+    {
+     "law": "毒品危害防制條例",
+     "modifiedAfter": [
+      "109-01-15",
+      "111-05-04"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1406&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-invjur-e01",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲於108年12月7日中午某時許，駕駛自用小客車，行經高雄市某巷口附近，適有未滿14歲之A女參加學校活動結束後，獨自行走於該處，竟將A女強行拉進其所駕駛之汽車內，載往不詳地點，以非法方式剝奪A女之行動自由，隨即違反A女意願，予以強制性交得逞後逃逸。嗣A女於同日下午某時許，告知其母B女上情，由B女陪同前往某醫院驗傷、採證，經該院人員主動通報警察前往處理，將採得DNA型別輸入檔案資料庫。旋由員警乙開始調查，調閱巷口監視器影音檔案，分析、過濾影像，及經A女指認後，發覺甲為犯罪嫌疑人，於翌日（即同年月8日）下午某時許接獲線報，旋即掌握甲行蹤，認情況急迫而逕行拘提，於執行後即報請檢察官核發拘票，員警乙乃因蒐集證據之必要，違反甲之意思，強制採取甲之唾液，經送鑑定比對結果與前開建檔資料相符。案經檢察官偵結起訴，於審理中甲否認犯罪，聲請傳喚A女到庭作證，惟A女出具醫師診斷證明書顯示已罹患嚴重之創傷症候群，不願再回憶該件往事，法院傳訊B女除供述A女向其哭訴情節外，並陳明A女已離家出走暫不知去向之情況。法院乃不待A女到庭接受交互詰問，欲審結案件。甲就下列主張是否有理由？試申論之。\n①警方逕行拘提甲及未得同意強制採取唾液，其程序俱屬非合法。（15分）\n②A女警詢筆錄無證據能力，若採為有罪證據之一，侵害甲受憲法保障之訴訟權與正當法律程序。（10分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 10,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1206&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-invjur-e02",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲擔任俗稱車手角色參與由乙發起而組成之電信詐欺犯罪集團，該集團成員分別佯裝電信公司與銀行人員，假借參加某銀行彩券抽獎名義，先由該詐欺犯罪集團成員丙，於108年2月20日向被害人A男佯稱：「你抽獎中了頭獎新臺幣（下同）100萬元，預先支付10 %稅金後，獎金即匯入你帳戶。」使A男信以為真，如數交付10萬元款項與甲。復於同年3月15日再向A男佯稱：「稅捐稽徵機關表示需完納20%稅金後，始得匯入中獎獎金。」使A男再陷於錯誤，仍如數交付不足稅款10萬元於甲後，A男至此始驚覺有異。嗣同年4月5日該詐欺犯罪集團成員丙再次實施詐騙行為，要求A男再繳交保證金10萬元，A男乃與警方配合佯裝受騙，由警方提供玩具鈔面額共計10萬元，交由A男帶同員警丁至上開詐欺集團成員丙指示之地點與甲見面，並將上開玩具鈔交與甲，旋為員警丁當場逮捕而未能詐得該10萬元。試問甲應構成何罪？員警偵查程序是否合法？請申論之。（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "113-07-31",
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1206&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-invjur-e03",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "甲明知海洛因係毒品危害防制條例所公告列管之第一級毒品，不得持有、販賣，竟意圖營利，以行動電話為聯絡工具，分別於108年8月10日凌晨1時許、同年9月1日下午某時許、同年9月15日上午某時許，撥打至乙行動電話並互相傳送簡訊，雙方各約定以2,500元、5,000元、1萬元交易海洛因後，乙先於該當日匯款至甲某信託銀行帳戶內，甲再將海洛因郵寄至乙之澎湖處所，利用不知情郵務人員完成交付，並藉此營利。甲復於同年10月20日上午某時許，以上開聯絡方式，與乙約定以1萬元交易海洛因後，即指示某不知情之姓名年籍不詳綽號「小李子」成年男子，在高雄市某便利商店前交付海洛因與乙，並收取價金1萬元，「小李子」再將價金轉交甲，甲則藉此營利。嗣甲向警方供述毒品海洛因係向丙購得，警方乃將丙移送檢察官偵辦，經檢察官偵查終結後，認犯罪嫌疑不足，為不起訴處分並經再議駁回確定。試問甲應如何論罪？其主張所為應屬集合犯及供出毒品來源應減輕其刑，是否有理由？請詳細說明之。（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "毒品危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "毒品危害防制條例",
+     "modifiedAfter": [
+      "111-05-04"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1206&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-invjur-e04",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "甲明知槍砲係槍砲彈藥刀械管制條例所列管之違禁物，非經中央主管機關許可，不得非法販賣、運輸，且為行政院依法公告之管制進出口物品，未經許可不得私運進口入境臺灣。於108年9月上旬某日，接受真實姓名年籍不詳綽號「勇哥」之成年男子委託，自菲律賓馬尼拉市某處，透過不知情之物流公司，將持有綽號「勇哥」所有之30把制式手槍，以海運方式寄送至高雄港。經不知情之報關行報關理貨後，甲則於同年月下旬某日，駕駛自小貨車，前往某貨運公司服務處，冒用「湯瑪士」之名義，在客戶簽收單上偽造「湯瑪士」之署名，佯稱其為「湯瑪士」本人，再將該偽造之簽收單交與某貨運公司承辦人，使某貨運公司之承辦人誤信甲為「湯瑪士」本人後，旋由甲領取該貨物離開。嗣甲明知上開私運進口之制式手槍，係真實姓名年籍不詳綽號「勇哥」之成年男子所有，於取得該制式手槍後，因需款孔急，竟另行起意，將該制式手槍據為己有，並自同年10月12日起至同年月14日止，以每把約新臺幣30萬元之價格，在高雄地區將該30把之制式手槍，分為6次販賣予姓名年籍不詳之某成年男子。嗣經警方執行通訊監察，得悉甲涉嫌走私制式手槍，並運輸進入臺灣後私吞入己，經報請檢察官核發拘票拘提到案後，主動供述前開販賣制式手槍之事實，警方始知悉整個犯罪全貌。試問甲如何論罪？其自動供承之販賣制式手槍罪部分，有無刑法第62條自首規定之適用？請申論之。（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "中華民國刑法",
+    "槍砲彈藥刀械管制條例",
+    "通訊保障及監察法"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "modifiedAfter": [
+      "113-06-24",
+      "113-07-31",
+      "114-05-28",
+      "114-08-01",
+      "115-03-13",
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 16,
+     "lastChange": "修正"
+    },
+    {
+     "law": "槍砲彈藥刀械管制條例",
+     "modifiedAfter": [
+      "109-06-10",
+      "113-01-03"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    },
+    {
+     "law": "通訊保障及監察法",
+     "modifiedAfter": [
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1206&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-invjur-e01",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲利用電腦設備連結司法院刑事裁判書類之網站，尋獲有乙姓名之違反廢棄物清理法之有罪判決，惟乙僅係該案之證人，甲下載上開判決後，以電腦除將該判決之當事人被告欄改成乙外，主文欄、事實理由欄等內容亦進行更改，更改後之內容足以表彰乙違反清除、傾倒廢棄物而經法院判刑之意。並將更改後之判決內容儲存於光碟，以顯示於他人。試論甲之罪責。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1406&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-invjur-e02",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲因股票投資失利，對即將慘遭斷頭之股票，苦無辦法，因而某日夜晚潛回家中，將其父乙之古董竊出變賣。嗣後乙發現家中所藏古董遭竊，乙至檢察署向檢察官申告犯罪事實，並請求檢察官追訴。檢察官偵查終結後，向管轄法院對甲提起竊盜罪之公訴。試論該管法院對甲應如何裁判？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1406&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-invjur-e03",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "甲因缺錢用，持刀在乙無法抗拒下奪取財物時，發現乙是有錢人，將乙綑綁押至無人處所，逼迫乙說出電話，嗣後向乙家人勒贖新臺幣五千萬元；惟甲在未取贖前，認為可能已被警方察覺，害怕之下將乙釋放後而逃逸。試論甲之罪責。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1406&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-invjur-e04",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "強盜案件之目擊證人甲，於受警察乙調查時，除指陳犯罪行為人是丙外，還詳細陳述其目擊經過事實。嗣於法院審判時，甲以證人身分被傳喚作證，卻稱：「我不知道」、「我忘了」等語。試論法院是否得將甲於警詢製作之筆錄作為裁判之依據？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1406&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-invjur-e01",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲平日厭惡丙，某日鄰居遭竊，為陷害丙，明知丙為錯誤的犯罪嫌疑人，要求司法警察乙逮捕無辜的丙，乙受理報案後，即依職權將丙逮捕。試問：甲、乙之可罰性為何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1306&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-invjur-e02",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲因飲酒駕車，為司法警察乙所查獲，也達到裁罰標準，甲為脫罪，遂以朋友的身分證登記，導致乙在其所開之裁罰單為不實之記載，試問：甲、乙之可罰性為何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1306&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-invjur-e03",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "偵查員甲欲盤查有多筆毒品前科之民眾乙，經其同意目視檢查車內或車廂或置物箱，發現疑似吸毒隨附器具（夾鏈袋、噴槍式打火機、酒精棉片或生理食鹽水小瓶等），甲進而要查看盒裝品、小夾鏈包等（疑似藏毒外盒），當事人表示不願意給警方查看，甲主張該情況客觀顯示有持有吸食毒品之嫌疑，要求乙打開該盒裝品、小夾鏈包。試問：甲之偵查行為是否合法？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1306&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-invjur-e04",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "甲於民國107年4至5月間經由乙之引介，加入乙所屬詐欺集團，並受乙之指揮，於同年5月間多次持該集團所持有之某人頭帳戶提款卡，提領該詐欺集團詐騙被害人匯入該人頭帳戶之款項，並交予其他成員。該犯行嗣後為警察查獲，甲之可罰性為何？試從大法庭見解，以及相關學理加以分析。（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "洗錢防制法",
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "洗錢防制法",
+     "modifiedAfter": [
+      "112-06-14",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "全文修正",
+     "manual": true,
+     "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
+    },
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "113-07-31",
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1306&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-invjur-e01",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲經營某餐廳，生意興隆，不久染上電玩賭博，欠下鉅額賭債。賭場老闆將該債權轉讓給A，由其出面斡旋解決。但是，甲拒絕出面，於是A指派B、C等人前往該餐廳（營業時間）去處理該債務。B、C等人到達該餐廳後，就跟所有食客宣稱：「今天不營業了，請你們離開」，並霸占餐廳座位，但又拒不點餐，並跟店員乙說：「你們老闆欠錢不還，今日你們就不用做生意了」。甲聞悉後立即報警處理，轄區員警丙、丁兩人據報旋即前往現場處理，C未察覺有異，仍至櫃檯向該餐廳經理戊宣稱：「我要的是收銀機所有的錢，交給我來抵債，若不交我就搞死你」，戊回應稱：「你找錯人了，這不關我的事」，拒絕了C的要求。此時，員警丙、丁到達現場，經初步偵查後，認為B、C等人並非消費而涉有罪嫌，立刻回報請求警力支援。C見狀即向丙、丁兩人表示：「我們是受人之託前來處理債務，這是民事糾紛，請不要干涉我們。」同時，也憤怒地舉起大哥大聯絡A，並大聲向丙、丁吼叫：「已聯絡律師，會有更多人來支援我們」。員警丙、丁見狀立即要求解散、離開，B、C等人仍置之不理。試回答下列問題：\n①現場員警丙、丁依據上述事實，A、B、C等人成立何種犯罪，試分別說明之。（15分）\n②現場員警丙、丁如何依據上述現場事證，進行蒐證，以確認與本案有關的「犯罪嫌疑」，試列舉出5項與本案有關的取證行為。（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1406&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-invjur-e02",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "依照我國刑事訴訟法有關「證人具結的程序」，其類型可分為三種，第一種類型為「依法不得令其具結之證人」、第二種類型為「依法得不令其具結之證人」、第三種類型為「依法應令其具結之證人」。\n①這三種類型的證人，在程序要件上的內容為何？試分別說明之。（10分）\n②這三種類型的證人，若已完成或是未完成證人具結程序，其證據能力如何？試分別說明之。（15分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 6,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1406&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-invjur-e03",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "有關被告在刑事訴訟程序上得請求「資訊權」的規定，為被告訴訟防禦權的實質核心內涵。上述所謂被告得請求「資訊權」，是指有關被告依據訴訟程序規定，得以「獲知」被追訴的事項以及證明事實的證據，以進行訴訟防禦權。試依照我國刑事訴訟法相關的程序，分別說明之。（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 6,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1406&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-invjur-e04",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "員警甲透過監聽資料研判乙涉嫌持有毒品，聲請到搜索票後，就到乙的住宅進行搜索，而該搜索票上記載案由為「違反毒品危害防制條例」，所列應扣押物為第一級、第二級毒品等多項毒品。甲搜索乙的住宅，只找到吸食工具，卻未搜到毒品。於是甲持續再找後，在乙的房間內櫃子的最下層裡面放置一箱紅色置物盒，赫然發現該盒內裝滿槍彈，甲隨即規勸乙交出毒品，乙回應說：「不知道，隨便啦」。此時，甲出示自願性搜索同意書要求乙簽字，用以證明乙同意甲繼續搜索，乙無奈之下只好簽下同意書，甲同時發現乙的眼神卻一直瞄向戶外的機車，甲有所警覺，於是要求乙自行打開該機車的置物箱，發現疑似海洛因一包。試問：\n①員警甲所扣得的槍彈，是否具有證據能力，請附理由說明之。（10分）\n②員警甲所扣得的海洛因一包，是否具有證據能力，請附理由說明之。（15分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法",
+    "通訊保障及監察法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 6,
+     "lastChange": "修正"
+    },
+    {
+     "law": "通訊保障及監察法",
+     "modifiedAfter": [
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1406&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-113-invjur-e01",
+  "source": "moex",
+  "session": "113 年刑事警察人員三等",
+  "year": 113,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 70,
+  "stem": "甲為詐騙集團成員，擔任車手，負責提領詐騙所得款項，某日收到該集團水房部門之指示，持提款卡至超商提款機，擬提領被害人因遭該集團詐騙而匯入指定銀行帳戶內款項。由於甲頻頻換卡又在操作提款機時，以手機不斷詢問並回報有關帳戶跟密碼的問題，超商店員A懷疑甲可能是車手，便悄悄報警處理。但員警B到場時，甲早已結束操作並已離開超商，A見B到來，便主動告知甲的長相、身高、穿著等外貌特徵以及離去的方向，B騎機車循線追去，很快便在距離超商600公尺的騎樓處，發現正一邊悠閒抽菸一邊整理提款卡與現金並將之收進包包的甲，B見狀便下車上前詢問：「這些卡都是你的？證件我看一下」，甲回說：「證件沒帶，都是我的卡」，B又加重語氣再問一次：「這麼多卡，真的都是你的？」，甲做賊心虛緊張到開始發抖結結巴巴地說：「有些是朋友的」，B接著問：「所以是幫朋友領錢？打電話給你朋友，我向他確認一下」，甲抖的更厲害一時說不出話，B接著又說：「你包包打開，我看一下」，甲一打開，B就看到包包內裝有大量千元現鈔和一大疊提款卡（事後合計有30萬元及20張卡）。於是立刻以無線電聯絡警局同仁即時查證這些提款卡上所載帳號之帳戶現狀，發現竟有多達10張卡已被列為警示帳戶。於是B當場將甲逮捕並以詐欺罪移送法辦。\n①B所為逮捕是否合法？（15分）\n②本件起訴後，承審法院認為甲係以一行為觸犯組織犯罪防制條例第3條第1項後段之參與犯罪組織罪，及刑法第339條之4第1項第2款之加重詐欺取財罪，依刑法第55條前段規定從一重之加重詐欺取財罪處斷而為科刑，此時應否按組織犯罪防制條例第3條第3項之規定一併宣告刑前強制工作？（25分）\n③A以證人身分到警局說明，當日員警經踐行刑事訴訟法所定訊問證人之程序，並將A之供述製作成筆錄。之後，A遭遇車禍不幸身亡。試問A之筆錄可否作為證明甲有罪與否之依據？（30分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "中華民國刑法",
+    "刑事訴訟法",
+    "洗錢防制法",
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "modifiedAfter": [
+      "113-06-24",
+      "113-07-31",
+      "114-05-28",
+      "114-08-01",
+      "115-03-13",
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 6,
+     "lastChange": "修正"
+    },
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    },
+    {
+     "law": "洗錢防制法",
+     "modifiedAfter": [
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "全文修正",
+     "manual": true,
+     "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
+    },
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "113-07-31",
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1106&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-113-invjur-e02",
+  "source": "moex",
+  "session": "113 年刑事警察人員三等",
+  "year": 113,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 30,
+  "stem": "就偵查手法而言，有所謂「釣魚」、「陷害教唆」以及「控制下交付」三種概念，請分別說明其之意義、合法性判斷標準以及三者的體系關係。（30分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1106&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-invjur-e01",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "警方經檢舉某詐欺集團疑似在某區大樓設立機房，為蒐集證據，警方可否使用「M化偵查網路系統」（下稱「M化車」）蒐證所得之國際行動設備識別碼及該手機使用門號國際行動用戶識別碼，與透過此攔截之訊號連結而得即時定位獲悉該手機位置等資料，依定位地址前往現場埋伏、觀察所得犯罪相關情狀及有關車輛資訊與車主前案紀錄，向法院聲請搜索票？又搜索所得證據是否有證據能力？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法",
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    },
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1208&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-invjur-e02",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲與友人乙至某KTV歡唱，因細故與其他客人發生口角，雙方互毆。經店員報警，甲、乙迅速開車離開，並衝撞到場警察A、B的警車。隨後A、B將甲、乙拉下車，一方面將甲、乙壓制在地，並上手銬，控制甲、乙之行動及控制其二人所隨身攜帶之背包，查看其身上有無危險物品；另一方面，待支援警力到達後，翻查該背包，當場於隨身背包內查獲改造手槍1支及子彈14顆，作為扣案證據。甲、乙辯稱A、B無搜索票，且未出示證件，取得其同意，其搜索不合法。請問本案警察取得手槍、子彈的程序是否合法？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1208&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-invjur-e03",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "甲與其妻乙發生爭吵及肢體衝突，警察A接獲乙通報家庭暴力事件到場。乙害怕甲殺她，主動告知A購買槍彈藏放地點，A經乙同意，乙並親自簽立自願受搜索同意書後，在放置甲健身器材房間跑步機旁取出槍彈。甲抗辯該房屋係其出面承租，雖與乙共同居住，但乙不使用該房間及健身器材，並非專屬乙個人使用之房間，乙無同意權限，A的搜索違法。請問甲的抗辯是否有理由？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1208&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-invjur-e04",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "偵查法學",
+  "originalSubject": "偵查法學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "甲因友人遭人埋伏毆打，懷疑是A通風報信。為圖謀報復，邀集乙、丙、丁等3人，由乙駕車搭載，並攜帶西瓜刀、球棒等兇器，依甲之指示前往某店，甲另指示丙邀約A前來談判，A為壯膽，夥同B、C到場。雙方見面一言不合大打出手，甲即指示丙、丁分持西瓜刀追砍A、球棒追打B、C成傷，並砸壞該店桌椅。乙在旁吶喊加油。前開眾人鬥毆的行為引起該店顧客恐慌，紛紛逃離，並通知警察到場。請問甲、乙、丙、丁成立何罪？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "偵查法學_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1208&q=1",
+   "answerUrl": ""
+  }
+ }
+]

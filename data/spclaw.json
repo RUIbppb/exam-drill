@@ -1,0 +1,4193 @@
+[
+ {
+  "id": "cpu2-105-spclaw-01",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "下列何者屬犯罪行為？",
+  "options": {
+   "A": "施用第四級毒品者",
+   "B": "施用第三級毒品者",
+   "C": "持有第四級毒品純質淨重十公克者",
+   "D": "持有第三級毒品純質淨重二十公克者"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 1,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-02",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "依槍砲彈藥刀械管制條例規定，下列何者之情節輕微者，得減輕其刑？",
+  "options": {
+   "A": "未經許可，轉讓魚槍",
+   "B": "未經許可，出借空氣槍",
+   "C": "意圖供他人犯罪之用製造魚槍",
+   "D": "意圖供自己犯罪之用運輸空氣槍"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "槍砲彈藥刀械管制條例"
+   ],
+   "detail": [
+    {
+     "law": "槍砲彈藥刀械管制條例",
+     "modifiedAfter": [
+      "106-06-14",
+      "109-06-10",
+      "113-01-03"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 2,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-03",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "依組織犯罪防制條例規定，指揮犯罪組織者經判決有罪，應於刑之執行完畢後，令入勞動場所，強制工作，其期間為幾年？",
+  "options": {
+   "A": "一年",
+   "B": "二年",
+   "C": "三年",
+   "D": "五年"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "組織犯罪防制條例"
+   ],
+   "detail": [
+    {
+     "law": "組織犯罪防制條例",
+     "modifiedAfter": [
+      "105-07-20",
+      "106-04-19",
+      "107-01-03",
+      "112-05-24"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 3,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-04",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "依通訊保障及監察法之立法目的，下列何者是該法明定保障的權利？",
+  "options": {
+   "A": "財產權",
+   "B": "隱私權",
+   "C": "行動自由權",
+   "D": "言論自由權"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "通訊保障及監察法"
+   ],
+   "detail": [
+    {
+     "law": "通訊保障及監察法",
+     "modifiedAfter": [
+      "107-05-23",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 4,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-05",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "少年法院依調查之結果，認少年觸犯刑罰法律，應以裁定移送於有管轄權之法院檢察署檢察官。下列何種犯罪屬之？",
+  "options": {
+   "A": "加重詐欺罪",
+   "B": "恐嚇取財罪",
+   "C": "強盜罪",
+   "D": "搶奪罪"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "中華民國刑法",
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "modifiedAfter": [
+      "113-06-24",
+      "113-07-31",
+      "114-05-28",
+      "114-08-01",
+      "115-03-13",
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 26,
+     "lastChange": "修正"
+    },
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "113-07-31",
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 5,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-06",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "法院對違反保護令罪之被告訊問後，認為無羈押必要，得附條件命其遵守，附條件之有效期間自釋放時起生效，至刑事訴訟終結時為止，最長不得超過多少年？",
+  "options": {
+   "A": "四年",
+   "B": "三年",
+   "C": "二年",
+   "D": "一年"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "家庭暴力防治法"
+   ],
+   "detail": [
+    {
+     "law": "家庭暴力防治法",
+     "modifiedAfter": [
+      "110-01-27",
+      "112-12-06"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 6,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-07",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "性侵害犯罪之加害人於假釋後，經評估有必要而必須接受身心治療或輔導教育者，應定期向警察機關辦理身分、就學等資料之登記及報到。下列何者之加害人的登記、報到期間為五年？",
+  "options": {
+   "A": "刑法第二百二十一條強制性交罪",
+   "B": "刑法第二百二十五條第一項乘機性交罪",
+   "C": "刑法第二百二十四條之一加重強制猥褻罪",
+   "D": "刑法第二百二十八條利用權勢性交罪"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "中華民國刑法",
+    "性侵害犯罪防治法"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "modifiedAfter": [
+      "113-06-24",
+      "113-07-31",
+      "114-05-28",
+      "114-08-01",
+      "115-03-13",
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 26,
+     "lastChange": "修正"
+    },
+    {
+     "law": "性侵害犯罪防治法",
+     "modifiedAfter": [
+      "112-02-15"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "全文修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 7,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-08",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "十一歲A女自小父母離異，其父甲長年在外工作，遂與祖父母同住，A與其姑媽乙的女兒丙關係密切，無話不說，A也跟隨丙一起上教堂，牧師丁關心照顧信徒，深得信眾敬重。某日，A的導師發現甲疑似強制猥褻A，甲因此接受調查。下列何者得於該案偵查或審判中，陪同A在場，並得陳述意見？",
+  "options": {
+   "A": "甲",
+   "B": "乙",
+   "C": "丙",
+   "D": "丁"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 8,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-09",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "依法許可之槍砲、彈藥、刀械，有法定原因而撤銷其許可時，其持有之槍砲、彈藥、刀械，應如何處理？",
+  "options": {
+   "A": "解繳國庫",
+   "B": "給價收購",
+   "C": "由主管機關予以查扣",
+   "D": "應予銷毀"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 9,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-10",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "下列何者不是直轄市、縣（市）政府毒品危害防制中心所應辦理之事項？",
+  "options": {
+   "A": "偵查施用毒品之案件",
+   "B": "依法採驗尿液",
+   "C": "提供施用毒品者心理輔導",
+   "D": "毒品防制教育宣導"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "毒品危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "毒品危害防制條例",
+     "modifiedAfter": [
+      "105-06-22",
+      "106-06-14",
+      "109-01-15",
+      "111-05-04"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 10,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-11",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "警察查獲遭受性剝削之少年時，應如何處理？",
+  "options": {
+   "A": "於二十四小時內將被害人送交緊急收容中心",
+   "B": "立即將被害人送交短期收容中心",
+   "C": "通知其父母、監護人帶回，並為適當之保護及教養",
+   "D": "於二十四小時內將被害人交由當地直轄市、縣（市）主管機關處理"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "兒童及少年性剝削防制條例"
+   ],
+   "detail": [
+    {
+     "law": "兒童及少年性剝削防制條例",
+     "modifiedAfter": [
+      "106-11-29",
+      "107-01-03",
+      "112-02-15",
+      "113-08-07"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 11,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-12",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "依法執行通訊監察所取得之內容與監察目的無關者，有關將該內容作為刑事證據之使用，下列敘述何者正確？",
+  "options": {
+   "A": "其有無證據能力之認定，應審酌人權保障及公共利益之均衡維護",
+   "B": "不得作為證據",
+   "C": "於發現後七日內補行陳報法院者，得採為證據",
+   "D": "經法院審查認可者，得採為證據"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法",
+    "通訊保障及監察法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 19,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
+    },
+    {
+     "law": "通訊保障及監察法",
+     "modifiedAfter": [
+      "107-05-23",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 12,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-13",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "有關採驗去氧核醣核酸之敘述，下列何者錯誤？",
+  "options": {
+   "A": "檢察官認為有必要進行去氧核醣核酸比對時，應以傳票通知被採樣人",
+   "B": "執行採樣完畢後，應將去氧核醣核酸樣本送交主管機關之專責單位",
+   "C": "司法警察機關對於經合法通知之應被採樣人無正當理由不到場者，得強制其到場",
+   "D": "執行採樣完畢後，應發予被採樣人已接受採樣之證明書"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 13,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-14",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "在家庭暴力事件中，當事人對於執行保護令之方法，認為有侵害其利益之情事時，可採取何種救濟途徑？",
+  "options": {
+   "A": "得向法院提起抗告",
+   "B": "得於執行程序終結前，向執行機關聲明異議",
+   "C": "得向執行機關之上級機關提起訴願",
+   "D": "得向行政法院提起確認訴訟"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "家庭暴力防治法"
+   ],
+   "detail": [
+    {
+     "law": "家庭暴力防治法",
+     "modifiedAfter": [
+      "110-01-27",
+      "112-12-06"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 14,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-15",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "組織犯罪防制條例第3條有關「令入勞動場所強制工作三年」及「檢察官認為無執行強制工作必要，得聲請法院免其執行」之規定，依大法官之解釋下列敘述何者正確？",
+  "options": {
+   "A": "強制工作之規定係藉以補充刑罰之不足，協助受刑人再社會化",
+   "B": "上述規定未給予法院依個案為適當裁量之空間",
+   "C": "違反比例原則",
+   "D": "違反憲法人身自由之保障"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "組織犯罪防制條例"
+   ],
+   "detail": [
+    {
+     "law": "組織犯罪防制條例",
+     "modifiedAfter": [
+      "105-07-20",
+      "106-04-19",
+      "107-01-03",
+      "112-05-24"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 15,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-16",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "性侵害犯罪之加害人於接受身心治療或輔導教育後，經鑑定、評估其自我控制再犯預防仍無成效，直轄市、縣(市)主管機關得採取何種措施？",
+  "options": {
+   "A": "檢具相關評估報告逕向法院聲請強制治療",
+   "B": "逕予強制治療",
+   "C": "令入感化教育",
+   "D": "檢具相關評估報告，送請該管地方法院檢察署依法聲請強制治療"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "性侵害犯罪防治法"
+   ],
+   "detail": [
+    {
+     "law": "性侵害犯罪防治法",
+     "modifiedAfter": [
+      "112-02-15"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "全文修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 16,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-17",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "無正當理由持有第三級毒品者，應限期令其接受以下幾小時之毒品危害講習？",
+  "options": {
+   "A": "二小時以上六小時以下",
+   "B": "三小時以上九小時以下",
+   "C": "四小時以上八小時以下",
+   "D": "五小時以上十小時以下"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 17,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-18",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "司法警察官為偵辦特定犯罪而有需要時，得向檢察官聲請同意後，調取通信紀錄，下列何者屬之？",
+  "options": {
+   "A": "搶奪罪",
+   "B": "背信罪",
+   "C": "強制性交罪",
+   "D": "偽造、變造通貨、幣劵罪"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "通訊保障及監察法"
+   ],
+   "detail": [
+    {
+     "law": "通訊保障及監察法",
+     "modifiedAfter": [
+      "107-05-23",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 18,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-19",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "「為偵辦跨國性毒品犯罪，檢察官或刑事訴訟法第二百二十九條之司法警察官，得由其檢察長或其最上級機關首長向最高法院檢察署提出偵查計畫書，並檢附相關文件資料，經最高法院檢察署檢察總長核可後，核發偵查指揮書，由入、出境管制相關機關許可毒品及人員入、出境。」此種特殊的偵查程序，學說上稱之為：",
+  "options": {
+   "A": "誘捕偵查",
+   "B": "陷害教唆",
+   "C": "控制下交付",
+   "D": "臥底偵查"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 19,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 19,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-20",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "少年經合法傳喚，無正當理由不到場者，少年法院法官得簽發何種令狀，強制其到場？",
+  "options": {
+   "A": "拘票",
+   "B": "協尋書",
+   "C": "通緝書",
+   "D": "同行書"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "少年事件處理法"
+   ],
+   "detail": [
+    {
+     "law": "少年事件處理法",
+     "modifiedAfter": [
+      "108-06-19",
+      "110-12-15",
+      "112-06-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 20,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-21",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "依性侵害犯罪防治法規定，下列何者屬「性侵害犯罪」？",
+  "options": {
+   "A": "刑法第二百三十條血親性交罪",
+   "B": "刑法第二百二十九條詐術性交罪",
+   "C": "刑法第二百三十一條圖利強制使人為性交或猥褻罪",
+   "D": "刑法第二百三十三條使未滿十六歲之男女為性交或猥褻罪",
+   "E": "刑法第三百三十二條強盜強制性交罪"
+  },
+  "answers": [
+   [
+    "B",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "高",
+   "laws": [
+    "中華民國刑法",
+    "性侵害犯罪防治法"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "modifiedAfter": [
+      "113-06-24",
+      "113-07-31",
+      "114-05-28",
+      "114-08-01",
+      "115-03-13",
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 26,
+     "lastChange": "修正"
+    },
+    {
+     "law": "性侵害犯罪防治法",
+     "modifiedAfter": [
+      "112-02-15"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "高",
+     "changeCount": 1,
+     "lastChange": "全文修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 21,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-22",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "依家庭暴力防治法規定，下列何者為「家庭成員」？",
+  "options": {
+   "A": "曾為五親等以內之旁系血親",
+   "B": "現為五親等以內之旁系姻親",
+   "C": "曾為直系姻親",
+   "D": "曾有同居關係",
+   "E": "前配偶"
+  },
+  "answers": [
+   [
+    "C",
+    "D",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "家庭暴力防治法"
+   ],
+   "detail": [
+    {
+     "law": "家庭暴力防治法",
+     "modifiedAfter": [
+      "110-01-27",
+      "112-12-06"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 22,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-23",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "依去氧核醣核酸採樣條例規定，下列何者應接受去氧核醣核酸之強制採樣？",
+  "options": {
+   "A": "甲預備放火燒燬乙的住宅",
+   "B": "甲搶奪路人乙的皮包，得手三千元",
+   "C": "甲持刀埋伏在乙住處附近，預備殺害乙",
+   "D": "甲向乙討債，二人一言不合，甲出手毆打乙，乙出乎甲意料之外致死",
+   "E": "甲在高鐵車廂上見鄰坐乙女閉目養神，觸摸其臀部十秒"
+  },
+  "answers": [
+   [
+    "C",
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 23,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-24",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "依通訊保障及監察法規定，下列何者須告訴乃論？",
+  "options": {
+   "A": "違法監察他人通訊",
+   "B": "因業務知悉依本法規定監察通訊所得應秘密之資料，而無故洩漏之",
+   "C": "執行通訊監察之公務員假借職務上之機會而違法監察他人通訊",
+   "D": "明知為違法監察通訊所得之資料，意圖營利而無故洩漏之",
+   "E": "意圖營利而違法監察他人通訊"
+  },
+  "answers": [
+   [
+    "A",
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "通訊保障及監察法"
+   ],
+   "detail": [
+    {
+     "law": "通訊保障及監察法",
+     "modifiedAfter": [
+      "107-05-23",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 24,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-25",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "下列有關通訊監察之期間及延長之敘述，何者正確？",
+  "options": {
+   "A": "監聽強盜罪之通訊監察期間，每次不得逾三十日",
+   "B": "監聽強盜罪而有繼續監察之必要者，繼續之監察期間，不得逾半年",
+   "C": "監聽強盜罪之通訊監察期間屆滿前，偵查中檢察官認已無監察之必要者，應即停止監察",
+   "D": "有繼續監察之必要者，至遲於期間屆滿之三日前，提出聲請",
+   "E": "執行機關監聽擄人勒贖案件，如有繼續監察之必要者，無須重行聲請"
+  },
+  "answers": [
+   [
+    "A",
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "通訊保障及監察法"
+   ],
+   "detail": [
+    {
+     "law": "通訊保障及監察法",
+     "modifiedAfter": [
+      "107-05-23",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 25,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-26",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "依組織犯罪防制條例規定，「犯罪組織」具備下列何種特性？",
+  "options": {
+   "A": "跨國性",
+   "B": "脅迫性",
+   "C": "常習性",
+   "D": "隱密性",
+   "E": "集團性"
+  },
+  "answers": [
+   [
+    "B",
+    "C",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "組織犯罪防制條例"
+   ],
+   "detail": [
+    {
+     "law": "組織犯罪防制條例",
+     "modifiedAfter": [
+      "105-07-20",
+      "106-04-19",
+      "107-01-03",
+      "112-05-24"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 26,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-27",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "少年於下列何種情形中，依其性格及環境，而有觸犯刑罰法律之虞者，由少年法院依少年事件處理法處理之？",
+  "options": {
+   "A": "經常逃家",
+   "B": "經常口出惡言",
+   "C": "參加不良組織",
+   "D": "經常與有犯罪習性之人交往",
+   "E": "預備加入詐欺集團"
+  },
+  "answers": [
+   [
+    "A",
+    "C",
+    "D",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "少年事件處理法",
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "少年事件處理法",
+     "modifiedAfter": [
+      "108-06-19",
+      "110-12-15",
+      "112-06-21"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    },
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "113-07-31",
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 27,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-28",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "少年法院依少年調查官調查之結果，認為情節輕微，為不付審理之裁定前，得斟酌情形，經少年、少年之法定代理人及被害人之同意，命少年為下列何種事項？",
+  "options": {
+   "A": "向被害人道歉",
+   "B": "向公庫支付一定之金額",
+   "C": "向公益團體支付一定之金額",
+   "D": "向指定之政府機關提供一定時數以下之義務勞務",
+   "E": "對被害人之損害負賠償責任"
+  },
+  "answers": [
+   [
+    "A",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 28,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-29",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "槍砲彈藥刀械管制條例第八條第一項規定「未經許可，製造、販賣或運輸鋼筆槍、瓦斯槍、麻醉槍、獵槍、空氣槍或第四條第一項第一款所定其他可發射金屬或子彈具有殺傷力之各式槍砲者，處無期徒刑或五年以上有期徒刑，併科新臺幣一千萬元以下罰金。」其不分各類槍枝之殺傷力與危險性，以及此類行為尚屬危險階段或預備階段，均一律以無期徒刑或五年以上有期徒刑為其法定刑，有可能與下列何種原則有關？",
+  "options": {
+   "A": "人道原則",
+   "B": "罪刑法定原則",
+   "C": "罪刑相當原則",
+   "D": "比例原則",
+   "E": "謙抑原則"
+  },
+  "answers": [
+   [
+    "C",
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "中華民國刑法",
+    "槍砲彈藥刀械管制條例"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "modifiedAfter": [
+      "113-06-24",
+      "113-07-31",
+      "114-05-28",
+      "114-08-01",
+      "115-03-13",
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 26,
+     "lastChange": "修正"
+    },
+    {
+     "law": "槍砲彈藥刀械管制條例",
+     "modifiedAfter": [
+      "106-06-14",
+      "109-06-10",
+      "113-01-03"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 29,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-30",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "某甲因施用第一級毒品經檢察官聲請法院裁定強制戒治執行完畢釋放後，五年內再度施用第二級毒品被查獲，下列敘述何者正確？",
+  "options": {
+   "A": "檢察官應依法追訴",
+   "B": "檢察官應聲請法院裁定觀察、勒戒",
+   "C": "無論第一次施用之毒品是第一級或第二級毒品，均不須先後施用者為同一等級毒品，均可適用「再犯」施用毒品罪之規定",
+   "D": "第一次施用第一級毒品，第二次施用第二級毒品，不得適用「再犯」施用毒品罪之規定",
+   "E": "第一次施用第二級毒品，第二次施用第一級毒品，不得適用「再犯」施用毒品之規定"
+  },
+  "answers": [
+   [
+    "A",
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "毒品危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "毒品危害防制條例",
+     "modifiedAfter": [
+      "105-06-22",
+      "106-06-14",
+      "109-01-15",
+      "111-05-04"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 30,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-31",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "下列何者屬於洗錢之行為？",
+  "options": {
+   "A": "隱匿因自己重大犯罪所得財物或財產上利益之行為",
+   "B": "收受他人因重大犯罪所得財物或財產上利益之行為",
+   "C": "掩飾他人因重大犯罪所得財物或財產上利益之行為",
+   "D": "掩飾因自己重大犯罪所得財物或財產上利益之行為",
+   "E": "故買他人因重大犯罪所得財物或財產上利益行為"
+  },
+  "answers": [
+   [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "洗錢防制法"
+   ],
+   "detail": [
+    {
+     "law": "洗錢防制法",
+     "modifiedAfter": [
+      "105-12-28",
+      "107-11-07",
+      "112-06-14",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "全文修正",
+     "manual": true,
+     "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 31,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-32",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "有關兒童及少年性剝削防制條例之規定，下列敘述何者正確？",
+  "options": {
+   "A": "與未滿十六歲之人為有對價之性交行為者，依刑法之規定處罰之",
+   "B": "十八歲以上之人與十六歲以上未滿十八歲之人為有對價之猥褻行為者，不構成犯罪",
+   "C": "十八歲以上之人與十六歲以上未滿十八歲之人為有對價之性交行為者，不構成犯罪",
+   "D": "十八歲以上之人與十六歲以上未滿十八歲之人為無對價之性交行為者，不構成犯罪",
+   "E": "與未滿十六歲之人為有對價之猥褻行為者，依刑法之規定處罰之"
+  },
+  "answers": [
+   [
+    "A",
+    "D",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "中華民國刑法",
+    "兒童及少年性剝削防制條例"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "modifiedAfter": [
+      "113-06-24",
+      "113-07-31",
+      "114-05-28",
+      "114-08-01",
+      "115-03-13",
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 26,
+     "lastChange": "修正"
+    },
+    {
+     "law": "兒童及少年性剝削防制條例",
+     "modifiedAfter": [
+      "106-11-29",
+      "107-01-03",
+      "112-02-15",
+      "113-08-07"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 32,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-33",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "關於聲請核發通信紀錄調取票之敘述，下列何者正確？",
+  "options": {
+   "A": "司法警察官為偵辦最輕本刑十年以上有期徒刑之罪，於有需要時，得向檢察官聲請同意後，調取通信紀錄",
+   "B": "司法警察官為偵辦最輕本刑五年以上有期徒刑之罪，於有需要時，得向檢察官聲請同意後，調取通信紀錄",
+   "C": "檢察官偵查最重本刑三年以上有期徒刑之罪的案件，有事實足認通信紀錄於本案之偵查有必要性及關連性時，應以書面聲請該管法院核發調取票",
+   "D": "檢察官偵查最重本刑三年以上有期徒刑之罪的案件，有事實足認通信紀錄於本案之偵查有必要性及關連性，而情形急迫不及事先向法院聲請時，得先行調取通信紀錄，待急迫原因消滅，再補行聲請調取票",
+   "E": "檢察官偵查最重本刑三年以下有期徒刑之罪的案件，有事實足認通信紀錄於本案之偵查有必要性及關連性時，應以書面聲請該管法院核發調取票"
+  },
+  "answers": [
+   [
+    "A",
+    "C",
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "通訊保障及監察法"
+   ],
+   "detail": [
+    {
+     "law": "通訊保障及監察法",
+     "modifiedAfter": [
+      "107-05-23",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 33,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-34",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "受強制採取去氧核醣核酸樣本之人，有關其去氧核醣核酸紀錄，有下列何種情形時，應予刪除？",
+  "options": {
+   "A": "受不起訴處分，且無涉及其他刑事案件",
+   "B": "經法院判決無罪確定，且無涉及其他刑事案件",
+   "C": "完成採樣後滿十年",
+   "D": "完成採樣後滿二十年",
+   "E": "被採樣人死亡"
+  },
+  "answers": [
+   [
+    "A",
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 34,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-35",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "所謂違反保護令罪係指違反法院所為之下列何種裁定？",
+  "options": {
+   "A": "遷出住居所",
+   "B": "禁止非必要之聯絡行為",
+   "C": "遠離住居所、工作場所、學校或其他特定場所",
+   "D": "禁止實施家庭暴力",
+   "E": "完成加害人處遇計畫"
+  },
+  "answers": [
+   [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "家庭暴力防治法"
+   ],
+   "detail": [
+    {
+     "law": "家庭暴力防治法",
+     "modifiedAfter": [
+      "110-01-27",
+      "112-12-06"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 35,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-36",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "少年法院依調查之結果，認為少年觸犯刑罰法律，於有下列何種情形時，應以裁定移送於有管轄權之法院檢察署檢察官？",
+  "options": {
+   "A": "犯最輕本刑為三年以上有期徒刑之罪",
+   "B": "犯最輕本刑為五年以上有期徒刑之罪",
+   "C": "事件繫屬後已滿二十歲",
+   "D": "事件繫屬後已滿十八歲",
+   "E": "犯罪情節重大，以受刑事處分為適當"
+  },
+  "answers": [
+   [
+    "B",
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 36,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-37",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "下列何者於執行職務時，知有疑似性侵害犯罪情事者，應立即向當地直轄市、縣（市）主管機關通報？",
+  "options": {
+   "A": "移民業務人員",
+   "B": "勞政人員",
+   "C": "保全人員",
+   "D": "社區警衛",
+   "E": "村(里)幹事人員"
+  },
+  "answers": [
+   [
+    "A",
+    "B",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "性侵害犯罪防治法"
+   ],
+   "detail": [
+    {
+     "law": "性侵害犯罪防治法",
+     "modifiedAfter": [
+      "112-02-15"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "全文修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 37,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-38",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "依組織犯罪防制條例規定，下列何種情形，加重其刑至二分之一？",
+  "options": {
+   "A": "甲指揮犯罪組織，吸收二十歲的乙加入犯罪組織",
+   "B": "甲參與組織犯罪，教唆十八歲的丙加入犯罪組織",
+   "C": "甲參與組織犯罪，以強暴方法使三十歲的丁加入犯罪組織",
+   "D": "甲是犯罪組織的發起者，以脅迫方法妨害成員戊脫離",
+   "E": "公務員甲操縱犯罪組織"
+  },
+  "answers": [
+   [
+    "C",
+    "D",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "組織犯罪防制條例"
+   ],
+   "detail": [
+    {
+     "law": "組織犯罪防制條例",
+     "modifiedAfter": [
+      "105-07-20",
+      "106-04-19",
+      "107-01-03",
+      "112-05-24"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 38,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-39",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "槍砲、彈藥、刀械管制之主管機關，為下列何者？",
+  "options": {
+   "A": "法務部",
+   "B": "內政部",
+   "C": "刑事警察局",
+   "D": "直轄市政府、縣(市)政府",
+   "E": "直轄市警察局、縣(市)警察局"
+  },
+  "answers": [
+   [
+    "B",
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 39,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-105-spclaw-40",
+  "source": "cpu2",
+  "session": "105 學年度警大二技入學考試",
+  "year": 105,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "有關通訊監察結束後通知受監察人之敘述，下列何者正確？",
+  "options": {
+   "A": "通訊監察案件之執行機關於監察通訊結束時，應陳報法院通知受監察人",
+   "B": "法院除有具體理由足認通知有妨害監察目的之虞或不能通知之情形外，應通知受監察人",
+   "C": "不通知之原因消滅後，執行機關應陳報法院補行通知",
+   "D": "不通知之原因未消滅者，應每一個月向法院補行陳報未消滅之情形。逾期未陳報者，法院應於十四日內主動通知受監察人",
+   "E": "通訊監察結束後，逾一個月未陳報法院者，法院應於十四日內主動通知受監察人"
+  },
+  "answers": [
+   [
+    "B",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "通訊保障及監察法"
+   ],
+   "detail": [
+    {
+     "law": "通訊保障及監察法",
+     "modifiedAfter": [
+      "107-05-23",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "105特種刑事法令-ok.pdf",
+   "no": 40,
+   "answerFile": "105年二技--試題解答修正版.pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-01",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "甲為搶銀行之用，趁巡邏員警於巡邏箱簽名之際，出其不意搶奪其配槍得逞。翌日於前往犯罪途中，遭警臨檢盤查而起出該槍枝。依「槍砲彈藥刀械管制條例」之規定，甲之行為應如何論處？",
+  "options": {
+   "A": "依該條例第7條第1項，處無期徒刑或七年以上有期徒刑，併科新臺幣三千萬元以下罰金",
+   "B": "依該條例第7條第2項，處無期徒刑或五年以上有期徒刑，併科新臺幣一千萬元以下罰金",
+   "C": "依該條例第7條第3項，處死刑或無期徒刑；處徒刑者，併科新臺幣五千萬元以下罰金",
+   "D": "依該條例第7條第5項，得加重其刑至二分之一"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "槍砲彈藥刀械管制條例"
+   ],
+   "detail": [
+    {
+     "law": "槍砲彈藥刀械管制條例",
+     "modifiedAfter": [
+      "106-06-14",
+      "109-06-10",
+      "113-01-03"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 1,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-02",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "依實務見解，下列行為何者不屬於製造行為（成品均有殺傷力）？",
+  "options": {
+   "A": "自服役兵工廠竊取原料，依網路上所載方法完成可發射子彈之手槍",
+   "B": "將單發步槍改造成自動步槍",
+   "C": "改造軍方已報廢之手槍",
+   "D": "將模擬槍之阻鐵取出"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 2,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-03",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "為偵辦跨國性毒品犯罪，何種等級之司法警察官，得由最上級機關首長向最高法院檢察署提出偵查計畫書，並檢附相關文件資料，經最高法院檢察署檢察總長核可後，核發偵查指揮書，由入、出境管制相關機關許可毒品及人員入、出境？",
+  "options": {
+   "A": "刑事訴訟法第228條",
+   "B": "刑事訴訟法第229條",
+   "C": "刑事訴訟法第230條",
+   "D": "刑事訴訟法第231條"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 17,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 3,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-04",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "觀察、勒戒或強制戒治執行完畢釋放後，五年後再施用第三級毒品K他命者，檢察官應如何處理？",
+  "options": {
+   "A": "向法院聲請裁定觀察勒戒",
+   "B": "依法起訴",
+   "C": "移送主管機關科處罰鍰",
+   "D": "緩起訴附命完成戒癮治療"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "毒品危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "毒品危害防制條例",
+     "modifiedAfter": [
+      "106-06-14",
+      "109-01-15",
+      "111-05-04"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 4,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-05",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "司法警察（官）查獲及救援兒童或少年性剝削案件之被害人後，應於幾小時內將被害人交由當地直轄市、縣（市）主管機關處理？",
+  "options": {
+   "A": "八小時",
+   "B": "十六小時",
+   "C": "二十小時",
+   "D": "二十四小時"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "兒童及少年性剝削防制條例"
+   ],
+   "detail": [
+    {
+     "law": "兒童及少年性剝削防制條例",
+     "modifiedAfter": [
+      "106-11-29",
+      "107-01-03",
+      "112-02-15",
+      "113-08-07"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 5,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-06",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "在司法院大法官釋字第631號解釋文中，所謂「通訊監察書，偵查中由檢察官依司法警察機關聲請或依職權核發」係牴觸憲法中所保障人民之何種權利？",
+  "options": {
+   "A": "表現自由",
+   "B": "意見自由",
+   "C": "秘密通訊",
+   "D": "生存權"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "通訊保障及監察法"
+   ],
+   "detail": [
+    {
+     "law": "通訊保障及監察法",
+     "modifiedAfter": [
+      "107-05-23",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 6,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-07",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "依「組織犯罪防制條例」規定，有關發起、主持、操縱或指揮犯罪組織者，下列敘述何者正確？",
+  "options": {
+   "A": "若具公務員身分，加重其刑至三分之一",
+   "B": "若具經選舉產生之公職人員之身分，加重其刑至二分之一",
+   "C": "應於刑之執行前，令入勞動場所，強制工作，其期間為二年",
+   "D": "強制工作執行滿一年後，認無繼續執行之必要者，法院得免其處分之執行"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "組織犯罪防制條例"
+   ],
+   "detail": [
+    {
+     "law": "組織犯罪防制條例",
+     "modifiedAfter": [
+      "107-01-03",
+      "112-05-24"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 7,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-08",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "有關少年法院或少年法庭之設置，下列敘述何者錯誤？",
+  "options": {
+   "A": "直轄市設少年法院",
+   "B": "縣（市）得視其地理環境及案件多寡分別設少年法院",
+   "C": "尚未設少年法院之地區，於其所屬之地方法院中設少年法庭",
+   "D": "最高法院設少年法庭"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 8,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-09",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "某甲放火燒燬前女友所住之公寓，為警查獲後，下列敘述何者正確？",
+  "options": {
+   "A": "由於甲所違犯之犯罪並非與強制性交犯罪或毒品犯罪相關，故不得對之進行接受去氧核醣核酸之強制採樣",
+   "B": "甲係符合去氧核醣核酸條例之強制採樣對象",
+   "C": "對於甲不得適用強制處分以採取其去氧核醣核酸樣本",
+   "D": "即使沒有必要性也必須對甲採取去氧核醣核酸樣本"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 9,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-10",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "少年、少年之法定代理人或現在保護少年之人，經合法傳喚，無正當理由不到場者，少年法院法官得依職權或依少年調查官之請求核發下列何種書類，強制其到場？",
+  "options": {
+   "A": "同意書",
+   "B": "同行書",
+   "C": "傳票",
+   "D": "拘票"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "少年事件處理法"
+   ],
+   "detail": [
+    {
+     "law": "少年事件處理法",
+     "modifiedAfter": [
+      "108-06-19",
+      "110-12-15",
+      "112-06-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 10,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-11",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "警察人員於執行職務時知有疑似性侵害犯罪情事者，應立即向下列何機關通報？",
+  "options": {
+   "A": "法務部",
+   "B": "衛生福利部",
+   "C": "當地直轄市、縣（市）主管機關",
+   "D": "當地地方法院"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "性侵害犯罪防治法"
+   ],
+   "detail": [
+    {
+     "law": "性侵害犯罪防治法",
+     "modifiedAfter": [
+      "112-02-15"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "全文修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 11,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-12",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "依實務見解，關於槍砲彈藥之屬性，下列敘述何者錯誤？",
+  "options": {
+   "A": "魚槍所使用之魚鏢非屬子彈",
+   "B": "子彈經發射後遺留之彈頭，已非子彈",
+   "C": "汽油彈屬爆裂物",
+   "D": "中共製紅星手槍屬「槍砲彈藥刀械管制條例」第4條第1項第1款所稱手槍"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "槍砲彈藥刀械管制條例"
+   ],
+   "detail": [
+    {
+     "law": "槍砲彈藥刀械管制條例",
+     "modifiedAfter": [
+      "106-06-14",
+      "109-06-10",
+      "113-01-03"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 12,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-13",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "「毒品危害防制條例」第12條第2項規定，意圖供製造毒品之用，而栽種大麻者，處五年以上有期徒刑，得併科新臺幣五百萬元以下罰金；同條第3項規定，前項未遂犯罰之。其中「栽種」之既遂與未遂，依實務見解如何區分？",
+  "options": {
+   "A": "一有播種即屬既遂",
+   "B": "有無出苗",
+   "C": "可否收成",
+   "D": "可否施用"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "毒品危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "毒品危害防制條例",
+     "modifiedAfter": [
+      "106-06-14",
+      "109-01-15",
+      "111-05-04"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 13,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-14",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "關於「組織犯罪防制條例」所稱之證人，下列敘述何者錯誤？",
+  "options": {
+   "A": "證人之年籍資料應另行封存，不得閱卷",
+   "B": "訊問證人之警訊筆錄，須於審理時提示被告，始得採為證據",
+   "C": "被告原則上仍得對證人詰問，或與之對質",
+   "D": "證人如為檢舉人，公務員洩漏或交付其年籍資料者，處一年以上七年以下有期徒刑"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "組織犯罪防制條例"
+   ],
+   "detail": [
+    {
+     "law": "組織犯罪防制條例",
+     "modifiedAfter": [
+      "107-01-03",
+      "112-05-24"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 14,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-15",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "甲乙係夫妻，甲經法院裁定核發民事通常保護令，應遠離乙之居所至少50公尺，有效期間10月。甲於上開保護令之有效期間內，因乙經營資源回收業，經乙同意而再遷回上開住所居住，協助乙處理大量資源回收物品，甲是否構成違反保護令罪？",
+  "options": {
+   "A": "不構成，因被害人同意本可阻卻違法",
+   "B": "構成，因被害人同意依家庭暴力防治法規定，不生效力",
+   "C": "視甲遷回住處後，有無對乙實施家庭暴力而定",
+   "D": "視甲有無向執行保護令之警察機關報告而定"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "家庭暴力防治法"
+   ],
+   "detail": [
+    {
+     "law": "家庭暴力防治法",
+     "modifiedAfter": [
+      "110-01-27",
+      "112-12-06"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 15,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-16",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "警察機關於接獲法院或檢察署通知因家庭暴力而羈押之被告已經法院撤銷或停止羈押後，應立即通知下列何者？",
+  "options": {
+   "A": "主管機關",
+   "B": "被害人或其家庭成員",
+   "C": "家庭暴力防治中心",
+   "D": "縣市政府之社福機關"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "家庭暴力防治法"
+   ],
+   "detail": [
+    {
+     "law": "家庭暴力防治法",
+     "modifiedAfter": [
+      "110-01-27",
+      "112-12-06"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 16,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-17",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "甲係公務員，向乙索賄，乙向調查局檢舉，調查員於徵得乙同意後，即於乙家中電話裝設竊聽器，以監聽甲乙對話，嗣後果錄得諸多甲索賄內容。依實務見解，調查員之作為是否合法？",
+  "options": {
+   "A": "合法，因依「通訊保障及監察法」第29條第3款規定，已得通訊之一方事先同意，而非出於不法目的者，不罰",
+   "B": "不合法，因故意規避通訊監察之法官保留原則",
+   "C": "視事後法官有無補發通訊監察書而定",
+   "D": "視事後有無呈報檢察官許可而定"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "通訊保障及監察法"
+   ],
+   "detail": [
+    {
+     "law": "通訊保障及監察法",
+     "modifiedAfter": [
+      "107-05-23",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 17,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-18",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "司法警察對性侵害案件取得證據後，應保全證物於證物袋內，並應即送何機關鑑驗？",
+  "options": {
+   "A": "法務部",
+   "B": "衛生福利部",
+   "C": "內政部警政署",
+   "D": "當地直轄市、縣（市）政府警察局"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "性侵害犯罪防治法"
+   ],
+   "detail": [
+    {
+     "law": "性侵害犯罪防治法",
+     "modifiedAfter": [
+      "112-02-15"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "全文修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 18,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-19",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "司法警察查獲及救援性剝削之被害人如屬兒童或少年，應如何處理？",
+  "options": {
+   "A": "通知父母、監護人帶回",
+   "B": "聲請法院安置",
+   "C": "交由當地直轄市、縣（市）主管機關",
+   "D": "送交適當場所緊急安置"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "兒童及少年性剝削防制條例"
+   ],
+   "detail": [
+    {
+     "law": "兒童及少年性剝削防制條例",
+     "modifiedAfter": [
+      "106-11-29",
+      "107-01-03",
+      "112-02-15",
+      "113-08-07"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 19,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-20",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "single",
+  "stem": "依實務見解，原住民未經許可，持有自製獵槍之子彈，供作生活工具之用者，應如何處斷？",
+  "options": {
+   "A": "應處罰鍰",
+   "B": "視該子彈有無殺傷力而定",
+   "C": "科刑責",
+   "D": "不罰"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 20,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-21",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "具有原住民身分之甲於山林中拾獲長槍一支，並持之上山狩獵得獵物一隻，經乙向警察機關檢舉後而查獲。甲於警詢筆錄中告知該種類型之長槍並未在其部落中出現過，且依鑑定報告，該長槍顯與一般原住民所使用之獵槍不同。依新近實務見解，下列敘述何者錯誤？",
+  "options": {
+   "A": "甲因具有原住民身分，故所拾得之長槍可視為符合「槍砲彈藥刀械管制條例」第20條第1項之獵槍",
+   "B": "甲係因拾獲而持有該長槍，非符合「槍砲彈藥刀械管制條例」第20條第1項之魚槍",
+   "C": "甲因以該長槍狩獵獵物，可謂構成供作生活工具之用者，並可僅因此而阻卻構成要件該當性",
+   "D": "該長槍雖未在其部落中出現過，但仍可視為與原住民文化相關之獵槍",
+   "E": "依「槍砲彈藥刀械管制條例」第20條第1項中之自製概念，難認甲所拾獲之長槍來源與原住民文化有何相關"
+  },
+  "answers": [
+   [
+    "A",
+    "C",
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "槍砲彈藥刀械管制條例"
+   ],
+   "detail": [
+    {
+     "law": "槍砲彈藥刀械管制條例",
+     "modifiedAfter": [
+      "106-06-14",
+      "109-06-10",
+      "113-01-03"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 21,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-22",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "依「毒品危害防制條例」之規定，毒品依何種標準分為四級？",
+  "options": {
+   "A": "成癮性",
+   "B": "流通性",
+   "C": "濫用性",
+   "D": "查緝難易性",
+   "E": "社會危害性"
+  },
+  "answers": [
+   [
+    "A",
+    "C",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "毒品危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "毒品危害防制條例",
+     "modifiedAfter": [
+      "106-06-14",
+      "109-01-15",
+      "111-05-04"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 22,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-23",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "依「毒品危害防制條例」之規定，有關第三級毒品，下列敘述何者錯誤？",
+  "options": {
+   "A": "實務上以K他命為代表",
+   "B": "施用者，初犯先觀察勒戒",
+   "C": "持有達純質淨重20公克以上者，始科刑罰",
+   "D": "製造、販賣、運輸第三級、第四級毒品同刑罰",
+   "E": "持有專供施用第三級毒品之器具，處一年以下有期徒刑、拘役或新臺幣1萬元以下罰金"
+  },
+  "answers": [
+   [
+    "B",
+    "D",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "毒品危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "毒品危害防制條例",
+     "modifiedAfter": [
+      "106-06-14",
+      "109-01-15",
+      "111-05-04"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 23,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-24",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "警察查獲少年甲與成人為有價之性交行為，經查甲並無另犯他罪。下列敘述，何者正確？",
+  "options": {
+   "A": "儘管無另犯他罪，仍須依少年事件處理法處置",
+   "B": "儘管無另犯他罪，仍須依社會秩序維護法處置",
+   "C": "不管有無犯罪皆須移送少年法院",
+   "D": "不適用少年事件處理法之規定",
+   "E": "不適用社會秩序維護法之規定"
+  },
+  "answers": [
+   [
+    "D",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "少年事件處理法",
+    "社會秩序維護法"
+   ],
+   "detail": [
+    {
+     "law": "少年事件處理法",
+     "modifiedAfter": [
+      "108-06-19",
+      "110-12-15",
+      "112-06-21"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    },
+    {
+     "law": "社會秩序維護法",
+     "modifiedAfter": [
+      "108-12-31",
+      "110-01-20",
+      "110-05-26",
+      "114-06-11"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 24,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-25",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "甲為滿足自己的蘿莉控（愛戀幼女情結），首度向不知名人士購得少年猥褻行為之光碟，後為警所查獲，對甲持有光碟之行為，下列敘述何者錯誤？",
+  "options": {
+   "A": "處新臺幣一萬元以上十萬元以下罰金",
+   "B": "處新臺幣二萬元以上二十萬元以下罰金",
+   "C": "得令其接受二小時以上十小時以下之輔導教育",
+   "D": "對其所持有之光碟沒入之",
+   "E": "對其所持有之光碟沒收之"
+  },
+  "answers": [
+   [
+    "A",
+    "B",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 25,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-26",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "關於通常保護令與暫時保護令之比較，下列敘述何者正確？",
+  "options": {
+   "A": "通常保護令法院於審理程序終結才核發，而暫時保護令可於通常保護令審理終結前核發",
+   "B": "通常保護令可命相對人為一定作為或不作為之範圍較廣",
+   "C": "法院於暫時保護令中亦得命相對人給付被害人租金",
+   "D": "僅違反通常保護令始依「家庭暴力防治法」第61條科處刑罰",
+   "E": "暫時保護令於法院核發通常保護令時失效"
+  },
+  "answers": [
+   [
+    "A",
+    "B",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "家庭暴力防治法"
+   ],
+   "detail": [
+    {
+     "law": "家庭暴力防治法",
+     "modifiedAfter": [
+      "110-01-27",
+      "112-12-06"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 26,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-27",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "有關通信紀錄及通信使用者資料調取票之核發，下列敘述何者正確？",
+  "options": {
+   "A": "對於檢察官偵查最重本刑未滿三年有期徒刑之罪，不得聲請核發調取票",
+   "B": "檢察官聲請核發最重本刑三年以上有期徒刑之罪，僅須以事實足認通信紀錄及通信使用者資料於本案之偵查有必要性，即可聲請核發調取票",
+   "C": "司法警察官因調查犯罪嫌疑人犯罪情形及蒐集證據，即使認有調取通信紀錄之必要時，亦不得聲請核發調取票",
+   "D": "司法警察官為偵辦最輕本刑十年以上有期徒刑之罪，而有需要時，得向檢察官聲請同意後，調取通信紀錄",
+   "E": "司法警察官因調查最重本刑三年以上有期徒刑之罪之犯罪嫌疑人犯罪情形及蒐集證據，有調取通信紀錄之必要時，得以書面逕向法院提出聲請核發調取票"
+  },
+  "answers": [
+   [
+    "A",
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "通訊保障及監察法"
+   ],
+   "detail": [
+    {
+     "law": "通訊保障及監察法",
+     "modifiedAfter": [
+      "107-05-23",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 27,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-28",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "少年觸犯刑罰法律，依「少年事件處理法」規定，下列何種情形少年法院應將案件移由檢察官偵辦？",
+  "options": {
+   "A": "犯最輕本刑五年以上有期徒刑之罪",
+   "B": "犯最輕本刑三年以上有期徒刑之罪",
+   "C": "事件繫屬後已滿20歲",
+   "D": "事件繫屬後已滿18歲",
+   "E": "與少年共犯同一案件之其他成年人現由檢察官偵辦中"
+  },
+  "answers": [
+   [
+    "A",
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "少年事件處理法"
+   ],
+   "detail": [
+    {
+     "law": "少年事件處理法",
+     "modifiedAfter": [
+      "108-06-19",
+      "110-12-15",
+      "112-06-21"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 28,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-29",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "有關司法警察機關進行去氧核醣核酸強制採樣後之作為，下列敘述何者正確？",
+  "options": {
+   "A": "應即刻將該樣本銷毀",
+   "B": "應以通知書通知犯罪嫌疑人或被告領回該樣本",
+   "C": "應將去氧核醣核酸樣本送交主管機關之專責單位",
+   "D": "應發予被採樣人已接受採樣之證明書",
+   "E": "若由原採樣本取得之去氧核醣核酸紀錄滅失，即使先前已領有接受採樣之證明書，亦不得拒絕接受去氧核醣核酸採樣"
+  },
+  "answers": [
+   [
+    "C",
+    "D",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 29,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-30",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "依106年4月19日總統公布之「組織犯罪防制條例」所稱之「犯罪組織」，下列敘述何者正確？",
+  "options": {
+   "A": "5人以上之組織",
+   "B": "不限於專使用暴力之組織",
+   "C": "具有持續性及牟利性",
+   "D": "須具有固定場所",
+   "E": "不以成員分工明確為必要"
+  },
+  "answers": [
+   [
+    "B",
+    "C",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "組織犯罪防制條例"
+   ],
+   "detail": [
+    {
+     "law": "組織犯罪防制條例",
+     "modifiedAfter": [
+      "107-01-03",
+      "112-05-24"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 30,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-31",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "司法警察依法執行通訊監察，取得其他案件內容者（另案），須具備下列何種條件始具有證據能力？",
+  "options": {
+   "A": "發現後7日內補行陳報法院",
+   "B": "法院審查認可另案與原實施通訊監察之案件具有關連性",
+   "C": "另案亦屬法院得核發通訊監察書之罪",
+   "D": "同一被告",
+   "E": "只要原案件係屬合法通訊監察，依「刑事訴訟法」第152條另案扣押之法理，即可直接作為證據"
+  },
+  "answers": [
+   [
+    "A",
+    "B",
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法",
+    "通訊保障及監察法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 17,
+     "lastChange": "修正"
+    },
+    {
+     "law": "通訊保障及監察法",
+     "modifiedAfter": [
+      "107-05-23",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 31,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-32",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "法人之代表人、法人或自然人之代理人、受僱人或其他從業人員，因執行業務，犯「組織犯罪防制條例」第3條至第6條之罪者，下列敘述何者正確？",
+  "options": {
+   "A": "處罰其行為人",
+   "B": "對該法人或自然人科以各該條之罰金",
+   "C": "但法人或自然人為被害人者，無須處罰該法人或自然人",
+   "D": "由於法人非具有自然人之形體，故不得處罰",
+   "E": "若上述之法人或自然人對於犯罪之發生，已盡監督責任或為防止行為者，無須處罰"
+  },
+  "answers": [
+   [
+    "A",
+    "B",
+    "C",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "組織犯罪防制條例"
+   ],
+   "detail": [
+    {
+     "law": "組織犯罪防制條例",
+     "modifiedAfter": [
+      "107-01-03",
+      "112-05-24"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 32,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-33",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "對於因施用第二級毒品甲基安非他命，服刑期間假釋付保護管束者，警察機關可採取下列何種措施？",
+  "options": {
+   "A": "定期通知其於指定之時間到場採驗尿液",
+   "B": "到場而拒絕採驗者，不得違反其意思強制採驗，須先報請檢察官核發許可書",
+   "C": "無正當理由不到場者，得逕行拘提",
+   "D": "無正當理由不到場者，得報請檢察官許可，強制採驗",
+   "E": "到場而拒絕採驗者，得違反其意思強制採驗，但於採驗後應即時報請檢察官補發許可書"
+  },
+  "answers": [
+   [
+    "A",
+    "D",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 33,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-34",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "依105年12月28日總統公布之「洗錢防制法」規定，旅客或隨交通工具服務之人員出入境攜帶下列何者之物，應向海關申報？",
+  "options": {
+   "A": "總價值達一定金額以上之港幣",
+   "B": "總面額達一定金額以上之上市公司股票",
+   "C": "總價值達一定金額以上之新臺幣現鈔",
+   "D": "登載一定金額以上之金融機構存摺",
+   "E": "總面額達一定金額以上之黃金"
+  },
+  "answers": [
+   [
+    "A",
+    "B",
+    "C",
+    "E"
+   ],
+   [
+    "A",
+    "B",
+    "C"
+   ]
+  ],
+  "revised": true,
+  "staleRisk": {
+   "level": "高",
+   "laws": [
+    "洗錢防制法"
+   ],
+   "detail": [
+    {
+     "law": "洗錢防制法",
+     "modifiedAfter": [
+      "107-11-07",
+      "112-06-14",
+      "113-07-31"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "高",
+     "changeCount": 3,
+     "lastChange": "全文修正",
+     "manual": true,
+     "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 34,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-35",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "「槍砲彈藥刀械管制條例」所規定之「未經許可」販賣、轉讓或持有手槍、子彈等，依實務見解係指下列何者？",
+  "options": {
+   "A": "自始未受許可",
+   "B": "受許可後已撤銷",
+   "C": "受附條件之許可，但逾越其範圍",
+   "D": "警員未遵守上級機關之命令或領用槍彈程序之規定，擅自持槍彈外出",
+   "E": "許可附期限，期限尚未屆至"
+  },
+  "answers": [
+   [
+    "A",
+    "B",
+    "C",
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "槍砲彈藥刀械管制條例",
+    "警械使用條例"
+   ],
+   "detail": [
+    {
+     "law": "槍砲彈藥刀械管制條例",
+     "modifiedAfter": [
+      "106-06-14",
+      "109-06-10",
+      "113-01-03"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "修正"
+    },
+    {
+     "law": "警械使用條例",
+     "modifiedAfter": [
+      "111-10-19"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 35,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-36",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "年滿十八歲之甲違犯強盜罪時，見被害人年輕貌美，復進而實施強制性交，之後受逮捕、審判並判刑。其後假釋出獄，下列敘述何者正確？",
+  "options": {
+   "A": "應定期向警察機關辦理身分登記及報到",
+   "B": "應定期向檢察機關辦理身分登記及報到",
+   "C": "應定期向法院辦理身分登記及報到",
+   "D": "前述登記、報到期間為七年",
+   "E": "前述登記、報到期間為五年"
+  },
+  "answers": [
+   [
+    "A",
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 36,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-37",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "承上題，若甲不為身分登記及報到時，依「性侵害犯罪防治法」之直轄市、縣（市）主管機關下列所為，何者正確？",
+  "options": {
+   "A": "應予以口頭告誡",
+   "B": "得處新臺幣一萬元以上五萬元以下罰鍰",
+   "C": "限期命其履行",
+   "D": "逕予逮捕甲",
+   "E": "甲若仍不履行者，得函送地檢署偵辦，可處一年以下有期徒刑、拘役或科或併科新臺幣五萬元以下罰金"
+  },
+  "answers": [
+   [
+    "B",
+    "C",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "高",
+   "laws": [
+    "性侵害犯罪防治法"
+   ],
+   "detail": [
+    {
+     "law": "性侵害犯罪防治法",
+     "modifiedAfter": [
+      "112-02-15"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "高",
+     "changeCount": 1,
+     "lastChange": "全文修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 37,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-38",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "依「性侵害犯罪防治法」規定，關於性侵害被害人保護，下列敘述何者正確？",
+  "options": {
+   "A": "醫院、診所對於被害人，不得無故拒絕診療及開立驗傷診斷書",
+   "B": "對於被害人之驗傷及取證，除依法令有規定或被害人無意識或無法表意者外，應經其同意",
+   "C": "廣播、電視不得報導被害人姓名及其他足資辨別身分之資訊，違者負責人科處刑責",
+   "D": "被告或其辯護人除經法官許可外，不得詰問被害人與被告以外之人之性經驗",
+   "E": "被害人得向直轄市、縣市主管機關申請訴訟費用或律師費用之補助"
+  },
+  "answers": [
+   [
+    "A",
+    "B",
+    "D",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "高",
+   "laws": [
+    "性侵害犯罪防治法"
+   ],
+   "detail": [
+    {
+     "law": "性侵害犯罪防治法",
+     "modifiedAfter": [
+      "112-02-15"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "高",
+     "changeCount": 1,
+     "lastChange": "全文修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 38,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-39",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "十六歲少年甲因犯竊盜而由警察移送少年法院，法官可為下列何種決定？",
+  "options": {
+   "A": "以甲所竊物品價值輕微，且屬初犯，為不付審理之裁定",
+   "B": "審理結果，諭知訓誡",
+   "C": "審理結果諭知交付保護管束，並命少年週末至安養院打掃",
+   "D": "審理結果，令入感化教育場所施以感化教育",
+   "E": "審理結果，以甲前已受有感化教育仍再犯，以受刑事處分為適當，裁定移由該管檢察官偵查起訴"
+  },
+  "answers": [
+   [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 39,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ },
+ {
+  "id": "cpu2-106-spclaw-40",
+  "source": "cpu2",
+  "session": "106 學年度警大二技入學考試",
+  "year": 106,
+  "subject": "特種刑事法令",
+  "originalSubject": "特種刑事法令",
+  "mappingLevel": "部分",
+  "type": "multi",
+  "stem": "少年犯刑事案件與成年人相較，下列敘述何者正確？",
+  "options": {
+   "A": "對於少年不得宣告強制工作",
+   "B": "緩刑要件較為寬鬆",
+   "C": "假釋要件較為寬鬆",
+   "D": "少年受刑之執行完畢後，視為未曾受刑之宣告",
+   "E": "少年被告不得羈押"
+  },
+  "answers": [
+   [
+    "A",
+    "B",
+    "C",
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "106特種刑事法令.pdf",
+   "no": 40,
+   "answerFile": "106年二技--試題解答修正版(二).pdf",
+   "answerKind": "答案更正",
+   "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
+   "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
+  }
+ }
+]

@@ -1,0 +1,1504 @@
+[
+ {
+  "id": "moex-99-pscen-e01",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務（包括警察法規、實務操作標準作業程序、人權保障與正當法律程序）",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": null,
+  "stem": "甲是槍擊通緝要犯，警方專案小組報請檢察官指揮後，埋伏目睹甲進入一棟獨立豪宅，即決定在此地點緝捕。惟在聲請搜索票期間，部署警力卻驚擾到甲。你是現場指揮官，可否下令攻堅及其理由為何？如果你順利逮捕甲並確認身分後，你應該注意那些事項？經目視發現床櫃上有彈匣及子彈10顆，卻無兇槍；此時甲不願簽署自願性搜索同意書，且聲稱要提告非法搜索，你在現場應如何處置？",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務（包括警察法規、實務操作標準作業程序、人權保障與正當法律程序）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099910&c=103&s=11&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-pscen-e02",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務（包括警察法規、實務操作標準作業程序、人權保障與正當法律程序）",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": null,
+  "stem": "派出所警勤區警員甲擔服10-12時家戶訪查勤務，發現轄內有一民宅門禁森嚴、設有多處監視器及有把風人員，疑似暗藏賭博性電玩，經向所長報告後，所長指示副所長與警員甲便裝前往探訪。你是副所長，應注意那些探訪查察重點？",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務（包括警察法規、實務操作標準作業程序、人權保障與正當法律程序）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099910&c=103&s=11&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-pscen-e03",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務（包括警察法規、實務操作標準作業程序、人權保障與正當法律程序）",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": null,
+  "stem": "你是派出所所長，經常接到民眾投訴指稱：「我沒喝酒（或只喝了一杯約100C.C的啤酒，或只吃了一小碗的薑母鴨），我剛上路時就被警察攔檢，經以呼氣酒精濃度檢測器檢測，其檢測值卻超過0.25mg/l，你們警察的酒精濃度檢測器不準確，我是被冤枉的！」經查派出所的酒精濃度檢測器經中央標準局檢驗合格，而且使用未超過一年或一千次。對於上述民眾投訴的情節，你在勤前教育時，對於執行酒駕路檢勤務「檢測前」作業內容，應作何工作提示，以避免侵害民眾權益及維護警察形象？",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "警察職權行使法"
+   ],
+   "detail": [
+    {
+     "law": "警察職權行使法",
+     "modifiedAfter": [
+      "100-04-27"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務（包括警察法規、實務操作標準作業程序、人權保障與正當法律程序）_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099910&c=103&s=11&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-100-pscen-e01",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "某日下午2時許，民眾甲與朋友外出至便利超商購買物品，甲著短褲、拖鞋獨自坐於商店外長椅等朋友，當時警員乙、丙巡邏經過見甲獨自坐於店外，便前往盤查身分，甲稱：「我沒犯法為何盤查我？」乙、丙表示係依照警察職權行使法第6條第1項第1款規定，甲便提供姓名與身分證字號，復經甲朋友出示自己證件並證實甲所說無誤，惟警察欲以甲無攜帶證件帶往派出所進行盤查。試分析本案警察盤查及帶甲回派出所的適法性為何？（20分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "警察職權行使法"
+   ],
+   "detail": [
+    {
+     "law": "警察職權行使法",
+     "modifiedAfter": [],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 0,
+     "lastChange": "",
+     "manual": true,
+     "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=0905&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-100-pscen-e02",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "你是派出所所長，某日接獲線報轄區內一家KTV歌城內可能有販賣、施用大麻的情況，你率同員警前往臨檢，到達現場後出現如下之狀況，請問你會如何處理？（20分）\n①業者及現場之消費者質疑你及執勤員警的身分。\n②現場的消費者有的同意接受身分查證，有的不同意。\n③同意接受身分查證者，有的有帶身分證明文件，有的沒有帶任何身分證明文件，有的身分可疑。",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "警察職權行使法"
+   ],
+   "detail": [
+    {
+     "law": "警察職權行使法",
+     "modifiedAfter": [],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 0,
+     "lastChange": "",
+     "manual": true,
+     "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=0905&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-100-pscen-e03",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "一名戴墨鏡、口罩男子，趁銀行打烊前10分鐘持槍進入，朝保全員腿部開一槍後，跳入櫃檯搶走現金新臺幣300萬元後逃逸，前後只停留50秒。保全員腿部僅被子彈射穿褲管，趕緊記下搶匪所駕駛的車號、顏色與型號。派出所接獲銀行電話報案，該如何進行圍捕搶犯？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=0905&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-pscen-e01",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "你帶領一小隊警力前往某處執行搜索職棒簽賭案，現場供職棒簽賭的電腦及相關週邊設備有網路伺服器1台、個人電腦3套、液晶螢幕3台、雷射印表機1台、數據機1台、傳真機3台，及帳冊2本，請問你執行本案之搜索、扣押電腦及相關週邊設備時，應注意那些事項？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1103&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-pscen-e02",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "你是派出所所長，經派員探訪確認轄區內有一場所內裝設數十臺賭博電玩，現場有人員負責把風以及多處逃竄門。你應如何規劃取締勤務？請就準備階段、執行階段及結果處置三個階段敘述。（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1103&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-pscen-e03",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "忠孝大樓6樓的經理辦公室遭人侵入，竊走辦公桌抽屜內3萬元現金以及1台MP3隨身聽；經調閱現場監視器，失竊當晚9點鐘左右，該大樓清潔工甲曾出現在6樓，但該時段他並未被安排到該樓層打掃；此外，案發隔天有證人曾看到甲帶著與失竊外形相似的MP3隨身聽。試問：\n①你如何通知清潔工甲前來接受詢問？（2分）\n②你在詢問甲之前，準備階段的工作為何？（5分）\n③在詢問一開始，你應先詢問那些事項？（5分）\n④詢問時你應告知那些事項？（8分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1103&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-pscen-e01",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "你帶班執行取締酒駕路檢勤務時，發現甲女駕車身上帶有酒氣，當你查證身分時甲女不願配合，並請求不要酒測，且故意拖延時間長達20分鐘；經你告知拒絕接受酒測之處罰規定後，甲女始同意接受酒測，其酒測值達每公升0.50毫克，在員警製單之際，甲女質疑酒測器之準確性，稱員警於執行酒測前未給她漱口，而要求漱口及實施第二次酒測。此時，你應如何處理最為適當？（20分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "警察職權行使法"
+   ],
+   "detail": [
+    {
+     "law": "警察職權行使法",
+     "modifiedAfter": [],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 0,
+     "lastChange": "",
+     "manual": true,
+     "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1003&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-pscen-e02",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "凌晨2點，民眾甲等3人與乙等8人發生口角，乙等人持木製球棒將甲等人毆傷並毀損其駕駛車輛，甲遂電召2車7名友人到場助勢，當時現場有多人圍觀。分局獲報後，立即通報線上所有巡邏員警趕赴現場處理，你是轄區派出所所長，到達現場後應如何處理，並敘明相關法律依據？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1003&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-pscen-e03",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "你是偵查隊的分隊長，於深夜時分率隊在轄區內一家KTV酒店內執行擴大臨檢，於檢查某間包廂內甲男乙女時，目視桌上有疑似安非他命數小包，經以毒品檢驗包測試確認為安非他命，試問：\n①於現場應如何執行逮捕、搜索及扣押程序？（10分）\n②詢問時，甲坦承持有及施用毒品，乙則否認，後續的處理程序為何？（10分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "毒品危害防制條例",
+    "警察職權行使法"
+   ],
+   "detail": [
+    {
+     "law": "毒品危害防制條例",
+     "modifiedAfter": [
+      "104-02-04",
+      "105-06-22",
+      "106-06-14",
+      "109-01-15",
+      "111-05-04"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 5,
+     "lastChange": "修正"
+    },
+    {
+     "law": "警察職權行使法",
+     "modifiedAfter": [],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 0,
+     "lastChange": "",
+     "manual": true,
+     "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1003&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-pscen-e01",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "市長選舉期間，特種勤務警衛對象蒞臨該市陪同同一政黨候選人甲掃街拜票；他黨候選人乙為拉抬選情，率支持者前往甲合法申請之遊行路線，向特種勤務警衛對象抗議，雙方陣營發生激烈衝突。你是現場指揮官，應作如何處置？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1003&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-pscen-e02",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "早上六點派出所值班員警甲接獲少女乙電話報案，指述遭性侵，甲按住電話筒，回頭向所長你表示未曾處理過這類案件，你馬上接起電話，了解初步案情如下：乙17歲，昨夜以手機App應友人邀約搭乘其汽車出遊，途中喝了一口飲料即感頭暈，今晨五點醒來發現在汽車旅館，下體及口腔疼痛，隨後向派出所電話報案。乙問：「我該怎麼辦？」（10分）（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1003&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-pscen-e03",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "你是交通分隊長，前往處理A1交通事故，現場發現肇事車輛駕駛人已棄車離開，你應如何儘速找出肇事者？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1003&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-pscen-e01",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "深夜你帶班巡邏，發現甲在某銀樓店外東張西望、來回走動，行跡可疑，你及同仁立即下車查證甲之身分，惟甲不願意配合，大聲叫囂並質疑你們憑什麼要查證其身分，你應如何處理？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=0903&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-pscen-e02",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "警員甲於深夜執行巡邏勤務，盤查到通緝犯乙，甲立即呼叫請求支援，警員丙開車抵達現場。經甲確認乙身分無誤後，由丙開車，乙乘坐於後座並未上銬，甲騎乘警用機車跟隨在後；回分局途中，乙從隨身背包內取出一把兇刀，抵住丙的脖子，丙停車後仍被猛刺數十刀。甲見狀立即下機車，衝進車內奪取兇刀，但為時已晚，丙不幸殉職。請詳述本項勤務的嚴重疏失以及正確作法。（20分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "警察職權行使法"
+   ],
+   "detail": [
+    {
+     "law": "警察職權行使法",
+     "modifiedAfter": [],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 0,
+     "lastChange": "",
+     "manual": true,
+     "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=0903&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-pscen-e03",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "為維持交岔路口之交通秩序與安全，大部分路口均有設置自動號誌管制車輛運行。你率同員警擔任路口交通疏導崗勤務，請問在何種時機下可以將自動號誌調整為手控號誌？及手控號誌要領為何？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=0903&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-pscen-e01",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "你是派出所所長，深夜l時許，據報在轄區一處公園入口，有數十名黑衣人聚集，疑似兩派人馬相約談判，有人帶球棒、西瓜刀、電擊棒及信號彈等到現場，經過路人都非常驚恐，依法你應如何處置？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=0903&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-pscen-e02",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "你是分局偵查員，1月4日早上接獲刑責區派出所通報，清晨6時許一名拾荒老人在某漁塭填補地撿拾資源回收物，發現一具男性焦屍。你到達時鑑識人員正在進行勘察採證，命案地點相當偏僻及空曠，平日少人前往。依鑑識人員初步勘察結果，死者為男性，全身約80%部分已燒焦碳化，面部無法辨識，肚皮燒穿而腸子外露，衣物全數燒失，赤腳，但現場未發現鞋子。死者身上無任何證件，僅左腳踝有一蜘蛛網狀刺青。現場有一副破損眼鏡鏡框及少量鏡片碎片與打火機等物品，以及一支沾有血跡之未生鏽「釘拔」（一般工地用來拔釘使用之工具）與一塊沾有血跡之大石塊，並有許多清楚輪胎印痕（現場圖如下）。經調閱當地天氣狀況，1月2日晚上10時至11時曾有降雨。請就所提供之資訊，回答下列問題：（每小題10分，共20分）\n①你對本案初步案情研判為何？\n②後續應展開那些偵查作為？A E C地面燃燒痕跡D輪胎印痕菸蒂4 1 5眼鏡B F打火機3釘拔2沾血石塊風向50730 - 51030 51230、51330",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=0903&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-pscen-e03",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "警察機關於執行取締危險駕車勤務中，經執勤人員現場錄影蒐證後，對於駕駛人違反道路交通管理處罰條例第43條及第21條第1項第1款者，該項違法（規）之駕駛人應如何處理？（10分）對於現場之違規車輛又應如何處置？（10分）請敘述之。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=0903&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-pscen-e01",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務（包括警察法規、實務操作標準作業程序、人權保障與正當法律程序）",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "你是派出所所長，依分局規劃地點帶班執行路檢勤務時，發現一部自小客車左右搖晃，看見駕駛人疑似使用手機通話，經員警攔停之後：\n①你應指揮員警執行那些措施？（10分）\n②若該駕駛不願下車並將車門上鎖拒絕受檢，將如何處置？（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務（包括警察法規、實務操作標準作業程序、人權保障與正當法律程序）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1103&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-pscen-e02",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務（包括警察法規、實務操作標準作業程序、人權保障與正當法律程序）",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "甲乙返家欲於門前路旁停車，因車流頗大，甲下車指揮乙倒車，乙停妥後發現甲被撞倒於車後底盤下方，甲經送醫急救不治，乙報警處理，你是交通分隊長前往處理。\n①該事故是否為道路交通事故？理由為何？（10分）\n②本事故現場調查蒐證程序與刑事案件處理有無差別？理由為何？（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務（包括警察法規、實務操作標準作業程序、人權保障與正當法律程序）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1103&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-pscen-e03",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務（包括警察法規、實務操作標準作業程序、人權保障與正當法律程序）",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "為防制飆車活動，警察局訂有「便衣偵防車錄影（照相）之隱性勤務」，可於非假日執行，以便查抄飆車族車牌建立資料。你是交通分隊長，帶領著警員、替代役男，三人著便衣執行定點守望勤務，將偵防車停於郊外路邊；晚上9時許，替代役男拿著相機朝經過之機車以閃光燈拍照，約15分鐘後，有一機車駕駛人甲帶領著5輛機車共10名年輕人，手拿棍棒來勢洶洶的到達執勤現場。此時，你會採取何種處置？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務（包括警察法規、實務操作標準作業程序、人權保障與正當法律程序）_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1103&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-pscen-e01",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "你率領一小隊持拘票前往某出租套房大樓，拘提一名違反槍砲彈藥刀械管制條例之嫌疑人甲，上樓後正巧與甲在套房門口遭遇，甲開2槍後逃逸，並由頂樓跳入隔壁大樓，經陽台進入1間公寓挾持1名男大學生。請依此狀況，回答下列問題：\n①你在現場應如何應變處置？（10分）\n②若甲拒不投降並威脅殺害大學生，警方後續應採取何種作為？（10分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "槍砲彈藥刀械管制條例"
+   ],
+   "detail": [
+    {
+     "law": "槍砲彈藥刀械管制條例",
+     "modifiedAfter": [
+      "109-06-10",
+      "113-01-03"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=0904&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-pscen-e02",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "最近使用社群媒體之聚眾活動，迅速動員大批群眾，當面對警察執行公權力時，群眾隨時隨地進行反蒐證，易曲解法律，傳播不實訊息而誣陷警察之執法。你是現場分區指揮官，主持勤前教育時，應如何提示強化勤務作為？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=0904&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-pscen-e03",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "民眾甲違規停車，遭取締時與警方拉扯並出手攻擊執勤警員，被帶回派出所。甲質疑警方執法過當，打電話請市議員到場協助，市議員抵達派出所後，以監督市政身分關切，暗示警方將大事化小，一定得放人。你是該所所長，應如何回應市議員之關切及處理本案？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=0904&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-pscen-e01",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "立委候選人甲舉辦問政說明會，台下聽眾約500人，突有支持乙候選人之群眾約50人在現場鼓噪，企圖擾亂會場秩序，場面甚為混亂且已有零星衝突發生；你是現場指揮官，應如何處置？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1204&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-pscen-e02",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "你持法官簽發之搜索票到甲家中搜索，搜索票記載應搜索之犯罪嫌疑人為甲，應扣押物為安非他命及其他毒品、分裝與施用器具，應加搜索之處所為甲之住屋全部。你抵達甲住屋執行搜索時，發生下列情況將如何處理？並說明理由。\n①你尚未出示搜索票，甲見警到來即往屋內跑。（6分）\n②搜索當中，甲的兒子乙表示要出門去上班，同時又有訪客丙到來。（7分）\n③你發現甲的女兒丁右褲袋鼓起，懷疑其右褲袋內藏有應扣押物。（7分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1204&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-pscen-e03",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "你帶班執行巡邏勤務時，於設有固定地磅處所1公里內路段，發現甲駕駛之砂石車，疑似有超載砂石，經指示甲停車接受稽查時：\n①若甲不服從稽查停車而棄車逃逸，此時你應如何處置？（10分）\n②若甲停車受檢，經查行車執照核定總重量為35公噸，於過磅後總載重量達41.5公噸，你應如何舉發違規行為？（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1204&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-pscen-e01",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "分局規劃路檢勤務，指定路檢點，你正帶班前往途中，發現前面車輛走走停停，搖晃、蛇行、忽快忽慢、隨意變換車道，甚為可疑。請說明：\n①有何法律依據可資攔停檢查及應採取作為？（10分）\n②在檢查車輛時，目視副駕駛座上發現有外型、構造、材質類似真槍之槍枝，後續法律行為你要如何處理？（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1004&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-pscen-e02",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "你是派出所所長，某日值班警員甲接獲民眾乙女報案，指稱其同居人丙因接獲勤區警員送達乙女所申請的民事保護令通知，丙因心生不滿除再度毆打乙女外，並欲引爆瓦斯桶和乙女同歸於盡。甲因事態緊急，向你請示本案應作如何處置。請問：\n①針對丙欲引爆瓦斯桶和乙女同歸於盡一節，處理流程為何？需要特別注意那些事項？（10分）\n②針對丙違反保護令罪一節，處理流程為何？需要特別注意那些事項？（10分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "家庭暴力防治法"
+   ],
+   "detail": [
+    {
+     "law": "家庭暴力防治法",
+     "modifiedAfter": [
+      "110-01-27",
+      "112-12-06"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1004&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-pscen-e03",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "轄區內里長甲打電話報案，表示在該里某巷弄裡有輛汽車停放多時無人使用，懷疑可能是失竊的車輛，派出所經查確為失竊的車輛，你奉命到場應如何處理？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1004&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-pscen-e01",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "甲在某街道騎樓意圖媒合乙與人性交易而拉客，乙並與丙從事性交易，為員警蒐證並查獲，你是分局偵查隊業務承辦人，依社會秩序維護法相關規定，請分別說明甲、乙、丙之行為應如何處罰？又渠等行為負責裁處之管轄機關各為何？（20分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "社會秩序維護法"
+   ],
+   "detail": [
+    {
+     "law": "社會秩序維護法",
+     "modifiedAfter": [
+      "114-06-11"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1204&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-pscen-e02",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "你是派出所所長帶班巡邏時，突然看到某間手機店員工由店內跑出，沿街追逐一名男子並大喊「小偷！」，經你攔下該男子並要求出示身分證件，其取出身心障礙手冊，因心智功能障礙無法完全陳述名字與住址。店員指稱該男子佯裝購物，趁機取走店員放在櫃檯上之手提包，試問你在現場應採取那些處置作為？又將該男子帶回派出所後，請說明後續詢問程序及應注意事項為何？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1204&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-pscen-e03",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "派出所接獲勤務指揮中心通報，轄區發生疑似家庭暴力案件，你是所長帶領同仁趕赴現場，除當場逮捕家庭暴力之嫌犯甲男之外，該地鄰長亦向你稱，甲男經常於酗酒後毆打其妻子、兒女至遍體鱗傷，不但不聽勸阻且屢次再犯。請問如何協助代為聲請保護令或其他相關之保護作為？以及如何執行此保護令？（20分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "家庭暴力防治法"
+   ],
+   "detail": [
+    {
+     "law": "家庭暴力防治法",
+     "modifiedAfter": [
+      "112-12-06"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1204&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-pscen-e01",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "你是警察分局長，於主持臨檢勤務勤前教育時，應指導員警依警察職權行使法之規定，執行臨檢時，對人民發動查證身分之「要件」、「措施」及「程序」各為何？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1104&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-pscen-e02",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "某偏僻的墓園內發生一件命案，死者全身赤裸，身中多刀，陳屍在墓園空地，經由指紋比對確認了死者的身分是名中年貴婦，屍體外觀很乾淨，腳底也很清潔，從沒有太多血跡看來，墓地顯然不是殺害被害人的現場。試舉出各種可能對偵辦本案有用的證據，並分別說明其作用為何？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1104&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-pscen-e03",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "你帶班執行取締酒後駕車勤務，於攔檢稽查地點部署告示牌及警示設施完畢後，開始執行時：\n①如何過濾、攔停車輛及觀察、研判駕駛人？（10分）\n②若未依指示停車受檢，而逃逸無法攔停者，應如何處置？（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1104&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-pscen-e01",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "你是派出所所長，某日接獲民眾報案轄內公寓發生兇殺案，你率員初抵現場，請就刑案現場初步處理之角度，說明應有的作為及注意事項為何？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1204&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-pscen-e02",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "交通分隊長甲在執行計畫性取締酒後駕車勤務時，經合法攔停自用小客車駕駛人乙並對其進行吐氣酒精濃度之檢測，甲應行遵守之法定程序為何？又乙若拒絕酒測時，甲依規定應如何處置？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1204&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-pscen-e03",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "甲男為追求乙女，近期連日以line通訊軟體，對乙傳送各種示愛圖檔、文字及要求約會，乙不堪其擾向甲回訊拒絕交往，甲竟惱羞成怒，不但持續傳訊干擾，復於某日前往乙女住處守候，適為乙女返家發現，心生畏怖不敢返家，立刻向轄區警察機關報案提告，員警受理到場發現甲仍滯留乙女住處守候。請依跟蹤騷擾防制法說明：\n①甲之行為是否構成跟蹤騷擾行為？（10分）\n②警察受理報案到場後，應如何處置？（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1204&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-113-pscen-e01",
+  "source": "moex",
+  "session": "113 年刑事警察人員三等",
+  "year": 113,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "派出所所長甲在深夜帶班執行巡邏勤務，查獲乙在公園內無正當理由攜帶具有殺傷力之刀械1把，請依槍砲彈藥刀械管制條例及社會秩序維護法說明：\n①依據槍砲彈藥刀械管制條例及內政部刀械查禁公告，現行管制刀械名稱為何？各式管制刀械認定標準為何？（10分）\n②本案之行為人乙及所查獲之刀械，依法應如何論處？（10分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "社會秩序維護法"
+   ],
+   "detail": [
+    {
+     "law": "社會秩序維護法",
+     "modifiedAfter": [
+      "114-06-11"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=0904&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-113-pscen-e02",
+  "source": "moex",
+  "session": "113 年刑事警察人員三等",
+  "year": 113,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "某日深夜凌晨3時許，某派出所值班勤務王姓警員接獲民眾以電話報案，報稱：中正路某間酒店發生打群架案件，有多名酒客搭乘電梯下樓時，在電梯內互看不順眼發生口角紛爭，一出電梯門即有人出手打人頭部，雙方人馬從酒店一樓大廳追打到馬路車道上，現場目前大約有10人左右，有人持球棒、也有人持刀械，已有1人倒臥馬路上胸部大量流血，現場有3家電視台及1家平面媒體記者聞訊陸續到場採訪。你是轄區派出所所長，當時為表定值日幹部，於獲悉案情後應採取那些具體處置作為？處置過程應特別注意之事項為何？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=0904&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-113-pscen-e03",
+  "source": "moex",
+  "session": "113 年刑事警察人員三等",
+  "year": 113,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "交通分隊值班警員接獲民眾來電報稱：「剛目擊到一名男性駕駛人（甲）所駕駛的休旅車（A），在行經某交岔路口（B）時，於左轉彎過程中，該休旅車之車頭撞倒行走在行人穿越道上的女性行人（乙）後，並沒有立即煞車，而是待車輛後輪完全輾壓過行人身體後，才將車停在路邊，導致行人當場死亡」。若你為本案交通事故之專責處理人員，當你抵達現場後，針對上述「甲、乙、A、B」於現場所遺留與肇事有關的跡證、現象、設施等項目，應如何進行現場勘察及調查訪問？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=0904&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-pscen-e01",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "近期國內警察機關連續破獲假求職真詐騙集團，民眾被歹徒誘騙至指定地點後旋即被扣留個人證件與存摺，並遭受到囚禁及虐待，甚至有人不幸遭虐致死而被棄屍山林，詐騙集團兇殘之犯罪手法引起國人恐慌，監察委員亦已主動申請調查，此類犯罪行為已嚴重影響臺灣社會治安，警察應主動積極查緝不法，預防是類案件發生，淨化社會治安環境。你是派出所所長，如何根據轄區特性採取有效的警察勤務措施？（20分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1004&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-pscen-e02",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "你是派出所所長，帶班巡邏獲報轄內有酒駕事故發生，到達現場後對肇事駕駛人進行酒測，依所測得吐氣酒精濃度值結果，酒駕肇事駕駛人移送法辦原則為何？（10分）另因應憲法法庭111年憲判字第1號判決，就道路交通管理處罰條例第35條第5項，有關對汽車肇事駕駛人強制實施血液或其他檢體之採樣及測試檢定，宣告違憲，現階段若汽車駕駛人肇事拒絕接受或無法實施吐氣酒精濃度測試之檢定，內政部警政署對血液酒精濃度測試之規定為何？（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1004&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-pscen-e03",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "你是分局偵查隊長，轄內某日發生知名幫派分子甲於住家門前遭不詳歹徒埋伏槍擊，歹徒隨即逃逸無蹤，你接獲勤務指揮中心通知立刻趕至現場，發現派出所同仁已將現場封鎖保全，被害人送醫急救中，請問你應如何部署偵查作為？（20分）50740 - 51040 51240、51340",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1004&q=1",
+   "answerUrl": ""
+  }
+ }
+]

@@ -1,0 +1,761 @@
+[
+ {
+  "id": "moex-100-consteng-e01",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 10,
+  "stem": "中譯英：請將以下兩段中文翻譯成正確、通順、達意的英文句子。（每小題5分，共10分）\n①沿著這條路走，在第一個路口右轉。你就會在左手邊看到臺灣警察專科學校。\n②如果你遺失了護照，請立即報失，並與你的大使館或駐臺機構聯絡，申請新護照。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=0202&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-100-consteng-e02",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 15,
+  "stem": "英文作文：請依提示寫一篇英文作文。文長至少120個單詞。（15分）提示：寫一篇作文描述你所屬專業領域的主要工作內容，並說明擔任該工作應具備的知識及能力。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=0202&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-consteng-e01",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 10,
+  "stem": "中譯英：請將以下兩段中文翻譯成正確、通順、達意的英文句子。\n①為了安全起見，騎車請注意車速及交通規則。（5分）\n②經多日的跟蹤，警方終於在汽車旅館尋獲大量毒品。（5分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=0207&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-consteng-e02",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 15,
+  "stem": "英文作文：（15分）提示：請寫一篇文長約200字的短文說明警察應如何建立親和的形象。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=0207&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-consteng-e01",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 10,
+  "stem": "中譯英：請將以下兩段中文翻譯成正確、通順、達意的英文句子。（每小題5分，共10分）\n①警察在路上攔截交通，搜查可疑的車輛。\n②酒駕是目前臺灣交通肇事之首因。去年，約四百人因此而喪生。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=0207&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-consteng-e02",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 15,
+  "stem": "英文作文：請依提示寫一篇文長約200字的英文作文。（15分）提示：根據調查結果顯示，在一般民眾心中，警察是份危險的工作，因為警察在執行公務時，意外狀況太多，難以掌握。請寫一篇文長約200字的短文描述警察工作可能遇到的危險，以及你認為該有的應變之道。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=0207&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-consteng-e01",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 10,
+  "stem": "中翻英：（10分）在臺灣，經過民間團體十多年來的努力，廢除死刑現在已經成為討論人權時重要的議題之一。這個議題超越黨派，討論很多，但共識很少，因為它直接碰觸到關乎公平正義和生命尊嚴的道德核心價值。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=0207&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-consteng-e02",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 15,
+  "stem": "英文作文：（15分）依據任務的性質及工作的地點，警察有許多不同的種類。請以一篇長約200字的短文，敘述你最想當那一種警察，可說明工作性質、須具備何種條件、主要的挑戰或成就等。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=0207&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-consteng-e01",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 10,
+  "stem": "中譯英：請將以下兩句中文翻譯成正確、通順、達意的英文句子。（每小題5分，共10分）\n①開車時傳簡訊，不但危險也是違法的。\n②自行車再度受歡迎的主要原因是運動需求。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=0207&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-consteng-e02",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 15,
+  "stem": "英文作文：請依提示寫一篇英文作文，文長至少200個單詞。（15分）警察執行勤務時，如果和民眾溝通不良，容易因誤解而發生爭執甚至衝突。請寫一篇短文，並舉例說明警察與民眾互動時，可以應用那些溝通技巧或原則來完成任務。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=0207&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-consteng-e01",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 15,
+  "stem": "請將以下英文翻譯成中文：（15分）Youth are more likely to be the victims of crime because they, relative to older citizens, take fewer steps to protect themselves from victimization. They are more likely to spend time in high-risk areas and engage in high-risk activities.",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=0207&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-consteng-e02",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 10,
+  "stem": "請將以下中文翻譯成英文：（10分）警方的腐敗是員警不當行為的一種形式。它主要是由警官為了取得個人利益的動機所引起。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=0207&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-consteng-e01",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 10,
+  "stem": "英譯中：請將下列英文翻譯成中文（10分）“Viral video” is one of those buzzwords that gets thrown around a lot. A few years ago, a video online could be considered “viral” if it hit a million views, but today, only if it gets more than 5 million views in a 3–7 day period can it be considered “viral”.",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=0207&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-consteng-e02",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 15,
+  "stem": "中譯英：請將下列中文翻譯成英文（15分）在13歲到18歲的青少年當中，有百分之二十二左右的人在學校曾遭到霸凌，而診斷出有身心障礙的孩子可能遭到霸凌或騷擾的比例大概是兩到三倍。有些地方正在辯論是否將校園霸凌判定為犯罪行為。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=0207&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-consteng-e01",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 10,
+  "stem": "中翻英：（10分）有經驗的警員都知道有效溝通的重要性，所以警員都必須知道如何溝通以達成幫民眾解決問題的目標。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=0206&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-consteng-e02",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 15,
+  "stem": "英文作文：（15分）當一個人進入警察人員這個體制後，常會面臨家庭和社會所帶來的壓力。請以一篇長150-200字的短文，敘述你若當了警察以後，會如何面對家庭或社會（含一般民眾）可能帶來的壓力。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=0206&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-consteng-e01",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 10,
+  "stem": "英譯中：請將下列英文譯為中文（10分）The prevalence of social media has triggered many new, often anonymous, forms of violence that take place exclusively online. Cyber-bullying generally involves using the Internet to threaten, harm, or socially exclude others. The most frequent form of bullying is writing a mean comment on someone's photo or posts on social media sites.",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=0206&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-consteng-e02",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 15,
+  "stem": "中譯英：請將下列中文譯為英文（15分）盜用身分指的是藉由盜取個資進行詐欺行為，例如申請信用卡、報稅、或是獲得醫療服務。小孩和老年人是這種詐欺行為最容易下手的受害者。要是發生在小孩身上，受害者可能在多年之後，已經成年要申請貸款時才發現身分被盜用。至於老年人，因為他們常常把個資告知醫師或照護者，結果讓自己擔著身分被盜用的風險。",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "個人資料保護法",
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "個人資料保護法",
+     "modifiedAfter": [
+      "112-05-31",
+      "114-11-11"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正"
+    },
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "113-07-31",
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=0206&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-consteng-e01",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 10,
+  "stem": "英譯中：（10分）If the police caught the perpetrator red-handed, they will still collect evidence at the scene of the crime to support a criminal sentence. This evidence collection will include interviewing all of the potential witnesses at the scene. A site investigation will also be conducted, which may include taking pictures, measurements, taking forensic evidence, making general observations, and taking objects that may be connected to the crime.",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=0206&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-consteng-e02",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 15,
+  "stem": "中譯英：（15分）騷擾電話是指一個人帶著惡意，透過電子通訊設備，不斷打電話或試圖接觸某人的行為。例如，接通電話後立即掛斷、講猥褻的話語，或傳送不當的電子郵件或簡訊。打騷擾電話是一種不法行為。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=0206&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-consteng-e01",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "中譯英：（25分）臺灣彰化地方法院109年度訴字第687號刑事判決，被告黃○○進行陳情抗議活動，造成前往處理之某分局員警洪○○跌倒受傷，經檢察官以傷害、妨害公務等罪嫌提起公訴。法院查驗證據發現，分局長事前指示遭遇陳抗民眾推擠時，員警要直接順勢跌倒，並將陳抗人士以現行犯逮捕；致使法院無法排除其係為了要逮捕被告而順勢倒地的可能；故以罪疑惟輕之原則，判決被告無罪，並於判決書中附記事項。請將該判決書附記事項以下部分譯為英文：「我國既為法治國家，執法者除了應廉潔自持外，執法手段更必須合法正當，不得逾越應恪守之界線，此即本院一再強調的『執法之前，先要守法』基本觀念。……正因出於對員警執法安全的重視和保護，本院懇切呼籲警界長官們，切勿對基層員警做出不當的指示或要求，也再次提醒每位堅守崗位、認真付出的員警們，你們應恪遵的對象，唯有『國家的憲法與法令』！」",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=0206&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-consteng-e01",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 10,
+  "stem": "英譯中：（10分）Not until the late 19th century did imprisonment become the most common penalty for most crimes. This resulted in great part from the work of criminologists who persuaded society against the uselessness of other punishments.",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=0205&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-consteng-e02",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 15,
+  "stem": "中譯英：（15分）傳統上人們被教導，努力工作就會成功。但事實上，一開始就快樂的人比較容易成功，一開始就不快樂的人比較可能失敗。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=0205&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-consteng-e01",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "英文簡報文稿（25分）請寫一篇關於預防酒駕的兩段式英文簡報文稿，約200字。在第一段中，說明酒後駕車發生的原因。在第二段中，說服公眾酒後不開車，以及說明你心目中理想的酒駕處罰方式。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=0205&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-113-consteng-e01",
+  "source": "moex",
+  "session": "113 年刑事警察人員三等",
+  "year": 113,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "英文作文：（25分）近年來，詐騙（scam）集團日益猖獗，針對此現象，請寫一篇長約200字的英文短文，首先在第一段中，說明詐騙常見的型態，其次在第二段中，教導民眾如何預防詐騙。",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "113-07-31",
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=0205&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-consteng-e01",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "英文作文：你所屬的單位將針對下列事件發布英文新聞稿。請以英文擬定300字左右的新聞內容，其中應敘述事件經過（可自行添加細節），並宣導文末的注意事項。一位美國籍女性旅客來臺探望在本地教英語的表弟，兩人相約於本\n（6）月10日由南投竹山的杉林溪生態渡假園區入山，想要前往4小時路程外的水漾森林。兩人出發時天氣晴朗，不料途中遭遇大雨，因攜帶雨具不足，又因讀錯地圖而迷失方向，結果受困山區。美籍男子於當日晚間7時許向臺灣友人求助，友人撥打119報案後，南投縣政府消防局隨即會同中華民國山難救助協會展開救援，於11日上午尋獲兩人。因一夜未進食，兩人身體虛弱有輕微失溫現象。救難人員提供保暖衣物、食物及熱飲，並以救護車將兩人送醫，目前已無大礙。兩位外籍人士再三感謝警方救助，美國在臺協會也特地致電相關單位致意。南投縣政府消防局呼籲：登山客在行前應隨時注意未來登山地點天候狀況，事先做好安全相關規劃，並備妥充足登山裝備。另外建議登山前可下載內政部消防署開發的「消防防災e點通APP」，該APP支援多種語言，如遭遇緊急狀況時可藉由此APP報案，經APP定位後，救難人員更精準掌握所在位置，從而減少搜救時間。51250、51350",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=0206&q=1",
+   "answerUrl": ""
+  }
+ }
+]

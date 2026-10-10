@@ -1,0 +1,931 @@
+@charset "UTF-8";
+/*
+ * style.css — 警察考試刷題（製作人Rui / Maker Rui）
+ *
+ * 無印良品極簡風：米白背景、白卡片、細邊框、小圓角、無陰影、大地色強調。
+ * 手機直式優先，點擊區塊最小高度 48px；電腦開啟時內容置中。
+ *
+ * 規範重點：
+ *  1. 字型一律微軟正黑體，按鈕、下拉選單、對話框全部都要套到，不留系統預設。
+ *  2. 關鍵文字 14pt 基準（:root 的 font-size 就是 14pt，其他地方用 rem 等比例調整）。
+ *  3. 不連任何外部網址：字型只用裝置內建的，圖示用 CSS 畫，沒有任何 CDN。
+ */
+
+:root {
+  --bg: #FAF8F4;           /* 米白背景 */
+  --card: #FFFFFF;         /* 卡片白 */
+  --border: #E3DED5;       /* 細邊框 */
+  --border-strong: #D0C9BC; /* 稍深的邊框（表單、選項） */
+  --text: #38342F;         /* 主要文字 深褐灰 */
+  --text-sub: #7D766C;     /* 次要文字 */
+  /*
+   * 停用狀態的文字。配 #F4F1EC 底色的對比度是 4.6:1（過 WCAG AA 的 4.5），
+   * 戶外強光下也看得見底部那行「請選一個選項」。不要再調淡。
+   */
+  --text-muted: #736C62;
+  --accent: #6F6354;       /* 大地色強調（只用在主要按鈕這一小塊） */
+  --accent-dark: #5D5345;
+  --accent-tint: #F1ECE3;  /* 強調色的淡底 */
+  --ok: #4F7055;           /* 答對 暗綠 */
+  --ok-bg: #EEF3EC;
+  --ng: #A4625B;           /* 答錯 紅棕 */
+  --ng-bg: #F8EFED;
+  --warn: #8D6D2C;         /* 提醒 土黃（修法提示用） */
+  --warn-bg: #F7F1E3;
+  --warn-border: #E3D5B8;
+  --radius: 6px;
+  --font: "Microsoft JhengHei", "微軟正黑體", "PingFang TC", "Heiti TC",
+    "Noto Sans CJK TC", "Noto Sans TC", sans-serif;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+
+  font-size: 14pt; /* 全站基準字級 */
+}
+
+/* 字型要套到每一個元件，包含表單元件與對話框 */
+html,
+body,
+button,
+input,
+select,
+textarea,
+dialog {
+  font-family: var(--font);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 1rem; /* = 14pt */
+  line-height: 1.75;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* ---------- 版面骨架 ---------- */
+
+.page {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: 1.4rem 1.1rem 2rem;
+}
+
+/* 刷題中底部有固定按鈕列，內容要多留一點空間 */
+body.has-bottom-bar .page {
+  padding-bottom: 7.5rem;
+}
+
+.app-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.6rem;
+  margin-bottom: 1.5rem;
+}
+
+.app-head h1 {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+.app-sub {
+  font-size: 0.82rem;
+  color: var(--text-sub);
+}
+
+/* 說明頁與自我檢查頁右上角的「回刷題」也要好按 */
+.app-sub a {
+  display: inline-block;
+  min-height: 44px;
+  padding: 0.7rem 0.4rem;
+  color: var(--accent);
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.2rem;
+  margin-bottom: 1.1rem;
+}
+
+.card-title {
+  margin: 0 0 0.9rem;
+  font-size: 0.84rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: var(--text-sub);
+}
+
+.divider {
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: 1.1rem 0;
+}
+
+.small {
+  font-size: 0.84rem;
+  line-height: 1.75;
+  color: var(--text-sub);
+}
+
+.hidden {
+  display: none !important;
+}
+
+.app-foot {
+  text-align: center;
+  font-size: 0.74rem;
+  letter-spacing: 0.06em;
+  color: var(--text-sub);
+  padding: 1.2rem 0 0.4rem;
+}
+
+/* ---------- 表單 ---------- */
+
+.field {
+  margin-bottom: 1.1rem;
+}
+
+.field:last-child {
+  margin-bottom: 0;
+}
+
+.field label {
+  display: block;
+  font-size: 0.86rem;
+  color: var(--text-sub);
+  margin-bottom: 0.4rem;
+}
+
+select {
+  width: 100%;
+  min-height: 48px;
+  padding: 0.5rem 2.2rem 0.5rem 0.8rem;
+  font-size: 1rem;
+  color: var(--text);
+  background: var(--card);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+select:disabled {
+  color: var(--text-muted);
+  background: #F4F1EC;
+}
+
+select:focus-visible,
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.select-wrap {
+  position: relative;
+}
+
+/* 下拉的小三角自己用 CSS 畫，不為了一個圖示連外部資源 */
+.select-wrap::after {
+  content: "";
+  position: absolute;
+  right: 1rem;
+  top: 50%;
+  margin-top: -2px;
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 6px solid var(--text-sub);
+  pointer-events: none;
+}
+
+.year-row {
+  display: flex;
+  align-items: flex-end;
+  gap: 0.7rem;
+  margin-bottom: 1.1rem;
+}
+
+.year-row .field {
+  flex: 1;
+  margin-bottom: 0;
+}
+
+.year-row .year-to-text {
+  padding-bottom: 0.85rem;
+  font-size: 0.84rem;
+  color: var(--text-sub);
+}
+
+/* ---------- 按鈕 ---------- */
+
+button {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--text);
+  background: var(--card);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+  padding: 0.7rem 1.1rem;
+  min-height: 48px;
+  cursor: pointer;
+}
+
+button:active {
+  background: var(--accent-tint);
+}
+
+/* 停用狀態的文字不能太淡：底部「請選一個選項」在戶外強光下要看得見 */
+button:disabled {
+  color: var(--text-muted);
+  background: #F4F1EC;
+  border-color: var(--border);
+  cursor: default;
+}
+
+/* 強調色只用在主要動作這一個小面積 */
+.btn-primary {
+  width: 100%;
+  color: #FDFCFA;
+  background: var(--accent);
+  border-color: var(--accent);
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+.btn-primary:active {
+  background: var(--accent-dark);
+}
+
+.btn-primary:disabled {
+  color: var(--text-muted);
+  background: #F4F1EC;
+  border-color: var(--border);
+}
+
+.btn-secondary {
+  width: 100%;
+}
+
+/*
+ * 文字鈕與連結的點擊區要夠大（至少 44px 高）。
+ * 加到主畫面之後沒有瀏覽器的返回鈕，「回刷題」就是主要的返回入口，按不到會很煩。
+ */
+.btn-text {
+  display: inline-block;
+  min-height: 44px;
+  padding: 0.7rem 0.4rem;
+  border: 0;
+  background: none;
+  color: var(--accent);
+  font-size: 0.88rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.btn-text:active {
+  background: none;
+}
+
+.btn-row {
+  display: flex;
+  gap: 0.7rem;
+}
+
+.btn-row > * {
+  flex: 1;
+}
+
+.link-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem 1.2rem;
+}
+
+.link-row a {
+  display: inline-block;
+  min-height: 44px;
+  padding: 0.7rem 0.4rem;
+  color: var(--accent);
+  font-size: 0.88rem;
+  text-underline-offset: 3px;
+}
+
+/* ---------- 統計數字 ---------- */
+
+.stat-row {
+  display: flex;
+  gap: 0.6rem;
+}
+
+.stat-box {
+  flex: 1;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.7rem 0.4rem;
+  text-align: center;
+}
+
+.stat-num {
+  display: block;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.stat-label {
+  display: block;
+  font-size: 0.78rem;
+  color: var(--text-sub);
+}
+
+/* ---------- 提示條 ---------- */
+
+/* 提示條（修法時效、科目對應、載入失敗）都是重要資訊，字級不可以縮太小 */
+.notice {
+  border: 1px solid var(--warn-border);
+  border-left: 3px solid var(--warn);
+  background: var(--warn-bg);
+  border-radius: var(--radius);
+  padding: 0.7rem 0.9rem;
+  font-size: 0.9rem;
+  line-height: 1.75;
+  margin-bottom: 0.8rem;
+}
+
+.notice-soft {
+  border-color: var(--border);
+  border-left-color: var(--border-strong);
+  background: #F6F4F0;
+  color: var(--text-sub);
+}
+
+.notice-error {
+  border-color: var(--border);
+  border-left-color: var(--ng);
+  background: var(--ng-bg);
+  color: var(--text);
+}
+
+/* ---------- 刷題畫面 ---------- */
+
+.quiz-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.7rem;
+  margin-bottom: 0.9rem;
+  font-size: 0.84rem;
+  color: var(--text-sub);
+}
+
+.tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.7rem;
+}
+
+.tag {
+  display: inline-block;
+  padding: 0.1rem 0.6rem;
+  font-size: 0.82rem;
+  line-height: 1.7;
+  color: var(--text-sub);
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+/*
+ * 出題年度要一眼看到：20 年間法條改過很多次，舊題的正解可能已經不符現行法。
+ * 這是關鍵資訊，字級不可以縮小，要比其他標籤大一階。
+ */
+.tag-year {
+  font-size: 0.9rem;
+  padding: 0.1rem 0.7rem;
+  color: var(--accent);
+  border-color: var(--accent);
+  font-weight: 600;
+}
+
+.session-line {
+  margin: 0 0 0.9rem;
+  font-size: 0.8rem;
+  color: var(--text-sub);
+}
+
+.stem {
+  margin: 0 0 1.2rem;
+  font-size: 1rem;
+  line-height: 1.95;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.option-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.option {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.7rem;
+  width: 100%;
+  min-height: 52px;
+  padding: 0.75rem 0.9rem;
+  text-align: left;
+  line-height: 1.8;
+  background: var(--card);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+}
+
+.option-letter {
+  flex: 0 0 auto;
+  width: 1.6rem;
+  height: 1.6rem;
+  line-height: 1.55rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-sub);
+  border: 1px solid var(--border-strong);
+  border-radius: 4px;
+}
+
+.option-text {
+  flex: 1;
+  word-break: break-word;
+}
+
+/*
+ * 「正解」「你選的」這個記號要跟在選項文字後面一起排版（而不是另外占一欄），
+ * 否則選項文字會被擠成很窄一條，手機上一行只剩七八個字。
+ */
+.option-mark {
+  margin-left: 0.4rem;
+  font-size: 0.86rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* 作答後選項會鎖起來，但底色要維持卡片白，不要看起來像壞掉的灰色按鈕 */
+.option:disabled {
+  color: var(--text);
+  background: var(--card);
+  cursor: default;
+}
+
+.option.picked {
+  border-color: var(--accent);
+  background: var(--accent-tint);
+}
+
+.option.picked .option-letter {
+  color: #FDFCFA;
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.option.correct {
+  border-color: var(--ok);
+  background: var(--ok-bg);
+}
+
+.option.correct .option-letter {
+  color: #FDFCFA;
+  background: var(--ok);
+  border-color: var(--ok);
+}
+
+.option.correct .option-mark {
+  color: var(--ok);
+}
+
+.option.wrong {
+  border-color: var(--ng);
+  background: var(--ng-bg);
+}
+
+.option.wrong .option-letter {
+  color: #FDFCFA;
+  background: var(--ng);
+  border-color: var(--ng);
+}
+
+.option.wrong .option-mark {
+  color: var(--ng);
+}
+
+/*
+ * 判定結果。「答對了／答錯了、正解：B」是整個畫面最重要的一段字，
+ * 維持 14pt 基準，不縮小。
+ * scroll-margin-bottom 是為了不被底部固定操作列蓋住（含 iPhone 底部安全區）。
+ */
+.result {
+  margin-top: 1.1rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 1rem;
+  line-height: 1.85;
+  scroll-margin-bottom: 8rem;
+}
+
+.result-ok {
+  border-left: 3px solid var(--ok);
+  background: var(--ok-bg);
+}
+
+.result-ng {
+  border-left: 3px solid var(--ng);
+  background: var(--ng-bg);
+}
+
+.result-title {
+  font-weight: 600;
+}
+
+.answer-line {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.result-sub {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.88rem;
+  color: var(--text-sub);
+}
+
+.qid {
+  margin: 0.9rem 0 0;
+  font-size: 0.72rem;
+  letter-spacing: 0.03em;
+  color: #A9A29A;
+}
+
+/* 固定在畫面底部的操作列，手機單手好按 */
+.bottom-bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(250, 248, 244, 0.97);
+  border-top: 1px solid var(--border);
+  padding: 0.7rem 1.1rem calc(0.7rem + var(--safe-bottom));
+}
+
+.bottom-inner {
+  max-width: 44rem;
+  margin: 0 auto;
+}
+
+/* ---------- 電腦畫面 ---------- */
+
+@media (min-width: 48rem) {
+  .page {
+    padding: 2.2rem 1.4rem 2.4rem;
+  }
+
+  .card {
+    padding: 1.5rem;
+  }
+}
+
+/* ===================================================================
+ * 第二版新增的元件
+ * （錯題本、間隔重複、模擬整卷、申論題、AI 詳解、設定頁）
+ * =================================================================== */
+
+/* ---------- 首頁的模式清單 ---------- */
+
+.mode-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.mode-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.15rem;
+  width: 100%;
+  min-height: 60px;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  background: var(--card);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+}
+
+.mode-name {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.mode-desc {
+  font-size: 0.82rem;
+  color: var(--text-sub);
+  line-height: 1.6;
+}
+
+.mode-btn:disabled .mode-name,
+.mode-btn:disabled .mode-desc {
+  color: var(--text-muted);
+}
+
+/* ---------- 題目上的額外標籤 ---------- */
+
+.tag-box {
+  color: var(--text-sub);
+  background: #f6f4f0;
+}
+
+.tag-demo {
+  color: var(--warn);
+  border-color: var(--warn-border);
+  background: var(--warn-bg);
+}
+
+/* ---------- 作答後的按鈕列與 AI 詳解 ---------- */
+
+.after-answer {
+  margin-top: 1rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--border);
+}
+
+.ai-box {
+  margin-top: 0.9rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--border-strong);
+  border-radius: var(--radius);
+  background: #faf9f6;
+}
+
+.ai-box.ai-ready {
+  border-left-color: var(--accent);
+}
+
+.ai-box.ai-error {
+  border-left-color: var(--ng);
+  background: var(--ng-bg);
+}
+
+.ai-head {
+  margin: 0 0 0.5rem;
+  font-size: 0.84rem;
+  font-weight: 600;
+  color: var(--text-sub);
+}
+
+.ai-text {
+  margin: 0;
+  font-size: 0.94rem;
+  line-height: 1.95;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.ai-disclaimer {
+  margin: 0.8rem 0 0;
+  padding-top: 0.6rem;
+  border-top: 1px dashed var(--border);
+  font-size: 0.84rem;
+  font-weight: 600;
+  color: var(--warn);
+}
+
+/* ---------- 模擬整卷 ---------- */
+
+.exam-timer {
+  flex: 0 0 auto;
+  white-space: nowrap;
+  font-weight: 600;
+  font-size: 0.92rem;
+  color: var(--text);
+}
+
+.exam-timer-warn {
+  color: var(--ng);
+}
+
+.qnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.qnav-btn {
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0.3rem;
+  font-size: 0.86rem;
+  border-radius: var(--radius);
+}
+
+.qnav-done {
+  background: var(--accent-tint);
+  border-color: var(--accent);
+}
+
+.qnav-now {
+  color: #fdfcfa;
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.exam-score {
+  margin: 0.2rem 0 0.6rem;
+  text-align: center;
+}
+
+#exam-score-num {
+  font-size: 2.6rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.exam-score-unit {
+  font-size: 1rem;
+  color: var(--text-sub);
+}
+
+.review-item {
+  padding: 0.9rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.review-item:last-child {
+  border-bottom: 0;
+}
+
+.review-head {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.4rem;
+}
+
+.review-no {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.review-mark {
+  font-size: 0.84rem;
+  font-weight: 600;
+  padding: 0.05rem 0.5rem;
+  border-radius: 999px;
+}
+
+.review-ok {
+  color: var(--ok);
+  background: var(--ok-bg);
+}
+
+.review-ng {
+  color: var(--ng);
+  background: var(--ng-bg);
+}
+
+.review-blank {
+  color: var(--text-sub);
+  background: #f2efe9;
+}
+
+.review-stem {
+  margin: 0 0 0.4rem;
+  font-size: 0.9rem;
+  line-height: 1.8;
+  white-space: pre-wrap;
+}
+
+.review-line {
+  margin: 0.15rem 0;
+  font-size: 0.88rem;
+}
+
+.review-warn {
+  color: var(--warn);
+}
+
+.review-qid {
+  margin: 0.3rem 0 0;
+  font-size: 0.74rem;
+  color: #a9a29a;
+}
+
+/* ---------- 申論題 ---------- */
+
+.draft-label {
+  display: block;
+  font-size: 0.86rem;
+  color: var(--text-sub);
+  margin-bottom: 0.4rem;
+}
+
+textarea {
+  width: 100%;
+  padding: 0.8rem;
+  font-size: 1rem;
+  line-height: 1.9;
+  color: var(--text);
+  background: var(--card);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+  resize: vertical;
+}
+
+textarea:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* ---------- 設定頁的輸入框 ---------- */
+
+input[type="date"],
+input[type="password"],
+input[type="text"] {
+  width: 100%;
+  min-height: 48px;
+  padding: 0.5rem 0.8rem;
+  font-size: 1rem;
+  color: var(--text);
+  background: var(--card);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+}
+
+input:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* ---------- 成功提示 ---------- */
+
+.notice-good {
+  border-color: var(--border);
+  border-left-color: var(--ok);
+  background: var(--ok-bg);
+  color: var(--text);
+}
+
+/* ---------- 確認對話框 ---------- */
+
+.dialog-mask {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.2rem;
+  background: rgba(56, 52, 47, 0.35);
+  z-index: 50;
+}
+
+.dialog {
+  width: 100%;
+  max-width: 24rem;
+  padding: 1.3rem;
+  background: var(--card);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+}
+
+.dialog-title {
+  margin: 0 0 0.7rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.dialog-body {
+  margin-bottom: 1.1rem;
+  font-size: 0.92rem;
+  line-height: 1.85;
+}
+
+.dialog-body p {
+  margin: 0 0 0.5rem;
+}
+
+.dialog-body p:last-child {
+  margin-bottom: 0;
+}

@@ -1,0 +1,1224 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>自我檢查｜警察考試刷題</title>
+<meta name="theme-color" content="#FAF8F4">
+<link rel="stylesheet" href="./css/style.css">
+<style>
+/* 這一頁專用的小樣式，其餘沿用全站的 style.css */
+.banner {
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--border-strong);
+  border-radius: var(--radius);
+  padding: 1rem 1.1rem;
+  margin-bottom: 1.1rem;
+  font-size: 1rem;
+  line-height: 1.8;
+}
+.banner-ok { border-left-color: var(--ok); background: var(--ok-bg); }
+.banner-ng { border-left-color: var(--ng); background: var(--ng-bg); }
+.banner-warn { border-left-color: var(--warn); background: var(--warn-bg); }
+.banner-title { font-weight: 600; font-size: 1.05rem; }
+
+.case-group { margin-bottom: 1.1rem; }
+.case-group h2 {
+  margin: 0 0 0.5rem;
+  font-size: 0.86rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--text-sub);
+}
+.case {
+  display: flex;
+  gap: 0.6rem;
+  align-items: flex-start;
+  padding: 0.35rem 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.86rem;
+  line-height: 1.7;
+}
+.case:last-child { border-bottom: 0; }
+.case-mark { flex: 0 0 auto; width: 1.4rem; font-weight: 600; }
+.case-ok .case-mark { color: var(--ok); }
+.case-ng .case-mark { color: var(--ng); }
+.case-why { display: block; color: var(--ng); font-size: 0.78rem; }
+
+.bank-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.6rem;
+  padding: 0.35rem 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.86rem;
+}
+.bank-row:last-child { border-bottom: 0; }
+.broken-item { font-size: 0.78rem; color: var(--text-sub); padding: 0.2rem 0 0.2rem 1.4rem; }
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <header class="app-head">
+    <h1>自我檢查</h1>
+    <span class="app-sub"><a href="./index.html">回刷題</a></span>
+  </header>
+
+  <div id="banner" class="banner">
+    <span class="banner-title">檢查中…</span>
+  </div>
+
+  <div class="card">
+    <p class="card-title">判題與計算邏輯</p>
+    <p class="small">這一段不連網路，打開就跑完。全部打勾才代表判對錯的規則沒有壞掉。</p>
+    <div id="cases"></div>
+  </div>
+
+  <div class="card">
+    <p class="card-title">題庫實際檢查</p>
+    <p class="small">
+      讀一科的題庫回來，列出哪些題目的正解資料有問題（這些題目在刷題時會被自動跳過）。
+      一次只檢查一科，不會把整個題庫抓下來，所以要自己按才會開始。
+    </p>
+
+    <div class="field" id="bank-picker" style="margin-top:0.9rem;">
+      <label for="bank-subject">要檢查哪一科</label>
+      <div class="select-wrap">
+        <select id="bank-subject" disabled>
+          <option value="">請先按下面的按鈕載入科目清單</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="btn-row" style="margin-top:0.8rem;">
+      <button type="button" class="btn-secondary" id="bank-load-btn">載入科目清單</button>
+      <button type="button" class="btn-primary" id="bank-check-btn" disabled>檢查這一科</button>
+    </div>
+
+    <div id="bank-report" style="margin-top:0.9rem;"></div>
+  </div>
+
+  <footer class="app-foot">製作人Rui ／ Maker Rui</footer>
+
+</div>
+
+<script src="./js/core.js"></script>
+<script>
+/*
+ * self-test.html — 自我檢查頁（製作人Rui / Maker Rui）
+ *
+ * 不引入任何測試框架，用原生 JavaScript 寫，打開網頁就自動跑完。
+ * 檢查的是 core.js 裡的判題與計算邏輯：單選、多選要全對、雙正解任一組命中、送分題。
+ * 判題規則有改動時，這一頁要跟著補上對應的情境。
+ */
+(function () {
+  'use strict';
+
+  /* ---------- 很小的一套測試工具 ---------- */
+
+  var groups = [];     // [{ name, cases: [{ name, ok, why }] }]
+  var currentGroup = null;
+
+  function group(name) {
+    currentGroup = { name: name, cases: [] };
+    groups.push(currentGroup);
+  }
+
+  function test(name, fn) {
+    try {
+      fn();
+      currentGroup.cases.push({ name: name, ok: true, why: '' });
+    } catch (e) {
+      currentGroup.cases.push({ name: name, ok: false, why: e && e.message ? e.message : String(e) });
+    }
+  }
+
+  function assert(condition, why) {
+    if (!condition) throw new Error(why || '條件不成立');
+  }
+
+  function assertSame(actual, expected, why) {
+    var a = JSON.stringify(actual);
+    var b = JSON.stringify(expected);
+    if (a !== b) {
+      throw new Error((why ? why + '：' : '') + '預期 ' + b + '，實際 ' + a);
+    }
+  }
+
+  /* ---------- 測試用的題目 ---------- */
+
+  function singleQuestion() {
+    return {
+      id: 'test-single-01', source: 'cpu', session: '測試場次', year: 115,
+      subject: '警察法規', originalSubject: '警察法規', mappingLevel: '完全',
+      type: 'single', stem: '這是一道單選題',
+      options: { A: '選項一', B: '選項二', C: '選項三', D: '選項四' },
+      answers: [['B']], language: 'zh'
+    };
+  }
+
+  function multiQuestion() {
+    return {
+      id: 'test-multi-01', source: 'cpu', session: '測試場次', year: 115,
+      subject: '犯罪偵查實務', originalSubject: '犯罪偵查實務', mappingLevel: '完全',
+      type: 'multi', stem: '這是一道多選題',
+      options: { A: '一', B: '二', C: '三', D: '四', E: '五' },
+      answers: [['A', 'C', 'D']], language: 'zh'
+    };
+  }
+
+  function dualAnswerQuestion() {
+    var question = singleQuestion();
+    question.id = 'test-dual-01';
+    question.answers = [['B'], ['C']];   // 雙正解：B 或 C 都算對
+    question.revised = true;
+    question.revisionNote = '第 17 題釋疑後 B、C 均給分';
+    return question;
+  }
+
+  function allCorrectQuestion() {
+    var question = singleQuestion();
+    question.id = 'test-allcorrect-01';
+    question.answers = [];
+    question.allCorrect = true;
+    question.revisionNote = '第 19 題一律給分';
+    return question;
+  }
+
+  /* ---------- 情境一：單選題 ---------- */
+
+  group('單選題');
+
+  test('選到正解算答對', function () {
+    assert(PQPure.judge(singleQuestion(), ['B']).correct === true, '選 B 應該要算答對');
+  });
+
+  test('選錯算答錯', function () {
+    assert(PQPure.judge(singleQuestion(), ['A']).correct === false, '選 A 應該要算答錯');
+  });
+
+  test('沒有作答算答錯', function () {
+    assert(PQPure.judge(singleQuestion(), []).correct === false, '沒選東西不應該算答對');
+  });
+
+  test('小寫字母也認得', function () {
+    assert(PQPure.judge(singleQuestion(), ['b']).correct === true, '小寫 b 應該等同 B');
+  });
+
+  test('正解顯示成「B」', function () {
+    assertSame(PQPure.formatGroups(PQPure.inspectQuestion(singleQuestion()).groups), 'B');
+  });
+
+  test('單選題應該有 4 個選項', function () {
+    assertSame(PQPure.inspectQuestion(singleQuestion()).validLetters, ['A', 'B', 'C', 'D']);
+  });
+
+  /* ---------- 情境二：多選題（要全部對才算答對） ---------- */
+
+  group('多選題');
+
+  test('全部選對才算答對', function () {
+    assert(PQPure.judge(multiQuestion(), ['A', 'C', 'D']).correct === true, 'ACD 應該算答對');
+  });
+
+  test('選的順序顛倒也算答對', function () {
+    assert(PQPure.judge(multiQuestion(), ['D', 'A', 'C']).correct === true, '順序不該影響判定');
+  });
+
+  test('少選一個算答錯', function () {
+    assert(PQPure.judge(multiQuestion(), ['A', 'C']).correct === false, '少選 D 應該算答錯');
+  });
+
+  test('多選一個算答錯', function () {
+    assert(PQPure.judge(multiQuestion(), ['A', 'C', 'D', 'E']).correct === false, '多選 E 應該算答錯');
+  });
+
+  test('全部選滿也算答錯', function () {
+    assert(PQPure.judge(multiQuestion(), ['A', 'B', 'C', 'D', 'E']).correct === false, '全選不該算答對');
+  });
+
+  test('答錯時算得出對幾個、漏幾個、多選幾個', function () {
+    var verdict = PQPure.judge(multiQuestion(), ['A', 'B']);
+    assertSame([verdict.hitCount, verdict.missCount, verdict.wrongPickCount], [1, 2, 1]);
+  });
+
+  test('多選題的正解顯示成「A、C、D」', function () {
+    assertSame(PQPure.formatGroups(PQPure.inspectQuestion(multiQuestion()).groups), 'A、C、D');
+  });
+
+  test('多選題應該有 5 個選項', function () {
+    assertSame(PQPure.inspectQuestion(multiQuestion()).validLetters, ['A', 'B', 'C', 'D', 'E']);
+  });
+
+  /* ---------- 情境三：雙正解（任一組完全命中就算對） ---------- */
+
+  group('雙正解');
+
+  test('命中第一組算答對', function () {
+    assert(PQPure.judge(dualAnswerQuestion(), ['B']).correct === true, '選 B 應該算答對');
+  });
+
+  test('命中第二組也算答對', function () {
+    assert(PQPure.judge(dualAnswerQuestion(), ['C']).correct === true, '選 C 應該算答對');
+  });
+
+  test('兩組都沒命中算答錯', function () {
+    assert(PQPure.judge(dualAnswerQuestion(), ['A']).correct === false, '選 A 應該算答錯');
+  });
+
+  test('正解顯示成「B 或 C」', function () {
+    assertSame(PQPure.formatGroups(PQPure.inspectQuestion(dualAnswerQuestion()).groups), 'B 或 C');
+  });
+
+  test('多選題的雙正解：AB 或 ABC 都算對', function () {
+    var question = multiQuestion();
+    question.answers = [['A', 'B'], ['A', 'B', 'C']];
+    assert(PQPure.judge(question, ['A', 'B']).correct === true, 'AB 應該算答對');
+    assert(PQPure.judge(question, ['A', 'B', 'C']).correct === true, 'ABC 應該算答對');
+    assert(PQPure.judge(question, ['A', 'C']).correct === false, 'AC 應該算答錯');
+    assertSame(PQPure.formatGroups(PQPure.inspectQuestion(question).groups), 'A、B 或 A、B、C');
+  });
+
+  test('釋疑更正的題目會顯示提示', function () {
+    assert(PQPure.revisionNotice(dualAnswerQuestion()).indexOf('第 17 題') !== -1, '應該帶出釋疑說明');
+  });
+
+  test('只有更正記號、沒寫更正內容時不會跳提示', function () {
+    var question = singleQuestion();
+    question.revised = true;   // 建置器會把整份採用更正答案的題目都標成 revised
+    assertSame(PQPure.revisionNotice(question), null);
+  });
+
+  /* ---------- 情境四：送分題 ---------- */
+
+  group('送分題（官方公告一律給分）');
+
+  test('隨便選一個也算答對', function () {
+    assert(PQPure.judge(allCorrectQuestion(), ['A']).correct === true, '送分題應該一律算答對');
+  });
+
+  test('什麼都沒選也算答對', function () {
+    assert(PQPure.judge(allCorrectQuestion(), []).correct === true, '送分題沒作答也算答對');
+  });
+
+  test('會標示「本題官方公告一律給分」', function () {
+    assertSame(PQPure.judge(allCorrectQuestion(), ['A']).note, '本題官方公告一律給分');
+  });
+
+  test('送分題不算題庫異常', function () {
+    assert(PQPure.inspectQuestion(allCorrectQuestion()).ok === true, '送分題沒有正解是正常的');
+  });
+
+  /* ---------- 情境五：題庫資料體檢 ---------- */
+
+  group('題庫資料體檢');
+
+  test('正常題目通過體檢', function () {
+    assert(PQPure.inspectQuestion(singleQuestion()).ok === true, '正常題目不該被擋');
+  });
+
+  test('正解混進中文字會被擋下來', function () {
+    var question = multiQuestion();
+    question.answers = [['方', '式', '提', '出']];
+    assert(PQPure.inspectQuestion(question).ok === false, '這種解析失敗的題目不可以拿出來刷');
+  });
+
+  test('單選題只有一組多字母正解會被擋下來（怎麼點都不會對）', function () {
+    var question = singleQuestion();
+    question.answers = [['A', 'B', 'D']];
+    assert(PQPure.inspectQuestion(question).ok === false, '單選一次只能點一個，這種題目永遠答不對');
+  });
+
+  test('官方公告「答Ａ或Ｃ或ＡＣ均給分」的單選題要照常出題', function () {
+    // 考選部更正檔真實案例（moex-99-plaw-02）：三組都是官方認定的給分答案
+    var question = singleQuestion();
+    question.answers = [['A'], ['C'], ['A', 'C']];
+    question.revised = true;
+    question.revisionNote = '第2題答Ａ或Ｃ或ＡＣ者均給分';
+    var report = PQPure.inspectQuestion(question);
+    assert(report.ok === true, '這是合法的釋疑結果，不可以當成壞題擋掉：' + report.problems.join('；'));
+    assert(PQPure.judge(question, ['A']).correct === true, '選 A 要算答對');
+    assert(PQPure.judge(question, ['C']).correct === true, '選 C 要算答對');
+    assert(PQPure.judge(question, ['B']).correct === false, '選 B 要算答錯');
+  });
+
+  test('正解有重複字母會被擋下來', function () {
+    var question = multiQuestion();
+    question.answers = [['A', 'B', 'E', 'A', 'B']];
+    assert(PQPure.inspectQuestion(question).ok === false, '重複字母代表解析出錯');
+  });
+
+  test('沒有正解又沒標送分會被擋下來', function () {
+    var question = singleQuestion();
+    question.answers = [];
+    assert(PQPure.inspectQuestion(question).ok === false, '沒有正解的題目不能拿出來刷');
+  });
+
+  test('選項數不對會被擋下來', function () {
+    var question = singleQuestion();
+    delete question.options.D;
+    assert(PQPure.inspectQuestion(question).ok === false, '單選題少一個選項代表解析出錯');
+  });
+
+  test('整科分成可用與異常兩堆', function () {
+    var bad = singleQuestion();
+    bad.id = 'test-bad-01';
+    bad.answers = [['甲']];
+    var report = PQPure.inspectBank([singleQuestion(), multiQuestion(), bad]);
+    assertSame([report.usable.length, report.broken.length], [2, 1]);
+    assertSame(report.broken[0].id, 'test-bad-01');
+  });
+
+  /* ---------- 情境六：篩選與出題順序 ---------- */
+
+  group('年度篩選與洗牌');
+
+  var yearSample = [
+    { id: 'a', year: 110 }, { id: 'b', year: 112 }, { id: 'c', year: 115 }, { id: 'd', year: 115 }
+  ];
+
+  test('年度範圍篩得出正確題數', function () {
+    assertSame(PQPure.filterByYear(yearSample, 112, 115).length, 3);
+    assertSame(PQPure.filterByYear(yearSample, 115, 115).length, 2);
+    assertSame(PQPure.filterByYear(yearSample, 100, 109).length, 0);
+  });
+
+  test('年度清單會去重並由小到大排好', function () {
+    assertSame(PQPure.collectYears(yearSample), [110, 112, 115]);
+  });
+
+  test('洗牌不會弄丟或複製題目', function () {
+    var shuffled = PQPure.shuffle(yearSample, function () { return 0.5; });
+    assertSame(shuffled.length, yearSample.length);
+    var ids = shuffled.map(function (item) { return item.id; }).sort();
+    assertSame(ids, ['a', 'b', 'c', 'd']);
+  });
+
+  test('洗牌不會改到原本的清單', function () {
+    var before = yearSample.map(function (item) { return item.id; });
+    PQPure.shuffle(yearSample, Math.random);
+    assertSame(yearSample.map(function (item) { return item.id; }), before);
+  });
+
+  test('同樣的隨機來源會洗出同樣的順序', function () {
+    var fixed = function () { return 0.42; };
+    assertSame(
+      PQPure.shuffle(yearSample, fixed).map(function (item) { return item.id; }),
+      PQPure.shuffle(yearSample, fixed).map(function (item) { return item.id; })
+    );
+  });
+
+  /* ---------- 情境七：台北時間 ---------- */
+
+  group('日期（一律台北時間）');
+
+  test('UTC 16:30 已經是台北的隔天', function () {
+    assertSame(PQPure.toTaipeiDateString(new Date('2026-10-09T16:30:00Z')), '2026-10-10');
+  });
+
+  test('UTC 15:59 還是台北的當天', function () {
+    assertSame(PQPure.toTaipeiDateString(new Date('2026-10-09T15:59:00Z')), '2026-10-09');
+  });
+
+  test('跨月也算得對', function () {
+    assertSame(PQPure.toTaipeiDateString(new Date('2026-10-31T16:00:00Z')), '2026-11-01');
+  });
+
+  test('時間戳記格式正確', function () {
+    assertSame(PQPure.toTaipeiStampString(new Date('2026-10-09T16:30:00Z')), '2026-10-10 00:30');
+  });
+
+  test('存檔用的時間戳記帶秒數', function () {
+    assertSame(PQPure.toTaipeiStampString(new Date('2026-10-09T16:30:05Z'), true), '2026-10-10 00:30:05');
+  });
+
+  test('傳進不是日期的東西會回空值，不會爆掉', function () {
+    assertSame(PQPure.toTaipeiDateString('今天'), null);
+    assertSame(PQPure.toTaipeiDateString(null), null);
+  });
+
+  /* ---------- 情境八：進度紀錄 ---------- */
+
+  group('進度紀錄');
+
+  test('答對會累加答對次數與連續答對', function () {
+    var entry = PQPure.applyAnswerToProgress(null, true, '2026-10-09');
+    assertSame([entry.correctCount, entry.wrongCount, entry.streak], [1, 0, 1]);
+    assertSame(entry.lastAnsweredAt, '2026-10-09');
+  });
+
+  test('答錯會把連續答對歸零', function () {
+    var entry = PQPure.applyAnswerToProgress({ correctCount: 3, wrongCount: 1, streak: 3 }, false, '2026-10-09');
+    assertSame([entry.correctCount, entry.wrongCount, entry.streak], [3, 2, 0]);
+  });
+
+  test('不會改到原本那一筆紀錄', function () {
+    var before = PQPure.makeProgressEntry();
+    PQPure.applyAnswerToProgress(before, true, '2026-10-09');
+    assertSame(before.correctCount, 0);
+  });
+
+  test('保留盒號與到期日欄位（給之後的間隔重複用）', function () {
+    var entry = PQPure.applyAnswerToProgress({ box: 3, dueAt: '2026-10-20' }, true, '2026-10-09');
+    assertSame([entry.box, entry.dueAt], [3, '2026-10-20']);
+  });
+
+  test('本回成績算得對', function () {
+    var summary = PQPure.summarizeSession([
+      { id: '1', correct: true }, { id: '2', correct: false }, { id: '3', correct: true }
+    ]);
+    assertSame([summary.total, summary.correct, summary.wrong, summary.accuracy], [3, 2, 1, 67]);
+  });
+
+  test('全部進度算得對', function () {
+    var summary = PQPure.summarizeProgress({
+      questions: {
+        q1: { correctCount: 2, wrongCount: 0, lastAnsweredAt: '2026-10-08' },
+        q2: { correctCount: 1, wrongCount: 1, lastAnsweredAt: '2026-10-09' },
+        q3: { correctCount: 0, wrongCount: 0, lastAnsweredAt: null }
+      }
+    });
+    assertSame([summary.answeredCount, summary.answerTimes, summary.accuracy], [2, 4, 75]);
+    assertSame(summary.lastAnsweredAt, '2026-10-09');
+  });
+
+  /* ---------- 情境九：題目上的提示 ---------- */
+
+  group('題目提示');
+
+  test('修法風險「高」會提示', function () {
+    var question = singleQuestion();
+    question.staleRisk = { level: '高', laws: ['洗錢防制法'] };
+    var notice = PQPure.staleNotice(question);
+    assert(notice !== null && notice.text.indexOf('洗錢防制法') !== -1, '應該帶出法規名稱');
+  });
+
+  test('修法風險「中」會提示', function () {
+    var question = singleQuestion();
+    question.staleRisk = { level: '中', laws: [] };
+    assert(PQPure.staleNotice(question) !== null, '中度風險也要提示');
+  });
+
+  test('修法風險「無」不會吵人', function () {
+    var question = singleQuestion();
+    question.staleRisk = { level: '無', laws: [] };
+    assertSame(PQPure.staleNotice(question), null);
+  });
+
+  test('科目對應「部分」會提示範圍有差異', function () {
+    var question = singleQuestion();
+    question.mappingLevel = '部分';
+    assertSame(PQPure.mappingNotice(question), '這科的出題範圍與現行考試已有差異');
+  });
+
+  test('科目對應「完全」不提示', function () {
+    assertSame(PQPure.mappingNotice(singleQuestion()), null);
+  });
+
+  /* ---------- 情境：間隔重複（五格抽屜） ---------- */
+
+  group('間隔重複排程');
+
+  test('抽屜的間隔是 1、2、4、8、16、30 天', function () {
+    assertSame([1, 2, 3, 4, 5, 6].map(PQPure.intervalForBox), [1, 2, 4, 8, 16, 30]);
+  });
+
+  test('答對往後一格、答錯打回第一格', function () {
+    assertSame(PQPure.nextBox(1, 'correct'), 2);
+    assertSame(PQPure.nextBox(3, 'correct'), 4);
+    assertSame(PQPure.nextBox(4, 'wrong'), 1);
+  });
+
+  test('多選題部分對只退一格，不會被打回第一格', function () {
+    assertSame(PQPure.nextBox(4, 'partial'), 3);
+    assertSame(PQPure.nextBox(1, 'partial'), 1);
+  });
+
+  test('第 6 格是畢業（已熟），不會再往上', function () {
+    assertSame(PQPure.nextBox(6, 'correct'), 6);
+    assert(PQPure.isGraduated(6) === true, '第 6 格要算已熟');
+    assert(PQPure.isGraduated(5) === false, '第 5 格還不算已熟');
+  });
+
+  test('多選題全對算對、部分對算部分、全錯算錯', function () {
+    var multi = multiQuestion();
+    assertSame(PQPure.outcomeOf(multi, PQPure.judge(multi, ['A', 'C', 'D'])), 'correct');
+    assertSame(PQPure.outcomeOf(multi, PQPure.judge(multi, ['A', 'C'])), 'partial');
+    assertSame(PQPure.outcomeOf(multi, PQPure.judge(multi, ['B'])), 'wrong');
+  });
+
+  test('單選題答錯一律算錯（不會有部分對）', function () {
+    var single = singleQuestion();
+    assertSame(PQPure.outcomeOf(single, PQPure.judge(single, ['A'])), 'wrong');
+  });
+
+  test('日期加減算得對（含跨月跨年）', function () {
+    assertSame(PQPure.addDaysISO('2026-10-09', 1), '2026-10-10');
+    assertSame(PQPure.addDaysISO('2026-10-31', 1), '2026-11-01');
+    assertSame(PQPure.addDaysISO('2026-12-31', 1), '2027-01-01');
+    assertSame(PQPure.daysBetweenISO('2026-10-09', '2026-10-19'), 10);
+    assertSame(PQPure.daysBetweenISO('2027-03-15', '2026-10-09'), -157);
+    assertSame(PQPure.addDaysISO('不是日期', 1), null);
+  });
+
+  test('距考試 150 天時間隔上限 50 天', function () {
+    var today = '2026-10-16';
+    var exam = PQPure.addDaysISO(today, 150);
+    assertSame(PQPure.capIntervalDays(16, today, exam), 16);   // 16 天沒超過上限
+    assertSame(PQPure.capIntervalDays(80, today, exam), 50);   // 超過就壓到 50
+  });
+
+  test('距考試 30 天時間隔上限 10 天、剩 9 天時上限 3 天', function () {
+    var today = '2026-10-16';
+    assertSame(PQPure.capIntervalDays(16, today, PQPure.addDaysISO(today, 30)), 10);
+    assertSame(PQPure.capIntervalDays(16, today, PQPure.addDaysISO(today, 9)), 3);
+  });
+
+  test('到期日不可以晚於考試日的前 3 天', function () {
+    var today = '2026-10-16';
+    var exam = PQPure.addDaysISO(today, 10);     // 距考試 10 天
+    var days = PQPure.capIntervalDays(30, today, exam);
+    assert(days <= 10 - 3, '間隔 ' + days + ' 天會超過考試前 3 天');
+  });
+
+  test('考試已經考完就不再壓縮', function () {
+    assertSame(PQPure.capIntervalDays(16, '2027-04-01', '2027-03-15'), 16);
+  });
+
+  test('沒設考試日也算得出到期日', function () {
+    var plan = PQPure.scheduleNext({ box: 2 }, 'correct', '2026-10-16', null);
+    assertSame([plan.box, plan.dueAt], [3, '2026-10-20']);
+  });
+
+  test('答錯之後明天就會再出現', function () {
+    var plan = PQPure.scheduleNext({ box: 5 }, 'wrong', '2026-10-16', '2027-03-15');
+    assertSame([plan.box, plan.dueAt], [1, '2026-10-17']);
+  });
+
+  test('共用科目以比較近的那一場考試為準', function () {
+    var dates = { '警佐班第3類': '2027-03-15', '刑事三等': '2027-06-15' };
+    assertSame(PQPure.pickExamDateISO(['警佐班第3類', '刑事三等'], dates), '2027-03-15');
+    assertSame(PQPure.pickExamDateISO(['刑事三等'], dates), '2027-06-15');
+    assertSame(PQPure.pickExamDateISO([], dates), '2027-03-15');
+    assertSame(PQPure.pickExamDateISO(['不存在的考試'], dates), null);
+  });
+
+  /* ---------- 情境：到期題與錯題本 ---------- */
+
+  group('到期題與錯題本');
+
+  function studyProgress() {
+    return {
+      questions: {
+        q1: { correctCount: 0, wrongCount: 2, streak: 0, box: 1, dueAt: '2026-10-10', sc: 'plaw' },
+        q2: { correctCount: 3, wrongCount: 1, streak: 2, box: 3, dueAt: '2026-10-16', sc: 'plaw' },
+        q3: { correctCount: 5, wrongCount: 1, streak: 3, box: 5, dueAt: '2026-11-01', sc: 'cinv' },
+        q4: { correctCount: 2, wrongCount: 0, streak: 2, box: 2, dueAt: '2026-10-16', sc: 'cinv' },
+        q5: { correctCount: 1, wrongCount: 0, streak: 1, box: 6, dueAt: '2026-12-01', sc: 'plaw' }
+      }
+    };
+  }
+
+  test('今天到期的題數算得對', function () {
+    var state = PQPure.summarizeStudyState(studyProgress(), '2026-10-16', 3);
+    assertSame(state.due, 3);       // q1 逾期、q2 與 q4 今天到期
+  });
+
+  test('錯題本＝曾答錯且連續答對未達門檻', function () {
+    var state = PQPure.summarizeStudyState(studyProgress(), '2026-10-16', 3);
+    assertSame(state.wrongBook, 2); // q1 與 q2；q3 連續答對 3 次已經放出去
+  });
+
+  test('連續答對門檻可以調', function () {
+    var state = PQPure.summarizeStudyState(studyProgress(), '2026-10-16', 5);
+    assertSame(state.wrongBook, 3); // 門檻拉到 5，q3 又回到錯題本
+  });
+
+  test('知道哪幾科有到期題（決定要載入哪幾科）', function () {
+    var state = PQPure.summarizeStudyState(studyProgress(), '2026-10-16', 3);
+    assertSame(state.subjectsDue, { plaw: 2, cinv: 1 });
+  });
+
+  test('到期題先出抽屜格數低的（比較不熟的）', function () {
+    var questions = [{ id: 'q2' }, { id: 'q4' }, { id: 'q1' }, { id: 'q3' }];
+    var picked = PQPure.pickDueQuestions(questions, studyProgress(), '2026-10-16', 60);
+    assertSame(picked.map(function (q) { return q.id; }), ['q1', 'q4', 'q2']);
+  });
+
+  test('每日上限會把多的往後順延', function () {
+    var questions = [{ id: 'q1' }, { id: 'q2' }, { id: 'q4' }];
+    assertSame(PQPure.pickDueQuestions(questions, studyProgress(), '2026-10-16', 2).length, 2);
+  });
+
+  test('錯題本把答錯最多次的排前面', function () {
+    var questions = [{ id: 'q2' }, { id: 'q1' }, { id: 'q3' }];
+    var picked = PQPure.pickWrongBookQuestions(questions, studyProgress(), 3);
+    assertSame(picked.map(function (q) { return q.id; }), ['q1', 'q2']);
+  });
+
+  test('自己標過時的題目會被排除', function () {
+    var questions = [{ id: 'q1' }, { id: 'q2' }];
+    var progress = { staleFlags: { q1: { at: '2026-10-16' } } };
+    assertSame(PQPure.excludeStaleFlagged(questions, progress).map(function (q) { return q.id; }), ['q2']);
+  });
+
+  test('沒有進度時不會算出到期題', function () {
+    assertSame(PQPure.summarizeStudyState(null, '2026-10-16', 3).due, 0);
+    assertSame(PQPure.pickDueQuestions(null, null, '2026-10-16', 60), []);
+  });
+
+  /* ---------- 情境：模擬整卷計分 ---------- */
+
+  group('模擬整卷計分');
+
+  function makeRecord(type, correct, answered, hit, wrongPick, miss, optionCount) {
+    return {
+      type: type,
+      answered: answered !== false,
+      optionCount: optionCount || (type === 'multi' ? 5 : 4),
+      verdict: {
+        correct: !!correct,
+        hitCount: hit || 0,
+        wrongPickCount: wrongPick || 0,
+        missCount: miss || 0
+      }
+    };
+  }
+
+  /**
+   * 多選題記錄的簡寫：漏選 miss 個、誤選 wrongPick 個。
+   * 判斷錯誤的選項數 k = miss + wrongPick。
+   */
+  function multiRecord(miss, wrongPick, optionCount) {
+    var allRight = (miss || 0) + (wrongPick || 0) === 0;
+    return makeRecord('multi', allRight, true, 0, wrongPick || 0, miss || 0, optionCount);
+  }
+
+  test('警佐班單選：答對 2 分、答錯倒扣 2/3 分、不答 0 分', function () {
+    var spec = { scoring: 'cpu-deduct', pointsPerSingle: 2, pointsPerMulti: 3 };
+    assertSame(PQPure.scorePaper(spec, [makeRecord('single', true)]).score, 2);
+    assertSame(PQPure.scorePaper(spec, [makeRecord('single', false)]).score, -0.67);
+    assertSame(PQPure.scorePaper(spec, [makeRecord('single', false, false)]).score, 0);
+  });
+
+  /*
+   * 多選題標準公式：得分 =（選項數 − 2 × 判斷錯誤的選項數）÷ 選項數 × 題分。
+   * 「判斷正確」包含「正確地不選一個不該選的選項」，所以五個都判斷對就是滿分。
+   * 下面這組數字就是 ADR-0007 的驗算表，改計分邏輯前先看這裡。
+   */
+  var CPU_SPEC = { scoring: 'cpu-deduct', pointsPerSingle: 2, pointsPerMulti: 3 };
+
+  test('警佐班多選：五個選項全部判斷正確給滿分 3 分', function () {
+    assertSame(PQPure.scorePaper(CPU_SPEC, [multiRecord(0, 0)]).score, 3);
+  });
+
+  test('警佐班多選：漏選一個得 1.8 分', function () {
+    assertSame(PQPure.scorePaper(CPU_SPEC, [multiRecord(1, 0)]).score, 1.8);
+  });
+
+  test('警佐班多選：多選一個得 1.8 分', function () {
+    assertSame(PQPure.scorePaper(CPU_SPEC, [multiRecord(0, 1)]).score, 1.8);
+  });
+
+  test('警佐班多選：判斷錯兩個得 0.6 分', function () {
+    assertSame(PQPure.scorePaper(CPU_SPEC, [multiRecord(2, 0)]).score, 0.6);
+    assertSame(PQPure.scorePaper(CPU_SPEC, [multiRecord(1, 1)]).score, 0.6);
+    assertSame(PQPure.scorePaper(CPU_SPEC, [multiRecord(0, 2)]).score, 0.6);
+  });
+
+  test('警佐班多選：判斷錯三個以上得 0 分，不會扣成負分', function () {
+    assertSame(PQPure.scorePaper(CPU_SPEC, [multiRecord(3, 0)]).score, 0);
+    assertSame(PQPure.scorePaper(CPU_SPEC, [multiRecord(2, 2)]).score, 0);
+    assertSame(PQPure.scorePaper(CPU_SPEC, [multiRecord(0, 5)]).score, 0);
+  });
+
+  test('警佐班多選：完全沒作答 0 分', function () {
+    assertSame(PQPure.scorePaper(CPU_SPEC, [makeRecord('multi', false, false)]).score, 0);
+    assertSame(PQPure.scorePaper(CPU_SPEC, [makeRecord('multi', false, false)]).blank, 1);
+  });
+
+  test('警佐班多選：實際判題接得上計分（正解 ACD，選 AC）', function () {
+    var question = multiQuestion();                 // 正解 A、C、D
+    var verdict = PQPure.judge(question, ['A', 'C']);
+    assertSame([verdict.hitCount, verdict.missCount, verdict.wrongPickCount], [2, 1, 0]);
+    var record = {
+      type: 'multi', answered: true, optionCount: 5, verdict: verdict
+    };
+    assertSame(PQPure.scorePaper(CPU_SPEC, [record]).score, 1.8);   // 只錯一個判斷
+  });
+
+  test('警佐班多選：實際判題接得上計分（正解 ACD，選 ACDB）', function () {
+    var question = multiQuestion();
+    var verdict = PQPure.judge(question, ['A', 'C', 'D', 'B']);
+    assertSame([verdict.hitCount, verdict.missCount, verdict.wrongPickCount], [3, 0, 1]);
+    var record = {
+      type: 'multi', answered: true, optionCount: 5, verdict: verdict
+    };
+    assertSame(PQPure.scorePaper(CPU_SPEC, [record]).score, 1.8);
+  });
+
+  test('選項數不是 5 的時候用實際選項數代入', function () {
+    // 4 個選項、錯 1 個：(4 - 2) / 4 × 3 = 1.5 分
+    assertSame(PQPure.scorePaper(CPU_SPEC, [multiRecord(1, 0, 4)]).score, 1.5);
+  });
+
+  test('刑事三等：答錯不倒扣', function () {
+    var spec = { scoring: 'moex-no-deduct', pointsPerSingle: 2 };
+    var result = PQPure.scorePaper(spec, [
+      makeRecord('single', true), makeRecord('single', false), makeRecord('single', false, false)
+    ]);
+    assertSame([result.score, result.correct, result.wrong, result.blank], [2, 1, 1, 1]);
+  });
+
+  test('刑事三等：憲英每題 1.25 分也算得對', function () {
+    var spec = { scoring: 'moex-no-deduct', pointsPerSingle: 1.25 };
+    assertSame(PQPure.scorePaper(spec, [makeRecord('single', true), makeRecord('single', true)]).score, 2.5);
+  });
+
+  test('刑事三等要標明申論題未計入', function () {
+    assert(PQPure.scorePaper({ scoring: 'moex-no-deduct' }, []).essayExcluded === true, '要標明');
+    assert(PQPure.scorePaper({ scoring: 'cpu-deduct' }, []).essayExcluded === false, '警佐班不用標');
+  });
+
+  test('從試卷封面原文讀得出每題配分與測驗題滿分', function () {
+    var note = '測驗題部分：（75 分）本試題為單一選擇題…共60題，每題1.25分，須用2B鉛筆…';
+    assertSame(PQPure.parsePointsPerQuestion(note), 1.25);
+    assertSame(PQPure.parseSectionFullScore(note), 75);
+    assertSame(PQPure.parsePointsPerQuestion('沒有寫配分'), null);
+  });
+
+  /* ---------- 情境：進度匯出與匯入 ---------- */
+
+  group('進度匯出與匯入');
+
+  test('匯出檔名是 刷題進度_YYYYMMDD.json', function () {
+    assertSame(PQPure.exportFileName('2026-10-16'), '刷題進度_20261016.json');
+  });
+
+  test('匯入前看得出這個檔是什麼', function () {
+    var info = PQPure.describeProgressFile({
+      questions: { a: { lastAnsweredAt: '2026-10-01' }, b: { lastAnsweredAt: '2026-10-15' } },
+      updatedAt: '2026-10-15 22:10:00'
+    });
+    assertSame([info.ok, info.questionCount, info.lastAnsweredAt], [true, 2, '2026-10-15']);
+  });
+
+  test('不是進度檔會被擋下來並說明原因', function () {
+    assert(PQPure.describeProgressFile({ 隨便: 1 }).ok === false, '沒有作答紀錄要擋下來');
+    assert(PQPure.describeProgressFile(null).ok === false, '空的要擋下來');
+    assert(PQPure.describeProgressFile({ 隨便: 1 }).reason.length > 0, '要講原因');
+  });
+
+  test('合併時以最後作答日比較新的那一筆為準', function () {
+    var mine = { questions: {
+      a: { correctCount: 1, lastAnsweredAt: '2026-10-01' },
+      b: { correctCount: 5, lastAnsweredAt: '2026-10-20' }
+    } };
+    var theirs = { questions: {
+      a: { correctCount: 9, lastAnsweredAt: '2026-10-10' },
+      b: { correctCount: 2, lastAnsweredAt: '2026-10-05' },
+      c: { correctCount: 1, lastAnsweredAt: '2026-10-11' }
+    } };
+    var out = PQPure.mergeProgress(mine, theirs);
+    assertSame(out.progress.questions.a.correctCount, 9);   // 匯入的比較新
+    assertSame(out.progress.questions.b.correctCount, 5);   // 本機的比較新
+    assertSame(out.progress.questions.c.correctCount, 1);   // 本機沒有就加進來
+    assertSame([out.stats.added, out.stats.updated, out.stats.kept], [1, 1, 1]);
+  });
+
+  test('合併不會弄丟本機原有的紀錄', function () {
+    var mine = { questions: { a: { correctCount: 1, lastAnsweredAt: '2026-10-01' } } };
+    var out = PQPure.mergeProgress(mine, { questions: {} });
+    assertSame(Object.keys(out.progress.questions), ['a']);
+  });
+
+  test('筆記、草稿、過時標記取聯集', function () {
+    var mine = { questions: {}, drafts: { a: '我的草稿' }, staleFlags: { x: true } };
+    var theirs = { questions: {}, drafts: { b: '別台的草稿' }, staleFlags: { y: true } };
+    var out = PQPure.mergeProgress(mine, theirs);
+    assertSame(Object.keys(out.progress.drafts).sort(), ['a', 'b']);
+    assertSame(Object.keys(out.progress.staleFlags).sort(), ['x', 'y']);
+  });
+
+  test('上次備份距今幾天算得對', function () {
+    assertSame(PQPure.daysSince('2026-10-09', '2026-10-16'), 7);
+    assertSame(PQPure.daysSince(null, '2026-10-16'), null);
+  });
+
+  /* ---------- 情境：過時提示 ---------- */
+
+  group('過時提示');
+
+  test('帶修正日期時會講具體是哪一部法、哪一年改的', function () {
+    var question = singleQuestion();
+    question.staleRisk = { level: '高', detail: [{ law: '洗錢防制法', amendedAt: '113 年' }] };
+    var notice = PQPure.staleNotice(question);
+    assert(notice.text.indexOf('洗錢防制法在 113 年修正過') !== -1, '要講具體：' + notice.text);
+  });
+
+  test('換個欄位名稱也認得（建置器還在調整格式）', function () {
+    var question = singleQuestion();
+    question.staleRisk = { level: '中', detail: [{ 法規: '警械使用條例', 修正日期: '111-06-15' }] };
+    assert(PQPure.staleNotice(question).text.indexOf('警械使用條例在 111-06-15 修正過') !== -1, '要接受中文欄位名');
+  });
+
+  test('只有法規名稱沒有日期時照樣提示', function () {
+    var question = singleQuestion();
+    question.staleRisk = { level: '高', laws: ['刑事訴訟法'] };
+    assert(PQPure.staleNotice(question).text.indexOf('刑事訴訟法') !== -1, '至少要講法規名稱');
+  });
+
+  test('104 年以前的舊題會另外提醒', function () {
+    var question = singleQuestion();
+    question.year = 99;
+    assert(PQPure.oldQuestionNotice(question).indexOf('99 年') !== -1, '要提醒是舊題');
+    question.year = 113;
+    assertSame(PQPure.oldQuestionNotice(question), null);
+  });
+
+  test('使用者自己標過時的題目會顯示提示', function () {
+    var progress = { staleFlags: { 'q1': { at: '2026-10-16' } } };
+    assert(PQPure.userStaleNotice(progress, 'q1').indexOf('已過時') !== -1, '要顯示提示');
+    assertSame(PQPure.userStaleNotice(progress, 'q2'), null);
+  });
+
+  /* ---------- 情境十：錯誤訊息（不可以出現英文原文） ---------- */
+
+  group('錯誤訊息');
+
+  // 只要出現這些字，就代表瀏覽器的英文原文漏到畫面上了
+  var ENGLISH_LEAKS = ['Load failed', 'Failed to fetch', 'Unexpected token', 'NetworkError',
+    'JSON', 'TypeError', 'SyntaxError', 'AbortError', 'undefined'];
+
+  function assertNoEnglishLeak(text) {
+    assert(typeof text === 'string' && text.length > 0, '訊息不可以是空的');
+    ENGLISH_LEAKS.forEach(function (word) {
+      assert(text.indexOf(word) === -1, '訊息裡不該出現「' + word + '」：' + text);
+    });
+  }
+
+  test('網路太慢（逾時）的訊息是白話中文', function () {
+    var text = PQPure.loadErrorText('timeout', '題庫索引');
+    assertNoEnglishLeak(text);
+    assert(text.indexOf('網路太慢') !== -1, '應該講明是網路太慢：' + text);
+  });
+
+  test('連不上網路的訊息是白話中文', function () {
+    var text = PQPure.loadErrorText('offline', '題庫索引');
+    assertNoEnglishLeak(text);
+    assert(text.indexOf('連不上網路') !== -1, '應該講明連不上網路：' + text);
+  });
+
+  test('檔案壞掉的訊息會告訴使用者下一步', function () {
+    var text = PQPure.loadErrorText('broken', '「警察法規」的題庫');
+    assertNoEnglishLeak(text);
+    assert(text.indexOf('檢查更新') !== -1 && text.indexOf('製作人') !== -1, '要告訴使用者怎麼辦：' + text);
+  });
+
+  test('找不到檔案的訊息會告訴使用者下一步', function () {
+    var text = PQPure.loadErrorText('missing', '題庫索引');
+    assertNoEnglishLeak(text);
+    assert(text.indexOf('檢查更新') !== -1, '要告訴使用者怎麼辦：' + text);
+  });
+
+  test('用檔案方式打開時會教使用者改用小伺服器', function () {
+    var text = PQPure.loadErrorText('file', '題庫索引');
+    assertNoEnglishLeak(text);
+    assert(text.indexOf('小伺服器') !== -1, '要教使用者怎麼開：' + text);
+  });
+
+  test('沒見過的原因也有中文訊息', function () {
+    assertNoEnglishLeak(PQPure.loadErrorText('沒看過的代號', '題庫索引'));
+    assertNoEnglishLeak(PQPure.loadErrorText(undefined, undefined));
+  });
+
+  test('逾時的錯誤會歸到「網路太慢」那一類', function () {
+    var abort = new Error('aborted');
+    abort.name = 'AbortError';
+    assertSame(PQPure.classifyLoadError(abort), 'timeout');
+  });
+
+  test('連線失敗的錯誤會歸到「連不上網路」那一類', function () {
+    assertSame(PQPure.classifyLoadError(new TypeError('Failed to fetch')), 'offline');
+  });
+
+  test('檔案讀壞的錯誤會歸到「檔案壞掉」那一類', function () {
+    assertSame(PQPure.classifyLoadError(new SyntaxError('Unexpected token <')), 'broken');
+  });
+
+  test('沒有錯誤物件時也給得出中文訊息', function () {
+    assertSame(PQPure.classifyLoadError(null), 'unknown');
+    assertNoEnglishLeak(PQPure.storageErrorText(null));
+  });
+
+  test('進度存取失敗的訊息是白話中文', function () {
+    var quota = new Error('quota');
+    quota.name = 'QuotaExceededError';
+    var secure = new Error('blocked');
+    secure.name = 'SecurityError';
+    var broken = new SyntaxError('Unexpected token in JSON at position 0');
+    assertNoEnglishLeak(PQPure.storageErrorText(quota));
+    assertNoEnglishLeak(PQPure.storageErrorText(secure));
+    assertNoEnglishLeak(PQPure.storageErrorText(broken));
+    assert(PQPure.storageErrorText(quota).indexOf('空間') !== -1, '要講明空間滿了');
+    assert(PQPure.storageErrorText(secure).indexOf('無痕') !== -1, '要提到無痕模式');
+  });
+
+  /* ---------- 情境十一：壞資料不可以讓程式爆掉 ---------- */
+
+  group('壞資料防護');
+
+  test('題目是空的也不會爆掉', function () {
+    var verdict = PQPure.judge(null, null);
+    assert(verdict.correct === false && verdict.undecidable === true, '應該回報無法判定');
+  });
+
+  test('正解整組壞掉時回報無法判定', function () {
+    var question = singleQuestion();
+    question.answers = [['中文']];
+    assert(PQPure.judge(question, ['A']).undecidable === true, '應該回報無法判定');
+  });
+
+  test('各種函式吃到空值都不會爆掉', function () {
+    assertSame(PQPure.filterByYear(null, 1, 2), []);
+    assertSame(PQPure.collectYears(null), []);
+    assertSame(PQPure.shuffle(null, Math.random), []);
+    assertSame(PQPure.summarizeSession(null).total, 0);
+    assertSame(PQPure.summarizeProgress(null).answeredCount, 0);
+    assertSame(PQPure.inspectBank(null).usable, []);
+    assertSame(PQPure.formatGroups(null), '（沒有正解資料）');
+  });
+
+  /* ---------- 把結果畫到畫面上 ---------- */
+
+  function makeEl(tag, className, text) {
+    var node = document.createElement(tag);
+    if (className) node.className = className;
+    if (text !== undefined && text !== null) node.textContent = text;
+    return node;
+  }
+
+  var passed = 0;
+  var failed = 0;
+  var box = document.getElementById('cases');
+
+  groups.forEach(function (item) {
+    var wrap = makeEl('div', 'case-group');
+    wrap.appendChild(makeEl('h2', null, item.name));
+    item.cases.forEach(function (one) {
+      if (one.ok) { passed += 1; } else { failed += 1; }
+      var row = makeEl('div', 'case ' + (one.ok ? 'case-ok' : 'case-ng'));
+      row.appendChild(makeEl('span', 'case-mark', one.ok ? '✓' : '✗'));
+      var text = makeEl('span', null, one.name);
+      if (!one.ok) text.appendChild(makeEl('span', 'case-why', one.why));
+      row.appendChild(text);
+      wrap.appendChild(row);
+    });
+    box.appendChild(wrap);
+  });
+
+  var banner = document.getElementById('banner');
+
+  /*
+   * 題庫檢查的狀態。
+   *   idle   還沒檢查（預設；題庫要自己按才檢查，不會一打開就把整包抓下來）
+   *   running 檢查中
+   *   done   檢查完了（checkedBroken 是累計抓到幾題壞題）
+   *   failed 想檢查但讀不到（離線、用檔案方式開啟、索引壞掉）
+   */
+  var bank = { state: 'idle', checkedSubjects: 0, checkedBroken: 0, failMessage: '' };
+
+  function paintBanner() {
+    banner.textContent = '';
+    var title;
+    var detail;
+    var kind;
+
+    if (failed > 0) {
+      kind = 'banner-ng';
+      title = '有測試沒通過（' + failed + ' 項）';
+      detail = '判題邏輯可能壞掉了，先不要依賴這個 App 的對錯判定，把下面紅色的項目拿去給師傅看。';
+    } else if (bank.state === 'failed') {
+      kind = 'banner-warn';
+      title = '判題邏輯通過（' + passed + ' 項），但題庫這次沒檢查到';
+      detail = bank.failMessage || '題庫讀不回來，所以不知道題庫資料正不正常。';
+    } else if (bank.state === 'running') {
+      kind = 'banner-warn';
+      title = '判題邏輯通過（' + passed + ' 項），題庫檢查進行中…';
+      detail = '正在讀題庫，請稍候。';
+    } else if (bank.state === 'done' && bank.checkedBroken > 0) {
+      kind = 'banner-warn';
+      title = '判題邏輯通過（' + passed + ' 項），但題庫有 ' + bank.checkedBroken + ' 題資料異常';
+      detail = '判題規則沒問題，是題庫裡有幾題的正解壞掉了，刷題時會自動跳過。詳見下方清單。';
+    } else if (bank.state === 'done') {
+      kind = 'banner-ok';
+      title = '全部通過（邏輯 ' + passed + ' 項，已檢查的 ' + bank.checkedSubjects + ' 科題庫正常）';
+      detail = '判題規則與這幾科的題庫資料都正常，可以安心刷題。';
+    } else {
+      kind = 'banner-ok';
+      title = '判題邏輯全部通過（' + passed + ' 項）';
+      detail = '判對錯的規則沒有壞掉。題庫資料還沒檢查——要檢查的話到下面挑一科按「檢查這一科」。';
+    }
+
+    banner.className = 'banner ' + kind;
+    banner.appendChild(makeEl('span', 'banner-title', title));
+    banner.appendChild(document.createElement('br'));
+    banner.appendChild(makeEl('span', 'small', detail));
+  }
+
+  paintBanner();
+
+  /* ---------- 題庫實際檢查：按鈕觸發，一次一科 ---------- */
+
+  /*
+   * 這一段刻意「不自動跑」。
+   * 題庫是一科一個檔、用到才載入，如果這一頁一打開就把每一科都抓下來，
+   * 等於打開自我檢查就把整個題庫下載一遍（手機上還會吃掉行動數據）。
+   */
+
+  var bankBox = document.getElementById('bank-report');
+  var bankSelect = document.getElementById('bank-subject');
+  var bankLoadBtn = document.getElementById('bank-load-btn');
+  var bankCheckBtn = document.getElementById('bank-check-btn');
+  var bankIndex = null;
+  var checkedCodes = {};
+
+  function showBankMessage(message, isError) {
+    bankBox.textContent = '';
+    bankBox.appendChild(makeEl('div', 'notice' + (isError ? ' notice-error' : ''), message));
+  }
+
+  /** 帶逾時的 JSON 抓取，錯誤訊息一律中文（跟 bank.js 同一套規則） */
+  function fetchJson(url, label) {
+    if (window.location.protocol === 'file:') {
+      return Promise.reject(new Error(PQPure.loadErrorText('file', label)));
+    }
+    var options = { credentials: 'same-origin' };
+    var controller = typeof AbortController === 'function' ? new AbortController() : null;
+    var timer = null;
+    if (controller) {
+      options.signal = controller.signal;
+      timer = window.setTimeout(function () { controller.abort(); }, 15000);
+    }
+    return fetch(url, options).then(function (response) {
+      if (timer) window.clearTimeout(timer);
+      if (response.status === 404) throw new Error(PQPure.loadErrorText('missing', label));
+      if (!response.ok) throw new Error(PQPure.loadErrorText('unknown', label));
+      return response.text();
+    }).then(function (text) {
+      try {
+        return JSON.parse(text);
+      } catch (e) {
+        throw new Error(PQPure.loadErrorText('broken', label));
+      }
+    }, function (error) {
+      if (timer) window.clearTimeout(timer);
+      if (error && error.message && error.message.indexOf('載入失敗') !== -1) throw error;
+      if (error && error.message && error.message.indexOf('檔案') !== -1) throw error;
+      if (window.console && console.warn) console.warn('[自我檢查] 載入失敗', error);
+      throw new Error(PQPure.loadErrorText(PQPure.classifyLoadError(error), label));
+    });
+  }
+
+  /** 載入科目清單（只抓索引這個小檔，不抓題庫） */
+  function loadSubjectList() {
+    bankLoadBtn.disabled = true;
+    bank.state = 'running';
+    paintBanner();
+    showBankMessage('正在載入科目清單…');
+
+    fetchJson('./data/index.json', '題庫索引').then(function (index) {
+      var codes = Object.keys((index && index.subjects) || {});
+      if (codes.length === 0) throw new Error(PQPure.loadErrorText('broken', '題庫索引'));
+
+      bankIndex = index;
+      bankSelect.textContent = '';
+      codes.forEach(function (code) {
+        var info = index.subjects[code] || {};
+        var option = document.createElement('option');
+        option.value = code;
+        option.textContent = (info.name || code) + '（' + (info.count || '?') + ' 題）';
+        bankSelect.appendChild(option);
+      });
+      bankSelect.disabled = false;
+      bankCheckBtn.disabled = false;
+      bankLoadBtn.disabled = false;
+      bankLoadBtn.textContent = '重新載入科目清單';
+      bank.state = 'idle';
+      paintBanner();
+      showBankMessage('科目清單載好了（共 ' + codes.length + ' 科）。選一科之後按「檢查這一科」。');
+    }).catch(function (error) {
+      bankLoadBtn.disabled = false;
+      bank.state = 'failed';
+      bank.failMessage = error && error.message ? error.message : '題庫索引讀不回來。';
+      paintBanner();
+      showBankMessage(bank.failMessage, true);
+    });
+  }
+
+  /** 檢查選定的那一科 */
+  function checkOneSubject() {
+    if (!bankIndex) return;
+    var code = bankSelect.value;
+    var info = (bankIndex.subjects && bankIndex.subjects[code]) || {};
+    var name = info.name || code;
+    var url = './data/' + (info.file || (code + '.json')) +
+      '?v=' + encodeURIComponent(bankIndex.version || '0');
+
+    bankCheckBtn.disabled = true;
+    bank.state = 'running';
+    paintBanner();
+    showBankMessage('正在讀「' + name + '」的題庫…');
+
+    fetchJson(url, '「' + name + '」的題庫').then(function (data) {
+      var list = Array.isArray(data) ? data : ((data && data.questions) || []);
+      var report = PQPure.inspectBank(list);
+
+      if (!checkedCodes[code]) {
+        checkedCodes[code] = true;
+        bank.checkedSubjects += 1;
+        bank.checkedBroken += report.broken.length;
+      }
+      bank.state = 'done';
+      paintBanner();
+
+      bankBox.textContent = '';
+      var row = makeEl('div', 'bank-row');
+      row.appendChild(makeEl('span', null, name));
+      row.appendChild(makeEl('span', 'small',
+        '共 ' + list.length + ' 題，可刷 ' + report.usable.length +
+        ' 題，異常 ' + report.broken.length + ' 題'));
+      bankBox.appendChild(row);
+
+      report.broken.forEach(function (bad) {
+        bankBox.appendChild(makeEl('div', 'broken-item', '• ' + bad.id + '：' + bad.problems.join('；')));
+      });
+
+      bankBox.appendChild(makeEl('p', 'small', report.broken.length === 0
+        ? '這一科的題庫資料全部正常。'
+        : '異常的題目不會出現在練習裡。要修正請回頭看建置器的品質報告。'));
+      bankCheckBtn.disabled = false;
+    }).catch(function (error) {
+      bank.state = 'failed';
+      bank.failMessage = error && error.message ? error.message : '題庫讀不回來。';
+      paintBanner();
+      showBankMessage(bank.failMessage, true);
+      bankCheckBtn.disabled = false;
+    });
+  }
+
+  bankLoadBtn.addEventListener('click', loadSubjectList);
+  bankCheckBtn.addEventListener('click', checkOneSubject);
+
+  if (window.location.protocol === 'file:') {
+    bankLoadBtn.disabled = true;
+    showBankMessage('這個頁面是用「直接打開檔案」的方式開的，瀏覽器會擋住讀取題庫檔，所以沒辦法檢查題庫。請改用小伺服器開啟（詳見使用說明）。');
+  } else {
+    showBankMessage('還沒檢查題庫。按「載入科目清單」之後挑一科來檢查。');
+  }
+}());
+</script>
+</body>
+</html>

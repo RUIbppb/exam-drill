@@ -1,0 +1,2188 @@
+[
+ {
+  "id": "moex-95-forens-e01",
+  "source": "moex",
+  "session": "95 年刑事警察人員三等",
+  "year": 95,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "物體外型結構的特徵，常可做為比對鑑定之依據，可用來個化證明其來源之物證外表型態有那些？試舉例說明之。（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=095100&c=303&s=2001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-95-forens-e02",
+  "source": "moex",
+  "session": "95 年刑事警察人員三等",
+  "year": 95,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "歷年來國內查獲之改造槍枝，僅有少數足堪擊發制式子彈，以仿Beretta 92FS模型槍換裝金屬槍管為例，擊發9mm制式子彈後，在發射過之彈殼上可以發現那些不同於制式槍枝發射後之特徵痕跡？（20分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "槍砲彈藥刀械管制條例"
+   ],
+   "detail": [
+    {
+     "law": "槍砲彈藥刀械管制條例",
+     "modifiedAfter": [
+      "98-05-27",
+      "100-01-05",
+      "100-11-23",
+      "106-06-14",
+      "109-06-10",
+      "113-01-03"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 7,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=095100&c=303&s=2001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-95-forens-e03",
+  "source": "moex",
+  "session": "95 年刑事警察人員三等",
+  "year": 95,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "回答下列問題：（20分）\n①纖維與毛髮如何區別？\n②自然纖維與人造纖維如何區別？\n③人類毛髮與動物毛髮如何區別？\n④人類毛髮可能生長之部位有那些指標特徵？\n⑤毛髮掉落之原因如何判定？",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=095100&c=303&s=2001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-95-forens-e04",
+  "source": "moex",
+  "session": "95 年刑事警察人員三等",
+  "year": 95,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 4,
+  "points": 20,
+  "stem": "在勘查現場之重建工作時，現場真實之原始狀態極為重要，其存在只有一次機會，任何不當的加上、干擾（減除）、或更動現場原來存留之物證，均可能會改變重建工作的解釋內涵；從被害人、證人、旁觀者、嫌疑犯及現場蒐證人員，說明造成現場重建工作此類錯誤或失敗的因素有那些？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=095100&c=303&s=2001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-95-forens-e05",
+  "source": "moex",
+  "session": "95 年刑事警察人員三等",
+  "year": 95,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 5,
+  "points": 20,
+  "stem": "在拍攝光線微弱之夜間現場或室內證物時，為保持良好的解析度，必須使用閃光燈，若遇動態主體，欲得清晰影像，請問使用1／500秒至1／8000秒之快門速度時：①傳統相機使用焦點平面快門（布幕式快門）；②數位相機使用電子快門，分別將會得到如何結果？解釋其理由。（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 5,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=095100&c=303&s=2001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-95-forens2-e01",
+  "source": "moex",
+  "session": "95 年刑事警察人員三等",
+  "year": 95,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "現場證物處理的最高指導原則是證物的適法性（Legal aspects）和科學性（Scientific aspects）。試申其義，並舉例說明之。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=095100&c=303&s=7001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-95-forens2-e02",
+  "source": "moex",
+  "session": "95 年刑事警察人員三等",
+  "year": 95,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "現場記錄方式含現場照相、現場攝影、現場筆記、現場測繪、現場錄音，請問其功能為何？彼此間有何關係？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=095100&c=303&s=7001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-95-forens2-e03",
+  "source": "moex",
+  "session": "95 年刑事警察人員三等",
+  "year": 95,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 50,
+  "stem": "下列證物應如何處理？請摘要說明之。（每小題5分，共50分）\n①現場彈頭與彈殼之註記\n②現場轉輪手槍與自動手槍之註記\n③黑函信紙上指紋之顯現\n④涉案人「爭執字跡」之採取\n⑤現場屍體之拍攝\n⑥藍色衣物上血跡之拍攝\n⑦炫光下證物之拍攝\n⑧精液證物之包裝\n⑨電視機上血液證物之採取\n⑩室內微量跡證之採取",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=095100&c=303&s=7001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-96-forens-e01",
+  "source": "moex",
+  "session": "96 年刑事警察人員三等",
+  "year": 96,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "名詞解釋：（每小題5分，共25分）\n①階梯密度（density gradient）土壤檢查法\n②頂空氣相層析（head space gas chromatography）縱火物分析法\n③毒品與濫用藥物\n④ANS（8-anilino-1-naphthalene sulfonate）指紋顯現法\n⑤STR（short tandem repeat）DNA鑑識法",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=096120&c=303&s=2001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-96-forens-e02",
+  "source": "moex",
+  "session": "96 年刑事警察人員三等",
+  "year": 96,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "有兩個顯微鏡的物鏡，其中一個其NA值（numerical aperture）為0.25，另一個NA值為0.50，請問這兩個物鏡在顯微功能上之優劣如何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=096120&c=303&s=2001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-96-forens-e03",
+  "source": "moex",
+  "session": "96 年刑事警察人員三等",
+  "year": 96,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "槍擊案件中，現場、被害人、嫌犯三者之證物蒐集重點為何？其在鑑識學上之意義是什麼？請逐項說明之。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=096120&c=303&s=2001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-96-forens-e04",
+  "source": "moex",
+  "session": "96 年刑事警察人員三等",
+  "year": 96,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "從毛髮分析毒品之原理為何？執行各式萃取步驟前，這些毛髮基質（hair matrix）之處理方式有那些？試逐項說明之。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=096120&c=303&s=2001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-96-forens2-e01",
+  "source": "moex",
+  "session": "96 年刑事警察人員三等",
+  "year": 96,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "試詳述「指紋證據」與「DNA證據」之特性。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=096120&c=303&s=7001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-96-forens2-e02",
+  "source": "moex",
+  "session": "96 年刑事警察人員三等",
+  "year": 96,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "某男於公司上班時間，簽收快遞人員送來之包裹，拆開包裹後發生爆炸，造成雙手及眼睛灼傷、手指炸斷、不停失血、意識幾乎不清。試問爆裂物案件之現場如何處理？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=096120&c=303&s=7001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-96-forens2-e03",
+  "source": "moex",
+  "session": "96 年刑事警察人員三等",
+  "year": 96,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "性侵害案件減少被害人重複陳述作業要點（民國94年11月8日修正）第4點規定：「⋯注意現場處理及跡證之勘驗⋯。」試問「現場處理及蒐證」與「減少被害人重複陳述」之關聯性為何？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "性侵害犯罪防治法"
+   ],
+   "detail": [
+    {
+     "law": "性侵害犯罪防治法",
+     "modifiedAfter": [
+      "99-01-13",
+      "100-11-09",
+      "104-12-23",
+      "112-02-15"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "全文修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=096120&c=303&s=7001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-96-forens2-e04",
+  "source": "moex",
+  "session": "96 年刑事警察人員三等",
+  "year": 96,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "不法業者利用夜間非法棄置廢棄物，該廢棄物之主要內容有廢木材、廢塑膠、廢寶特瓶及生活垃圾等。為偵查該廢棄物之源頭及流向，試就目前可能蒐證之內容與範圍，論述蒐證之目的或作用？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=096120&c=303&s=7001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-forens-e01",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "命案中的被害者已被焚屍，請問從骨灰中能分析出的毒物有那些？其特性如何？如何鑑定？如何從毒物鑑定結果研判死因？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c041&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-forens-e02",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 15,
+  "stem": "請敘述紫外光之螢光攝影的原理與方法，及其在刑事鑑識上的應用。（15分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c041&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-forens-e03",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "在槍擊案現場拾獲的兩個彈殼，經鑑識人員鑑定為土製子彈之彈殼，其外徑分別為0.89mm與0.91mm，請問：\n①何謂土製子彈？子彈特徵為何？（6分）\n②射擊後的土製子彈彈殼會有那些痕跡，可供鑑定是否為同一枝槍所發射？（7分）\n③那一類槍枝適合發射此種子彈？理由為何？（7分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c041&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-forens-e04",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 4,
+  "points": 21,
+  "stem": "親子鑑定結果中，母親、小孩與系爭父親的STR基因鑑定結果如下表，請依據各基因之對偶基因型頻率，計算各STR基因之親子指數（空格1至7）。（每空格3分，合計21分）STR基因母親小孩系爭父親對偶基因型頻率親子指數CSF1PO 11,12 10,11 10,12 10:p,11:q,12:r\n(1) D7S820 10,11 10,11 10,11 10:p,11:q\n(2) D2S1338 20,23 20,25 17,25 17:p,20:q,23:r,25:s\n(3) D3S1358 15,15 15,15 15,15 15:p\n(4) D13S317 10,12 10,12 10,13 10:p,12:q,13:r\n(5) D8S1179 13,15 13,15 15,15 13:p,15:q\n(6) D5S818 10,11 10,12 12,12 10:p,11:q,12:r\n(7)",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c041&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-forens-e05",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 5,
+  "points": 24,
+  "stem": "名詞解釋：（每小題4分，合計24分）\n①方法驗證（method validation）\n②多型性（polymorphism）\n③CITES附錄一（the Convention on International Trade in Endangered Species Appendix I）\n④能力試驗（proficiency test）\n⑤標準筆跡\n⑥嵌合體（chimera）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 5,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c041&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-forens2-e01",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "物證依其功能可分為具類別性特徵（Class Characteristics）及個化性特徵（Individual Characteristics）之物證，請依現場物證及其可能存在之型態分類說明？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c051&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-forens2-e02",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "某日警方臨檢搖頭店俱樂部時，發現現場疑似裝有搖頭丸（3,4-Methylenedioxymethamphetamine, MDMA）及愷他命（Ketamine）之錠劑及包裝袋散落滿地，由於沒有人承認持有及販賣，警方遂將舞客數十人及俱樂部負責人帶回警局採集尿液、送驗，請回答下列問題：\n①依毒品危害防制條例之規定，MDMA及Ketamine分別列為第幾級毒品？（5分）\n②在俱樂部現場應如何採集可疑毒品證物？（5分）\n③在警局應如何採集尿液才能避免攙假或替換？尿液攙假行為可分為幾類？如何於偵測可能之攙假行為？（15分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "毒品危害防制條例",
+    "警察職權行使法"
+   ],
+   "detail": [
+    {
+     "law": "毒品危害防制條例",
+     "modifiedAfter": [
+      "99-11-24",
+      "104-02-04",
+      "105-06-22",
+      "106-06-14",
+      "109-01-15",
+      "111-05-04"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 7,
+     "lastChange": "修正"
+    },
+    {
+     "law": "警察職權行使法",
+     "modifiedAfter": [
+      "100-04-27"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c051&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-forens2-e03",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "汽機車竊盜案件在台灣層出不窮，竊車集團透過借屍還魂的方法，變造汽機車引擎號碼，在查獲的贓車的證物處理過程中，請回答下列問題：\n①現場處理小組人員，應如何進行贓車之現場處理及蒐證？（10分）\n②請說明如何以電解法進行汽機車引擎號碼重現（包括反應原理）？（15分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c051&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-forens2-e04",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "寧海德林（Ninhydrin）及DFO（1,8-diaza-9-fluorenone）常用於紙張上潛伏指紋之顯現，而且二者均與氨基酸反應，但是DFO的螢光比寧海德林強，目前DFO已是許多實驗室用來處理紙張上潛伏指紋採證的重要方法之一，關於寧海德林及DFO顯現潛伏指紋之應用及比較，請回答下列問題？\n①若同時要使用寧海德林及DFO顯現指紋，其處理順序為何？請說明之。（5分）\n②繪出寧海德林、DFO與氨基酸反應後其螢光產物可能之結構式？請說明之。（10分）\n③為了後續的指紋比對、鑑定，請說明五倍大螢光指紋之攝影方法（需列出所需器材及拍攝條件、方法）。（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c051&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-forens-e01",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "刑案現場或被害人身上採得之體液跡證有可能為來自不同人之混合檢體，針對體液跡證，利用毛細管電泳分析去氧核醣核酸（DNA）短相連重複序列（STR）標記之型別，以進行人別鑑識時，請說明混合檢體之STR型別圖譜判讀步驟，可繪圖或做表輔助說明。（25分）",
+  "staleRisk": {
+   "level": "低",
+   "laws": [
+    "去氧核醣核酸採樣條例"
+   ],
+   "detail": [
+    {
+     "law": "去氧核醣核酸採樣條例",
+     "modifiedAfter": [
+      "101-01-04"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "低",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c071&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-forens-e02",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "死亡後之人類屍體可出現屍斑，請說明：（25分）\n①屍斑與內臟屍斑之形成機制。\n②屍斑及內臟屍斑特徵與死亡後所經時間之關係。\n③屍斑特徵與死亡原因之關係。\n④移動式屍斑之特徵及形成原因。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c071&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-forens-e03",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "關於傾斜槍管短反作用式半自動手槍，請回答下列問題：（25分）\n①請繪圖說明其自動操作方式。\n②請分別繪圖說明其射擊時在彈殼上形成撞針滑痕和撞針洞刮擦痕之機制。\n③請分別繪圖說明撞針滑痕和撞針洞刮擦痕出現之位置、形態和比對價值。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c071&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-forens-e04",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "名詞解釋：（每小題5分，共25分）\n①斗形紋（指紋，請繪圖說明）\n②共振峰（聲紋）\n③毛徑係數（毛髮）\n④掃瞄電子顯微/X-射線能譜分析法\n⑤爆炸物（explosives）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c071&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-forens2-e01",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "自路卡德（Edmund Locard）提出“兩物接觸必然產生互為移轉之痕跡＂主張後，已經成為刑案偵查上之金科玉律，然而，在某一個人身上所發現之“微物證＂，即使能證明與其他某參考標準物吻合，並不能絕對證明，排除與其他人或其他物之相關性；試就物質（證物）之基本性質、可分裂之特性、分裂時產生之物性變化，說明在判定為同一來源上，應注意之界線。（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c081&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-forens2-e02",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "火災現場疑似以液態易燃性燃料為縱火劑時，應如何進行現場勘查與採證？對於疑似被縱火之火場，當涉嫌者可能提出不在場證明時，應特別蒐集現場之那些物證？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c081&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-forens2-e03",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "就國內查獲之非法武器之使用情形，使用土造/改造槍枝與子彈有顯著增加之現象，試比較制式子彈與土造子彈，分別使用不同類的武器時，一般遺留於彈頭、彈殼上之工具痕跡有那些顯著的不同特徵？（20分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "槍砲彈藥刀械管制條例"
+   ],
+   "detail": [
+    {
+     "law": "槍砲彈藥刀械管制條例",
+     "modifiedAfter": [
+      "100-01-05",
+      "100-11-23",
+      "106-06-14",
+      "109-06-10",
+      "113-01-03"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 5,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c081&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-forens2-e04",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 4,
+  "points": 20,
+  "stem": "手寫之書寫字跡證物，在處理時應該注意那些事項並防範那些疏漏，以防止後續檢驗鑑定上之困難與盲點？偽造簽名（forgery）包含描繪（traced）、臨摹（simulated）、仿寫（copy）、單純代簽及刻意隱藏特性書寫（disguised writing）等，試就其不同之特徵說明如何判定之。（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c081&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-forens2-e05",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 5,
+  "points": 20,
+  "stem": "簡答下列各項：（每小題4分，共20分）\n①GHB（約會強暴丸）\n②偵測極限（limit of detection）\n③Becke line\n④黑星（手槍）\n⑤birefringence",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 5,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c081&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-forens-e01",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "請說明進行生物跡證鑑定時：（20分）\n①如何保存唾液檢體？\n②可用那些鑑識方法將唾液檢體與陰道分泌物檢體分別出來？\n③唾液檢體如何利用DNA鑑定技術分析達到個化的目的？\n④如何利用分析結果計算PI值（Probability of identity）？",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c37&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-forens-e02",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "在交通事故中，汽車油漆發生轉移，要鑑定被轉移的油漆片與原車上的油漆是否相同，試寫出採證與鑑識要領，其中包括：（20分）\n①如何進行採證？\n②鑑識的順序。\n③鑑識的方法可包括那些？\n④各種分析方法可獲得何種資料？",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c37&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-forens-e03",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 15,
+  "stem": "說明下列各種初步篩檢技術：（15分）\n①以分析尿液中濫用藥物為例，說明EMIT免疫法之重要步驟。\n②射擊殘跡的初步檢驗方法。\n③CO中毒的初步試驗。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c37&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-forens-e04",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 4,
+  "points": 15,
+  "stem": "說明從下列證物中有效得到欲分析成分的萃取方法：（15分）\n①從骨頭中萃取DNA有那些步驟？\n②如何利用超臨界流體萃取縱火物成分？\n③從爆炸物現場所得的檢體，如何萃取其高爆物？",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c37&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-forens-e05",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 5,
+  "points": 15,
+  "stem": "下列痕跡如何顯現、採樣或紀錄？（15分）\n①桌面上的鞋印。\n②文書擦拭痕跡。\n③雨淋汽車上的指紋痕跡。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 5,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c37&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-forens-e06",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑事鑑識",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 6,
+  "points": 15,
+  "stem": "對於火災殘跡鑑定，請說明下列問題：（15分）\n①在火災現場如何尋找起火點？\n②如何採取與保存縱火物檢體？\n③如何進行儀器分析與比對縱火物的成分？",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑事鑑識_試題.pdf",
+   "no": 6,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c37&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-forens2-e01",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "現場是物證的寶庫，是嫌犯犯罪行為的紀錄，刑案現場可以區分很多種類，了解刑案現場特質，有助於物證之蒐集與處理，關於刑案現場與跡證之處理問題，請回答下列問題：\n①簡述現場跡證之類型。（10分）\n②說明員警初抵現場之處理原則。（10分）\n③說明第一現場、第二現場之區分，並舉例說明。（5分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c38&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-forens2-e02",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "由於多重波域光源具有設計簡單、便於攜帶、操作容易等優點，同時可提供數段不同波長範圍的光，在初步現場處理上更具彈性，因此成為現場處理必備工具，如何妥善應用多重波域光源，請回答下列問題：\n①簡述多重波域光源的種類，繪出其構造並說明之。（10分）\n②圖示並說明如何應用多重波域光源之波長進行各種刑事物證之偵檢？（10分）\n③圖示並說明如何進行多重波域光源之螢光照相？（5分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c38&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-forens2-e03",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 3,
+  "points": 25,
+  "stem": "近年來地下非法製毒工廠猖獗，警方查獲這些地下製毒工廠時，有不知名的原料、酸、鹼、有機溶劑及其他瓶瓶罐罐等器材設備，而嫌犯經常否認製毒，關於這種特殊的刑案現場，需要有專業的知識背景，才能有效地進行現場處理及蒐證，同時也才能確保現場處理人員的安全，請回答下列問題：\n①若現場發現有硫酸、過氯酸、磷酸、硝酸、氫氟酸等，請寫出這些酸的分子式及說明其性質。並請依這些酸的強度由強到弱排列。（10分）\n②對於勘察地下製毒工廠的需求中，何謂三角需求（Needs Triangle）？並說明勘察重點。（10分）\n③簡述勘察地下非法製毒工廠之安全注意事項。（5分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c38&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-forens2-e04",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "現場與證物處理",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 4,
+  "points": 25,
+  "stem": "為了便利現場處理小組之人員進行初步研判跡證之種類，許多簡便的檢驗試劑（或器材）也因應而生，請說明下列各跡證與檢驗試劑（或器材）之反應原理及觀察現象：\n①使用華克試驗（Walker’s test）檢測可疑之射擊殘跡。（5分）\n②使用四甲基聯苯胺檢測可疑血跡。（5分）\n③以瞬間接著劑（super glue）顯現可疑潛伏指紋。（5分）\n④使用酒精燃料電池式之酒精呼氣檢測器檢測酒後開車之呼氣。（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "現場與證物處理_試題.pdf",
+   "no": 4,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c38&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-100-forens-e01",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "性侵害案件之蒐證有那些一定要做到的採集項目，原因為何？精蟲、ACP及P30之鑑驗需注意什麼事項？對於性侵害案件之解釋或確認各有何作用或意義？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "性侵害犯罪防治法"
+   ],
+   "detail": [
+    {
+     "law": "性侵害犯罪防治法",
+     "modifiedAfter": [
+      "100-11-09",
+      "104-12-23",
+      "112-02-15"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 3,
+     "lastChange": "全文修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-100-forens-e02",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "經資淺司法警察官初步火場調查發現：金紙舖之牆柱多從外往內凹，店外五公尺處停放一輛已燒燬之貨車。設若您是資深司法警察官，試問如何審核司法警察官所從事之下列事項：①蒐集證物？②現場重建？③金紙舖先爆炸或貨車先爆炸之研判？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-forens-e01",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "試舉例說明在犯罪現場查明犯罪事實的方式（15分），並比較「不在犯罪現場（alibi）」（5分）與「逃離事故現場（leaving scene of accident）」（5分）之差異。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-forens-e02",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "請回答下列問題：\n①在刑案現場中，如何採取微量纖維證物？（7分）\n②到刑案現場處理指紋證物的基本步驟是甚麼？（6分）\n③如何尋找潛伏指紋？（6分）\n④如何顯現潛伏指紋（眼睛看不見的）？（6分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-forens-e01",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "臺灣發生了前所未有的「鹽醃人頭案」（簡稱：醃頭案），由於嫌疑犯與死者為親兄妹，且一起居住，檢警高度懷疑嫌疑犯位於三重市的住宅極可能是命案第一現場。請問刑事鑑識人員對此可能的刑案現場如何進行蒐證及將犯罪現場予以重建？請針對此重大命案，具體敘述犯罪現場重建的原則、步驟及具體作法。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-forens-e02",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "試論指紋顯現法中之「單一指紋顯現法」及「多重指紋顯現法」。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-forens-e01",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "有關槍擊現場之玻璃與射擊殘跡顆粒（GSR）證物之採證與鑑識，請回答下列問題：\n①請說明GSR之定義？特徵？如何採集GSR？鑑定GSR？（16分）\n②請說明玻璃證物如何比對分析？（7分）\n③試以顯著水準05 .0＝α，說明下表之玻璃樣品一與樣品二之異同。（2分）表：兩玻璃樣品之成分比對元素百分含量百分含量之差值差值之標準差自由度P值樣品二樣品一Al 1522 .0 2833 .0 1311 .0 3 10 676 .3－× 6 7 10 83 .2－× Ba 3 10 173 .7－× 2 10 126 .1－× 3 10 082 .4－× 4 10 472 .2－× 6 5 10 95 .2－× Ca 105 .6 692 .5 4123 .0 1847 .0 6 0677 .0 Fe 5663 .0 3753 .0 1910 .0 3 10 217 .5－× 6 7 10 67 .2－× Mg 257 .2 353 .2 .0 .0 6 0475 .0 Mn 3 10 724 .9－× 3 10 653 .4－× 3 10 071 .5－× 4 10 929 .2－× 6 5 10 37 .3－×",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-forens-e02",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "某地發生一件撞死行人的肇事逃逸案件，警方循線找到一部嫌疑車輛後立即送驗，果然在車頭部位發現與被撞行人所戴的手錶錶鍊（下方圖）相吻合之撞擊紋痕（上方圖）。如果你是偵辦人員，如何詮釋或定位此一訊息？試從類特徵（class characteristic）與個異特徵（individual characteristic）之觀點論述之。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-forens-e01",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "勘查人員在犯罪現場尋找與破案有關的證物，除須耐心且細心的勘查整個案件所可能遺留的證物外，最重要的原則即是所有現場處理程序均須合乎法律與科學準則之要求，請敘述法律及科學要求為何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-forens-e02",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "在犯罪現場發現有毛髮檢體時：（每小題5分，共25分）\n①如何在現場蒐集毛髮檢體？如何蒐集標準毛髮檢體？如何保存毛髮證物？\n②如何判定是人毛髮還是獸毛髮？\n③如果以毛髮檢體，用顯微鏡作人別鑑定時，要如何來比對？有何限制性？\n④如果以毛髮檢體，作DNA人別鑑識，要如何鑑定？有何限制性？\n⑤要知道嫌犯是否吸食安非他命，要如何從毛髮作鑑定分析？",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-forens-e01",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "在一個轟趴的派對中，經常聽到吸毒者以所謂的「術語」或「黑話」進行溝通或交易，以下是他們的對話：老大：小弟，幫我找找「白粉」來享受一下。小弟：老大，「藥頭」說缺貨了，改用「白板」好不好？老大：低級，「白板」怎麼能和「白粉」比？不然，拿「冰糖」來充當也好。身為偵查人員除了要熟悉這些術語外，亦請回答下列有關毒品鑑識的問題：\n①「白板」、「白粉」、「冰糖」係指何種毒品？依毒品危害防制條例規定各列為那一級毒品？（6分）\n②請說明「白粉」可能的製造過程（並請以化學結構式表示）。如何從尿液檢驗中判定是吸食「白粉」？（9分）\n③請說明吸食「冰糖」後，在尿液中可檢驗出那些代謝物（並請以化學結構式表示）？如何判定尿液檢驗呈陽性反應？（10分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "毒品危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "毒品危害防制條例",
+     "modifiedAfter": [
+      "105-06-22",
+      "106-06-14",
+      "109-01-15",
+      "111-05-04"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-forens-e02",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "完整正確的現場紀錄才能提供司法偵審的重要參考依據，為了詳實周延地呈現各種物證及現場狀況，必須綜合運用攝影、筆記、錄影、錄音及繪圖等5種記錄方式，請試分別說明這些記錄方式主要目的為何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-forens-e01",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "A女搭出租車輛出遊，司機提供飲料供其飲用，A女喝時覺得味道怪吐了一口沾在上衣，開始昏睡，約24小時後在住處醒來，發現內褲反穿，至警局報案。警察立即找到司機與車輛，請說明：\n①被害人身體證物的蒐證如何進行？請說明採證處所、流程及採證重點項目為何？（10分）\n②車輛勘察時發現駕駛座地面有白色粉末，駕駛座前眼鏡盒內有針筒，乘客座地面有衛生紙，請問該車輛勘察採證重點為何？證物如何採集包裝？證物鑑定標的為何？（9分）\n③試說明「氟硝西泮（Flunitrazepam）」及「γ-羥基丁酸（G4-Hydroxybutanoic acid, GHB）」的作用及其與那種犯罪關聯。（6分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-forens-e02",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "爆炸物是恐怖分子喜用的犯罪工具，我國今年及未來幾年將舉辦多項國際性大型活動，隱藏爆炸物的檢測是大型活動反恐勤務的重點。為達成殺傷和破壞效果，恐怖份子常將含有大量爆炸物的爆裂物和炸彈偽裝或隱藏，以便帶入大型活動場所，製造恐怖攻擊事件。請列舉五種可應用於大量隱藏爆炸物檢測的非破壞性檢測方法，並敘述其檢測原理、檢測標的、適用對象和處理方法。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-forens-e01",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "秘密線人張三指稱嫌犯李四於1個月前槍殺被害人王五後，將王五的屍體、隨身物品及作案槍枝一起埋藏於草木叢生之某山區地面下，張三不知確切埋藏位置，僅約略知道在山區工寮方圓500公尺左右範圍區域內，本案要找尋出埋藏於地面下的屍體和相關證物，係一項重大的挑戰，必須要有正確的方法和策略。試問：格法」等三種現場搜索型態（方式）的內涵。（9分）本案搜索過程應如何辨識及研判屍體和相關物證的埋藏位置，請就埋藏地點可能的現場特徵（標誌）及科學方法（器材、設備或其他）之運用，綜合詳述。（16分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-forens-e02",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "請回答下列各問題：於犯罪現場地毯上發現一只嫌犯所遺留的不清晰灰塵（或微量泥土）鞋印痕，請論述在現場如何正確記錄該鞋印痕？（3分）該鞋印痕最佳化的採取方法、原理及步驟？（7分）於殺人嫌犯住所搜索，發現一支疑似遭嫌犯清洗過的水果刀凶器，實務上常會用酚酞法（Kastle-Meyer test）來初步檢驗該刀器是否有血跡反應，請論述酚酞法檢測原理及步驟？（6分）對於可能檢測結果應如何詮釋？（4分）實務查緝毒品，經常運用呈色法、免疫分析法及拉曼光譜儀來初步檢驗可疑毒品成分，請論述免疫分析法的檢驗原理為何？（5分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-forens-e01",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "請回答下列問題：\n①試述新興毒品-新精神活性物質（New psychoactive substances, NPS）意義及包含那些類別？（9分）\n②請試說明下列物質之俗名、特性、類別、毒品管制級別等。（10分）⑴mephedrone ⑵3,4-methylenedioxypyrovalerone（簡稱MDPV）⑶Para-methoxy-N-methylamphetamine（簡稱PMMA）⑷k2 ⑸恰特草\n③試述尿液新興毒品檢驗未用免疫學分析方法原因及目前不需使用衍生劑衍生、具備靈敏度與專一性的適用檢測儀器為那一類型？以MDPV為例說明檢驗閾值為何？（6分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-forens-e02",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "小貨車於產業道路上撞到電線桿，員警獲報到場未發現小貨車駕駛，卻於地上發現機車車殼碎片，進而發現一位頭戴安全帽的男性臥倒路旁護欄外已死亡，小貨車駕駛棄車逃逸無蹤。現場勘察小組獲報前往勘察，初步發現小貨車後方車箱上有一個A宮廟的香油錢箱子、一頂安全帽、一件外套。初步查詢小貨車與香油錢箱子均為失竊物。試述如何勘察研判、採證、鑑定達成以物證發現證明犯罪事實，建立關聯性之目的。（10分）需包含血跡跡證初篩方法與DNA物證採證，（8分）指紋物證與採驗方法，（4分）微物類跡證與採驗方法。（3分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-forens-e01",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "指紋採取及捺印是現場勘察人員需具備的基本能力。請回答下列問題：\n①何謂指紋？（5分）\n②如何捺印下列屍體指紋：\n①屍體僵直且手指皮膚因浸水而皺褶。（5分）\n②火災現場屍體之指紋，因火烤後硬化時。（5分）\n③以反射式紫外光影像系統（紫外光反射影像顯示器；Reflected Ultraviolet Imaging System，簡稱RUVIS）採取指紋，是實務常用的非破壞性採取方法，請問其原理為何？（5分）該項設備在那些情況下使用，可獲致不錯的效果？（5分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-forens-e02",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "請回答下列問題：\n①實務查緝毒品，已廣泛運用手提式拉曼光譜儀來初步檢驗可疑毒品成分，請問其檢驗原理為何？（5分）\n②血跡型態在流血事件上提供的訊息不是「何人」，而是「何事」；因此血跡型態分析在犯罪現場重建中，占有相當重要的角色。請問何謂「血跡型態」？（5分）血跡型態分析可以重建那些項目？（10分）\n③如何以顯微鏡法判定現場的人毛係自然脫落或遭強力拔取而脫落？（5分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-forens-e01",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "請回答下述槍擊案件現場處理相關問題：\n①彈道重建時，在現場指示彈道方向之設備（方式）有那些，並說明其使用方式？（4分）\n②在現場直接觀察彈孔、彈著、彈頭與彈殼，可初步獲得那些資訊？（8分）\n③請繪圖說明三種跳彈形成之痕跡，並說明這些痕跡之形成原因，以及可提供之訊息？（13分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-forens-e02",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "派出所通報線上有一件妨害自由案，被害人剛獲救，惟嫌犯逃逸無蹤。若你是處理本案的鑑識人員，當你抵達現場時，發現嫌犯使用淺棕色封箱膠帶（光滑面、非吸性材質），捆綁被害人的雙手，且該膠帶因緊急救護已相互黏著纏繞在一起；請問你應如何最佳化採取該膠帶上的指紋（請詳述步驟和方法）？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-forens-e01",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "犯罪現場重建可以驗證偵查結果，亦是現場勘查人員重要工作之一，請敘述犯罪現場重建之意義（5分）與重建步驟。（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-forens-e02",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "一位犯罪調查官員利用午休與假日時間盜取保管在儲藏室等待送驗的毒品並販賣，經數年後才被發現，請問本案在證物保管上呈現那些問題？（10分）應如何改善？（15分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-forens-e01",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "回答下列有關性侵害案件的檢體處理及鑑定：\n①性侵害案件跡證的蒐集，有那些重要步驟？（6分）\n②性侵害所採集的檢體如何保存？（6分）\n③在做DNA分析前，如何證明可疑的斑點是精液斑？（6分）\n④說明用精液斑做DNA型的人別鑑定時，需進行那些重要步驟？請簡短說明各個步驟。（7分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-forens-e02",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "回答下列有關交通事故汽車油漆證物的處理及鑑識：\n①處理交通事故，汽車油漆片證物或標準品，採樣的要領是什麼？（5分）\n②如何進行油漆證物物理吻合比對？（5分）\n③做油漆片鑑定時，實體顯微鏡比對分析，可得到那些有用的資料？（5分）\n④用Micro-FTIR（顯微紅外線光譜）技術分析油漆片，可得到那些有用的資料？（5分）\n⑤用SEM/EDX技術分析油漆片，可得到那些有用資訊？（5分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-113-forens-e01",
+  "source": "moex",
+  "session": "113 年刑事警察人員三等",
+  "year": 113,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "現場勘察支援刑案偵辦已經成為派駐分局鑑識人員重要工作，請回答下列問題：\n①請說明「埋包」交易特性與常見作法。（5分）\n②刑事小隊通報，根據偵查結果，研判某處公廁可能為毒品交易地點，但不確定貨品是否已經遭取走，故請求鑑識人員支援採證，請說明下述現場處理措施：⑴正式採證前須留意之程序為何？（10分）⑵現場採證標的作為與可提供何種偵辦資訊？（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-113-forens-e02",
+  "source": "moex",
+  "session": "113 年刑事警察人員三等",
+  "year": 113,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "現場勘察除採證外，另可分析各種行為跡證，請回答下列問題：\n①請說明犯罪手法與簽名特徵，以及如何透過勘察辨識這些行為跡證。（15分）\n②請說明李昌鈺對於物證之分類方式，以及各類物證對應之行為跡證。（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-forens-e01",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "依照我國司法實務及鑑識機關使用之鑑定方法，請回答下列槍彈鑑識問題：\n①我國「槍砲彈藥刀械管制條例」除列舉管制制式槍砲外，尚概括管制「其他可發射金屬或子彈具有殺傷力之各式槍砲」，依據上述，請說明何謂「殺傷力」？（5分）\n②承上，我國實務鑑識機關常用性能檢驗法，予以認定槍枝是否具殺傷力，請說明何謂性能檢驗法？（15分）\n③模擬槍經常遭不法之徒改造為具殺傷力槍枝，請說明何謂「模擬槍」？（5分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-forens-e02",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "據調查被害人A於1個月前進入嫌犯B住宅後，因故A遭B勒死，B並在浴室將A分屍後，分裝丟棄於附近溪河中；分屍處之浴室牆壁為淺色磁磚及地板為深色磁磚材質，且均遭清洗過。您是現場勘察人員，針對本案浴室現場，請說明如何依刑案現場物證鑑定步驟及方法要領，進行本案血跡類跡證最佳化之處理？（請詳述處理作為及相關運用方法與要領等）（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
+   "answerUrl": ""
+  }
+ }
+]

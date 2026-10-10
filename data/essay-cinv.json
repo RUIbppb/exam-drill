@@ -1,0 +1,980 @@
+[
+ {
+  "id": "moex-100-cinv-e01",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "新型態集團性電信網路詐欺犯罪，已成民怨之首，也是當前治安工作之重點，請就犯罪模式分析畫出犯罪組織架構圖。（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "組織犯罪防制條例",
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "組織犯罪防制條例",
+     "modifiedAfter": [
+      "105-07-20",
+      "106-04-19",
+      "107-01-03",
+      "112-05-24"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    },
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "113-07-31",
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=1110&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-100-cinv-e02",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "犯罪剖繪（Criminal Profiling）之意義為何？並請說明其原理與特性。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=1110&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-cinv-e01",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "請說明刑案現場重建之意義及內涵，並就現場重建工作之步驟敘述之。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1302&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-cinv-e02",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "近來跨境犯罪類型從以往的「大陸犯罪、臺灣受害」，轉變為「臺灣犯罪，大陸受害」，再演變為「第三地犯罪，兩岸受害」，共同打擊跨境犯罪將成為首要課題。請問：何謂「跨境犯罪」？跨境犯罪的類型有那些？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1302&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-cinv-e01",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "警察在執行重大要犯圍捕時，為避免傷及民眾，應將現場嚴加封鎖，並以三層封鎖警戒線為原則。請說明該三道封鎖線的目的、管制進入的人員為何？並畫出簡單的區域示意圖。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1202&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-cinv-e02",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "犯罪偵查過程之中，證人之證言可能產生誤差，影響偵查人員對其可靠性之判斷。請就確認證言真假的各種方法及內容，詳予說明之。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1202&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-cinv-e01",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "試說明作案手法的定義，並以竊盜犯罪為例，列舉其在犯案過程中的作用，以及影響或改變作案手法的因素。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1202&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-cinv-e02",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "轄區線上執勤員警，因執行路檢、盤查勤務，突遭持槍歹徒拒絕接受盤查，潛入民宅並挾持人質拒捕，經勤務中心通報支援圍捕，如果你是現場指揮官，應如何指揮執行圍捕作為？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "警察職權行使法"
+   ],
+   "detail": [
+    {
+     "law": "警察職權行使法",
+     "modifiedAfter": [],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 0,
+     "lastChange": "",
+     "manual": true,
+     "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1202&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-cinv-e01",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "在各類刑案偵查上而言，擄人勒贖可說是最棘手之偵查案件，在確保人質肉票安全的最高準則下，專案小組必須確立完整責任分工方式，其中秘書組角色至為重要，請問其職責為何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-cinv-e02",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "偵訊筆錄製作應把案件人、事、時、地、物、犯意等要件具體載明，而上述要件之內容有那些？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-cinv-e01",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "電信網路詐欺集團屢次在境外第三國遭查獲對於兩岸民眾實施詐騙犯罪，衍生嫌犯遣返管轄問題；試論述是類電信網路詐欺犯罪有何特性？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "113-07-31",
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-cinv-e02",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "關於因調查犯罪情形及蒐集證據實施搜索之偵查作為，請回答下列問題：\n①依據刑事訴訟法第122條，對於被告、犯罪嫌疑人與第三人之搜索，其發動門檻（要件）有何差別？（5分）\n②附帶搜索（第130條）與同意搜索（第131條之1）在實施時機、要件及實施範圍上的差別？（10分）\n③依據警察偵查犯罪手冊，實施搜索應注意那些事項？（10分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 19,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-cinv-e01",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "依警察偵查犯罪手冊規定，刑事案件犯罪偵查，案情研判旨在瞭解犯罪嫌疑人與其動機、犯行、過程及發展，宜從那些問題研究來解答？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1302&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-cinv-e02",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "偵詢筆錄製作時，常會有犯罪嫌疑人不實自白原因，因此自白查證在偵詢時必須注意那些事項？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1302&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-cinv-e01",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "依警察偵查犯罪手冊及各級警察機關處理刑案逐級報告紀律規定，刑案發生與破獲之報告時機為何？（10分）刑案匿報、虛報、遲報之認定基準為何？（15分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1103&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-cinv-e02",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "測謊證據之證據能力為何？（13分）實施測謊鑑定，須符合測謊之基本要件為何？（12分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 16,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1103&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-cinv-e01",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "刑事訴訟法第245條規定：偵查，不公開之。依據108年3月15日修正發布之偵查不公開作業辦法，請說明：（25分）\n①偵查不公開之目的？（第2條）\n②案件在偵查中，絕對禁止事項？（第9條）\n③那些情形之下，經審酌公共利益之維護或合法權益之保護，認有必要時，偵查機關或偵查輔助機關得適度公開或揭露偵查程序或偵查內容？（第8條）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 14,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1403&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-cinv-e02",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "臺灣四面環海，毒品或製毒原料絕大多數來自境外，常見的跨境（國）運輸毒品管道可分為空路、海路，請分述這2種運輸管道常見的毒品走私模式及手法？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1403&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-cinv-e01",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "請依新修正刑事訴訟法、警察偵查犯罪手冊相關規定，說明犯罪嫌疑人受拘提或逮捕程序保障事項為何？（8分）執行拘提或逮捕之要領為何？（5分）執行拘提或逮捕，應注意事項為何？（12分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "刑事訴訟法"
+   ],
+   "detail": [
+    {
+     "law": "刑事訴訟法",
+     "modifiedAfter": [
+      "112-06-21",
+      "112-12-15",
+      "112-12-27",
+      "113-07-31",
+      "114-11-11",
+      "115-05-13"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 10,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1203&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-cinv-e02",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "詐欺及恐嚇取財案件之管轄及偵查責任區分為何？（15分）近期電信詐欺恐嚇案件犯罪模式，發現不法集團自行研擬因應查緝對策，其機房、帳務水房之設置更具機動性，甚至轉向境外，並以新式通訊軟體聯繫各地車手取款。該類犯罪之犯罪模式為何？（10分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "113-07-31",
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1203&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-cinv-e01",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "警察於偵查犯罪，經常會採取秘密且持續的動態跟蹤觀察，其實施自應守秘密，並注意本身安全，如遇到不利情況時，應如何因應？又如發現跟蹤對象脫蹤時，應如何辦理？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1403&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-cinv-e02",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "在刑事偵查實務上，警察機關運用被害人或目擊證人的指認，確認犯罪嫌疑人的證據方法，惟因為人類記憶容易隨時間而被沖淡，為避免指認人於指認過程中形成誤判，做成不正確之指認，致侵害人權，且影響裁判之正確，因此世界各國對於指認之運用，均相當謹慎。我國自不例外，偵查實務上即訂有相關指認程序要領，請說明：\n①何謂門山指認法則（Manson Test）（10分）\n②依警察偵查犯罪手冊規定，我國警察機關實施指認犯罪嫌疑人之程序要領及原則（15分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1403&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-cinv-e01",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "重大刑案發生除立即偵破外，均應訂定偵查計畫，以為偵查之準據；若轄內發生一男子被人發現身上有多處刀傷倒臥其住家門口，大量流血而死亡，未立即偵破，你若要訂定偵查計畫，其內容應為何？請詳述之。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1303&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-cinv-e02",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "若你是偵查員接獲線民通報：「轄內工業區某倉儲內，有人從泰國進口木材，卻夾帶大量海洛因。」經派員監控該倉儲，發現一可疑車輛（車主甲曾為毒品人口），多次進出該倉儲。請問警方應如何進行偵查作為並擴大偵破？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1303&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-cinv-e01",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "請試述警察偵查犯罪手冊中對犯罪被害人保護的作法；另再舉出一項作法說明警察針對性侵害被害人的特別保護措施。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1403&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-cinv-e02",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "刑案區分為普通刑案、重大刑案及特殊刑案，請試述「特殊刑案」的定義？以及依據警察偵查犯罪手冊有關特殊刑案之偵查責任區分與督導管理規範為何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1403&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-113-cinv-e01",
+  "source": "moex",
+  "session": "113 年刑事警察人員三等",
+  "year": 113,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "依警察偵查犯罪手冊規定，司法警察官或司法警察長途解送被告或犯罪嫌疑人需使用公用交通工具時，請說明解送途中應注意事項為何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1103&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-113-cinv-e02",
+  "source": "moex",
+  "session": "113 年刑事警察人員三等",
+  "year": 113,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "司法警察官或司法警察調查12歲以上18歲未滿之少年觸犯刑罰法律行為時，請說明：\n①司法警察官或司法警察得不經通知，逕行報請該管少年法院法官核發同行書，強制少年到場之要件為何？（10分）\n②司法警察官或司法警察得逕行同行少年之要件為何？（15分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1103&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-cinv-e01",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "為順利掌握國際犯罪組織走私販毒過程與流向，釐清販毒網絡與組織架構、洗錢管道等，世界各國間加強跨國性互助合作機制，其中「控制下交付」（controlled delivery）為查緝毒品的重要技術之一，請說明：控制下交付之定義及其功能、國際間關於控制下交付之準則以及我國關於控制下交付之法源依據。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1204&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-cinv-e02",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "依警察偵查犯罪手冊相關規定，警察機關偵查犯罪案件，於全案調查完畢後，於何種條件下應將全案移送法院或檢察署？移送書應注意之事項為何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1204&q=1",
+   "answerUrl": ""
+  }
+ }
+]

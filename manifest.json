@@ -1,0 +1,33 @@
+{
+  "name": "警察考試刷題",
+  "short_name": "刷題",
+  "description": "警察考試考古題隨機練習。進度只存在這台裝置本機。製作人Rui",
+  "lang": "zh-Hant",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF8F4",
+  "theme_color": "#FAF8F4",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

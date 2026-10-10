@@ -1,0 +1,1059 @@
+[
+ {
+  "id": "moex-100-plaw-e01",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "即時強制之管束，其要件於學理上可分為那幾類？請依警察職權行使法之規定，說明警察得為管束之要件為何？職權內容為何？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "警察職權行使法"
+   ],
+   "detail": [
+    {
+     "law": "警察職權行使法",
+     "modifiedAfter": [],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 0,
+     "lastChange": "",
+     "manual": true,
+     "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=0508&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-100-plaw-e02",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "依據警械使用條例規定，請說明警械的具體使用時機為何？應注意事項為何？並請說明警察人員執行職務合法及違法使用警械後之法律效果為何？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "警械使用條例"
+   ],
+   "detail": [
+    {
+     "law": "警械使用條例",
+     "modifiedAfter": [
+      "111-10-19"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=0508&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-plaw-e01",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "請依警察法及警察職權行使法規定，分別說明警察之職權為何？警察法第9條警察職權之「警察命令」為何？並請舉例說明。（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "警察職權行使法"
+   ],
+   "detail": [
+    {
+     "law": "警察職權行使法",
+     "modifiedAfter": [],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 0,
+     "lastChange": "",
+     "manual": true,
+     "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1101&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-plaw-e02",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "舊社會秩序維護法第80條第1項第1款規定：「意圖營利與人姦、宿者」，「處3日以下拘留或新臺幣3萬元以下罰鍰」，此規定被大法官以何種理由宣告違憲？新法修正為「從事性交易者」，「處新臺幣3萬元以下罰鍰」，與舊法相比新法處罰之行為範圍有無變化？新法所謂「性交易」是否包含未遂？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "社會秩序維護法"
+   ],
+   "detail": [
+    {
+     "law": "社會秩序維護法",
+     "modifiedAfter": [
+      "105-05-25",
+      "105-06-01",
+      "108-12-31",
+      "110-01-20",
+      "110-05-26",
+      "114-06-11"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 6,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1101&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-plaw-e01",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "警察法規",
+  "originalSubject": "警察法規",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "某校園遭醉漢A闖入，造成師生恐慌，該校所屬駐衛警察隊隊員B，依校長指示，持用學校配發之警棍制服A，並通報警方處理。請依警械使用條例及相關規定分析，B持有警棍之法律依據為何？又若其使用警棍致A受傷，法律責任如何？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "警械使用條例"
+   ],
+   "detail": [
+    {
+     "law": "警械使用條例",
+     "modifiedAfter": [
+      "111-10-19"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察法規_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-plaw-e02",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "警察法規",
+  "originalSubject": "警察法規",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲警員接獲A銀行報案，稱乙於該銀行二樓因故大聲與行員爭吵，涉滋擾並妨礙該分行營業，因事態未明，甲遂荷槍實彈攜帶警械前往處理，並查證乙身分。甲考量銀行為公眾得出入場所及其他民眾之權益，A與乙尚有爭執情形下，請乙下樓離開該分行，至警局依法處理。但乙於下樓時，不慎由樓梯摔落，經救護車送至醫院治療，所幸僅局部皮肉擦傷。乙不服甲上述處理程序侵害其自由，並造成其損害，提起國家賠償。試分析其主張是否有理由。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察法規_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-plaw-e01",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "警察法第2條規定：「警察任務為依法維持公共秩序，保護社會安全，防止一切危害，促進人民福利。」試問警察執行職務如無法律依據與法律授權時，可否依警察法第2條實施相關作為？請就學說及實務申論之。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-plaw-e02",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "司法院釋字第718號理由書揭示：「……主管機關為兼顧集會自由保障與社會秩序維持，應盱衡社會整體狀況，就集會、遊行利用公共場所或路面之時間、地點與進行方式為妥善之規劃，並就執法相關人力物力妥為配置，以協助集會、遊行得順利舉行，並使社會秩序受到影響降到最低程度。在此範圍內，立法者有形成自由，得採行事前許可或報備程序，使主管機關能取得執法必要資訊，並妥為因應。……。」試說明許可制及報備制之內涵及其區別為何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-plaw-e01",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲為面容姣好、活潑外向、已滿20歲之大學女生。他校男生A於某次校際交誼時認識甲，對甲頗有好感，決心追求，乃屢次跟隨甲，想探知甲所住之地方。但甲卻無意於A，因此幾次勸告A不可跟蹤。某日A又跟蹤甲，恰巧甲與同班同學乙男併行，乙男得知上情後，遂與A理論並在拉扯中將A推倒，但未致A受傷，路人見狀速報警局。警察趕到後，將3人帶回警局，依法處理。問：\n①警察可依何法將甲、乙、A帶回警局？（7分）\n②警察可依何法處理A？（7分）\n③警察應如何處理乙男？乙男可如何抗辯？（11分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=0901&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-plaw-e02",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "警察於週六夜間設點，對行經之車輛「逐車」攔停，經簡單詢問後發現駕駛人有酒味者，即行要求酒測。該攔停點於警察法規上的名稱為何？有何法律規定之要件？攔停酒測究係犯罪偵查或行政調查之行為？認定之理由為何？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=0901&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-plaw-e01",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "失業男子張三因有詐欺、背信等前科，長期無工作致心生怨懟，乃思前往市政府鬧事，表達不滿。某日自家中取出自有水果刀一把，藏於褲袋中，準備前往市政府找市長理論。於進入市政府擬潛入市長室時，遭秘書阻擋詢問來由，張三支吾其詞只一再說要找市長。不久隔鄰警察局兩名警察迅速到達現場，對張三進行盤查，並見其褲袋鼓鼓，進行拍搜，確認帶有器械，乃要求張三將器械交出，發現是水果刀後，將張三帶回警察局依法處理。請問：\n①警察盤查、拍搜並將張三帶回警局，是否合法？理由為何？（12分）\n②警察應依何法處理本案件？本案件應由何機關，如何處理？（13分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "詐欺犯罪危害防制條例",
+    "警察職權行使法"
+   ],
+   "detail": [
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "113-07-31",
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
+    },
+    {
+     "law": "警察職權行使法",
+     "modifiedAfter": [],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 0,
+     "lastChange": "",
+     "manual": true,
+     "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=0901&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-plaw-e02",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "李四租用大樓內一間民宅經營夜春護膚美容店，並經商業登記完竣，但該護膚店卻暗藏春色，經常媒介店內從業人員與客人為猥褻之行為。某日，又遭客人檢舉，轄區警察分局乃派遣警察人員偽裝客人前往消費，並於營業時間內進入，見有客人在場疑似進行猥褻行為，店家藉此以營利時，乃通知店外制服警察入內進行臨檢及盤查，並獲客人合作，指證李四確有媒介猥褻以營利之行為。請問：\n①警察入內臨檢是否合法？理由為何？依社會秩序維護法新增規定，得否將李四之夜春護膚美容店勒令歇業？理由為何？（12分）\n②勒令歇業後，可依何種法令，如何進行強制執行？理由為何？（13分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "社會秩序維護法",
+    "警察職權行使法"
+   ],
+   "detail": [
+    {
+     "law": "社會秩序維護法",
+     "modifiedAfter": [
+      "108-12-31",
+      "110-01-20",
+      "110-05-26",
+      "114-06-11"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    },
+    {
+     "law": "警察職權行使法",
+     "modifiedAfter": [],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 0,
+     "lastChange": "",
+     "manual": true,
+     "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=0901&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-plaw-e01",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "警察法規",
+  "originalSubject": "警察法規（包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法）",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "警方獲報A所駕駛的車輛肇事逃逸，員警甲即騎乘警車超前並停放於A的車輛正前方，A往左閃避拒絕攔檢，並衝撞甲致其受傷，員警乙見狀追至下一個路口攔查時，又遭衝撞受傷；員警丙再度接獲通報，獲令查扣上開人車，丙看到A因會車暫停，隨即下車持槍快跑至該車右方，拍打車輛並喝令下車，A反而突然將車輛朝丙站立之位置衝撞，因現場騎樓高出平面約15公分，丙往後跳開閃避時開槍，過程中因地面不平，重心無法平衡，且車窗處貼上隔熱紙、車內未開燈，致擊中乘坐於副駕駛座的B，B因而受重傷。試問：\n①警械使用條例歸類在行政法領域中，請說明警察為何針對刑事追訴之犯罪行為，亦可使用警槍？（10分）\n②本案警察使用槍械是否合法？又警察用槍之法律性質為行政處分或行政事實行為？試論述之。（15分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "警械使用條例"
+   ],
+   "detail": [
+    {
+     "law": "警械使用條例",
+     "modifiedAfter": [
+      "111-10-19"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規（包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1101&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-plaw-e02",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "警察法規",
+  "originalSubject": "警察法規（包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法）",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "行政執行法第4章即時強制，與警察職權行使法第3章即時強制，兩者之間的關係為何？並闡述警察職權行使法第20條第2項：「警察對人民實施查證身分或其他詢問，不得依管束之規定，令其供述。」宜如何解讀之？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規（包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1101&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-plaw-e01",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲於某日白天在街上行走時，因持有狹長布袋，遭警察攔查詢問身分，並經警察要求後自行打開一線布袋拉鍊，露出布袋內藏有鐵製品，警察再要求甲自行拿出後，始發現係一把西瓜刀及一支信號彈，但甲堅不說明持有該二項物品作何用途，警察乃決定將甲依法處理。請問：\n①警察依社會秩序維護法，在程序上應移送簡易庭或可自行裁處？理由為何？（9分）\n②依社會秩序維護法，甲可能受何處分？理由為何？（8分）\n③依社會秩序維護法，甲持有西瓜刀及信號彈可能遭受何種處分？理由為何？（8分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "社會秩序維護法"
+   ],
+   "detail": [
+    {
+     "law": "社會秩序維護法",
+     "modifiedAfter": [
+      "108-12-31",
+      "110-01-20",
+      "110-05-26",
+      "114-06-11"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=0901&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-plaw-e02",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "警員A於某日夜晚的巷內道路上，發現機車騎士甲，走走停停不斷觀望來回徘徊，感覺可疑，乃騎警用機車超前將其攔停，查證身分。查證後發現甲係有前科紀錄的濫用藥物人，且剛出獄不足二個月。警員A乃要求甲讓其看其所攜帶之手提包，甲不肯，詢問：「為何可以看我的手提包？」警員A見甲不肯打開手提包，愈發懷疑甲手提包內藏有可疑物品，因此不讓甲離開，雙方在現場僵持達三小時之久。請問：\n①警員A所為之攔停與查證身分行為，是否合法？理由為何？（8分）\n②警員A攔停並經查證身分後，若甲不願出示手提包內之物，警員A應該如何處理？理由為何？（9分）\n③警察是否得依社會秩序維護法或其他法律，將甲強制到案？理由為何？（8分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "社會秩序維護法"
+   ],
+   "detail": [
+    {
+     "law": "社會秩序維護法",
+     "modifiedAfter": [
+      "108-12-31",
+      "110-01-20",
+      "110-05-26",
+      "114-06-11"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 4,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=0901&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-plaw-e01",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "某宗教團體甲，主張極端宗教言論，認為世界末日即將到來，舉辦各項活動討論並發表言論，強調其真實性，造成人心惶惶，該團體並計劃舉辦世界末日大遊行，向該轄集會遊行之主管機關警察分局乙，申請於某日在某地舉辦室外集會遊行，在此乙若認為甲舉辦之集會遊行，應不予許可或者即使許可，亦應有所限制。①請問室外集會遊行不予許可之情形以及許可限制事項為何？請綜合論述之。（15分）②另主管機關乙在適用法規之涵攝過程，針對不確定法律概念，係採取何項法理，其概念為何，請論述之。（10分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "集會遊行法"
+   ],
+   "detail": [
+    {
+     "law": "集會遊行法",
+     "modifiedAfter": [
+      "110-01-27"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1201&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-plaw-e02",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲市政府近幾年來工商業發達，人口增加迅速，生活富裕，然而貧富差距加大卻治安日漸敗壞，尤其甲市所轄各大公園廁所以及涼亭常成為群眾聚集之處所，並常有犯罪案件發生，故為預防犯罪，甲市政府要求警察局乙，能在各大公園廣設監視錄影器，警察局乙承接市府指令，擬在各大公園廁所與涼亭實施設置，並擬派人在附近蒐集資料。①請問警察局乙設置與蒐集資料之法律依據為何，並論述其內容為何？（15分）②然而在此公園活動人民，包括廣大市民等，其是否可主張生活隱私受到公權力之監視，請以司法院大法官解釋之基本人權等觀點論述，此公權力措施與基本人權之衝突與關係。（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1201&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-plaw-e01",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "員警某甲認其勤務時間每日12小時，超時服勤不合理，向所屬機關申請調整勤務時間為每日8小時（請求一）並請求給付加班費或准許補休假（請求二），均遭否准。請回答下列問題：\n①某甲不服，依公務人員保障法之規定，應如何尋求救濟？如未獲救濟，得否向行政法院提起行政訴訟？（12分）\n②司法院釋字第785號解釋就公務員之勤務時間及給付加班費作成如何之解釋？（13分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-plaw-e02",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "依國家賠償法及行政訴訟法之規定，人民提起國家賠償之訴，究應向普通法院為之，抑或向行政法院為之？請說明之。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-plaw-e01",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "衛生福利部公告臺北市及新北市為嚴重特殊傳染性肺炎（COVID-19）第三級疫情警戒區後，臺北市政府警察局所屬員警甲、乙兩人，奉令在街上勸導民眾配戴口罩，卻遭臺北市市民A、B兩人質疑，警察無權干預民眾於第三級疫情期間上街不戴口罩。試問：警察法規中有無警察可以代替其他機關執行干預基本人權的法規依據？若有，內容為何？若無，如何處理？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1201&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-plaw-e02",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "社會秩序維護法第20條原第3項「罰鍰逾期不完納者，警察機關得聲請易以拘留」之規定，已經立法院刪除，其刪除之理由為何？刪除後，罰鍰逾期未完納者，如何處理？其執行時效如何計算？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "社會秩序維護法"
+   ],
+   "detail": [
+    {
+     "law": "社會秩序維護法",
+     "modifiedAfter": [
+      "114-06-11"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1201&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-plaw-e01",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "因警察執行職務行使公權力，於故意或過失，不法侵害人民權利時，被害人得主張損害賠償，所涉規範包含國家賠償法和警械使用條例。試問兩者有何差別？應以何者優先適用？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "警械使用條例"
+   ],
+   "detail": [
+    {
+     "law": "警械使用條例",
+     "modifiedAfter": [
+      "111-10-19"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1101&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-plaw-e02",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "員警甲、乙為偵辦跨國販毒組織，由甲臥底於該組織中，乙則喬裝成毒品盤商向該組織接洽，並在校園網路中尋找下線學生買家，進行交易。該事件有關新聞爆發後，甲、乙之相關行為被質疑為釣魚偵查，兩人則稱其相關行為乃係為蒐集犯罪資訊之合法行為。試問甲、乙相關行為之合法性？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1101&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-plaw-e01",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "男子甲駕駛汽車左右搖晃，被騎機車之巡邏警員A攔查，竟一路拒檢並連闖兩個紅燈，最後困在車陣中仍不願開門，A警員最後拿鐵製警棍猛砸車窗，車窗被砸破大洞後，甲才下車解釋。經酒測結果，甲吐氣所含酒精濃度，達每公升零點一四毫克。A警製發交通違規告發單後，甲到法院自訴A警犯「毀損罪」。請問：A警依現行警察法規，可能有那些合法的抗辯事由？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1201&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-plaw-e02",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "甲非債權人，受債權人之委託，於111年1月7日10時許，率人至某商店前高舉印有「還我裝潢款」字樣之布條，對路過民眾宣稱店家欠款；甲另於111年1月26日14時許，率舞獅團至該商店前騎樓及人行道表演，且舞獅咬著印有「還錢」字樣之布條，敲鑼打鼓吸引民眾注意。經商店報案，轄區警察前來處理時，發現甲另外攜帶警棍及鋁製球棒各一支。請問：依社會秩序維護法，甲之數行為可能受到如何之處理？（25分）",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "社會秩序維護法"
+   ],
+   "detail": [
+    {
+     "law": "社會秩序維護法",
+     "modifiedAfter": [
+      "114-06-11"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1201&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-113-plaw-e01",
+  "source": "moex",
+  "session": "113 年刑事警察人員三等",
+  "year": 113,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "甲係派出所員警，於某日上午騎乘警用機車，巡邏治安要點路段，見乙獨自沿著道路行走，即上前要求乙告知姓名、身分證字號等資料，並稱：「怕你有沒有被報失蹤」云云，經乙拒絕而欲離去，甲令乙需配合返回派出所查驗身分，並以身體阻擋乙離去；乙道：「你真的很蠢」、「你做的事情違反你的工作」等語，甲以乙觸犯妨害公務罪嫌之現行犯為由欲逮捕之，進而發生拉扯，甲遂將乙摔倒於路上並壓制在地及上銬，隨即帶回派出所接受調查，同日解送至分局及地檢署應訊。試以警察任務之危害防止概念，就授權基礎、形式要件及實質要件說明本案。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=0901&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-113-plaw-e02",
+  "source": "moex",
+  "session": "113 年刑事警察人員三等",
+  "year": 113,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "依行政執行法規定，即時強制方法包括對於人之管束；對於物之扣留、使用、處置或限制其使用；對於住宅、建築物或其他處所之進入；其他依法定職權所為之必要處置。試說明執行上述方法之即時強制要件為何？並以集會遊行法之命令解散為例闡述之。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=0901&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-plaw-e01",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "請說明警察職權行使法的「警察類型化措施」（或稱警察類型化職權、具體警察措施）及「警察職權概括條款」（或稱警察概括職權）內容為何？（10分）兩者在適用上的原則為何？（5分）並請論述其規範及內容是否存在值得商榷之處？（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-plaw-e02",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "請說明「警察裁量」、「裁量瑕疵」的定義及類型？（15分）並以警察法規條文舉例論述之。（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1001&q=1",
+   "answerUrl": ""
+  }
+ }
+]

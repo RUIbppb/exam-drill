@@ -1,0 +1,14 @@
+# 刷題進度檔（含個人筆記，絕對不可公開）
+刷題進度_*.json
+progress_*.json
+
+# 金鑰
+*.key
+*.pem
+secrets.json
+.env
+
+# 系統與編輯器
+Thumbs.db
+desktop.ini
+.DS_Store

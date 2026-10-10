@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>警察考試刷題</title>
+<meta name="description" content="警察考試考古題練習，進度存在這台裝置本機。製作人Rui">
+<meta name="theme-color" content="#FAF8F4">
+<!-- 加到 iPhone 主畫面後當獨立 App 開啟（沒有網址列，也不受 Safari 清資料的規則影響） -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="刷題">
+<link rel="manifest" href="./manifest.json">
+<link rel="apple-touch-icon" href="./icons/icon-180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png">
+<link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+
+<div class="page">
+
+  <header class="app-head">
+    <h1>警察考試刷題</h1>
+    <span class="app-sub" id="head-sub">首頁</span>
+  </header>
+
+  <!-- 全站共用的提示條 -->
+  <div id="global-notice" class="notice hidden" role="status" aria-live="polite"></div>
+
+  <!-- ===== 畫面一：首頁 ===== -->
+  <section id="screen-home" class="screen">
+
+    <div class="card">
+      <p class="card-title">今天的狀況</p>
+      <div class="stat-row">
+        <div class="stat-box">
+          <span class="stat-num" id="stat-due">0</span>
+          <span class="stat-label">今天到期</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-num" id="stat-wrong">0</span>
+          <span class="stat-label">錯題本</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-num" id="stat-known">0</span>
+          <span class="stat-label">已熟</span>
+        </div>
+      </div>
+      <p class="small" id="exam-countdown">距考試天數計算中…</p>
+      <div id="backup-reminder" class="notice hidden"></div>
+    </div>
+
+    <div class="card">
+      <p class="card-title">要做什麼</p>
+      <div class="mode-list">
+        <button type="button" class="mode-btn" id="mode-random">
+          <span class="mode-name">隨機練習</span>
+          <span class="mode-desc">自選科目與年度，一題一題出</span>
+        </button>
+        <button type="button" class="mode-btn" id="mode-due">
+          <span class="mode-name">今天該複習的</span>
+          <span class="mode-desc" id="mode-due-desc">依間隔重複排程，先出比較不熟的</span>
+        </button>
+        <button type="button" class="mode-btn" id="mode-wrong">
+          <span class="mode-name">錯題本</span>
+          <span class="mode-desc" id="mode-wrong-desc">答錯過、還沒連續答對的題目</span>
+        </button>
+        <button type="button" class="mode-btn" id="mode-exam">
+          <span class="mode-name">模擬整卷</span>
+          <span class="mode-desc">照官方試卷計時作答，套真實計分規則</span>
+        </button>
+        <button type="button" class="mode-btn" id="mode-essay">
+          <span class="mode-name">申論題</span>
+          <span class="mode-desc">翻閱題目、寫自己的答案草稿</span>
+        </button>
+      </div>
+    </div>
+
+    <div class="card">
+      <p class="card-title">我的進度</p>
+      <div class="stat-row">
+        <div class="stat-box">
+          <span class="stat-num" id="stat-answered">0</span>
+          <span class="stat-label">刷過題數</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-num" id="stat-times">0</span>
+          <span class="stat-label">作答次數</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-num" id="stat-accuracy">—</span>
+          <span class="stat-label">累計答對率</span>
+        </div>
+      </div>
+      <p class="small" id="progress-note">進度只存在這台裝置的瀏覽器裡，沒有雲端備份。</p>
+      <div class="btn-row" style="margin-top:0.9rem;">
+        <button type="button" class="btn-primary" id="export-btn">匯出進度備份</button>
+        <button type="button" class="btn-secondary" id="import-btn">匯入進度</button>
+      </div>
+      <input type="file" id="import-file" accept="application/json,.json" class="hidden">
+    </div>
+
+    <div class="card">
+      <p class="card-title">其他</p>
+      <div class="link-row">
+        <button type="button" class="btn-text" id="settings-btn">設定</button>
+        <a href="./使用說明.html">使用說明</a>
+        <a href="./self-test.html">自我檢查</a>
+        <button type="button" class="btn-text" id="update-btn">檢查更新</button>
+      </div>
+      <hr class="divider">
+      <p class="small" id="offline-note">離線可用：檢查中…</p>
+      <p class="small" id="version-note">題庫版本：載入中…</p>
+    </div>
+
+  </section>
+
+  <!-- ===== 畫面二：隨機練習的範圍設定 ===== -->
+  <section id="screen-setup" class="screen hidden">
+    <div class="card">
+      <p class="card-title">練習範圍</p>
+
+      <div class="field">
+        <label for="subject-select">科目</label>
+        <div class="select-wrap">
+          <select id="subject-select"><option value="">載入中…</option></select>
+        </div>
+      </div>
+
+      <div class="year-row">
+        <div class="field">
+          <label for="year-from">出題年度（從）</label>
+          <div class="select-wrap"><select id="year-from"></select></div>
+        </div>
+        <span class="year-to-text">至</span>
+        <div class="field">
+          <label for="year-to">出題年度（到）</label>
+          <div class="select-wrap"><select id="year-to"></select></div>
+        </div>
+      </div>
+
+      <p class="small" id="pool-info">正在載入題庫…</p>
+      <div id="bank-warning" class="notice hidden"></div>
+
+      <button type="button" class="btn-primary" id="start-btn" disabled>開始隨機練習</button>
+      <button type="button" class="btn-secondary" id="setup-back-btn" style="margin-top:0.7rem;">回首頁</button>
+    </div>
+  </section>
+
+  <!-- ===== 畫面三：刷題 ===== -->
+  <section id="screen-quiz" class="screen hidden">
+
+    <div class="quiz-bar">
+      <span id="quiz-counter"></span>
+      <span id="quiz-score"></span>
+    </div>
+
+    <div class="card">
+      <div class="tag-row" id="question-tags"></div>
+      <p class="session-line" id="question-session"></p>
+      <div id="question-notices"></div>
+      <p class="stem" id="question-stem"></p>
+      <div class="option-list" id="option-list"></div>
+      <div id="result-box"></div>
+
+      <div class="after-answer hidden" id="after-answer">
+        <div class="btn-row">
+          <button type="button" class="btn-secondary btn-small" id="ask-ai-btn">問 AI 為什麼</button>
+          <button type="button" class="btn-secondary btn-small" id="stale-btn">標記已過時</button>
+        </div>
+        <div id="ai-box" class="hidden"></div>
+      </div>
+
+      <p class="qid" id="question-id"></p>
+    </div>
+
+    <button type="button" class="btn-secondary" id="finish-btn">結束本回、看成績</button>
+
+  </section>
+
+  <!-- ===== 畫面四：本回結束 ===== -->
+  <section id="screen-done" class="screen hidden">
+    <div class="card">
+      <p class="card-title">本回成績</p>
+      <div class="stat-row">
+        <div class="stat-box">
+          <span class="stat-num" id="done-total">0</span>
+          <span class="stat-label">作答題數</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-num" id="done-correct">0</span>
+          <span class="stat-label">答對</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-num" id="done-accuracy">—</span>
+          <span class="stat-label">答對率</span>
+        </div>
+      </div>
+      <p class="small" id="done-note"></p>
+      <hr class="divider">
+      <div class="btn-row">
+        <button type="button" class="btn-primary" id="again-btn">再來一回</button>
+        <button type="button" class="btn-secondary" id="home-btn">回首頁</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== 畫面五：模擬整卷選卷 ===== -->
+  <section id="screen-exam-setup" class="screen hidden">
+    <div class="card">
+      <p class="card-title">模擬整卷</p>
+      <p class="small">照官方試卷整份出題、計時，交卷後用真實計分規則算分。一次一份試卷（一個場次的一科）。</p>
+
+      <div class="field" style="margin-top:0.9rem;">
+        <label for="exam-target">要準備哪一場</label>
+        <div class="select-wrap">
+          <select id="exam-target">
+            <option value="警佐班第3類">警佐班第 3 類（警大）</option>
+            <option value="刑事三等">刑事警察人員三等（考選部）</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="field">
+        <label for="exam-paper">選一份試卷</label>
+        <div class="select-wrap">
+          <select id="exam-paper"><option value="">載入中…</option></select>
+        </div>
+      </div>
+
+      <p class="small" id="exam-paper-info"></p>
+      <button type="button" class="btn-primary" id="exam-start-btn" disabled>開始作答</button>
+      <button type="button" class="btn-secondary" id="exam-back-btn" style="margin-top:0.7rem;">回首頁</button>
+    </div>
+
+    <div class="card" id="exam-history-card">
+      <p class="card-title">最近的模擬紀錄</p>
+      <div id="exam-history"></div>
+    </div>
+  </section>
+
+  <!-- ===== 畫面六：模擬整卷作答中 ===== -->
+  <section id="screen-exam" class="screen hidden">
+    <div class="quiz-bar">
+      <span id="exam-counter"></span>
+      <span id="exam-timer" class="exam-timer"></span>
+    </div>
+
+    <div class="card">
+      <p class="session-line" id="exam-session"></p>
+      <div class="tag-row" id="exam-tags"></div>
+      <p class="stem" id="exam-stem"></p>
+      <div class="option-list" id="exam-options"></div>
+      <p class="qid" id="exam-qid"></p>
+    </div>
+
+    <div class="card">
+      <p class="card-title">題號（點一下跳題）</p>
+      <div class="qnav" id="exam-nav"></div>
+      <p class="small" id="exam-answered-info"></p>
+      <button type="button" class="btn-secondary" id="exam-submit-btn" style="margin-top:0.8rem;">交卷</button>
+    </div>
+  </section>
+
+  <!-- ===== 畫面七：模擬整卷成績 ===== -->
+  <section id="screen-exam-result" class="screen hidden">
+    <div class="card">
+      <p class="card-title">模擬結果</p>
+      <p class="exam-score"><span id="exam-score-num">0</span> <span class="exam-score-unit">分</span></p>
+      <p class="small" id="exam-score-detail"></p>
+      <div id="exam-score-notice"></div>
+      <hr class="divider">
+      <div class="btn-row">
+        <button type="button" class="btn-primary" id="exam-review-btn">逐題檢討</button>
+        <button type="button" class="btn-secondary" id="exam-home-btn">回首頁</button>
+      </div>
+    </div>
+    <div class="card hidden" id="exam-review-card">
+      <p class="card-title">逐題檢討</p>
+      <div id="exam-review"></div>
+    </div>
+  </section>
+
+  <!-- ===== 畫面八：申論題 ===== -->
+  <section id="screen-essay" class="screen hidden">
+    <div class="card">
+      <p class="card-title">申論題</p>
+      <div id="essay-demo-notice"></div>
+
+      <div class="field">
+        <label for="essay-subject">科目</label>
+        <div class="select-wrap">
+          <select id="essay-subject"><option value="">載入中…</option></select>
+        </div>
+      </div>
+      <div class="field">
+        <label for="essay-year">年度</label>
+        <div class="select-wrap"><select id="essay-year"></select></div>
+      </div>
+      <p class="small" id="essay-info"></p>
+      <button type="button" class="btn-secondary" id="essay-back-btn">回首頁</button>
+    </div>
+
+    <div class="card hidden" id="essay-question-card">
+      <div class="tag-row" id="essay-tags"></div>
+      <p class="session-line" id="essay-session"></p>
+      <p class="stem" id="essay-stem"></p>
+
+      <hr class="divider">
+      <label class="draft-label" for="essay-draft">我的答案草稿（只存在這台裝置，系統不批改）</label>
+      <textarea id="essay-draft" rows="10" placeholder="在這裡寫你的作答大綱或全文，離開這一題會自動存起來。"></textarea>
+      <p class="small" id="essay-draft-info"></p>
+      <div class="btn-row" style="margin-top:0.7rem;">
+        <button type="button" class="btn-secondary btn-small" id="essay-prev">上一題</button>
+        <button type="button" class="btn-secondary btn-small" id="essay-save">存草稿</button>
+        <button type="button" class="btn-secondary btn-small" id="essay-next">下一題</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== 畫面九：設定 ===== -->
+  <section id="screen-settings" class="screen hidden">
+
+    <div class="card">
+      <p class="card-title">考試日期</p>
+      <p class="small">填了之後，間隔重複會自動往考試日壓縮：越接近考試出題越密，不用自己調。</p>
+      <div class="field" style="margin-top:0.9rem;">
+        <label for="exam-date-cpu">警佐班第 3 類（警大）</label>
+        <input type="date" id="exam-date-cpu">
+      </div>
+      <div class="field">
+        <label for="exam-date-moex">刑事警察人員三等（考選部）</label>
+        <input type="date" id="exam-date-moex">
+      </div>
+      <p class="small" id="exam-date-info"></p>
+    </div>
+
+    <div class="card">
+      <p class="card-title">練習偏好</p>
+      <div class="field">
+        <label for="set-threshold">錯題本：連續答對幾次就放出去</label>
+        <div class="select-wrap">
+          <select id="set-threshold">
+            <option value="2">2 次</option>
+            <option value="3">3 次（建議）</option>
+            <option value="4">4 次</option>
+            <option value="5">5 次</option>
+          </select>
+        </div>
+      </div>
+      <div class="field">
+        <label for="set-daily">每天最多出幾題到期題</label>
+        <div class="select-wrap">
+          <select id="set-daily">
+            <option value="30">30 題</option>
+            <option value="60">60 題（建議）</option>
+            <option value="100">100 題</option>
+            <option value="200">200 題</option>
+          </select>
+        </div>
+      </div>
+      <div class="field">
+        <label for="set-yearspan">隨機練習的預設年度範圍</label>
+        <div class="select-wrap">
+          <select id="set-yearspan">
+            <option value="3">近 3 年</option>
+            <option value="5">近 5 年（建議）</option>
+            <option value="10">近 10 年</option>
+            <option value="0">全部年度</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <p class="card-title">AI 詳解</p>
+      <p class="small">
+        官方只公布答案字母、沒有解析，所以詳解是請 AI 生成的。
+        金鑰是<strong>你自己的</strong>，只存在這台裝置，不會上傳、也不會跟著進度匯出。
+        <strong>請不要在公用電腦上貼金鑰。</strong>
+      </p>
+      <div class="field" style="margin-top:0.9rem;">
+        <label for="ai-provider">供應商</label>
+        <div class="select-wrap"><select id="ai-provider"></select></div>
+      </div>
+      <div class="field">
+        <label for="ai-model">模型</label>
+        <div class="select-wrap"><select id="ai-model"></select></div>
+      </div>
+      <div class="field">
+        <label for="ai-key">金鑰</label>
+        <input type="password" id="ai-key" placeholder="貼上你自己的金鑰" autocomplete="off">
+        <p class="small" id="ai-key-hint"></p>
+      </div>
+      <div class="btn-row">
+        <button type="button" class="btn-primary" id="ai-save-btn">儲存金鑰</button>
+        <button type="button" class="btn-secondary" id="ai-clear-btn">清除金鑰</button>
+      </div>
+      <hr class="divider">
+      <p class="small" id="ai-cache-info">詳解快取：計算中…</p>
+      <button type="button" class="btn-secondary btn-small" id="ai-clear-cache-btn">清除詳解快取</button>
+    </div>
+
+    <div class="card">
+      <p class="card-title">進度備份</p>
+      <p class="small">進度只存在這台裝置，清掉瀏覽器資料就會不見。建議每週匯出一次，檔案放雲端硬碟。</p>
+      <div class="btn-row" style="margin-top:0.9rem;">
+        <button type="button" class="btn-primary" id="settings-export-btn">匯出進度備份</button>
+        <button type="button" class="btn-secondary" id="settings-import-btn">匯入進度</button>
+      </div>
+      <p class="small" id="backup-info"></p>
+    </div>
+
+    <div class="card">
+      <p class="card-title">我標成已過時的題目</p>
+      <p class="small" id="stale-count-info">還沒有標記任何題目。</p>
+      <button type="button" class="btn-secondary btn-small" id="stale-clear-btn">清除全部過時標記</button>
+    </div>
+
+    <button type="button" class="btn-secondary" id="settings-back-btn">回首頁</button>
+  </section>
+
+  <footer class="app-foot">製作人Rui ／ Maker Rui</footer>
+
+</div>
+
+<!-- 刷題時固定在底部的操作列 -->
+<div class="bottom-bar hidden" id="bottom-bar">
+  <div class="bottom-inner">
+    <button type="button" class="btn-primary" id="action-btn" disabled>請選一個選項</button>
+  </div>
+</div>
+
+<!-- 共用的確認對話框（覆蓋進度這種回不去的動作一定要再問一次） -->
+<div class="dialog-mask hidden" id="confirm-mask">
+  <div class="dialog" role="dialog" aria-modal="true" aria-labelledby="confirm-title">
+    <p class="dialog-title" id="confirm-title">請確認</p>
+    <div class="dialog-body" id="confirm-body"></div>
+    <div class="btn-row">
+      <button type="button" class="btn-secondary" id="confirm-cancel">取消</button>
+      <button type="button" class="btn-primary" id="confirm-ok">確定</button>
+    </div>
+  </div>
+</div>
+
+<script src="./js/core.js"></script>
+<script src="./js/storage.js"></script>
+<script src="./js/bank.js"></script>
+<script src="./js/explain.js"></script>
+<script src="./js/app.js"></script>
+<script src="./js/exam.js"></script>
+<script src="./js/essay.js"></script>
+</body>
+</html>

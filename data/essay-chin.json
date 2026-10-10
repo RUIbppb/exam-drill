@@ -1,0 +1,1111 @@
+[
+ {
+  "id": "moex-95-chin-e01",
+  "source": "moex",
+  "session": "95 年刑事警察人員三等",
+  "year": 95,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）論立法與執法",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=095100&c=303&s=1001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-95-chin-e02",
+  "source": "moex",
+  "session": "95 年刑事警察人員三等",
+  "year": 95,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）試擬財政部致各關稅局函，希加強查緝毒品走私，以維國民健康。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=095100&c=303&s=1001&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-96-chin-e01",
+  "source": "moex",
+  "session": "96 年刑事警察人員三等",
+  "year": 96,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）您順利通過警察人員三等特考後，分發派任某警察派出所的所長一職。您必須領導派出所的警察同仁，針對轄區治安的情勢與民眾的需求，做好維護治安和服務民眾的工作。試以「假如我是派出所所長」為題，作文一篇，論述您如何透過有效的領導作為，發揮警察團隊精神，達成警察任務。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=096120&c=303&s=c161&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-96-chin-e02",
+  "source": "moex",
+  "session": "96 年刑事警察人員三等",
+  "year": 96,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）警察人員管理條例修正案，業經立法院三讀通過，總統公布。內政部並已接到行政院民國96年7月○日○○字第○○○號函，檢送該條例修正條文。請試擬內政部致該部警政署函，檢送該條例修正條文，希轉知所屬各警察機關，依修正條文確實執行。副本抄送銓敘部。（修正重點為：警員、巡佐年功俸提高二級；增列升官等訓練，升警監者，得於5年內先升後訓；比照公務人員任用法，增列不得任用警察官之條款。）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=096120&c=303&s=c161&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-chin-e01",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "國文",
+  "originalSubject": "國文(作文、公文與測驗)",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）地震之聯想",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文(作文、公文與測驗)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c031&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-97-chin-e02",
+  "source": "moex",
+  "session": "97 年刑事警察人員三等",
+  "year": 97,
+  "subject": "國文",
+  "originalSubject": "國文(作文、公文與測驗)",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）試擬內政部警政署函各縣市警察局：如何加強在職進修，以提升工作效率、豐富生活，並請擬定具體可行計畫，報署核准後實施。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文(作文、公文與測驗)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=097110&c=303&s=c031&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-chin-e01",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "國文",
+  "originalSubject": "國文(作文、公文與測驗)",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）太湖石因頑固而受重視，天空雲彩因變化而受注目。面對人生抉擇時，變與不變，見仁見智。當如何處理？考驗個人智慧。試以「િ޺ᄃត఼」為題，寫作論說文一篇。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文(作文、公文與測驗)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c011&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-98-chin-e02",
+  "source": "moex",
+  "session": "98 年刑事警察人員三等",
+  "year": 98,
+  "subject": "國文",
+  "originalSubject": "國文(作文、公文與測驗)",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）請試擬交通部致民用航空局、觀光局、臺灣鐵路管理局函：為提升國家形象，強化國際競爭力，營造友善的觀光環境，以吸引各國觀光客，應督促所屬注意執勤時之工作態度，並加強教育訓練。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文(作文、公文與測驗)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098110&c=303&s=c011&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-chin-e01",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）以法治提振善良風氣，以知能提高工作效率",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c31&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-99-chin-e02",
+  "source": "moex",
+  "session": "99 年刑事警察人員三等",
+  "year": 99,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）試擬交通部致臺灣鐵路管理局函：為有效區隔臺灣高速鐵路與臺鐵之運輸功能，並配合各縣市政府旅遊觀光節慶活動，請擬具吸引民眾踴躍搭乘臺鐵之可行方案，報部核准後實施。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099100&c=303&s=c31&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-100-chin-e01",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）《貞觀政要》中說：「國家大事，惟賞與罰。賞當其勞，無功者自退。罰當其罪，為惡者咸懼。則知賞罰不可輕行也。」在管理理論上，西方也有所謂紅蘿蔔與棍子的說法。試以「談管理」為題，作文一篇。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-100-chin-e02",
+  "source": "moex",
+  "session": "100 年刑事警察人員三等",
+  "year": 100,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）試擬行政院致所屬各部會函：為因應即將開放大陸地區人民來臺觀光自由行，請轉知所屬機關，從速研擬相關措施，俾妥善處理各種狀況。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-chin-e01",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）一位名家的文章裏這麼寫道：「為什麼十年前路上的大石頭到現在還是大石頭？原因無他，每個路過的人不認為這是他的事，也不相信自己能移動它。」這真是一針見血地指出了我們大部分人的自私與怯懦。現在請以「我願、我能、我做」為題，作文一篇，申述現代公民應有的心態與作為。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-101-chin-e02",
+  "source": "moex",
+  "session": "101 年刑事警察人員三等",
+  "year": 101,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）試擬行政院致行政院勞工委員會函：針對暑假期間學生打工之勞動條件、環境，應予以全面調查並加以督導改善，以維護青少年打工權益。（勞動條件：勞動者與資方對工時、工資、休假、休息、醫療、安全衛生、撫卹等的約定。亦作「工作條件」。）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-chin-e01",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "國文",
+  "originalSubject": "國文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）有個種玉米的農夫長年榮獲藍色勳章。然而每一年他都將這最棒的玉米種子與每一個鄰居共享。「你把得獎品種的玉米種子分給別人，」有人問他：「這樣怎麼可能繼續得獎呢？」「你不瞭解啊，」這農夫說：「風會把花粉四處散播。如果我要培育最優良的玉米，就必須確保我所有的鄰居也有最棒的玉米種子。如果他們的玉米種子差勁，會授粉給我的玉米，降低我的玉米品質。」人生也是如此，我們都在同一塊田區耕耘。我們的人生，對於周遭人的生活品質，有直接的影響。閱讀上文，請以「自利與利他」為題，作文一篇，申述現代公民應有的心態與作為。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-102-chin-e02",
+  "source": "moex",
+  "session": "102 年刑事警察人員三等",
+  "year": 102,
+  "subject": "國文",
+  "originalSubject": "國文",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）試擬行政院農業委員會致各縣市政府農業局（處）函：請有效執行禁止活禽屠宰及販售措施，以確保環境衛生及國民健康。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-chin-e01",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）愛心帶來社會溫馨，耐心促使效率提升，對從事公職的人而言，二者尤不可或缺。請以「愛心與耐心」為題，作文一篇，闡述其義。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-103-chin-e02",
+  "source": "moex",
+  "session": "103 年刑事警察人員三等",
+  "year": 103,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）試擬交通部觀光局致各直轄市、縣市政府函：請將轄區內足以引人入勝之景點，簡要說明其特色及交通路線，於1個月內報由本局統整、宣傳。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-chin-e01",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）同樣的一件事情，從不同的角度往往會有不同的看法。因此我們必須將心比心，尊重、包容每一個觀點不同的人。請以「雅量」為題，就自我的認知、經驗、省思，作文一篇，詳加闡述，文長不限。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-104-chin-e02",
+  "source": "moex",
+  "session": "104 年刑事警察人員三等",
+  "year": 104,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）試擬衛生福利部國民健康署致各直轄市、縣（市）政府衛生局函：為推動「104年校園周邊健康飲食輔導示範計畫」，請選擇國中、小學為示範學校（不限示範校區數目），對於校園周邊之超商、早餐店、速食店及飲料店，積極輔導業者開發及提供少油、少鹽、少糖之營養早餐，以維護學生身體健康。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "oldQuestion": true,
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-chin-e01",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）無論從事何者職務，皆有其應盡的責任與義務。所謂稱職，就是指自己的才能足夠勝任所擔負的職務。但是有一個不可忽略的關鍵是：能否清楚認識到什麼是應盡的責任與義務？請以「本分」為題，作文一篇，闡述自己對於工作的態度與期待。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-105-chin-e02",
+  "source": "moex",
+  "session": "105 年刑事警察人員三等",
+  "year": 105,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）諾羅病毒為一群病毒，可感染人類而引起腸胃道發炎，在國外已迭有發生。其主要感染途徑為食入被病毒感染之食物、飲水，或接觸被感染者之排泄物、嘔吐物等。衛生福利部編印有《學校病毒性腸胃炎防治手冊》，可供參考。試擬衛生福利部致教育部、直轄市及各縣（市）政府教育局函，請各機關轉知所屬各級學校加強諾羅病毒防治宣導，以維護學生身體健康。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-chin-e01",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）法庭上正進行偷竊案件審理。法官最後詢問：「老婦人！妳為何一再竊取超市的麵包？」老婦哀戚地說：「孫子多日沒吃東西，我身上也沒有錢……。」此後一片沈寂，旁聽席的人都在等待宣判。終於法槌敲下，庭長說：「偷竊屬實，貧窮可憫，依法輕判拘役七日，亦可易科罰金三千。」老婦聞判，低頭不停地哭泣。旁聽席的人都望著庭長。庭長不疾不徐，從身上掏出三千元，請法警帶老婦去結案。從這則故事中，可看到法官既行公義，又富憐憫之心。目前社會上公義與憐憫抉擇兩難的事情也經常發生，請以「公義與憐憫」為題，作文一篇，闡述己見。",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "中華民國刑法"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "modifiedAfter": [
+      "113-06-24",
+      "113-07-31",
+      "114-05-28",
+      "114-08-01",
+      "115-03-13",
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 24,
+     "lastChange": "修正"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-106-chin-e02",
+  "source": "moex",
+  "session": "106 年刑事警察人員三等",
+  "year": 106,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）地球暖化日益嚴重，導致氣候多變，生態亦深受影響。據科學家研究指出，最大禍首是碳過度排放所致。有鑑於此，院長在某次院會中指示速謀因應。試擬行政院致環保署函，請儘速研擬具體措施，力謀改善之道，並於文到三個月函復。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-chin-e01",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）春秋時期，宋國有人得到璞玉，把它獻給司城子罕，子罕卻不接受，說道：「我以不貪為寶，你以璞玉為寶，你若把璞玉送我，而我接受，我們便都失去了珍寶，還不如各自擁有原來的珍寶。」子罕的話透示了「拒絕」與「接受」的深義。試以「拒絕與接受」為題，作文一篇，闡述子罕言辭的深義，並抒發自己的感悟。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-107-chin-e02",
+  "source": "moex",
+  "session": "107 年刑事警察人員三等",
+  "year": 107,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）鐵路地下化為國家重大建設計畫，對於都市更新與發展、區域交通順暢與安全，都有莫大助益。交通部鐵路改建工程局為進行臺南市鐵路地下化工程，自本（107）年6月15日起，連續三個月執行下開工程：1、續施作電車線設備安裝；2、號誌現場設置及佈纜；3、第一工區（榮譽街平交道南側）構造物保護ccp施工；4、第五工區（空勤司令部至大林路平交道間）連續壁施工；5、第六工區（大林路平交道以南至亞航社區間）排水箱涵施工。上述工程，短期勢必影響交通，乃函請臺南市政府警察局於上下班尖峰時段，增派交通警察，在前開地區維持交通秩序，保障民眾用路之安全順暢。試擬此函。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-chin-e01",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）在過去的時代裏，所謂「閱讀」，讀的是紙本的書籍，但在今天的數位時代，由於人們普遍使用電腦、網路、手機，閱讀的習慣改變了，愈來愈多的人不再接觸紙本書籍，這樣的改變有什麼得與失呢？請以「數位閱讀的得與失」為題，作文一篇，闡述你的體會與看法。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-108-chin-e02",
+  "source": "moex",
+  "session": "108 年刑事警察人員三等",
+  "year": 108,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）請參考下述資訊，試擬教育部致各直轄市、縣市政府函：轉知行政院農業委員會動植物防疫檢疫局建置有「非洲豬瘟資訊專區」網站暨相關宣導資料，請協助向轄境學校教職員工學生及家長宣導，共同防範非洲豬瘟，防杜疫病入侵。一、去（107）年8月3日中國大陸首例非洲豬瘟爆發，至今（108）年4月19日其全境均已傳出疫情。二、我國政府於去年12月18日成立跨部會非洲豬瘟中央災害應變中心。三、非洲豬瘟係由病毒引起的具高度傳染性豬隻疫病，其豬隻發病率及致死率極高，但不會傳染人類。四、該病以接觸傳染為主，可經由廚餘、節肢動物、動物分泌物或排泄物、車輛及人員夾帶物品等方式傳播。五、其病毒可長期存在於環境、排泄物（例如豬舍及糞便）；以及豬肉製品（冷藏豬肉100天、冷凍豬肉1,000天）。六、切勿網購或攜帶任何疫區的豬肉製品入境，違規者最高可處7年以下有期徒刑，得併科新臺幣300萬元以下罰金。七、行政院農業委員會函教育部，說明該會動植物防疫檢疫局建置有「非洲豬瘟資訊專區」網站（https://www.baphiq.gov.tw/）暨相關宣導資料，並請協助宣導。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-chin-e01",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）我國已於1993年成為高齡化社會，2018年轉為高齡社會，推估將於2026年邁入超高齡社會。《論語．公冶長》記載孔子的志向之一是能夠使「老者安之」，《禮記．禮運》也提到大同世界的理想：「使老有所終」。這不僅僅是一種對於社會發展的願景，同時也是當前社會所面臨的重要議題。然而凡事皆應從個人做起，請以「尊敬老人，善待老人」為題，作文一篇，闡述自己的見解與做法。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-109-chin-e02",
+  "source": "moex",
+  "session": "109 年刑事警察人員三等",
+  "year": 109,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）試擬教育部致各公私立大學校院函：請加強校園內各項傳染病防疫措施，如發現有疑似傳染病病人，未經醫師診斷或檢驗者，應依據傳染病防治法相關規定，於24小時內通知當地主管機關。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-chin-e01",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "國文",
+  "originalSubject": "國文(作文、公文與測驗)",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）要維持社會的穩定運作，除了法律之外，久而久之會形成許多「傳統」，如：道德、規矩、習俗、人情…等等。這些傳統，固然維繫了社會的長期運作，但隨著觀念、潮流的改變，往往也會造成扞格與衝突，此時應如何處理或化解這些衝突，考驗著我們的智慧。身為公務人員，一定難免面臨這種情況，請以「傳統與創新」為題，作文一篇，依據你的經驗與體會，申論如何在舊傳統與新思維之間，找到平衡。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文、公文與測驗)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-110-chin-e02",
+  "source": "moex",
+  "session": "110 年刑事警察人員三等",
+  "year": 110,
+  "subject": "國文",
+  "originalSubject": "國文(作文、公文與測驗)",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）根據中央氣象局統計，臺灣夏季均溫約在攝氏30度左右，最高溫時更達攝氏35度以上，氣候環境大大增加了中暑的發生率。以今年來看，5月高溫少雨，天氣炎熱，南臺灣更飆出40℃高溫，天氣風險公司表示，今年5月確實為有氣象觀測紀錄的60年以來「最熱的5月」。依衛生福利部「及時疫情監視及預警系統」，分析全國170多家醫院急診及時資料顯示：每年的7至8月是民眾因中暑等熱急症至急診就醫的高峰期，近日邁入酷熱的炎夏，氣溫勢必會持續上升，民眾仍應提高警覺，小心防範中暑。試擬衛生福利部致國民健康署函：近日氣溫飆高，民眾容易中暑，應加強宣導中暑的正確處理方式，避免因延遲治療導致永久性的傷害。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文、公文與測驗)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-chin-e01",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 1,
+  "points": 60,
+  "stem": "作文：（60分）現代教育觀念非常強調跨領域學習。有一篇關於「不被未來世界淘汰」的報導提到：「未來人才會被期待要懂多個領域，並有綜整專業知識的能力。」甚至還強調「學什麼不重要，重點是想學」。請以「多元學習與專業素養」為題，作文一篇，具體說明自己對於未來工作的期望，以及此時此刻，最想學的知識或技術是什麼？對於提升專業素養有何助益？",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=0101&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-111-chin-e02",
+  "source": "moex",
+  "session": "111 年刑事警察人員三等",
+  "year": 111,
+  "subject": "國文",
+  "originalSubject": "國文（作文、公文與測驗）",
+  "mappingLevel": "部分",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "公文：（20分）教育部國民及學前教育署將於111年8月6日（星期六），假國立臺灣師範大學綜合大樓國際會議廳舉辦「111學年度精進線上教學中學種子教師研習」，並已訂定實施計畫。試擬教育部國民及學前教育署致各直轄市、縣（市）政府教育局、處函：檢送實施計畫，薦派所屬各級中學種子教師出席，並給予出席者公（差）假及課務調整；報名網址：https://○○○，111年7月22日（星期五）截止報名。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文（作文、公文與測驗）_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=0101&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-chin-e01",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "短文寫作：（20分）西方生物科技企業家伊麗莎白·霍姆斯，曾被譽為最年輕、富有的白手起家女性億萬富翁，如今她卻因詐欺罪面臨20年監禁；另有一安娜·索羅金假裝自己是德國女繼承人，從紐約上流社會騙取了數十萬美元。這些看似高知識、高社經地位者為何能不畏重重困難，不懼嚴重後果，公然行騙大眾？難道他們不知道自己所做的是有違良知、害慘他人的重大詐騙行為？英國廣播公司BBC解釋這些詐騙者的心理狀態是：必先自欺，方可欺人。宋代朱子提到自欺、欺人時，也說過：「欺人亦是自欺，此又是自欺之甚者。」請對上述此種「詐騙屬於自欺欺人心理」的說法加以討論，並說明你的看法。文長不超過400字。",
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "詐欺犯罪危害防制條例"
+   ],
+   "detail": [
+    {
+     "law": "詐欺犯罪危害防制條例",
+     "modifiedAfter": [
+      "113-07-31",
+      "115-01-21"
+     ],
+     "abandoned": false,
+     "matched": "關鍵詞",
+     "level": "中",
+     "changeCount": 2,
+     "lastChange": "修正",
+     "manual": true,
+     "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=0101&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-112-chin-e02",
+  "source": "moex",
+  "session": "112 年刑事警察人員三等",
+  "year": 112,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 60,
+  "stem": "作文：（60分）網路盛行的年代，社群媒體影響可謂無遠弗屆。社群媒體上對某些知名人物因為說了或做了一些有問題、有爭議的言論、行為，就被施予各種輿論抵制，其工作機會、社交活動甚至其網路影響力全被取消，這就是所謂「取消文化」。這是一種社群抵制行為，目的在於放逐被攻擊對象，使其失去原有社會關係平台的公開支持而無法繼續存在，終至「被取消」。美國奧斯卡影帝凱文史貝西於2017年遭人爆料涉嫌性侵醜聞，英、美兩國不斷有新的指控者，至少有20人站出來指證，其名望瞬間跌落谷底，所有演出機會一夕之間消失，原先由他主演而熱播的劇集也被撤下停播。後來美國警方以罪證不足為由，撤銷對他的起訴，但英國的官司仍未解決。身陷性侵醜聞「被取消」的凱文史貝西則銷聲匿跡，至今一直未走出陰霾，也並未恢復其演藝生涯。贊成「取消文化」者認為：公眾（代表弱勢者）有表達批評意見的言論自由，而要求犯重大錯誤者須為自己言行負責正是一種正義。但反對者如美國前總統歐巴馬表示，「取消文化」錯誤地賦予人們評斷他人的權力，讓人們忘記了做錯一件事的人，並非十惡不赦。究竟「取消文化」是一種網路上為弱勢者討公道的鄉民正義，還是流為手段過激的正義魔人？請以「論取消文化」為題寫一篇作文，討論你對其看法，並舉例說明你贊成或反對的理由。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=0101&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-113-chin-e01",
+  "source": "moex",
+  "session": "113 年刑事警察人員三等",
+  "year": 113,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "十九世紀後期，英國牧師甘為霖抵達水沙連時，日月潭只是一個小湖泊。湖中間有一耕作小島，上面還住著建立私塾的漢人。到了日治時期，為了發電的需要，日本工程師從武界擷取濁水溪流水，淹沒附近的小山丘，日月潭才有今日遼闊的水面。在電廠興建初期，到訪的佐藤春夫在其發表的《日月潭遊記》中卻認為工程竣工之後，「到那時，不管有什麼新的、別的美觀產生，但那也不會是今天我所看到的大自然了。思及此，我不禁興起無限感傷。」當年日月潭電廠興建完工，湖水發電占臺灣水力發電的一半強，效益甚鉅，但根據經濟部能源署2023年的公告，「臺灣發電量占比，以燃煤仍最高，占42.23%，依序為燃氣（39.57%）、再生能源（9.47%）、核能（6.31%）、燃油（1.34%）、抽蓄水力（1.08%）」，而今日月潭電廠水力發電效益已微乎其微。人與自然的關係問題長久以來都是全球關注的熱點，起因於人類面臨著一個共同的危機，即生態環境的危機。面對滿目瘡痍的自然景象，許多人又開始懷念遠古的森林、綿延的綠洲，並在悉心描繪人與自然和諧共處、相安無事、共同發展的美景。人類與大自然的關係到底是征服，還是被征服？究竟是「天命難違」抑或是「人定勝天」？根據上文，請就下列兩問題作答：\n佐藤春夫面對初期的電廠興建時的日月潭，為什麼會產生「無限感傷」？請說明你的看法。文長不超過300字。（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-113-chin-e02",
+  "source": "moex",
+  "session": "113 年刑事警察人員三等",
+  "year": 113,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 60,
+  "stem": "十九世紀後期，英國牧師甘為霖抵達水沙連時，日月潭只是一個小湖泊。湖中間有一耕作小島，上面還住著建立私塾的漢人。到了日治時期，為了發電的需要，日本工程師從武界擷取濁水溪流水，淹沒附近的小山丘，日月潭才有今日遼闊的水面。在電廠興建初期，到訪的佐藤春夫在其發表的《日月潭遊記》中卻認為工程竣工之後，「到那時，不管有什麼新的、別的美觀產生，但那也不會是今天我所看到的大自然了。思及此，我不禁興起無限感傷。」當年日月潭電廠興建完工，湖水發電占臺灣水力發電的一半強，效益甚鉅，但根據經濟部能源署2023年的公告，「臺灣發電量占比，以燃煤仍最高，占42.23%，依序為燃氣（39.57%）、再生能源（9.47%）、核能（6.31%）、燃油（1.34%）、抽蓄水力（1.08%）」，而今日月潭電廠水力發電效益已微乎其微。人與自然的關係問題長久以來都是全球關注的熱點，起因於人類面臨著一個共同的危機，即生態環境的危機。面對滿目瘡痍的自然景象，許多人又開始懷念遠古的森林、綿延的綠洲，並在悉心描繪人與自然和諧共處、相安無事、共同發展的美景。人類與大自然的關係到底是征服，還是被征服？究竟是「天命難違」抑或是「人定勝天」？根據上文，請就下列兩問題作答：\n人類與大自然的關係到底是征服，還是被征服？究竟是「天命難違」抑或是「人定勝天」？請以「人與自然」為題作文一篇，舉出實例加以論述，清楚闡釋你的觀點。（60分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ },
+ {
+  "id": "moex-114-chin-e01",
+  "source": "moex",
+  "session": "114 年刑事警察人員三等",
+  "year": 114,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 80,
+  "stem": "前人曾提出「木桶原理」，意指一個木桶能盛裝多少水，取決於圍成木桶的木板中最短的那塊。這個形象化的比喻，強調了在一個團隊中，必須所有人的素質、能力都一樣好，方可獲得最理想的成就。若其中一人落後其他人，他會成為團隊的破口，影響整體的實力。在個人方面亦然，應儘量培養各項能力，並找出不足之處設法彌補，方可在考場、職場等各種人生場合贏得肯定。但後來有人提出：如果將木桶斜放，水的盛裝高度就不是受限於短的木板，反而是由長的木板決定。此即「斜木桶原理」或「長板原理」。若改用這個觀點，團隊要提高整體實力的方式，就未必是強求人人同樣優秀，而是找出木桶最恰當的傾放角度，鞏固並儘可能發揮既有的強項，透過適才適所來放大成效。而個人也不用為自己的匱乏或不擅長的事所苦，而是珍惜天賦，讓本身的優勢展現最大的價值。你比較認同「木桶原理」或「斜木桶原理」？或者在不同場合、目的及人生階段，這兩個原理各有其適用性？請以「墊高成就，來自補足短處或延展長處」為題，結合經驗或見聞，寫一篇文章，說明你的觀察、體會或反思。",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=0102&q=1",
+   "answerUrl": ""
+  }
+ }
+]
