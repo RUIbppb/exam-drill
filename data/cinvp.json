@@ -34,7 +34,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "證人與詰問"
+  ]
  },
  {
   "id": "cpu-110-cinvp-02",
@@ -71,7 +77,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "偵查的發動與計畫",
+   "偵查犯罪手冊與刑案分類",
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "cpu-110-cinvp-03",
@@ -108,7 +126,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作",
+   "犯罪剖繪與犯罪心理"
+  ]
  },
  {
   "id": "cpu-110-cinvp-04",
@@ -145,7 +170,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "公共危險與交通犯罪",
+   "司法警察職權與移送",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "放火與爆炸",
+   "偵查犯罪手冊與刑案分類",
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "cpu-110-cinvp-05",
@@ -182,7 +219,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "身分查證與臨檢",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "自白與不正訊問",
+   "治安顧慮人口查訪"
+  ]
  },
  {
   "id": "cpu-110-cinvp-06",
@@ -219,7 +265,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "偵查原則與偵查不公開",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "偵查不公開",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-110-cinvp-07",
@@ -256,7 +312,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-cinvp-08",
@@ -293,7 +353,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-cinvp-09",
@@ -330,7 +394,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-cinvp-10",
@@ -367,7 +435,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "資料蒐集與個資保護",
+   "警械使用"
+  ],
+  "topicDetails": [
+   "緘默權與辯護權",
+   "用槍時機",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-110-cinvp-11",
@@ -404,7 +483,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-cinvp-12",
@@ -449,7 +532,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 15,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -461,7 +547,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "性犯罪與婦幼保護",
+   "身分查證與臨檢",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "緩刑與假釋",
+   "妨害性自主",
+   "治安顧慮人口查訪",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-110-cinvp-13",
@@ -498,7 +596,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "自白與不正訊問",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-110-cinvp-14",
@@ -535,7 +641,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "司法警察職權與移送",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "有票搜索",
+   "司法警察的身分與職權",
+   "官職分立與陞遷"
+  ]
  },
  {
   "id": "cpu-110-cinvp-15",
@@ -577,6 +693,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
     }
@@ -590,7 +709,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "公務員犯罪與瀆職",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "沒收新制",
+   "賄賂與不法利益",
+   "洗錢防制"
+  ]
  },
  {
   "id": "cpu-110-cinvp-16",
@@ -627,7 +756,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "指認程序"
+  ]
  },
  {
   "id": "cpu-110-cinvp-17",
@@ -664,7 +799,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "正犯與共犯"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-cinvp-18",
@@ -701,7 +840,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-110-cinvp-19",
@@ -738,7 +883,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-cinvp-20",
@@ -775,7 +924,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-cinvp-21",
@@ -821,6 +974,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
     },
@@ -836,6 +992,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -849,7 +1008,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "詐欺集團偵查",
+   "金流追查與虛擬通貨"
+  ]
  },
  {
   "id": "cpu-110-cinvp-22",
@@ -888,7 +1056,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "cpu-110-cinvp-23",
@@ -929,7 +1105,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "偵訊與訪談技巧",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "移送與報告",
+   "詢問與筆錄製作",
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu-110-cinvp-24",
@@ -969,7 +1155,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-110-cinvp-25",
@@ -1011,7 +1203,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "證人與詰問"
+  ]
  },
  {
   "id": "cpu-110-cinvp-26",
@@ -1052,7 +1251,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "cpu-110-cinvp-27",
@@ -1094,7 +1300,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警察組織與職權",
+   "勤務方式與編排",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "警察機關的組織與層級",
+   "六種勤務方式",
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu-110-cinvp-28",
@@ -1138,7 +1356,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1150,7 +1371,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "資料蒐集與個資保護",
+   "毒品與槍砲",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "查證身分的要件",
+   "施用毒品的處理",
+   "少年事件處理"
+  ]
  },
  {
   "id": "cpu-110-cinvp-29",
@@ -1197,6 +1429,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -1210,7 +1445,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "司法警察職權與移送",
+   "詐欺洗錢與財經犯罪",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "詐欺集團偵查",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-110-cinvp-30",
@@ -1252,7 +1497,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "證人與詰問"
+  ]
  },
  {
   "id": "cpu-110-cinvp-31",
@@ -1291,7 +1542,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-110-cinvp-32",
@@ -1331,7 +1588,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "證據法則",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "現行犯逮捕",
+   "指認程序"
+  ]
  },
  {
   "id": "cpu-110-cinvp-33",
@@ -1373,7 +1639,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "身分查證與臨檢",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "緘默權與辯護權",
+   "治安顧慮人口查訪",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-110-cinvp-34",
@@ -1413,7 +1690,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-110-cinvp-35",
@@ -1454,7 +1739,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "勤務規劃與分配",
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "cpu-110-cinvp-36",
@@ -1497,7 +1790,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -1509,7 +1805,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "性侵害案件處理",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-110-cinvp-37",
@@ -1551,7 +1855,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "司法警察的身分與職權",
+   "官職分立與陞遷",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-110-cinvp-38",
@@ -1591,7 +1907,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "指認程序"
+  ]
  },
  {
   "id": "cpu-110-cinvp-39",
@@ -1631,7 +1954,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "司法警察的身分與職權",
+   "官職分立與陞遷",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-110-cinvp-40",
@@ -1670,7 +2005,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 與生物資料庫",
+   "DNA 型別與比對",
+   "血跡與體液檢驗",
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "cpu-111-cinvp-01",
@@ -1711,7 +2056,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "通訊保障及監察法",
@@ -1723,7 +2071,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1735,7 +2086,21 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "人身犯罪",
+   "性犯罪與婦幼保護",
+   "通訊監察與科技偵查"
+  ],
+  "topicDetails": [
+   "恐嚇取財與擄人勒贖",
+   "殺人罪",
+   "妨害性自主",
+   "通信紀錄調取",
+   "定位與數位追蹤",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-111-cinvp-02",
@@ -1780,7 +2145,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 8,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1792,7 +2160,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "自白與不正訊問",
+   "證人與詰問",
+   "鑑定與勘驗",
+   "指認程序"
+  ]
  },
  {
   "id": "cpu-111-cinvp-03",
@@ -1832,7 +2210,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1844,7 +2225,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "通信紀錄調取",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "cpu-111-cinvp-04",
@@ -1881,7 +2270,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-111-cinvp-05",
@@ -1918,7 +2311,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "起訴與不起訴",
+   "槍彈與藥毒物鑑識",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "cpu-111-cinvp-06",
@@ -1958,7 +2361,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1970,7 +2376,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-111-cinvp-07",
@@ -2007,7 +2419,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "拘提逮捕與通緝",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "偵查的發動與計畫"
+  ]
  },
  {
   "id": "cpu-111-cinvp-08",
@@ -2044,7 +2464,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "證據法則",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "妨害性自主",
+   "證人與詰問",
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "cpu-111-cinvp-09",
@@ -2089,7 +2519,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 8,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2101,7 +2534,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "傳聞法則"
+  ]
  },
  {
   "id": "cpu-111-cinvp-10",
@@ -2138,7 +2577,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-111-cinvp-11",
@@ -2153,7 +2600,7 @@
   "options": {
    "A": "已訂婚但尚未結婚之證人，得拒絕證言",
    "B": "《證人保護法》不適用於民事案件，但適用於所有的刑事案件",
-   "C": "證人之個人意見亦應詳細記錄，以協助發掘真相，以協助發掘真相",
+   "C": "證人之個人意見亦應詳細記錄，以協助發掘真相",
    "D": "由於與警詢犯嫌之性質不同，因此得不必全程連續錄音"
   },
   "answers": [
@@ -2175,7 +2622,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵訊與訪談技巧",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "詢問與筆錄製作",
+   "證人保護與人口販運"
+  ]
  },
  {
   "id": "cpu-111-cinvp-12",
@@ -2212,7 +2669,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "cpu-111-cinvp-13",
@@ -2254,6 +2719,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -2267,7 +2735,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "偵查原則與偵查不公開",
+   "行政程序與行政罰",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "行政法的一般原則",
+   "詐欺集團偵查",
+   "基本權的限制"
+  ]
  },
  {
   "id": "cpu-111-cinvp-14",
@@ -2304,7 +2784,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護",
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "cpu-111-cinvp-15",
@@ -2341,7 +2830,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "審判與救濟",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "cpu-111-cinvp-16",
@@ -2378,7 +2875,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "指認程序",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-111-cinvp-17",
@@ -2418,7 +2924,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2430,7 +2939,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對",
+   "血跡與體液檢驗",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-111-cinvp-18",
@@ -2467,7 +2987,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "強盜與搶奪"
+  ]
  },
  {
   "id": "cpu-111-cinvp-19",
@@ -2504,7 +3031,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "羈押與強制處分",
+   "司法警察職權與移送",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "通緝與解送",
+   "司法警察的身分與職權",
+   "官職分立與陞遷"
+  ]
  },
  {
   "id": "cpu-111-cinvp-20",
@@ -2544,7 +3083,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2556,7 +3098,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "通訊監察書"
+  ]
  },
  {
   "id": "cpu-111-cinvp-21",
@@ -2597,7 +3146,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對",
+   "犯罪剖繪與犯罪心理"
+  ]
  },
  {
   "id": "cpu-111-cinvp-22",
@@ -2636,7 +3193,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-111-cinvp-23",
@@ -2678,7 +3241,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-111-cinvp-24",
@@ -2721,7 +3288,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2733,7 +3303,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-111-cinvp-25",
@@ -2773,7 +3351,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "證人保護與人口販運"
+  ]
  },
  {
   "id": "cpu-111-cinvp-26",
@@ -2820,7 +3406,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 8,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2832,7 +3421,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "無票搜索"
+  ]
  },
  {
   "id": "cpu-111-cinvp-27",
@@ -2872,7 +3469,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-111-cinvp-28",
@@ -2900,7 +3505,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "刑事訴訟法"
    ],
@@ -2918,9 +3523,21 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 8,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 245 條"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 245 條",
+       "modifiedAt": [
+        "113-07-31"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -2932,7 +3549,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "告訴告發與受理報案"
+  ],
+  "topicDetails": [
+   "偵查不公開"
+  ]
  },
  {
   "id": "cpu-111-cinvp-29",
@@ -2972,7 +3596,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-111-cinvp-30",
@@ -3013,7 +3641,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "相驗與死因調查",
+   "屍體現象與死亡時間",
+   "死因與損傷"
+  ]
  },
  {
   "id": "cpu-111-cinvp-31",
@@ -3054,7 +3691,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-111-cinvp-32",
@@ -3095,7 +3736,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "證據法則",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "現行犯逮捕",
+   "指認程序"
+  ]
  },
  {
   "id": "cpu-111-cinvp-33",
@@ -3138,7 +3788,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -3150,7 +3803,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "現場勘察與重建",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-111-cinvp-34",
@@ -3198,7 +3859,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 8,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -3210,7 +3874,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "證據法則"
+  ],
+  "topicDetails": [
+   "無票搜索",
+   "扣押與發還",
+   "證人與詰問"
+  ]
  },
  {
   "id": "cpu-111-cinvp-35",
@@ -3251,7 +3926,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "證人與詰問"
+  ]
  },
  {
   "id": "cpu-111-cinvp-36",
@@ -3292,7 +3973,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場封鎖與保全"
+  ]
  },
  {
   "id": "cpu-111-cinvp-37",
@@ -3341,7 +4028,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 8,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -3353,7 +4043,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "證據法則",
+   "審判與救濟",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "違法取證與證據排除",
+   "自白與不正訊問",
+   "證人與詰問",
+   "鑑定與勘驗",
+   "人身自由與正當程序"
+  ]
  },
  {
   "id": "cpu-111-cinvp-38",
@@ -3394,7 +4097,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": [
+   "查證身分的要件"
+  ]
  },
  {
   "id": "cpu-111-cinvp-39",
@@ -3435,7 +4144,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "人身犯罪",
+   "拘提逮捕與通緝",
+   "證據法則"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "殺人罪",
+   "拘提與緊急拘提",
+   "證人與詰問"
+  ]
  },
  {
   "id": "cpu-111-cinvp-40",
@@ -3479,7 +4200,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-112-cinvp-01",
@@ -3524,7 +4249,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 7,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -3536,7 +4264,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "告訴告發與受理報案"
+  ],
+  "topicDetails": [
+   "自首與自白減刑",
+   "自白與不正訊問",
+   "告發與自訴"
+  ]
  },
  {
   "id": "cpu-112-cinvp-02",
@@ -3587,6 +4326,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -3600,7 +4342,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺"
+  ]
  },
  {
   "id": "cpu-112-cinvp-03",
@@ -3637,7 +4385,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "cpu-112-cinvp-04",
@@ -3674,7 +4430,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場紀錄與測繪"
+  ]
  },
  {
   "id": "cpu-112-cinvp-05",
@@ -3719,7 +4481,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 7,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -3731,7 +4496,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "偵查原則與偵查不公開",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "有票搜索",
+   "無票搜索",
+   "扣押與發還",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-112-cinvp-06",
@@ -3768,7 +4545,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "跟蹤騷擾"
+  ]
  },
  {
   "id": "cpu-112-cinvp-07",
@@ -3810,6 +4593,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -3823,7 +4609,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "財產犯罪",
+   "拘提逮捕與通緝",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "勤務指揮與聯防",
+   "詢問與筆錄製作",
+   "詐欺集團偵查"
+  ]
  },
  {
   "id": "cpu-112-cinvp-08",
@@ -3860,7 +4658,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "cpu-112-cinvp-09",
@@ -3897,7 +4701,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-112-cinvp-10",
@@ -3934,7 +4742,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-112-cinvp-11",
@@ -3976,6 +4791,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
     }
@@ -3989,7 +4807,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "洗錢防制",
+   "金流追查與虛擬通貨"
+  ]
  },
  {
   "id": "cpu-112-cinvp-12",
@@ -4032,7 +4857,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "刑事訴訟法",
@@ -4049,7 +4877,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 7,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "社會秩序維護法",
@@ -4061,7 +4892,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -4073,7 +4907,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護",
+   "社會秩序維護法"
+  ],
+  "topicDetails": [
+   "警察職權行使法的資料蒐集",
+   "個人資料保護"
+  ]
  },
  {
   "id": "cpu-112-cinvp-13",
@@ -4110,7 +4952,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-112-cinvp-14",
@@ -4152,6 +4998,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -4165,7 +5014,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-112-cinvp-15",
@@ -4202,7 +5055,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案"
+  ],
+  "topicDetails": [
+   "告訴乃論與告訴期間"
+  ]
  },
  {
   "id": "cpu-112-cinvp-16",
@@ -4239,7 +5098,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-112-cinvp-17",
@@ -4264,7 +5127,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "低",
    "laws": [
     "刑事訴訟法"
    ],
@@ -4282,9 +5145,14 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 7,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 95 條"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     }
    ]
   },
@@ -4296,7 +5164,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "偵查犯罪手冊與刑案分類",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-112-cinvp-18",
@@ -4333,7 +5212,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "現場封鎖與保全"
+  ]
  },
  {
   "id": "cpu-112-cinvp-19",
@@ -4370,7 +5257,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "cpu-112-cinvp-20",
@@ -4413,6 +5306,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
     },
@@ -4428,6 +5324,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -4441,7 +5340,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "財產犯罪",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "沒收新制",
+   "竊盜與加重竊盜",
+   "強盜與搶奪",
+   "詐欺與加重詐欺",
+   "恐嚇取財與擄人勒贖",
+   "洗錢防制"
+  ]
  },
  {
   "id": "cpu-112-cinvp-21",
@@ -4481,7 +5393,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "緘默權與辯護權",
+   "偵查不公開"
+  ]
  },
  {
   "id": "cpu-112-cinvp-22",
@@ -4522,7 +5442,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-112-cinvp-23",
@@ -4561,7 +5488,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "血跡與體液檢驗",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "cpu-112-cinvp-24",
@@ -4601,7 +5538,21 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "證據法則",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "拘提與緊急拘提",
+   "緘默權與辯護權",
+   "證人與詰問",
+   "指認程序",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-112-cinvp-25",
@@ -4641,7 +5592,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-112-cinvp-26",
@@ -4681,7 +5636,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "偽造與妨害自由名譽",
+   "偵查原則與偵查不公開",
+   "刑案現場處理",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "偵查的發動與計畫",
+   "犯罪剖繪與犯罪心理"
+  ]
  },
  {
   "id": "cpu-112-cinvp-27",
@@ -4725,7 +5690,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -4737,7 +5705,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "通信紀錄調取",
+   "定位與數位追蹤",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-112-cinvp-28",
@@ -4778,7 +5755,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "現場紀錄與測繪",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-112-cinvp-29",
@@ -4819,7 +5804,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-112-cinvp-30",
@@ -4859,7 +5852,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-112-cinvp-31",
@@ -4899,7 +5898,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "指認程序"
+  ]
  },
  {
   "id": "cpu-112-cinvp-32",
@@ -4941,7 +5946,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -4953,7 +5961,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-112-cinvp-33",
@@ -4992,7 +6008,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "放火與爆炸"
+  ]
  },
  {
   "id": "cpu-112-cinvp-34",
@@ -5032,7 +6054,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "犯罪剖繪與犯罪心理"
+  ]
  },
  {
   "id": "cpu-112-cinvp-35",
@@ -5072,7 +6100,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-112-cinvp-36",
@@ -5112,7 +6144,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "人身犯罪",
+   "偽造與妨害自由名譽"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "侵占與背信",
+   "傷害罪"
+  ]
  },
  {
   "id": "cpu-112-cinvp-37",
@@ -5152,7 +6194,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "cpu-112-cinvp-38",
@@ -5193,7 +6241,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "未遂與中止",
+   "審判與救濟",
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-112-cinvp-39",
@@ -5233,7 +6287,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "身分查證與臨檢",
+   "警察組織與職權",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "治安顧慮人口查訪",
+   "警察機關的組織與層級",
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu-112-cinvp-40",
@@ -5261,7 +6327,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "刑事訴訟法",
     "通訊保障及監察法"
@@ -5282,7 +6348,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 7,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "通訊保障及監察法",
@@ -5292,9 +6361,21 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 5 條"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 5 條",
+       "modifiedAt": [
+        "113-07-31"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -5306,7 +6387,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查",
+   "證據法則"
+  ],
+  "topicDetails": [
+   "通訊監察書"
+  ]
  },
  {
   "id": "cpu-113-cinvp-01",
@@ -5343,7 +6431,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "cpu-113-cinvp-02",
@@ -5380,7 +6474,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA",
+   "文書數位與法醫鑑識",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗",
+   "屍體現象與死亡時間",
+   "犯罪剖繪與犯罪心理"
+  ]
  },
  {
   "id": "cpu-113-cinvp-03",
@@ -5417,7 +6521,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "資料蒐集與個資保護",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "DNA 與生物資料庫",
+   "DNA 型別與比對",
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "cpu-113-cinvp-04",
@@ -5454,7 +6569,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "cpu-113-cinvp-05",
@@ -5491,7 +6615,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "相驗與死因調查"
+  ]
  },
  {
   "id": "cpu-113-cinvp-06",
@@ -5528,7 +6658,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-113-cinvp-07",
@@ -5571,7 +6705,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "詐欺犯罪危害防制條例",
@@ -5585,6 +6722,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -5598,7 +6738,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "搜索與扣押",
+   "偵查原則與偵查不公開",
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "有票搜索",
+   "無票搜索",
+   "偵查的發動與計畫",
+   "詐欺集團偵查"
+  ]
  },
  {
   "id": "cpu-113-cinvp-08",
@@ -5643,7 +6796,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 6,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -5655,7 +6811,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "競合與罪數",
+   "生物跡證與DNA",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "廢除前的連續犯與牽連犯",
+   "DNA 型別與比對",
+   "犯罪剖繪與犯罪心理"
+  ]
  },
  {
   "id": "cpu-113-cinvp-09",
@@ -5692,7 +6858,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-113-cinvp-10",
@@ -5729,7 +6899,12 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-113-cinvp-11",
@@ -5766,7 +6941,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-113-cinvp-12",
@@ -5803,7 +6985,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押"
+  ],
+  "topicDetails": [
+   "扣押與發還"
+  ]
  },
  {
   "id": "cpu-113-cinvp-13",
@@ -5840,7 +7028,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-113-cinvp-14",
@@ -5877,7 +7069,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-113-cinvp-15",
@@ -5917,7 +7117,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -5929,7 +7132,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "個人資料保護"
+  ]
  },
  {
   "id": "cpu-113-cinvp-16",
@@ -5971,6 +7180,9 @@
      "level": "中",
      "changeCount": 1,
      "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
     },
@@ -5986,6 +7198,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -5999,7 +7214,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "洗錢防制",
+   "金流追查與虛擬通貨"
+  ]
  },
  {
   "id": "cpu-113-cinvp-17",
@@ -6036,7 +7258,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "數位鑑識"
+  ]
  },
  {
   "id": "cpu-113-cinvp-18",
@@ -6073,7 +7301,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查"
+  ],
+  "topicDetails": [
+   "通信紀錄調取"
+  ]
  },
  {
   "id": "cpu-113-cinvp-19",
@@ -6110,7 +7344,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-113-cinvp-20",
@@ -6147,7 +7385,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "起訴與不起訴",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "緩起訴與職權不起訴",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-113-cinvp-21",
@@ -6188,7 +7436,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "行政程序與行政罰",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "行政處分與程序",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-113-cinvp-22",
@@ -6227,7 +7484,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "cpu-113-cinvp-23",
@@ -6274,6 +7537,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -6287,7 +7553,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "詐欺與加重詐欺",
+   "妨害性自主"
+  ]
  },
  {
   "id": "cpu-113-cinvp-24",
@@ -6325,7 +7600,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "cpu-113-cinvp-25",
@@ -6366,7 +7647,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "cpu-113-cinvp-26",
@@ -6405,7 +7693,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "起訴與不起訴",
+   "資料蒐集與個資保護",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 與生物資料庫",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "cpu-113-cinvp-27",
@@ -6444,7 +7741,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "偵查原則與偵查不公開",
+   "刑案現場處理",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "DNA 型別與比對",
+   "數位鑑識"
+  ]
  },
  {
   "id": "cpu-113-cinvp-28",
@@ -6484,7 +7792,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-113-cinvp-29",
@@ -6525,7 +7837,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "數位鑑識"
+  ]
  },
  {
   "id": "cpu-113-cinvp-30",
@@ -6567,7 +7885,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "現場紀錄與測繪",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-113-cinvp-31",
@@ -6607,7 +7933,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案",
+   "司法警察職權與移送",
+   "勤務規劃與督導",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "受理報案",
+   "偵查犯罪手冊與刑案分類",
+   "勤務指揮與聯防",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-113-cinvp-32",
@@ -6647,7 +7985,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "拘提逮捕與通緝",
+   "證據法則",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "自首與自白減刑",
+   "通緝與解送",
+   "自白與不正訊問",
+   "鑑定與勘驗",
+   "偵查不公開"
+  ]
  },
  {
   "id": "cpu-113-cinvp-33",
@@ -6688,7 +8039,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "偵查的發動與計畫",
+   "偵查犯罪手冊與刑案分類",
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "cpu-113-cinvp-34",
@@ -6735,6 +8096,9 @@
      "level": "中",
      "changeCount": 1,
      "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
     },
@@ -6750,6 +8114,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -6763,7 +8130,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "詐欺集團偵查",
+   "洗錢防制"
+  ]
  },
  {
   "id": "cpu-113-cinvp-35",
@@ -6808,6 +8184,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -6821,7 +8200,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "詐欺集團偵查"
+  ]
  },
  {
   "id": "cpu-113-cinvp-36",
@@ -6849,7 +8236,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "低",
    "laws": [
     "中華民國刑法"
    ],
@@ -6867,9 +8254,14 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 6,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 235 條"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     }
    ]
   },
@@ -6881,7 +8273,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "現場封鎖與保全"
+  ]
  },
  {
   "id": "cpu-113-cinvp-37",
@@ -6925,6 +8325,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -6938,7 +8341,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "詐欺集團偵查"
+  ]
  },
  {
   "id": "cpu-113-cinvp-38",
@@ -6984,6 +8393,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -6997,7 +8409,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "刑案現場處理",
+   "文書數位與法醫鑑識",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "數位鑑識",
+   "詢問與筆錄製作",
+   "詐欺集團偵查"
+  ]
  },
  {
   "id": "cpu-113-cinvp-39",
@@ -7039,7 +8463,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -7051,7 +8478,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-113-cinvp-40",
@@ -7092,7 +8523,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "拘提逮捕與通緝",
+   "證據法則",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "治安顧慮人口查訪"
+  ]
  },
  {
   "id": "cpu-114-cinvp-01",
@@ -7129,7 +8570,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "cpu-114-cinvp-02",
@@ -7166,7 +8613,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "警察職權行使法的資料蒐集"
+  ]
  },
  {
   "id": "cpu-114-cinvp-03",
@@ -7203,7 +8657,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "cpu-114-cinvp-04",
@@ -7240,7 +8702,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "毒品與槍砲",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "槍砲彈藥刀械",
+   "證人保護與人口販運"
+  ]
  },
  {
   "id": "cpu-114-cinvp-05",
@@ -7277,7 +8747,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "cpu-114-cinvp-06",
@@ -7314,7 +8790,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-114-cinvp-07",
@@ -7351,7 +8835,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "cpu-114-cinvp-08",
@@ -7388,7 +8878,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "cpu-114-cinvp-09",
@@ -7425,7 +8921,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-cinvp-10",
@@ -7462,7 +8962,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "cpu-114-cinvp-11",
@@ -7499,7 +9005,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現行犯逮捕",
+   "現場封鎖與保全"
+  ]
  },
  {
   "id": "cpu-114-cinvp-12",
@@ -7536,7 +9050,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-cinvp-13",
@@ -7573,7 +9091,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "洗錢防制",
+   "金流追查與虛擬通貨"
+  ]
  },
  {
   "id": "cpu-114-cinvp-14",
@@ -7610,7 +9135,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "cpu-114-cinvp-15",
@@ -7647,7 +9178,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-cinvp-16",
@@ -7684,7 +9219,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場紀錄與測繪"
+  ]
  },
  {
   "id": "cpu-114-cinvp-17",
@@ -7721,7 +9262,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "cpu-114-cinvp-18",
@@ -7758,7 +9305,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "身分查證與臨檢",
+   "資料蒐集與個資保護",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "查證身分的要件",
+   "DNA 與生物資料庫",
+   "指紋採驗與顯現",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "cpu-114-cinvp-19",
@@ -7795,7 +9355,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "偵查原則與偵查不公開",
+   "身分查證與臨檢",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "偵查的發動與計畫",
+   "現場封鎖與保全"
+  ]
  },
  {
   "id": "cpu-114-cinvp-20",
@@ -7832,7 +9403,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-114-cinvp-21",
@@ -7872,7 +9453,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "cpu-114-cinvp-22",
@@ -7913,7 +9500,10 @@
      "matched": "關鍵詞",
      "level": "高",
      "changeCount": 0,
-     "lastChange": "廢止"
+     "lastChange": "廢止",
+     "citedArticles": [],
+     "articleMatch": "法規已廢止",
+     "matchedArticles": []
     },
     {
      "law": "社會秩序維護法",
@@ -7925,7 +9515,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -7937,7 +9530,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "社會秩序維護法",
+   "行政程序與行政罰",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "救濟途徑",
+   "證人保護與人口販運"
+  ]
  },
  {
   "id": "cpu-114-cinvp-23",
@@ -7976,7 +9580,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-114-cinvp-24",
@@ -8017,7 +9628,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu-114-cinvp-25",
@@ -8056,7 +9673,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "放火與爆炸"
+  ]
  },
  {
   "id": "cpu-114-cinvp-26",
@@ -8096,7 +9719,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-cinvp-27",
@@ -8138,7 +9765,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "財產犯罪",
+   "拘提逮捕與通緝",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "贓物與電腦犯罪"
+  ]
  },
  {
   "id": "cpu-114-cinvp-28",
@@ -8177,7 +9813,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查",
+   "組織犯罪與治安顧慮",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "表意自由"
+  ]
  },
  {
   "id": "cpu-114-cinvp-29",
@@ -8216,7 +9860,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "數位鑑識"
+  ]
  },
  {
   "id": "cpu-114-cinvp-30",
@@ -8256,7 +9906,12 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "羈押與強制處分",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-cinvp-31",
@@ -8299,7 +9954,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -8311,7 +9969,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查",
+   "證據法則"
+  ],
+  "topicDetails": [
+   "通訊監察書",
+   "通信紀錄調取"
+  ]
  },
  {
   "id": "cpu-114-cinvp-32",
@@ -8352,7 +10018,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-cinvp-33",
@@ -8392,7 +10062,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "犯罪剖繪與犯罪心理"
+  ]
  },
  {
   "id": "cpu-114-cinvp-34",
@@ -8431,7 +10108,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-cinvp-35",
@@ -8471,7 +10152,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "足跡與工具痕跡",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "cpu-114-cinvp-36",
@@ -8512,7 +10201,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "審判與救濟",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "cpu-114-cinvp-37",
@@ -8553,7 +10249,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "cpu-114-cinvp-38",
@@ -8594,7 +10298,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "證人與詰問"
+  ]
  },
  {
   "id": "cpu-114-cinvp-39",
@@ -8634,7 +10344,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "放火與爆炸",
+   "證物保管與監管鏈"
+  ]
  },
  {
   "id": "cpu-114-cinvp-40",
@@ -8673,7 +10391,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "偵查原則與偵查不公開",
+   "生物跡證與DNA",
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "毛髮與纖維",
+   "文書與筆跡鑑識"
+  ]
  },
  {
   "id": "cpu-115-cinvp-01",
@@ -8698,7 +10427,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "低",
    "laws": [
     "中華民國刑法"
    ],
@@ -8712,9 +10441,14 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 309 條"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     }
    ]
   },
@@ -8726,7 +10460,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "偽造與妨害自由名譽",
+   "拘提逮捕與通緝",
+   "身分查證與臨檢",
+   "集會遊行"
+  ],
+  "topicDetails": [
+   "妨害名譽與秘密",
+   "現場處理與解散"
+  ]
  },
  {
   "id": "cpu-115-cinvp-02",
@@ -8763,7 +10507,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-115-cinvp-03",
@@ -8800,7 +10552,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "金流追查與虛擬通貨"
+  ]
  },
  {
   "id": "cpu-115-cinvp-04",
@@ -8837,7 +10595,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "通訊監察與科技偵查",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "定位與數位追蹤",
+   "司法警察的身分與職權",
+   "官職分立與陞遷"
+  ]
  },
  {
   "id": "cpu-115-cinvp-05",
@@ -8874,7 +10644,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "財產犯罪",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "沒收新制",
+   "詐欺與加重詐欺",
+   "洗錢防制"
+  ]
  },
  {
   "id": "cpu-115-cinvp-06",
@@ -8914,7 +10694,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -8926,7 +10709,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "通訊監察與科技偵查",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "通信紀錄調取"
+  ]
  },
  {
   "id": "cpu-115-cinvp-07",
@@ -8963,7 +10755,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "集會遊行",
+   "行政程序與行政罰",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "現場處理與解散",
+   "行政處分與程序",
+   "救濟途徑",
+   "洗錢防制"
+  ]
  },
  {
   "id": "cpu-115-cinvp-08",
@@ -9000,7 +10803,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜"
+  ]
  },
  {
   "id": "cpu-115-cinvp-09",
@@ -9037,7 +10846,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類"
+  ]
  },
  {
   "id": "cpu-115-cinvp-10",
@@ -9071,7 +10887,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺"
+  ]
  },
  {
   "id": "cpu-115-cinvp-11",
@@ -9108,7 +10931,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "司法警察職權與移送",
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "警察職權行使法的資料蒐集"
+  ]
  },
  {
   "id": "cpu-115-cinvp-12",
@@ -9145,7 +10978,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "行政程序與行政罰",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "行政處分與程序",
+   "行政法的一般原則",
+   "基本權的限制"
+  ]
  },
  {
   "id": "cpu-115-cinvp-13",
@@ -9185,7 +11029,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -9197,7 +11044,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "有票搜索",
+   "無票搜索",
+   "扣押與發還",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-115-cinvp-14",
@@ -9234,7 +11091,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "指紋與痕跡鑑識",
+   "偵訊與訪談技巧",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "指紋採驗與顯現",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-115-cinvp-15",
@@ -9271,7 +11139,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "詐欺集團偵查",
+   "洗錢防制",
+   "金流追查與虛擬通貨"
+  ]
  },
  {
   "id": "cpu-115-cinvp-16",
@@ -9308,7 +11186,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "司法警察職權與移送",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-115-cinvp-17",
@@ -9345,7 +11232,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-115-cinvp-18",
@@ -9382,7 +11273,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "兒少性剝削與兒少保護",
+   "數位鑑識"
+  ]
  },
  {
   "id": "cpu-115-cinvp-19",
@@ -9419,7 +11318,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-115-cinvp-20",
@@ -9456,7 +11359,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "人身犯罪",
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "傷害罪",
+   "現場封鎖與保全",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "cpu-115-cinvp-21",
@@ -9496,7 +11409,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "洗錢防制",
+   "金流追查與虛擬通貨"
+  ]
  },
  {
   "id": "cpu-115-cinvp-22",
@@ -9536,7 +11456,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-115-cinvp-23",
@@ -9575,7 +11499,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "勤務規劃與督導",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-115-cinvp-24",
@@ -9616,7 +11549,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "金流追查與虛擬通貨"
+  ]
  },
  {
   "id": "cpu-115-cinvp-25",
@@ -9657,7 +11598,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "詐欺與加重詐欺",
+   "金流追查與虛擬通貨"
+  ]
  },
  {
   "id": "cpu-115-cinvp-26",
@@ -9698,7 +11648,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "競合與罪數",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "實質競合與罪數",
+   "偵查犯罪手冊與刑案分類"
+  ]
  },
  {
   "id": "cpu-115-cinvp-27",
@@ -9738,7 +11697,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "偵訊與訪談技巧",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "詢問與筆錄製作",
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "cpu-115-cinvp-28",
@@ -9778,7 +11747,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "資料蒐集與個資保護",
+   "行政程序與行政罰",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "警察職權行使法的資料蒐集",
+   "行政法的一般原則",
+   "基本權的限制"
+  ]
  },
  {
   "id": "cpu-115-cinvp-29",
@@ -9818,7 +11798,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "警械使用",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "用槍時機",
+   "少年事件處理"
+  ]
  },
  {
   "id": "cpu-115-cinvp-30",
@@ -9859,7 +11849,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "告訴告發與受理報案",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "告訴乃論與告訴期間",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-115-cinvp-31",
@@ -9886,7 +11885,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "低",
    "laws": [
     "刑事訴訟法"
    ],
@@ -9899,9 +11898,14 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 88 條之 1"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     }
    ]
   },
@@ -9913,7 +11917,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "緘默權與辯護權",
+   "用槍時機",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-115-cinvp-32",
@@ -9954,7 +11970,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "資料蒐集與個資保護",
+   "刑案現場處理",
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "現場勘察與重建",
+   "影像與聲紋鑑識"
+  ]
  },
  {
   "id": "cpu-115-cinvp-33",
@@ -9995,7 +12021,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "財產犯罪",
+   "證據法則",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "緘默權與辯護權",
+   "詢問與筆錄製作",
+   "立法院與監察院"
+  ]
  },
  {
   "id": "cpu-115-cinvp-34",
@@ -10037,7 +12075,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -10049,7 +12090,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "無票搜索",
+   "扣押與發還",
+   "拘提與緊急拘提",
+   "少年事件處理"
+  ]
  },
  {
   "id": "cpu-115-cinvp-35",
@@ -10088,7 +12141,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-115-cinvp-36",
@@ -10128,7 +12185,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "通訊監察與科技偵查",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "恐嚇取財與擄人勒贖",
+   "定位與數位追蹤",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-115-cinvp-37",
@@ -10168,7 +12235,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "刑案現場處理",
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "證物保管與監管鏈",
+   "數位鑑識"
+  ]
  },
  {
   "id": "cpu-115-cinvp-38",
@@ -10208,7 +12284,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "詐欺集團偵查"
+  ]
  },
  {
   "id": "cpu-115-cinvp-39",
@@ -10252,7 +12336,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "證據法則",
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "鑑定與勘驗",
+   "指紋採驗與顯現",
+   "血跡與體液檢驗",
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "cpu-115-cinvp-40",
@@ -10294,6 +12391,12 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案"
+  ],
+  "topicDetails": [
+   "告訴乃論與告訴期間"
+  ]
  }
 ]

@@ -1054,3 +1054,105 @@ input[type="search"] {
   font-size: 0.86rem;
   color: var(--text-sub);
 }
+
+/* ===================================================================
+ * 弱點分析與申論考點統計
+ * =================================================================== */
+
+/* 一列統計：名稱＋數字＋強弱長條 */
+.stat-line {
+  display: block;
+  width: 100%;
+  padding: 0.7rem 0.9rem;
+  margin-bottom: 0.5rem;
+  text-align: left;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.stat-line-clickable {
+  min-height: 52px;
+  border-color: var(--border-strong);
+  cursor: pointer;
+}
+
+.stat-line-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.6rem;
+  margin-bottom: 0.35rem;
+}
+
+.stat-line-name {
+  font-size: 0.96rem;
+  font-weight: 600;
+}
+
+.stat-line-rate {
+  flex: 0 0 auto;
+  font-size: 0.96rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* 強弱用低飽和的三段色，不要紅綠燈那種刺眼對比 */
+.rate-low { color: var(--ng); }
+.rate-mid { color: var(--warn); }
+.rate-high { color: var(--ok); }
+.rate-none { color: var(--text-sub); }
+
+.stat-bar {
+  height: 6px;
+  margin-bottom: 0.4rem;
+  background: #efebe4;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.stat-bar-fill {
+  height: 100%;
+  border-radius: 999px;
+  background: var(--text-sub);
+}
+
+.stat-bar-fill.rate-low { background: var(--ng); }
+.stat-bar-fill.rate-mid { background: var(--warn); }
+.stat-bar-fill.rate-high { background: var(--ok); }
+
+.stat-line-note {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--text-sub);
+  line-height: 1.7;
+}
+
+/* 「只刷過 3 題，參考價值低」——這行很重要，不可以讓他被統計假象嚇到 */
+.stat-line-warn {
+  display: inline-block;
+  margin-top: 0.3rem;
+  padding: 0.05rem 0.5rem;
+  font-size: 0.78rem;
+  color: var(--warn);
+  background: var(--warn-bg);
+  border: 1px solid var(--warn-border);
+  border-radius: 999px;
+}
+
+/* 申論考點的年度標籤列 */
+.year-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-bottom: 0.4rem;
+}
+
+.year-chip {
+  padding: 0.05rem 0.5rem;
+  font-size: 0.78rem;
+  color: var(--accent);
+  background: var(--accent-tint);
+  border-radius: 999px;
+  white-space: nowrap;
+}

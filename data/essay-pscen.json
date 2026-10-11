@@ -25,7 +25,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099910&c=103&s=11&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "有票搜索",
+   "通緝與解送"
+  ]
  },
  {
   "id": "moex-99-pscen-e02",
@@ -53,7 +62,15 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099910&c=103&s=11&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營",
+   "家戶訪查與查察對象"
+  ]
  },
  {
   "id": "moex-99-pscen-e03",
@@ -84,6 +101,9 @@
      "level": "中",
      "changeCount": 1,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
     }
@@ -98,7 +118,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=099910&c=103&s=11&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "身分查證與臨檢",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛",
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "moex-100-pscen-e01",
@@ -127,6 +156,9 @@
      "level": "中",
      "changeCount": 0,
      "lastChange": "",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
     }
@@ -141,7 +173,14 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=0905&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "moex-100-pscen-e02",
@@ -170,6 +209,9 @@
      "level": "中",
      "changeCount": 0,
      "lastChange": "",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
     }
@@ -184,7 +226,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=0905&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-100-pscen-e03",
@@ -212,7 +258,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=0905&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-101-pscen-e01",
@@ -240,7 +290,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1103&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "搜索與扣押"
+  ],
+  "topicDetails": [
+   "扣押與發還"
+  ]
  },
  {
   "id": "moex-101-pscen-e02",
@@ -268,7 +324,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1103&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-101-pscen-e03",
@@ -296,7 +356,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1103&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "證據法則",
+   "資料蒐集與個資保護",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "moex-102-pscen-e01",
@@ -325,6 +394,9 @@
      "level": "中",
      "changeCount": 0,
      "lastChange": "",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
     }
@@ -339,7 +411,15 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1003&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "身分查證與臨檢"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛",
+   "查證身分的要件"
+  ]
  },
  {
   "id": "moex-102-pscen-e02",
@@ -367,7 +447,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1003&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "moex-102-pscen-e03",
@@ -402,7 +491,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 5,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "警察職權行使法",
@@ -413,6 +505,9 @@
      "level": "中",
      "changeCount": 0,
      "lastChange": "",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
     }
@@ -427,7 +522,18 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1003&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "身分查證與臨檢",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "詢問與筆錄製作",
+   "施用毒品的處理"
+  ]
  },
  {
   "id": "moex-103-pscen-e01",
@@ -455,7 +561,14 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1003&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "選舉罷免與公民投票"
+  ]
  },
  {
   "id": "moex-103-pscen-e02",
@@ -483,7 +596,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1003&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "moex-103-pscen-e03",
@@ -511,7 +630,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1003&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "交通事故處理"
+  ]
  },
  {
   "id": "moex-104-pscen-e01",
@@ -539,7 +664,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=0903&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "moex-104-pscen-e02",
@@ -568,6 +699,9 @@
      "level": "中",
      "changeCount": 0,
      "lastChange": "",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
     }
@@ -582,7 +716,18 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=0903&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "身分查證與臨檢",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "通緝與解送",
+   "六種勤務方式",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "moex-104-pscen-e03",
@@ -610,7 +755,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=0903&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-105-pscen-e01",
@@ -637,7 +786,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=0903&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-105-pscen-e02",
@@ -664,7 +817,19 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=0903&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "勤務規劃與督導",
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "偵查的發動與計畫",
+   "勤務指揮與聯防",
+   "足跡與工具痕跡",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-105-pscen-e03",
@@ -691,7 +856,15 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=0903&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "偵訊與訪談技巧",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作",
+   "交通違規裁罰"
+  ]
  },
  {
   "id": "moex-106-pscen-e01",
@@ -718,7 +891,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1103&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": [
+   "攔停與帶往"
+  ]
  },
  {
   "id": "moex-106-pscen-e02",
@@ -745,7 +924,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1103&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "交通事故處理"
+  ]
  },
  {
   "id": "moex-106-pscen-e03",
@@ -772,7 +957,15 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1103&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "moex-107-pscen-e01",
@@ -803,7 +996,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -815,7 +1011,15 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=0904&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "moex-107-pscen-e02",
@@ -842,7 +1046,15 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=0904&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "勤務規劃與督導",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "勤前教育與督導",
+   "幫派調查"
+  ]
  },
  {
   "id": "moex-107-pscen-e03",
@@ -869,7 +1081,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=0904&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-108-pscen-e01",
@@ -896,7 +1112,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1204&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-108-pscen-e02",
@@ -923,7 +1143,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1204&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "偵查原則與偵查不公開",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "有票搜索",
+   "扣押與發還"
+  ]
  },
  {
   "id": "moex-108-pscen-e03",
@@ -950,7 +1179,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1204&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "moex-109-pscen-e01",
@@ -977,7 +1212,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1004&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": [
+   "攔停與帶往"
+  ]
  },
  {
   "id": "moex-109-pscen-e02",
@@ -1008,7 +1249,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1020,7 +1264,17 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1004&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "行政程序與行政罰",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令",
+   "行政處分與程序",
+   "六種勤務方式"
+  ]
  },
  {
   "id": "moex-109-pscen-e03",
@@ -1047,7 +1301,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1004&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-110-pscen-e01",
@@ -1077,7 +1335,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1089,7 +1350,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1204&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "社會秩序維護法"
+  ],
+  "topicDetails": [
+   "妨害善良風俗"
+  ]
  },
  {
   "id": "moex-110-pscen-e02",
@@ -1116,7 +1383,15 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1204&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "moex-110-pscen-e03",
@@ -1146,7 +1421,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1158,7 +1436,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1204&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "拘提逮捕與通緝",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "moex-111-pscen-e01",
@@ -1185,7 +1472,17 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1104&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "查證身分的要件",
+   "六種勤務方式",
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "moex-111-pscen-e02",
@@ -1212,7 +1509,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1104&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "指紋比對與特徵",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-111-pscen-e03",
@@ -1239,7 +1545,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1104&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": [
+   "攔停與帶往"
+  ]
  },
  {
   "id": "moex-112-pscen-e01",
@@ -1266,7 +1578,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1204&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-112-pscen-e02",
@@ -1293,7 +1609,17 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1204&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "身分查證與臨檢",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛",
+   "攔停與帶往",
+   "人身自由與正當程序"
+  ]
  },
  {
   "id": "moex-112-pscen-e03",
@@ -1320,7 +1646,15 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1204&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "告訴告發與受理報案"
+  ],
+  "topicDetails": [
+   "跟蹤騷擾",
+   "受理報案"
+  ]
  },
  {
   "id": "moex-113-pscen-e01",
@@ -1350,7 +1684,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1362,7 +1699,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=0904&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "社會秩序維護法",
+   "勤務方式與編排",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "moex-113-pscen-e02",
@@ -1389,7 +1735,15 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=0904&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "moex-113-pscen-e03",
@@ -1416,7 +1770,19 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=0904&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排",
+   "刑案現場處理",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "六種勤務方式",
+   "現場勘察與重建",
+   "交通事故處理"
+  ]
  },
  {
   "id": "moex-114-pscen-e01",
@@ -1446,7 +1812,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1458,7 +1827,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1004&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "人身犯罪",
+   "偵訊與訪談技巧",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "犯罪剖繪與犯罪心理",
+   "詐欺集團偵查"
+  ]
  },
  {
   "id": "moex-114-pscen-e02",
@@ -1485,7 +1863,21 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1004&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "司法警察職權與移送",
+   "審判與救濟",
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛",
+   "移送與報告",
+   "警察機關的組織與層級",
+   "六種勤務方式",
+   "交通違規裁罰",
+   "釋憲程序"
+  ]
  },
  {
   "id": "moex-114-pscen-e03",
@@ -1512,6 +1904,18 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1004&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "勤務規劃與督導",
+   "刑案現場處理",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "偵查的發動與計畫",
+   "勤務指揮與聯防",
+   "現場封鎖與保全",
+   "幫派調查"
+  ]
  }
 ]

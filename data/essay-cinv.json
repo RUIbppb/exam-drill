@@ -31,7 +31,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 4,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "詐欺犯罪危害防制條例",
@@ -45,6 +48,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -59,7 +65,15 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=1110&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "組織犯罪防制條例"
+  ]
  },
  {
   "id": "moex-100-cinv-e02",
@@ -87,7 +101,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=1110&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "犯罪剖繪與犯罪心理"
+  ]
  },
  {
   "id": "moex-101-cinv-e01",
@@ -115,7 +135,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1302&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "moex-101-cinv-e02",
@@ -143,7 +169,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1302&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-102-cinv-e01",
@@ -171,7 +201,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1202&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場封鎖與保全"
+  ]
  },
  {
   "id": "moex-102-cinv-e02",
@@ -199,7 +235,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1202&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "證人與詰問"
+  ]
  },
  {
   "id": "moex-103-cinv-e01",
@@ -227,7 +269,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1202&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "財產犯罪"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜"
+  ]
  },
  {
   "id": "moex-103-cinv-e02",
@@ -256,6 +304,9 @@
      "level": "中",
      "changeCount": 0,
      "lastChange": "",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "臨檢盤查相關題目的標準作業程序已與早年不同"
     }
@@ -270,7 +321,15 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1202&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務規劃與督導",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "moex-104-cinv-e01",
@@ -298,7 +357,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1102&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "財產犯罪"
+  ],
+  "topicDetails": [
+   "恐嚇取財與擄人勒贖"
+  ]
  },
  {
   "id": "moex-104-cinv-e02",
@@ -326,7 +391,14 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1102&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作",
+   "偵訊策略"
+  ]
  },
  {
   "id": "moex-105-cinv-e01",
@@ -358,6 +430,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -371,7 +446,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1102&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "財產犯罪"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺"
+  ]
  },
  {
   "id": "moex-105-cinv-e02",
@@ -386,7 +467,7 @@
   "points": 25,
   "stem": "關於因調查犯罪情形及蒐集證據實施搜索之偵查作為，請回答下列問題：\n①依據刑事訴訟法第122條，對於被告、犯罪嫌疑人與第三人之搜索，其發動門檻（要件）有何差別？（5分）\n②附帶搜索（第130條）與同意搜索（第131條之1）在實施時機、要件及實施範圍上的差別？（10分）\n③依據警察偵查犯罪手冊，實施搜索應注意那些事項？（10分）",
   "staleRisk": {
-   "level": "中",
+   "level": "低",
    "laws": [
     "刑事訴訟法"
    ],
@@ -404,11 +485,16 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 19,
      "lastChange": "修正",
-     "manual": true,
-     "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
+     "citedArticles": [
+      "第 122 條",
+      "第 130 條",
+      "第 131 條之 1"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     }
    ]
   },
@@ -420,7 +506,17 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1102&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "無票搜索",
+   "偵查的發動與計畫",
+   "偵查犯罪手冊與刑案分類"
+  ]
  },
  {
   "id": "moex-106-cinv-e01",
@@ -447,7 +543,14 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1302&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類"
+  ]
  },
  {
   "id": "moex-106-cinv-e02",
@@ -474,7 +577,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1302&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "自白與不正訊問",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "moex-107-cinv-e01",
@@ -501,7 +613,14 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1103&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "移送與報告",
+   "偵查犯罪手冊與刑案分類"
+  ]
  },
  {
   "id": "moex-107-cinv-e02",
@@ -536,7 +655,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 16,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -548,7 +670,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1103&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-108-cinv-e01",
@@ -563,7 +691,7 @@
   "points": 25,
   "stem": "刑事訴訟法第245條規定：偵查，不公開之。依據108年3月15日修正發布之偵查不公開作業辦法，請說明：（25分）\n①偵查不公開之目的？（第2條）\n②案件在偵查中，絕對禁止事項？（第9條）\n③那些情形之下，經審酌公共利益之維護或合法權益之保護，認有必要時，偵查機關或偵查輔助機關得適度公開或揭露偵查程序或偵查內容？（第8條）",
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "刑事訴訟法"
    ],
@@ -581,9 +709,24 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 14,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 2 條",
+      "第 8 條",
+      "第 9 條",
+      "第 245 條"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 245 條",
+       "modifiedAt": [
+        "113-07-31"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -595,7 +738,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1403&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "偵查不公開"
+  ]
  },
  {
   "id": "moex-108-cinv-e02",
@@ -622,7 +771,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1403&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-109-cinv-e01",
@@ -657,7 +810,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 10,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -669,7 +825,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1203&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "偵查犯罪手冊與刑案分類"
+  ]
  },
  {
   "id": "moex-109-cinv-e02",
@@ -701,6 +866,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -714,7 +882,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1203&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "恐嚇取財與擄人勒贖",
+   "詐欺集團偵查"
+  ]
  },
  {
   "id": "moex-110-cinv-e01",
@@ -741,7 +918,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1403&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-110-cinv-e02",
@@ -768,7 +949,17 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1403&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "指認程序",
+   "偵查犯罪手冊與刑案分類"
+  ]
  },
  {
   "id": "moex-111-cinv-e01",
@@ -795,7 +986,15 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1303&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "偵查的發動與計畫",
+   "偵查犯罪手冊與刑案分類"
+  ]
  },
  {
   "id": "moex-111-cinv-e02",
@@ -822,7 +1021,17 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1303&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "資料蒐集與個資保護",
+   "勤務規劃與督導",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "偵查的發動與計畫",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "moex-112-cinv-e01",
@@ -849,7 +1058,14 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1403&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類"
+  ]
  },
  {
   "id": "moex-112-cinv-e02",
@@ -876,7 +1092,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1403&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類"
+  ]
  },
  {
   "id": "moex-113-cinv-e01",
@@ -903,7 +1125,19 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1103&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "通緝與解送",
+   "司法警察的身分與職權",
+   "偵查犯罪手冊與刑案分類",
+   "官職分立與陞遷"
+  ]
  },
  {
   "id": "moex-113-cinv-e02",
@@ -930,7 +1164,17 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1103&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "警察人事與風紀",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "司法警察的身分與職權",
+   "官職分立與陞遷",
+   "少年事件處理"
+  ]
  },
  {
   "id": "moex-114-cinv-e01",
@@ -957,7 +1201,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1204&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "詐欺洗錢與財經犯罪",
+   "毒品與槍砲",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "洗錢防制",
+   "組織犯罪防制條例"
+  ]
  },
  {
   "id": "moex-114-cinv-e02",
@@ -984,6 +1237,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1204&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "移送與報告",
+   "偵查犯罪手冊與刑案分類"
+  ]
  }
 ]

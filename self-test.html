@@ -884,6 +884,237 @@
     assertSame(PQPure.userStaleNotice(progress, 'q2'), null);
   });
 
+  /* ---------- 情境：弱點分析（主題與科目統計） ---------- */
+
+  group('弱點分析');
+
+  function tq(id, subject, topics, year) {
+    return { id: id, subject: subject, topics: topics, year: year || 113, type: 'single',
+      options: { A: '1', B: '2', C: '3', D: '4' }, answers: [['A']] };
+  }
+
+  // 四題：兩題證據法則、兩題搜索扣押（其中一題兩個主題都掛）、一題沒標籤
+  var TOPIC_QUESTIONS = [
+    tq('q1', '刑法及刑事訴訟法', ['證據法則']),
+    tq('q2', '刑法及刑事訴訟法', ['證據法則', '搜索扣押']),
+    tq('q3', '刑法及刑事訴訟法', ['搜索扣押']),
+    tq('q4', '警察法規', []),
+    tq('q5', '警察法規', ['集會遊行'])
+  ];
+
+  var TOPIC_PROGRESS = {
+    questions: {
+      q1: { correctCount: 0, wrongCount: 3, streak: 0, lastAnsweredAt: '2026-10-01' },
+      q2: { correctCount: 1, wrongCount: 1, streak: 1, lastAnsweredAt: '2026-10-02' },
+      q3: { correctCount: 4, wrongCount: 0, streak: 4, lastAnsweredAt: '2026-10-03' },
+      q4: { correctCount: 2, wrongCount: 2, streak: 0, lastAnsweredAt: '2026-10-04' }
+      // q5 沒刷過
+    }
+  };
+
+  test('沒標主題的題目歸「未分類」，不會消失', function () {
+    assertSame(PQPure.topicsOf({ topics: [] }), ['未分類']);
+    assertSame(PQPure.topicsOf({}), ['未分類']);
+    assertSame(PQPure.topicsOf({ topics: ['證據法則'] }), ['證據法則']);
+    assertSame(PQPure.topicsOf({ topics: ['', '  ', '搜索扣押'] }), ['搜索扣押']);
+    var rows = PQPure.topicStats(TOPIC_QUESTIONS, TOPIC_PROGRESS);
+    var names = rows.map(function (r) { return r.topic; }).sort();
+    assertSame(names, ['集會遊行', '搜索扣押', '未分類', '證據法則'].sort());
+  });
+
+  test('一題掛兩個主題時兩邊都算', function () {
+    var rows = PQPure.topicStats(TOPIC_QUESTIONS, TOPIC_PROGRESS);
+    var find = function (name) {
+      return rows.filter(function (r) { return r.topic === name; })[0];
+    };
+    assertSame(find('證據法則').total, 2);      // q1、q2
+    assertSame(find('搜索扣押').total, 2);      // q2、q3
+  });
+
+  test('答對率算得對', function () {
+    var rows = PQPure.topicStats(TOPIC_QUESTIONS, TOPIC_PROGRESS);
+    var find = function (name) {
+      return rows.filter(function (r) { return r.topic === name; })[0];
+    };
+    // 證據法則：q1 對0錯3、q2 對1錯1 → 共作答 5 次、對 1 次 = 20%
+    assertSame([find('證據法則').times, find('證據法則').correct, find('證據法則').accuracy], [5, 1, 20]);
+    // 搜索扣押：q2 對1錯1、q3 對4錯0 → 共 6 次、對 5 次 = 83%
+    assertSame([find('搜索扣押').times, find('搜索扣押').correct, find('搜索扣押').accuracy], [6, 5, 83]);
+  });
+
+  test('最弱的排最前面，沒刷過的排最後', function () {
+    var rows = PQPure.topicStats(TOPIC_QUESTIONS, TOPIC_PROGRESS);
+    assertSame(rows[0].topic, '證據法則');            // 20% 最弱
+    assertSame(rows[rows.length - 1].topic, '集會遊行'); // 還沒刷過，排最後
+    assertSame(rows[rows.length - 1].accuracy, null);
+  });
+
+  test('刷太少的要標示參考價值低', function () {
+    var rows = PQPure.topicStats(TOPIC_QUESTIONS, TOPIC_PROGRESS, { minAnswered: 5 });
+    rows.forEach(function (row) {
+      if (row.answered > 0 && row.answered < 5) {
+        assert(row.lowConfidence === true, row.topic + ' 只刷過 ' + row.answered + ' 題，要標示');
+      }
+    });
+    // 門檻可以調
+    var loose = PQPure.topicStats(TOPIC_QUESTIONS, TOPIC_PROGRESS, { minAnswered: 1 });
+    assertSame(loose.filter(function (r) { return r.lowConfidence; }).length, 0);
+  });
+
+  test('算得出這個主題還有幾題沒刷過', function () {
+    var rows = PQPure.topicStats(TOPIC_QUESTIONS, TOPIC_PROGRESS);
+    var find = function (name) { return rows.filter(function (r) { return r.topic === name; })[0]; };
+    assertSame(find('集會遊行').untouched, 1);
+    assertSame(find('證據法則').untouched, 0);
+  });
+
+  test('索引有給各主題題數時就用它的，不自己掃全庫', function () {
+    var rows = PQPure.topicStats(TOPIC_QUESTIONS, TOPIC_PROGRESS,
+      { topicTotals: { '證據法則': 180, '搜索扣押': 95 } });
+    var find = function (name) { return rows.filter(function (r) { return r.topic === name; })[0]; };
+    assertSame(find('證據法則').total, 180);
+    assertSame(find('搜索扣押').total, 95);
+    assertSame(find('未分類').total, 1);     // 索引沒給的就用實際算的
+    // 題庫總題數與「還沒刷過」要用同一個基準，不可以一個用索引、一個用實際載入的
+    assertSame(find('證據法則').untouched, 180 - find('證據法則').answered);
+  });
+
+  test('讀得出索引的主題清單（兩種寫法都接）', function () {
+    assertSame(PQPure.readTopicTotals({ topics: { '證據法則': 180 } }), { '證據法則': 180 });
+    assertSame(PQPure.readTopicTotals({ topics: { '證據法則': { count: 180 } } }), { '證據法則': 180 });
+    assertSame(PQPure.readTopicTotals({ '主題': { '搜索扣押': 95 } }), { '搜索扣押': 95 });
+    assertSame(PQPure.readTopicTotals({}), null);
+    assertSame(PQPure.readTopicTotals(null), null);
+  });
+
+  test('科目層級的強弱也算得出來，最弱的排前面', function () {
+    var rows = PQPure.subjectStats(TOPIC_QUESTIONS, TOPIC_PROGRESS);
+    // 警察法規 q4 對2錯2 = 50%；刑法及刑事訴訟法 對5錯4 = 56%，所以警察法規比較弱
+    assertSame(rows[0].subject, '警察法規');
+    assertSame(rows[0].accuracy, 50);
+    assertSame([rows[0].total, rows[0].answered, rows[0].untouched], [2, 1, 1]);
+    var clawp = rows.filter(function (r) { return r.subject === '刑法及刑事訴訟法'; })[0];
+    assertSame([clawp.accuracy, clawp.answered, clawp.times], [56, 3, 9]);
+  });
+
+  test('從弱點開練：沒刷過的優先，再來是答錯過的', function () {
+    var picked = PQPure.pickTopicQuestions(
+      [tq('a', '科', ['證據法則']), tq('b', '科', ['證據法則']), tq('c', '科', ['證據法則']), tq('d', '科', ['其他'])],
+      { questions: {
+        b: { correctCount: 0, wrongCount: 5 },
+        c: { correctCount: 3, wrongCount: 0 }
+      } },
+      '證據法則', 10, function () { return 0.5; });
+    assertSame(picked.map(function (q) { return q.id; }), ['a', 'b', 'c']);  // 沒刷過→答錯過→已會
+  });
+
+  test('從弱點開練有題數上限，也不會混到別的主題', function () {
+    var picked = PQPure.pickTopicQuestions(TOPIC_QUESTIONS, TOPIC_PROGRESS, '搜索扣押', 1, Math.random);
+    assertSame(picked.length, 1);
+    assert(PQPure.topicsOf(picked[0]).indexOf('搜索扣押') !== -1, '挑出來的要是這個主題的題目');
+  });
+
+  test('空資料不會爆掉', function () {
+    assertSame(PQPure.topicStats(null, null), []);
+    assertSame(PQPure.subjectStats(null, null), []);
+    assertSame(PQPure.pickTopicQuestions(null, null, '證據法則', 5, Math.random), []);
+  });
+
+  /* ---------- 情境：申論考點統計 ---------- */
+
+  group('申論考點統計');
+
+  function eq(id, year, topics) {
+    return { id: id, type: 'essay', year: year, subject: '偵查法學', topics: topics, stem: '題目' };
+  }
+
+  var ESSAY_QUESTIONS = [
+    eq('e1', 95, ['搜索與扣押']),
+    eq('e2', 99, ['搜索與扣押', '證據能力']),
+    eq('e3', 103, ['搜索與扣押']),
+    eq('e4', 107, ['證據能力']),
+    eq('e5', 111, ['搜索與扣押']),
+    eq('e6', 114, ['搜索與扣押']),
+    eq('e7', 114, [])
+  ];
+
+  test('依出現次數由多到少排', function () {
+    var rows = PQPure.essayTopicStats(ESSAY_QUESTIONS);
+    assertSame(rows[0].topic, '搜索與扣押');
+    assertSame(rows[0].count, 5);
+    assertSame(rows[1].topic, '證據能力');
+    assertSame(rows[1].count, 2);
+  });
+
+  test('列得出哪幾年考過', function () {
+    var rows = PQPure.essayTopicStats(ESSAY_QUESTIONS);
+    assertSame(rows[0].years, [95, 99, 103, 111, 114]);
+    assertSame(rows[0].yearCount, 5);
+    assertSame(rows[0].latestYear, 114);
+  });
+
+  test('記得住是哪幾題（點進去要看得到）', function () {
+    var rows = PQPure.essayTopicStats(ESSAY_QUESTIONS);
+    assertSame(rows[0].ids, ['e1', 'e2', 'e3', 'e5', 'e6']);
+  });
+
+  test('沒標籤的申論題歸未分類，不會不見', function () {
+    var rows = PQPure.essayTopicStats(ESSAY_QUESTIONS);
+    var untagged = rows.filter(function (r) { return r.topic === '未分類'; })[0];
+    assertSame([untagged.count, untagged.years], [1, [114]]);
+  });
+
+  test('照主題篩得出那幾題', function () {
+    assertSame(PQPure.filterByTopic(ESSAY_QUESTIONS, '證據能力').map(function (q) { return q.id; }),
+      ['e2', 'e4']);
+    assertSame(PQPure.filterByTopic(ESSAY_QUESTIONS, '未分類').map(function (q) { return q.id; }),
+      ['e7']);
+    assertSame(PQPure.filterByTopic(ESSAY_QUESTIONS, '').length, ESSAY_QUESTIONS.length);
+  });
+
+  test('沒有申論題時回空陣列', function () {
+    assertSame(PQPure.essayTopicStats([]), []);
+    assertSame(PQPure.essayTopicStats(null), []);
+  });
+
+  /* ---------- 情境：條號層級的過時提示 ---------- */
+
+  group('條號層級的過時提示');
+
+  test('有條號時講得出是哪一條改過', function () {
+    var question = singleQuestion();
+    question.staleRisk = { level: '高', detail: [
+      { law: '中華民國刑法', articles: ['第 339-4 條'], modifiedAfter: ['113-07-31'] }
+    ] };
+    var text = PQPure.staleNotice(question).text;
+    assert(text.indexOf('中華民國刑法第 339-4 條在 113-07-31 修正過') !== -1, '實際：' + text);
+  });
+
+  test('條號只給數字也排版得出來', function () {
+    var question = singleQuestion();
+    question.staleRisk = { level: '中', detail: [
+      { law: '刑事訴訟法', '條號': ['122'], modifiedAfter: ['114-01-01'] }
+    ] };
+    assert(PQPure.staleNotice(question).text.indexOf('刑事訴訟法第 122 條') !== -1,
+      '實際：' + PQPure.staleNotice(question).text);
+  });
+
+  test('條號太多時只列前三條', function () {
+    var question = singleQuestion();
+    question.staleRisk = { level: '中', detail: [
+      { law: '刑事訴訟法', articles: ['第 1 條', '第 2 條', '第 3 條', '第 4 條'], modifiedAfter: ['114-01-01'] }
+    ] };
+    var text = PQPure.staleNotice(question).text;
+    assert(text.indexOf('等條文') !== -1, '要寫「等條文」：' + text);
+    assert(text.indexOf('第 4 條') === -1, '不該列到第四條：' + text);
+  });
+
+  test('沒有條號時照舊只講法規名', function () {
+    var question = singleQuestion();
+    question.staleRisk = { level: '中', detail: [{ law: '社會秩序維護法', modifiedAfter: ['114-06-11'] }] };
+    assertSame(PQPure.staleNotice(question).text, '這題涉及的社會秩序維護法在 114-06-11 修正過，答案僅供參考');
+  });
+
   /* ---------- 情境：法條速查 ---------- */
 
   group('法條速查');

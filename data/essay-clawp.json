@@ -24,7 +24,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=401&s=0703&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-107-clawp0703-e02",
@@ -51,7 +55,17 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=401&s=0703&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "人身犯罪",
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "責任能力",
+   "傷害罪",
+   "酒駕與不能安全駕駛"
+  ]
  },
  {
   "id": "moex-108-clawp0904-e01",
@@ -78,7 +92,15 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=401&s=0904&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "人身犯罪"
+  ],
+  "topicDetails": [
+   "責任能力",
+   "殺人罪"
+  ]
  },
  {
   "id": "moex-108-clawp0904-e02",
@@ -105,7 +127,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=401&s=0904&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-108-clawp0605-e01",
@@ -132,7 +158,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108130&c=201&s=0605&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-108-clawp0605-e02",
@@ -159,7 +189,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108130&c=201&s=0605&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "放火與爆炸"
+  ]
  },
  {
   "id": "moex-109-clawp0803-e01",
@@ -186,7 +222,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=401&s=0803&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-109-clawp0803-e02",
@@ -213,7 +253,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=401&s=0803&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-109-clawp0605-e01",
@@ -251,7 +295,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 16,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "洗錢防制法",
@@ -265,6 +312,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
     },
@@ -278,7 +328,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "詐欺犯罪危害防制條例",
@@ -292,6 +345,9 @@
      "level": "高",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -305,7 +361,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109130&c=201&s=0605&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "詐欺洗錢與財經犯罪",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "詐欺集團偵查",
+   "洗錢防制",
+   "組織犯罪防制條例"
+  ]
  },
  {
   "id": "moex-109-clawp0605-e02",
@@ -332,7 +397,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109130&c=201&s=0605&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案"
+  ],
+  "topicDetails": [
+   "告發與自訴"
+  ]
  },
  {
   "id": "moex-110-clawp0904-e01",
@@ -359,7 +430,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=401&s=0904&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-110-clawp0904-e02",
@@ -386,7 +461,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=401&s=0904&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-110-clawp0504-e01",
@@ -413,7 +492,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110130&c=201&s=0504&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-110-clawp0504-e02",
@@ -440,7 +523,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110130&c=201&s=0504&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "財產犯罪"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜"
+  ]
  },
  {
   "id": "moex-111-clawp0902-e01",
@@ -475,7 +564,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 9,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -487,7 +579,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=401&s=0902&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "幫派調查"
+  ]
  },
  {
   "id": "moex-111-clawp0902-e02",
@@ -522,7 +620,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 9,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -534,7 +635,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=401&s=0902&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-111-clawp0504-e01",
@@ -561,7 +666,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111130&c=201&s=0504&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-111-clawp0504-e02",
@@ -588,7 +697,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111130&c=201&s=0504&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-112-clawp0904-e01",
@@ -615,7 +728,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=401&s=0904&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "集會遊行"
+  ],
+  "topicDetails": [
+   "禁制區與限制"
+  ]
  },
  {
   "id": "moex-112-clawp0904-e02",
@@ -642,7 +761,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=401&s=0904&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-112-clawp0504-e01",
@@ -669,7 +792,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112130&c=201&s=0504&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-112-clawp0504-e02",
@@ -696,7 +823,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112130&c=201&s=0504&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-113-clawp0605-e01",
@@ -731,7 +862,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 6,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -743,7 +877,13 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=401&s=0605&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-113-clawp0605-e02",
@@ -778,7 +918,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 6,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -790,7 +933,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=401&s=0605&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-113-clawp0805-e01",
@@ -817,7 +964,17 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113140&c=507&s=0805&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "證據法則",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "證人與詰問",
+   "偵訊策略"
+  ]
  },
  {
   "id": "moex-113-clawp0805-e02",
@@ -844,7 +1001,17 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113140&c=507&s=0805&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "人身犯罪",
+   "告訴告發與受理報案",
+   "起訴與不起訴"
+  ],
+  "topicDetails": [
+   "傷害罪",
+   "上訴制度"
+  ]
  },
  {
   "id": "moex-113-clawp0503-e01",
@@ -876,7 +1043,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -888,7 +1058,16 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113120&c=201&s=0503&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "拘提逮捕與通緝",
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛",
+   "現行犯逮捕"
+  ]
  },
  {
   "id": "moex-113-clawp0503-e02",
@@ -915,7 +1094,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113120&c=201&s=0503&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-114-clawp0606-e01",
@@ -942,7 +1125,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=401&s=0606&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-114-clawp0606-e02",
@@ -969,7 +1156,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=401&s=0606&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-114-clawp0805-e01",
@@ -996,7 +1187,11 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114140&c=608&s=0805&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-114-clawp0805-e02",
@@ -1023,7 +1218,17 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114140&c=608&s=0805&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "公務員犯罪與瀆職",
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "緘默權與辯護權",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "moex-114-clawp0504-e01",
@@ -1055,7 +1260,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1067,7 +1275,17 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114120&c=201&s=0504&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "勤務規劃與督導",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "移送與報告",
+   "勤務指揮與聯防",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "moex-114-clawp0504-e02",
@@ -1100,7 +1318,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "詐欺犯罪危害防制條例",
@@ -1112,7 +1333,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1124,6 +1348,14 @@
    "answerKind": "無（申論題不公布答案）",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114120&c=201&s=0504&q=1",
    "answerUrl": ""
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "詐欺集團偵查"
+  ]
  }
 ]

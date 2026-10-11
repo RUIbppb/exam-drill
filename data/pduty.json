@@ -34,7 +34,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "少年事件與犯罪預防",
+   "釋憲與違憲審查"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-110-pduty-02",
@@ -71,7 +80,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu-110-pduty-03",
@@ -108,7 +123,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-pduty-04",
@@ -145,7 +164,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-110-pduty-05",
@@ -182,7 +209,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-110-pduty-06",
@@ -219,7 +252,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案"
+  ],
+  "topicDetails": [
+   "受理報案"
+  ]
  },
  {
   "id": "cpu-110-pduty-07",
@@ -256,7 +295,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "警勤區的劃分與經營",
+   "家戶訪查與查察對象"
+  ]
  },
  {
   "id": "cpu-110-pduty-08",
@@ -293,7 +341,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現行犯逮捕",
+   "現場封鎖與保全"
+  ]
  },
  {
   "id": "cpu-110-pduty-09",
@@ -330,7 +386,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-110-pduty-10",
@@ -367,7 +429,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-110-pduty-11",
@@ -407,7 +475,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -419,7 +490,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令"
+  ]
  },
  {
   "id": "cpu-110-pduty-12",
@@ -456,7 +533,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "緘默權與辯護權",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-110-pduty-13",
@@ -493,7 +579,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu-110-pduty-14",
@@ -530,7 +622,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-110-pduty-15",
@@ -567,7 +666,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "cpu-110-pduty-16",
@@ -604,7 +711,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "刑案現場處理",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "現場紀錄與測繪",
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu-110-pduty-17",
@@ -641,7 +758,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": [
+   "查證身分的要件",
+   "攔停與帶往"
+  ]
  },
  {
   "id": "cpu-110-pduty-18",
@@ -678,7 +802,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察任務與權限"
+  ]
  },
  {
   "id": "cpu-110-pduty-19",
@@ -715,7 +845,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-110-pduty-20",
@@ -752,7 +888,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-pduty-21",
@@ -792,7 +932,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "家戶訪查與查察對象"
+  ]
  },
  {
   "id": "cpu-110-pduty-22",
@@ -832,7 +980,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "考核獎懲與停職免職",
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-110-pduty-23",
@@ -872,7 +1028,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-110-pduty-24",
@@ -912,7 +1074,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-pduty-25",
@@ -953,7 +1119,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-pduty-26",
@@ -994,7 +1164,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "偵訊與訪談技巧",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-110-pduty-27",
@@ -1005,7 +1183,7 @@
   "originalSubject": "警察勤務",
   "mappingLevel": "完全",
   "type": "multi",
-  "stem": "1829年英國率先成立現代警察的背景因素，包括下列哪現代警察的背景因素，包括下列哪些？",
+  "stem": "1829年英國率先成立現代警察的背景因素，包括下列哪些？",
   "options": {
    "A": "都市化的影響",
    "B": "群眾抗爭頻繁",
@@ -1034,7 +1212,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-pduty-28",
@@ -1075,7 +1257,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "社會秩序維護法"
+  ],
+  "topicDetails": [
+   "妨害安寧秩序"
+  ]
  },
  {
   "id": "cpu-110-pduty-29",
@@ -1114,7 +1302,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu-110-pduty-30",
@@ -1154,7 +1351,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-110-pduty-31",
@@ -1193,7 +1398,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-110-pduty-32",
@@ -1206,11 +1417,11 @@
   "type": "multi",
   "stem": "依據內政部警政署編製之「警察機關分駐（派出）所常用勤務執行程序彙編」，接受勤務指揮中心指派，第一時間到達事故現場員警與該勤務指揮中心應執行之之事項，下列何者為正確？",
   "options": {
-   "A": "第一時間到達員警負責現場處理或警戒維護，並立即向勤務指揮中心回報到達或警戒維護，並立即向勤務指揮中心回報到達",
+   "A": "第一時間到達員警負責現場處理或警戒維護，並立即向勤務指揮中心回報到達",
    "B": "第一時間到達員警回報到達，並僅負責現場警戒維護，對於現場狀況況不須描述",
-   "C": "第一時間到達員警若非處理人員，可自行人員，可自行擅自離開開，不需俟相關處理人員抵達人員抵達",
+   "C": "第一時間到達員警若非處理人員，可自行擅自離開開，不需俟相關處理人員抵達",
    "D": "勤務指揮中心執勤人員，應注意管制被指派勤務人員是否抵達現場，並記明到達時間備查",
-   "E": "勤務指揮中心受理人員對於現場員警人員對於現場員警回報，應同步對於回報作重點登錄"
+   "E": "勤務指揮中心受理人員對於現場員警回報，應同步對於回報作重點登錄"
   },
   "answers": [
    [
@@ -1233,7 +1444,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-110-pduty-33",
@@ -1248,9 +1467,9 @@
   "options": {
    "A": "所長每日上、下午應親自清點查核1次",
    "B": "備勤人員應確實保管槍械彈藥庫、櫃門鎖鑰匙",
-   "C": "領槍應放置領槍證，還槍時取回，不得槍與證同時存放或無槍無證得槍與證同時存放或無槍無證",
+   "C": "領槍應放置領槍證，還槍時取回，不得槍與證同時存放或無槍無證",
    "D": "雙週查核時，每位員警另應檢查保養、維護及使用狀況，況，並填寫「裝備檢查及保養工作單」",
-   "E": "備勤人員應清點核對，登記領用及歸還之槍號、彈藥數量（批號）是否相符量（批號）是否相符"
+   "E": "備勤人員應清點核對，登記領用及歸還之槍號、彈藥數量（批號）是否相符"
   },
   "answers": [
    [
@@ -1272,7 +1491,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-110-pduty-34",
@@ -1283,13 +1510,13 @@
   "originalSubject": "警察勤務",
   "mappingLevel": "完全",
   "type": "multi",
-  "stem": "依據內政部警政署編製之「警察機關分駐（派出）所常用勤務執行程序彙編」，執行備勤勤務備勤勤務時，其工作之項目，執行之準備要求，以及其執行要領為何為何？",
+  "stem": "依據內政部警政署編製之「警察機關分駐（派出）所常用勤務執行程序彙編」，執行備勤勤務時，其工作之項目，執行之準備要求，以及其執行要領為何為何？",
   "options": {
    "A": "備勤勤務不可依治安需要，納入巡邏中實施中實施",
    "B": "防疫期間，如已先確認現場有罹患嚴重特殊傳染性肺炎者（COVID-19），應佩戴口罩即可",
    "C": "備勤勤務其工作項目為傳達重要公文以及解送、戒護人犯等",
-   "D": "備勤勤務以不配帶槍彈為原則配帶槍彈為原則",
-   "E": "以警備（偵防）車解送人犯時，至少解送人犯時，至少必須3人以上員警隨車內戒護內戒護才可解送"
+   "D": "備勤勤務以不配帶槍彈為原則",
+   "E": "以警備（偵防）車解送人犯時，至少必須3人以上員警隨車內戒護內戒護才可解送"
   },
   "answers": [
    [
@@ -1311,7 +1538,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "警察組織與職權",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "通緝與解送",
+   "警察機關的組織與層級",
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-110-pduty-35",
@@ -1350,7 +1587,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "勤務時間與勤休"
+  ]
  },
  {
   "id": "cpu-110-pduty-36",
@@ -1390,7 +1635,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "六種勤務方式",
+   "巡邏的方式與規劃"
+  ]
  },
  {
   "id": "cpu-110-pduty-37",
@@ -1430,7 +1684,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-pduty-38",
@@ -1471,7 +1729,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-pduty-39",
@@ -1511,7 +1773,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-110-pduty-40",
@@ -1552,7 +1818,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/110-S41.zip"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "行政中立與公務員義務",
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu-111-pduty-01",
@@ -1589,7 +1863,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警勤區與家戶訪查",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警勤區的劃分與經營",
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu-111-pduty-02",
@@ -1626,7 +1910,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-111-pduty-03",
@@ -1663,7 +1954,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-111-pduty-04",
@@ -1700,7 +1998,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-111-pduty-05",
@@ -1737,7 +2043,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-111-pduty-06",
@@ -1774,7 +2086,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警察人事與風紀",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "考核獎懲與停職免職",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu-111-pduty-07",
@@ -1811,7 +2133,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警勤區與家戶訪查",
+   "勤務規劃與督導",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "警勤區的劃分與經營",
+   "勤務規劃與分配",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-111-pduty-08",
@@ -1848,7 +2182,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-111-pduty-09",
@@ -1885,7 +2225,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "犯罪預防理論",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-111-pduty-10",
@@ -1922,7 +2269,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-111-pduty-11",
@@ -1959,7 +2310,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "競合與罪數",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "實質競合與罪數",
+   "犯罪預防理論"
+  ]
  },
  {
   "id": "cpu-111-pduty-12",
@@ -1999,7 +2358,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "受理報案",
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-111-pduty-13",
@@ -2036,7 +2403,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "行政程序與行政罰"
+  ],
+  "topicDetails": [
+   "行政處分與程序"
+  ]
  },
  {
   "id": "cpu-111-pduty-14",
@@ -2073,7 +2446,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-111-pduty-15",
@@ -2110,7 +2490,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-111-pduty-16",
@@ -2147,7 +2531,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "集會遊行"
+  ],
+  "topicDetails": [
+   "許可與報備"
+  ]
  },
  {
   "id": "cpu-111-pduty-17",
@@ -2184,7 +2574,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "犯罪預防理論",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-111-pduty-18",
@@ -2221,7 +2620,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-111-pduty-19",
@@ -2258,7 +2663,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-111-pduty-20",
@@ -2295,7 +2704,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-111-pduty-21",
@@ -2334,7 +2749,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-111-pduty-22",
@@ -2377,7 +2796,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2389,7 +2811,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "cpu-111-pduty-23",
@@ -2431,7 +2859,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2443,7 +2874,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令"
+  ]
  },
  {
   "id": "cpu-111-pduty-24",
@@ -2483,7 +2920,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-111-pduty-25",
@@ -2524,7 +2965,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "警勤區的劃分與經營",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-111-pduty-26",
@@ -2568,7 +3019,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-111-pduty-27",
@@ -2609,7 +3068,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "勤務指揮與聯防",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-111-pduty-28",
@@ -2649,7 +3116,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "警勤區的劃分與經營",
+   "家戶訪查與查察對象",
+   "犯罪預防理論"
+  ]
  },
  {
   "id": "cpu-111-pduty-29",
@@ -2690,7 +3168,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察教育與訓練",
+   "勤務時間與勤休",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu-111-pduty-30",
@@ -2731,7 +3219,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "行政中立與公務員義務",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-111-pduty-31",
@@ -2771,7 +3267,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案"
+  ],
+  "topicDetails": [
+   "受理報案"
+  ]
  },
  {
   "id": "cpu-111-pduty-32",
@@ -2811,7 +3313,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-111-pduty-33",
@@ -2852,7 +3360,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu-111-pduty-34",
@@ -2891,7 +3405,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu-111-pduty-35",
@@ -2931,7 +3451,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-111-pduty-36",
@@ -2959,7 +3483,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "低",
    "laws": [
     "毒品危害防制條例"
    ],
@@ -2972,9 +3496,14 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 25 條"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     }
    ]
   },
@@ -2986,7 +3515,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "起訴與不起訴",
+   "審判與救濟",
+   "即時強制與管束",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "對人管束",
+   "毒品危害防制條例",
+   "施用毒品的處理",
+   "少年事件處理"
+  ]
  },
  {
   "id": "cpu-111-pduty-37",
@@ -3025,7 +3566,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-111-pduty-38",
@@ -3066,7 +3613,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-111-pduty-39",
@@ -3106,7 +3657,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "毒品危害防制條例",
@@ -3118,7 +3672,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "詐欺犯罪危害防制條例",
@@ -3132,6 +3689,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -3145,7 +3705,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "毒品與槍砲",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "毒品危害防制條例",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-111-pduty-40",
@@ -3186,7 +3756,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/111-S42.zip"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-112-pduty-01",
@@ -3223,7 +3799,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-112-pduty-02",
@@ -3260,7 +3842,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務規劃與督導",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "勤務指揮與聯防",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-112-pduty-03",
@@ -3297,7 +3889,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-112-pduty-04",
@@ -3334,7 +3933,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "即時強制與管束"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "對人管束",
+   "對物與對住宅的強制"
+  ]
  },
  {
   "id": "cpu-112-pduty-05",
@@ -3371,7 +3979,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃"
+  ]
  },
  {
   "id": "cpu-112-pduty-06",
@@ -3408,7 +4023,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu-112-pduty-07",
@@ -3445,7 +4066,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-112-pduty-08",
@@ -3482,7 +4107,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-112-pduty-09",
@@ -3519,7 +4150,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": [
+   "查證身分的要件"
+  ]
  },
  {
   "id": "cpu-112-pduty-10",
@@ -3556,7 +4193,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "警察職權行使法的資料蒐集"
+  ]
  },
  {
   "id": "cpu-112-pduty-11",
@@ -3593,7 +4236,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務規劃與督導",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "勤務指揮與聯防",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu-112-pduty-12",
@@ -3630,7 +4283,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排",
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "六種勤務方式",
+   "警勤區的劃分與經營",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-112-pduty-13",
@@ -3667,7 +4332,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "警械使用"
+  ],
+  "topicDetails": [
+   "警械種類與管理"
+  ]
  },
  {
   "id": "cpu-112-pduty-14",
@@ -3704,7 +4375,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "羈押與強制處分",
+   "身分查證與臨檢",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "提審與人身自由救濟",
+   "查證身分的要件",
+   "攔停與帶往",
+   "人身自由與正當程序"
+  ]
  },
  {
   "id": "cpu-112-pduty-15",
@@ -3741,7 +4423,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-112-pduty-16",
@@ -3778,7 +4467,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu-112-pduty-17",
@@ -3815,7 +4511,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警察人事與風紀",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警察教育與訓練",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-112-pduty-18",
@@ -3852,7 +4558,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛"
+  ]
  },
  {
   "id": "cpu-112-pduty-19",
@@ -3863,11 +4575,11 @@
   "originalSubject": "警察勤務",
   "mappingLevel": "完全",
   "type": "single",
-  "stem": "依據「警察人員執行勤務勤務著防彈衣及戴防彈頭盔規定」，下列敘述何者與規定內容敘述何者與規定內容不符？",
+  "stem": "依據「警察人員執行勤務勤務著防彈衣及戴防彈頭盔規定」，下列敘述何者與規定內容不符？",
   "options": {
-   "A": "徒步巡邏，著防彈衣及戴防彈頭盔，由分局長視天候及治安狀況決定，著防彈衣及戴防彈頭盔，由分局長視天候及治安狀況決定",
+   "A": "徒步巡邏，著防彈衣及戴防彈頭盔，由分局長視天候及治安狀況決定",
    "B": "機車巡邏，戴安全帽，不戴防彈頭盔，防彈衣部分，日間由分局長視天候及治安狀況決定，夜間則一律著防彈衣",
-   "C": "汽車巡邏，車內及車外均著防彈衣；防彈頭盔置於隨手可取之處外均著防彈衣；防彈頭盔置於隨手可取之處",
+   "C": "汽車巡邏，車內及車外均著防彈衣；防彈頭盔置於隨手可取之處",
    "D": "臨檢勤務，著防彈衣及戴防彈頭盔，日間由分局長視臨檢對象及治安狀況決定，夜間則一律著戴防彈衣及頭盔"
   },
   "answers": [
@@ -3889,7 +4601,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "cpu-112-pduty-20",
@@ -3926,7 +4647,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-112-pduty-21",
@@ -3943,7 +4671,7 @@
    "B": "日間汽車巡邏",
    "C": "日間臨檢",
    "D": "守望",
-   "E": "令狀搜索及拘提搜索及拘提"
+   "E": "令狀搜索及拘提"
   },
   "answers": [
    [
@@ -3966,7 +4694,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "身分查證與臨檢",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "六種勤務方式",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "cpu-112-pduty-22",
@@ -4006,7 +4745,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警察人事與風紀",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "考核獎懲與停職免職",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-112-pduty-23",
@@ -4047,7 +4796,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-112-pduty-24",
@@ -4092,7 +4847,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -4104,7 +4862,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案",
+   "身分查證與臨檢",
+   "社會秩序維護法"
+  ],
+  "topicDetails": [
+   "受理報案"
+  ]
  },
  {
   "id": "cpu-112-pduty-25",
@@ -4144,7 +4910,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "考核獎懲與停職免職"
+  ]
  },
  {
   "id": "cpu-112-pduty-26",
@@ -4185,7 +4959,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-112-pduty-27",
@@ -4230,7 +5010,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警察組織與職權",
+   "勤務方式與編排",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "六種勤務方式",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu-112-pduty-28",
@@ -4247,7 +5038,7 @@
    "B": "汽車巡邏能在最短時間內抵達轄區每個角落",
    "C": "汽車巡邏易與民眾接近，亦易為民眾所接近",
    "D": "汽車巡邏可快速反應，增加犯罪的逮捕率",
-   "E": "汽車巡邏不受地形與道路限制，可在任何限制，可在任何地區或街道活動"
+   "E": "汽車巡邏不受地形與道路限制，可在任何地區或街道活動"
   },
   "answers": [
    [
@@ -4269,7 +5060,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-112-pduty-29",
@@ -4308,7 +5106,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu-112-pduty-30",
@@ -4348,7 +5152,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營",
+   "家戶訪查與查察對象"
+  ]
  },
  {
   "id": "cpu-112-pduty-31",
@@ -4388,7 +5199,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu-112-pduty-32",
@@ -4427,7 +5244,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "人身犯罪",
+   "即時強制與管束"
+  ],
+  "topicDetails": [
+   "傷害罪",
+   "對人管束"
+  ]
  },
  {
   "id": "cpu-112-pduty-33",
@@ -4467,7 +5292,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-112-pduty-34",
@@ -4507,7 +5338,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-112-pduty-35",
@@ -4549,7 +5386,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "查證身分的要件",
+   "攔停與帶往",
+   "六種勤務方式",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-112-pduty-36",
@@ -4589,7 +5437,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "人身犯罪",
+   "公共危險與交通犯罪",
+   "行政程序與行政罰"
+  ],
+  "topicDetails": [
+   "傷害罪",
+   "酒駕與不能安全駕駛",
+   "行政處分與程序",
+   "行政罰的原則"
+  ]
  },
  {
   "id": "cpu-112-pduty-37",
@@ -4628,7 +5487,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃"
+  ]
  },
  {
   "id": "cpu-112-pduty-38",
@@ -4668,7 +5535,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "受理報案",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-112-pduty-39",
@@ -4708,7 +5583,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-112-pduty-40",
@@ -4750,7 +5629,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/112-S43.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-113-pduty-01",
@@ -4787,7 +5672,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-113-pduty-02",
@@ -4824,7 +5715,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類"
+  ]
  },
  {
   "id": "cpu-113-pduty-03",
@@ -4861,7 +5758,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-113-pduty-04",
@@ -4898,7 +5799,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作",
+   "偵訊策略"
+  ]
  },
  {
   "id": "cpu-113-pduty-05",
@@ -4935,7 +5843,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "警察人事與風紀"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-113-pduty-06",
@@ -4975,7 +5887,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "移送與報告",
+   "偵查犯罪手冊與刑案分類",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-113-pduty-07",
@@ -5015,7 +5936,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "社會秩序維護法",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "處罰種類與裁處機關",
+   "考核獎懲與停職免職"
+  ]
  },
  {
   "id": "cpu-113-pduty-08",
@@ -5049,7 +5978,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "勤務規劃與分配",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu-113-pduty-09",
@@ -5086,7 +6023,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令",
+   "跟蹤騷擾"
+  ]
  },
  {
   "id": "cpu-113-pduty-10",
@@ -5123,7 +6067,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-113-pduty-11",
@@ -5157,7 +6105,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "勤務方式與編排",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-113-pduty-12",
@@ -5194,7 +6151,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "勤務時間與勤休",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu-113-pduty-13",
@@ -5231,7 +6197,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu-113-pduty-14",
@@ -5276,7 +6248,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 6,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -5288,7 +6263,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "人身犯罪",
+   "性犯罪與婦幼保護",
+   "身分查證與臨檢",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "殺人罪",
+   "妨害性自主",
+   "治安顧慮人口查訪",
+   "施用毒品的處理",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-113-pduty-15",
@@ -5325,7 +6313,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "公務員犯罪與瀆職",
+   "勤務規劃與督導",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "濫權與洩密",
+   "勤務指揮與聯防",
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu-113-pduty-16",
@@ -5362,7 +6360,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-113-pduty-17",
@@ -5399,7 +6406,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "羈押與強制處分",
+   "即時強制與管束",
+   "警械使用",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "提審與人身自由救濟",
+   "對人管束",
+   "對物與對住宅的強制",
+   "警械種類與管理",
+   "人身自由與正當程序"
+  ]
  },
  {
   "id": "cpu-113-pduty-18",
@@ -5436,7 +6456,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務規劃與督導",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "查證身分的要件",
+   "勤務指揮與聯防",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-113-pduty-19",
@@ -5473,7 +6503,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-113-pduty-20",
@@ -5515,7 +6551,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -5527,7 +6566,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警勤區與家戶訪查",
+   "勤務規劃與督導",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "警勤區的劃分與經營",
+   "勤務規劃與分配",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-113-pduty-21",
@@ -5577,7 +6628,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 6,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "刑事訴訟法",
@@ -5591,7 +6645,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -5603,7 +6660,21 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "公共危險與交通犯罪",
+   "偵查原則與偵查不公開",
+   "身分查證與臨檢"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "酒駕與不能安全駕駛",
+   "肇事逃逸",
+   "查證身分的要件",
+   "治安顧慮人口查訪",
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu-113-pduty-22",
@@ -5642,7 +6713,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "警械使用",
+   "勤務方式與編排",
+   "勤務規劃與督導",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "警械種類與管理",
+   "六種勤務方式",
+   "勤務指揮與聯防",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "cpu-113-pduty-23",
@@ -5683,7 +6766,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu-113-pduty-24",
@@ -5722,7 +6811,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu-113-pduty-25",
@@ -5762,7 +6857,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警察組織與職權",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "六種勤務方式",
+   "巡邏的方式與規劃",
+   "勤務規劃與分配",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu-113-pduty-26",
@@ -5802,7 +6910,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-113-pduty-27",
@@ -5841,7 +6955,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "即時強制與管束"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令",
+   "對物與對住宅的強制"
+  ]
  },
  {
   "id": "cpu-113-pduty-28",
@@ -5883,7 +7005,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -5895,7 +7020,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "性侵害案件處理",
+   "兒少性剝削與兒少保護"
+  ]
  },
  {
   "id": "cpu-113-pduty-29",
@@ -5936,7 +7068,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": [
+   "查證身分的要件"
+  ]
  },
  {
   "id": "cpu-113-pduty-30",
@@ -5976,7 +7114,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "兒少性剝削與兒少保護",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-113-pduty-31",
@@ -6015,7 +7161,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-113-pduty-32",
@@ -6056,7 +7208,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu-113-pduty-33",
@@ -6097,7 +7255,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-113-pduty-34",
@@ -6143,7 +7305,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "勤務時間與勤休",
+   "勤務規劃與分配",
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-113-pduty-35",
@@ -6186,7 +7359,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -6198,7 +7374,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查",
+   "勤務方式與編排",
+   "警勤區與家戶訪查",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "通信紀錄調取",
+   "六種勤務方式",
+   "巡邏的方式與規劃",
+   "警勤區的劃分與經營",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-113-pduty-36",
@@ -6238,7 +7427,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-113-pduty-37",
@@ -6278,7 +7475,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃"
+  ]
  },
  {
   "id": "cpu-113-pduty-38",
@@ -6318,7 +7522,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "身分查證與臨檢",
+   "警察人事與風紀",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "現行犯逮捕",
+   "考核獎懲與停職免職",
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-113-pduty-39",
@@ -6357,7 +7572,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu-113-pduty-40",
@@ -6401,7 +7624,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/113-S44.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-114-pduty-01",
@@ -6438,7 +7669,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-pduty-02",
@@ -6475,7 +7710,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-pduty-03",
@@ -6512,7 +7751,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "兒少性剝削與兒少保護",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-114-pduty-04",
@@ -6549,7 +7796,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu-114-pduty-05",
@@ -6589,7 +7846,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -6601,7 +7861,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "社會秩序維護法",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "交通違規裁罰"
+  ]
  },
  {
   "id": "cpu-114-pduty-06",
@@ -6638,7 +7905,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-pduty-07",
@@ -6675,7 +7946,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察教育與訓練",
+   "勤務時間與勤休",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu-114-pduty-08",
@@ -6712,7 +7993,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu-114-pduty-09",
@@ -6749,7 +8036,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-pduty-10",
@@ -6786,7 +8077,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu-114-pduty-11",
@@ -6823,7 +8122,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-114-pduty-12",
@@ -6860,7 +8166,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-114-pduty-13",
@@ -6897,7 +8211,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "考核獎懲與停職免職",
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-114-pduty-14",
@@ -6934,7 +8256,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-114-pduty-15",
@@ -6971,7 +8299,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-pduty-16",
@@ -7008,7 +8340,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "勤前教育與督導",
+   "選舉罷免與公民投票"
+  ]
  },
  {
   "id": "cpu-114-pduty-17",
@@ -7045,7 +8385,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu-114-pduty-18",
@@ -7082,7 +8428,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-pduty-19",
@@ -7119,7 +8469,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案",
+   "警勤區與家戶訪查",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "受理報案",
+   "警勤區的劃分與經營",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-114-pduty-20",
@@ -7156,7 +8516,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "現場封鎖與保全"
+  ]
  },
  {
   "id": "cpu-114-pduty-21",
@@ -7195,7 +8562,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-pduty-22",
@@ -7234,7 +8605,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-114-pduty-23",
@@ -7274,7 +8653,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "勤務規劃與督導",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "勤務規劃與分配",
+   "犯罪預防理論"
+  ]
  },
  {
   "id": "cpu-114-pduty-24",
@@ -7315,7 +8704,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "勤務方式與編排",
+   "勤務規劃與督導",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "相驗與死因調查",
+   "六種勤務方式",
+   "勤務指揮與聯防",
+   "現場封鎖與保全"
+  ]
  },
  {
   "id": "cpu-114-pduty-25",
@@ -7355,7 +8756,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "犯罪預防理論"
+  ]
  },
  {
   "id": "cpu-114-pduty-26",
@@ -7395,7 +8802,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-pduty-27",
@@ -7435,7 +8846,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-114-pduty-28",
@@ -7474,7 +8889,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "cpu-114-pduty-29",
@@ -7515,7 +8936,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-114-pduty-30",
@@ -7556,7 +8983,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu-114-pduty-31",
@@ -7596,7 +9029,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu-114-pduty-32",
@@ -7636,7 +9078,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查",
+   "勤務規劃與督導",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營",
+   "勤務規劃與分配",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-114-pduty-33",
@@ -7676,7 +9128,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu-114-pduty-34",
@@ -7715,7 +9173,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-114-pduty-35",
@@ -7754,7 +9220,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "身分查證與臨檢",
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "緩刑與假釋",
+   "治安顧慮人口查訪",
+   "警勤區的劃分與經營",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-114-pduty-36",
@@ -7794,7 +9272,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-114-pduty-37",
@@ -7833,7 +9320,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-114-pduty-38",
@@ -7872,7 +9365,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "勤務規劃與督導",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "勤務時間與勤休",
+   "勤前教育與督導",
+   "勤務指揮與聯防",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-114-pduty-39",
@@ -7911,7 +9415,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "集會遊行",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "禁制區與限制",
+   "六種勤務方式",
+   "巡邏的方式與規劃"
+  ]
  },
  {
   "id": "cpu-114-pduty-40",
@@ -7952,7 +9465,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/114-S45.zip"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-115-pduty-01",
@@ -7989,7 +9508,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "憲法基本權",
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "人身自由與正當程序",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu-115-pduty-02",
@@ -8026,7 +9556,21 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "公務員犯罪與瀆職",
+   "拘提逮捕與通緝",
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "性侵害案件處理",
+   "家庭暴力與保護令",
+   "濫權與洩密",
+   "二十四小時與告知義務",
+   "個人資料保護",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-115-pduty-03",
@@ -8063,7 +9607,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "行政程序與行政罰"
+  ],
+  "topicDetails": [
+   "行政處分與程序",
+   "救濟途徑"
+  ]
  },
  {
   "id": "cpu-115-pduty-04",
@@ -8100,7 +9651,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-115-pduty-05",
@@ -8137,7 +9692,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "警察職權行使法的資料蒐集"
+  ]
  },
  {
   "id": "cpu-115-pduty-06",
@@ -8174,7 +9735,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "考核獎懲與停職免職",
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu-115-pduty-07",
@@ -8211,7 +9780,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "警械使用"
+  ],
+  "topicDetails": [
+   "通緝與解送",
+   "警械種類與管理"
+  ]
  },
  {
   "id": "cpu-115-pduty-08",
@@ -8248,7 +9825,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu-115-pduty-09",
@@ -8285,7 +9866,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-115-pduty-10",
@@ -8322,7 +9909,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "警械使用",
+   "警察組織與職權",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "警察教育與訓練"
+  ]
  },
  {
   "id": "cpu-115-pduty-11",
@@ -8359,7 +9954,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-115-pduty-12",
@@ -8396,7 +9997,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu-115-pduty-13",
@@ -8433,7 +10040,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警察人事與風紀",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警察教育與訓練",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-115-pduty-14",
@@ -8470,7 +10087,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "考核獎懲與停職免職",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu-115-pduty-15",
@@ -8507,7 +10132,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-115-pduty-16",
@@ -8544,7 +10175,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "行政程序與行政罰"
+  ],
+  "topicDetails": [
+   "異議與救濟",
+   "救濟途徑"
+  ]
  },
  {
   "id": "cpu-115-pduty-17",
@@ -8581,7 +10220,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤務規劃與分配",
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-115-pduty-18",
@@ -8618,7 +10264,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-115-pduty-19",
@@ -8655,7 +10307,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "cpu-115-pduty-20",
@@ -8692,7 +10350,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu-115-pduty-21",
@@ -8731,7 +10395,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu-115-pduty-22",
@@ -8771,7 +10443,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-115-pduty-23",
@@ -8810,7 +10488,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-115-pduty-24",
@@ -8849,7 +10533,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "警勤區的劃分與經營",
+   "犯罪預防理論",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-115-pduty-25",
@@ -8889,7 +10584,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "身分查證與臨檢",
+   "毒品與槍砲",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "緩刑與假釋",
+   "治安顧慮人口查訪",
+   "施用毒品的處理",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-115-pduty-26",
@@ -8930,7 +10637,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "司法警察職權與移送",
+   "槍彈與藥毒物鑑識",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "恐嚇取財與擄人勒贖",
+   "移送與報告",
+   "偵查犯罪手冊與刑案分類",
+   "縱火與爆裂物鑑識",
+   "人身自由與正當程序"
+  ]
  },
  {
   "id": "cpu-115-pduty-27",
@@ -8970,7 +10690,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu-115-pduty-28",
@@ -9010,7 +10738,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-115-pduty-29",
@@ -9050,7 +10784,21 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "人身犯罪",
+   "身分查證與臨檢",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "強盜與搶奪",
+   "恐嚇取財與擄人勒贖",
+   "傷害罪",
+   "治安顧慮人口查訪",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-115-pduty-30",
@@ -9094,7 +10842,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "身分查證與臨檢",
+   "組織犯罪與治安顧慮",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "緩刑與假釋",
+   "治安顧慮人口查訪",
+   "幫派調查",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-115-pduty-31",
@@ -9134,7 +10894,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu-115-pduty-32",
@@ -9175,7 +10941,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-115-pduty-33",
@@ -9216,7 +10988,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-115-pduty-34",
@@ -9257,7 +11035,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "考核獎懲與停職免職",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu-115-pduty-35",
@@ -9296,7 +11082,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃",
+   "警勤區的劃分與經營",
+   "家戶訪查與查察對象"
+  ]
  },
  {
   "id": "cpu-115-pduty-36",
@@ -9337,7 +11134,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu-115-pduty-37",
@@ -9378,7 +11181,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警察人事與風紀",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "行政中立與公務員義務",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu-115-pduty-38",
@@ -9418,7 +11231,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "考核獎懲與停職免職",
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu-115-pduty-39",
@@ -9458,7 +11279,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "身分查證與臨檢",
+   "即時強制與管束",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛",
+   "攔停與帶往",
+   "對人管束",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu-115-pduty-40",
@@ -9498,7 +11331,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip",
    "answerUrl": "https://www.cpu.edu.tw/var/file/0/1000/img/260/115-S46.zip"
-  }
+  },
+  "topics": [
+   "人身犯罪",
+   "警械使用",
+   "集會遊行"
+  ],
+  "topicDetails": [
+   "傷害罪",
+   "用槍時機",
+   "警械種類與管理",
+   "現場處理與解散"
+  ]
  },
  {
   "id": "cpu2-109-pduty-01",
@@ -9535,7 +11379,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "競合與罪數",
+   "勤務方式與編排",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "實質競合與罪數",
+   "六種勤務方式",
+   "巡邏的方式與規劃",
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu2-109-pduty-02",
@@ -9572,7 +11427,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "身分查證與臨檢",
+   "警勤區與家戶訪查",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "治安顧慮人口查訪",
+   "警勤區的劃分與經營",
+   "詢問與筆錄製作",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-109-pduty-03",
@@ -9609,7 +11477,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-109-pduty-04",
@@ -9646,7 +11520,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃"
+  ]
  },
  {
   "id": "cpu2-109-pduty-05",
@@ -9683,7 +11564,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-109-pduty-06",
@@ -9720,7 +11609,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "警勤區與家戶訪查",
+   "勤務規劃與督導",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "考核獎懲與停職免職",
+   "警勤區的劃分與經營",
+   "勤務規劃與分配",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-109-pduty-07",
@@ -9757,7 +11658,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-109-pduty-08",
@@ -9794,7 +11703,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "即時強制與管束"
+  ],
+  "topicDetails": [
+   "對人管束",
+   "行政執行的方法"
+  ]
  },
  {
   "id": "cpu2-109-pduty-09",
@@ -9831,7 +11748,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu2-109-pduty-10",
@@ -9868,7 +11791,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu2-109-pduty-11",
@@ -9905,7 +11836,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排",
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-109-pduty-12",
@@ -9950,7 +11890,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 10,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -9962,7 +11905,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "搜索與扣押"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-109-pduty-13",
@@ -9976,7 +11923,7 @@
   "stem": "憲法第8條規定的「除現行犯之逮捕由法律另定外，非經司法或警察機關得逮捕拘禁」此所指之警察機關係指：",
   "options": {
    "A": "狹義的警察",
-   "B": "學理上的警察上的警察",
+   "B": "學理上的警察",
    "C": "組織法上的警察",
    "D": "警察機關與警察人員的總稱"
   },
@@ -9999,7 +11946,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "現行犯逮捕",
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-109-pduty-14",
@@ -10036,7 +11991,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-109-pduty-15",
@@ -10073,7 +12032,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-109-pduty-16",
@@ -10110,7 +12073,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-109-pduty-17",
@@ -10147,7 +12119,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-109-pduty-18",
@@ -10184,7 +12162,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "勤務時間與勤休"
+  ]
  },
  {
   "id": "cpu2-109-pduty-19",
@@ -10221,7 +12205,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-109-pduty-20",
@@ -10232,7 +12220,7 @@
   "originalSubject": "警察勤務",
   "mappingLevel": "部分",
   "type": "single",
-  "stem": "下列有關通報越區辦案之敘述，何者有關通報越區辦案之敘述，何者錯誤？",
+  "stem": "下列有關通報越區辦案之敘述，何者錯誤？",
   "options": {
    "A": "於管轄區外執行臨檢時，應依程序通報當地警察機關會同辦理",
    "B": "於管轄區外執行搜索、逮捕等行動時，應依程序通報當地警察機關會同辦理",
@@ -10258,7 +12246,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "身分查證與臨檢",
+   "警械使用"
+  ],
+  "topicDetails": [
+   "用槍時機",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-109-pduty-21",
@@ -10298,7 +12296,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警械使用"
+  ],
+  "topicDetails": [
+   "警械種類與管理"
+  ]
  },
  {
   "id": "cpu2-109-pduty-22",
@@ -10338,7 +12342,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-109-pduty-23",
@@ -10378,7 +12388,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-109-pduty-24",
@@ -10422,9 +12440,14 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 48 條"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     },
     {
      "law": "性侵害犯罪防治法",
@@ -10436,7 +12459,12 @@
      "matched": "名稱",
      "level": "高",
      "changeCount": 1,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [
+      "第 23 條"
+     ],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -10448,7 +12476,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "身分查證與臨檢",
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "性侵害案件處理",
+   "家庭暴力與保護令",
+   "治安顧慮人口查訪",
+   "警勤區的劃分與經營",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-109-pduty-25",
@@ -10488,7 +12529,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-109-pduty-26",
@@ -10528,7 +12573,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-109-pduty-27",
@@ -10568,7 +12619,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-109-pduty-28",
@@ -10608,7 +12663,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "考核獎懲與停職免職",
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-109-pduty-29",
@@ -10647,7 +12710,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營",
+   "家戶訪查與查察對象",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu2-109-pduty-30",
@@ -10686,7 +12758,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "放火與爆炸"
+  ]
  },
  {
   "id": "cpu2-109-pduty-31",
@@ -10733,7 +12813,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 16,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -10745,7 +12828,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛"
+  ]
  },
  {
   "id": "cpu2-109-pduty-32",
@@ -10784,7 +12873,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "集會遊行",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "禁制區與限制",
+   "六種勤務方式",
+   "巡邏的方式與規劃"
+  ]
  },
  {
   "id": "cpu2-109-pduty-33",
@@ -10824,7 +12922,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "人身犯罪",
+   "身分查證與臨檢",
+   "即時強制與管束"
+  ],
+  "topicDetails": [
+   "傷害罪",
+   "查證身分的要件",
+   "對人管束"
+  ]
  },
  {
   "id": "cpu2-109-pduty-34",
@@ -10863,7 +12971,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "查證身分的要件",
+   "攔停與帶往",
+   "異議與救濟",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-109-pduty-35",
@@ -10903,7 +13021,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-109-pduty-36",
@@ -10944,7 +13068,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "勤務規劃與督導",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "考核獎懲與停職免職",
+   "警察教育與訓練",
+   "勤前教育與督導",
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu2-109-pduty-37",
@@ -10984,7 +13119,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-109-pduty-38",
@@ -11024,7 +13163,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-109-pduty-39",
@@ -11065,7 +13208,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-109-pduty-40",
@@ -11105,7 +13256,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-110-pduty-01",
@@ -11142,7 +13299,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-110-pduty-02",
@@ -11179,7 +13342,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-110-pduty-03",
@@ -11216,7 +13383,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警察人事與風紀",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "考核獎懲與停職免職",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu2-110-pduty-04",
@@ -11253,7 +13430,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-110-pduty-05",
@@ -11290,7 +13475,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-110-pduty-06",
@@ -11327,7 +13518,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "即時強制與管束"
+  ],
+  "topicDetails": [
+   "對人管束"
+  ]
  },
  {
   "id": "cpu2-110-pduty-07",
@@ -11364,7 +13561,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-110-pduty-08",
@@ -11401,7 +13602,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-110-pduty-09",
@@ -11438,7 +13647,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-110-pduty-10",
@@ -11475,7 +13690,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案"
+  ],
+  "topicDetails": [
+   "受理報案"
+  ]
  },
  {
   "id": "cpu2-110-pduty-11",
@@ -11512,7 +13733,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "偵訊與訪談技巧",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "詢問與筆錄製作",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-110-pduty-12",
@@ -11549,7 +13780,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-110-pduty-13",
@@ -11589,7 +13826,10 @@
      "matched": "名稱",
      "level": "高",
      "changeCount": 1,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -11601,7 +13841,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-110-pduty-14",
@@ -11638,7 +13882,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "家戶訪查與查察對象"
+  ]
  },
  {
   "id": "cpu2-110-pduty-15",
@@ -11675,7 +13927,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警察教育與訓練"
+  ]
  },
  {
   "id": "cpu2-110-pduty-16",
@@ -11712,7 +13972,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-110-pduty-17",
@@ -11749,7 +14017,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-110-pduty-18",
@@ -11786,7 +14058,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-110-pduty-19",
@@ -11823,7 +14103,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務規劃與督導",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "勤務指揮與聯防",
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu2-110-pduty-20",
@@ -11860,7 +14150,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "警察職權行使法的資料蒐集"
+  ]
  },
  {
   "id": "cpu2-110-pduty-21",
@@ -11900,7 +14196,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-110-pduty-22",
@@ -11940,7 +14240,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "犯罪預防理論"
+  ]
  },
  {
   "id": "cpu2-110-pduty-23",
@@ -11980,7 +14288,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "考核獎懲與停職免職",
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-110-pduty-24",
@@ -12019,7 +14335,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "告訴乃論與告訴期間",
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-110-pduty-25",
@@ -12059,7 +14383,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-110-pduty-26",
@@ -12098,7 +14430,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "警勤區的劃分與經營",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-110-pduty-27",
@@ -12138,7 +14480,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu2-110-pduty-28",
@@ -12179,7 +14527,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-110-pduty-29",
@@ -12220,7 +14574,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "身分查證與臨檢"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "攔停與帶往",
+   "異議與救濟"
+  ]
  },
  {
   "id": "cpu2-110-pduty-30",
@@ -12260,7 +14623,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "身分查證與臨檢",
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "警察機關的組織與層級",
+   "六種勤務方式",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "cpu2-110-pduty-31",
@@ -12300,7 +14675,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "警察職權行使法的資料蒐集"
+  ]
  },
  {
   "id": "cpu2-110-pduty-32",
@@ -12340,7 +14721,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "通緝與解送",
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-110-pduty-33",
@@ -12380,7 +14769,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-110-pduty-34",
@@ -12420,7 +14815,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "警械使用",
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "用槍時機",
+   "警察機關的組織與層級",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-110-pduty-35",
@@ -12460,7 +14867,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "集會遊行"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-110-pduty-36",
@@ -12499,7 +14910,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-110-pduty-37",
@@ -12540,7 +14957,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-110-pduty-38",
@@ -12584,7 +15005,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-110-pduty-39",
@@ -12623,7 +15050,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察教育與訓練",
+   "勤務時間與勤休",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu2-110-pduty-40",
@@ -12663,7 +15100,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "身分查證與臨檢",
+   "集會遊行",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "現行犯逮捕",
+   "現場處理與解散",
+   "六種勤務方式",
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu2-111-pduty-01",
@@ -12700,7 +15149,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu2-111-pduty-02",
@@ -12737,7 +15193,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛",
+   "交通違規裁罰"
+  ]
  },
  {
   "id": "cpu2-111-pduty-03",
@@ -12774,7 +15238,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警察組織與職權",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "警察機關的組織與層級",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-111-pduty-04",
@@ -12811,7 +15285,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "勤務指揮與聯防",
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu2-111-pduty-05",
@@ -12855,9 +15337,17 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 9,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 339 條",
+      "第 339 條之 2",
+      "第 341 條",
+      "第 341 條之 1"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     },
     {
      "law": "詐欺犯罪危害防制條例",
@@ -12871,6 +15361,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -12884,7 +15377,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "身分查證與臨檢",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "治安顧慮人口查訪",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-111-pduty-06",
@@ -12921,7 +15424,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-111-pduty-07",
@@ -12958,7 +15468,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "犯罪預防理論"
+  ]
  },
  {
   "id": "cpu2-111-pduty-08",
@@ -12995,7 +15511,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警察組織與職權",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-111-pduty-09",
@@ -13032,7 +15557,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警勤區的劃分與經營",
+   "家戶訪查與查察對象"
+  ]
  },
  {
   "id": "cpu2-111-pduty-10",
@@ -13069,7 +15603,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-111-pduty-11",
@@ -13106,7 +15644,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-111-pduty-12",
@@ -13143,7 +15687,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-111-pduty-13",
@@ -13180,7 +15730,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-111-pduty-14",
@@ -13226,7 +15782,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 9,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "社會秩序維護法",
@@ -13238,7 +15797,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -13250,7 +15812,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "社會秩序維護法"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-111-pduty-15",
@@ -13287,7 +15853,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-111-pduty-16",
@@ -13327,7 +15902,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -13339,7 +15917,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "社會秩序維護法",
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "警察機關的組織與層級",
+   "行政處分與程序",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu2-111-pduty-17",
@@ -13376,7 +15966,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛"
+  ]
  },
  {
   "id": "cpu2-111-pduty-18",
@@ -13413,7 +16009,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-111-pduty-19",
@@ -13453,7 +16053,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -13465,7 +16068,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "警察組織與職權",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令",
+   "警察機關的組織與層級",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-111-pduty-20",
@@ -13502,7 +16115,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案",
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "受理報案",
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-111-pduty-21",
@@ -13541,7 +16162,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "警械使用"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "通緝與解送",
+   "警械種類與管理"
+  ]
  },
  {
   "id": "cpu2-111-pduty-22",
@@ -13580,7 +16210,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "身分查證與臨檢",
+   "勤務規劃與督導",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "治安顧慮人口查訪",
+   "勤務指揮與聯防",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-111-pduty-23",
@@ -13621,7 +16263,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-111-pduty-24",
@@ -13650,7 +16298,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "低",
    "laws": [
     "家庭暴力防治法"
    ],
@@ -13663,9 +16311,14 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 48 條"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     }
    ]
   },
@@ -13677,7 +16330,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "身分查證與臨檢",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令",
+   "治安顧慮人口查訪",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-111-pduty-25",
@@ -13716,7 +16379,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "警勤區的劃分與經營",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-111-pduty-26",
@@ -13755,7 +16428,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "勤務規劃與督導",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "移送與報告",
+   "偵查犯罪手冊與刑案分類",
+   "勤務指揮與聯防",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu2-111-pduty-27",
@@ -13795,7 +16479,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警械使用",
+   "警察組織與職權",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "攔停與帶往",
+   "警械種類與管理",
+   "警察機關的組織與層級",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu2-111-pduty-28",
@@ -13835,7 +16531,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察教育與訓練",
+   "勤務時間與勤休",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu2-111-pduty-29",
@@ -13874,7 +16580,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "警察教育與訓練"
+  ]
  },
  {
   "id": "cpu2-111-pduty-30",
@@ -13913,7 +16625,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-111-pduty-31",
@@ -13953,7 +16671,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "勤務時間與勤休"
+  ]
  },
  {
   "id": "cpu2-111-pduty-32",
@@ -13992,7 +16718,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "身分查證與臨檢",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "緩刑與假釋",
+   "治安顧慮人口查訪",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-111-pduty-33",
@@ -14031,7 +16767,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-111-pduty-34",
@@ -14070,7 +16812,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-111-pduty-35",
@@ -14098,7 +16847,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "中華民國刑法"
    ],
@@ -14116,9 +16865,21 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 9,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 185 條之 3"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 185 條之 3",
+       "modifiedAt": [
+        "112-12-27"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -14130,7 +16891,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛"
+  ]
  },
  {
   "id": "cpu2-111-pduty-36",
@@ -14171,7 +16938,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "交通違規裁罰"
+  ]
  },
  {
   "id": "cpu2-111-pduty-37",
@@ -14218,9 +16991,19 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 9,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 20 條",
+      "第 224 條",
+      "第 225 條",
+      "第 226 條",
+      "第 226 條之 1",
+      "第 228 條"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     },
     {
      "law": "性侵害犯罪防治法",
@@ -14232,7 +17015,12 @@
      "matched": "名稱",
      "level": "高",
      "changeCount": 1,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [
+      "第 23 條"
+     ],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -14244,7 +17032,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "性侵害案件處理",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-111-pduty-38",
@@ -14284,7 +17080,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營",
+   "家戶訪查與查察對象",
+   "犯罪預防理論"
+  ]
  },
  {
   "id": "cpu2-111-pduty-39",
@@ -14323,7 +17128,21 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "身分查證與臨檢",
+   "警察組織與職權",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "查證身分的要件",
+   "攔停與帶往",
+   "異議與救濟",
+   "警察機關的組織與層級",
+   "人身自由與正當程序"
+  ]
  },
  {
   "id": "cpu2-111-pduty-40",
@@ -14368,7 +17187,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -14380,7 +17202,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-112-pduty-01",
@@ -14417,7 +17246,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "勤務時間與勤休"
+  ]
  },
  {
   "id": "cpu2-112-pduty-02",
@@ -14457,7 +17292,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -14469,7 +17307,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "偵訊與訪談技巧",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-112-pduty-03",
@@ -14506,7 +17353,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-112-pduty-04",
@@ -14546,7 +17397,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -14558,7 +17412,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "身分查證與臨檢",
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令",
+   "跟蹤騷擾",
+   "異議與救濟",
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-112-pduty-05",
@@ -14595,7 +17460,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "身分查證與臨檢",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "緩刑與假釋",
+   "治安顧慮人口查訪",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-112-pduty-06",
@@ -14632,7 +17507,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警勤區與家戶訪查",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警勤區的劃分與經營",
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu2-112-pduty-07",
@@ -14669,7 +17554,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "證據法則",
+   "警察組織與職權",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛",
+   "鑑定與勘驗",
+   "警察機關的組織與層級",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu2-112-pduty-08",
@@ -14706,7 +17603,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "犯罪預防理論"
+  ]
  },
  {
   "id": "cpu2-112-pduty-09",
@@ -14743,7 +17646,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-112-pduty-10",
@@ -14780,7 +17691,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "即時強制與管束",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "對人管束",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-112-pduty-11",
@@ -14791,7 +17712,7 @@
   "originalSubject": "警察勤務",
   "mappingLevel": "部分",
   "type": "single",
-  "stem": "依據「警察人員駕車安全考核實施要點」規定，警察人員駕車執行任務時，下列何種情形得何種情形得啟用警示燈及警鳴器，依法行使交通優先權？",
+  "stem": "依據「警察人員駕車安全考核實施要點」規定，警察人員駕車執行任務時，下列何種情形得啟用警示燈及警鳴器，依法行使交通優先權？",
   "options": {
    "A": "維護交通秩序或本身安全",
    "B": "行駛路肩或路肩停車",
@@ -14817,7 +17738,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察人事與風紀",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "考核獎懲與停職免職",
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu2-112-pduty-12",
@@ -14854,7 +17783,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-112-pduty-13",
@@ -14891,7 +17828,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-112-pduty-14",
@@ -14928,7 +17871,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-112-pduty-15",
@@ -14965,7 +17912,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "性侵害案件處理",
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-112-pduty-16",
@@ -15002,7 +17957,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-112-pduty-17",
@@ -15039,7 +17998,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "攔停與帶往",
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-112-pduty-18",
@@ -15076,7 +18043,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": [
+   "查證身分的要件",
+   "攔停與帶往"
+  ]
  },
  {
   "id": "cpu2-112-pduty-19",
@@ -15113,7 +18087,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-112-pduty-20",
@@ -15124,7 +18102,7 @@
   "originalSubject": "警察勤務",
   "mappingLevel": "部分",
   "type": "single",
-  "stem": "依據《警察勤務條例》》規定，下列何者基於事實需要，有權指派員警專責執行勤區查察，何者基於事實需要，有權指派員警專責執行勤區查察，實施專責勤區制度？",
+  "stem": "依據《警察勤務條例》》規定，下列何者基於事實需要，有權指派員警專責執行勤區查察，實施專責勤區制度？",
   "options": {
    "A": "警察分駐所",
    "B": "警察分局",
@@ -15150,7 +18128,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-112-pduty-21",
@@ -15191,7 +18177,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-112-pduty-22",
@@ -15230,7 +18222,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "警勤區的劃分與經營",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-112-pduty-23",
@@ -15272,7 +18274,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -15284,7 +18289,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案",
+   "社會秩序維護法",
+   "警察組織與職權",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "受理報案",
+   "警察機關的組織與層級",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu2-112-pduty-24",
@@ -15323,7 +18339,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃"
+  ]
  },
  {
   "id": "cpu2-112-pduty-25",
@@ -15362,7 +18385,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警察教育與訓練"
+  ]
  },
  {
   "id": "cpu2-112-pduty-26",
@@ -15402,7 +18433,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "警察組織與職權",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "緘默權與辯護權",
+   "警察機關的組織與層級",
+   "詢問與筆錄製作",
+   "偵訊策略"
+  ]
  },
  {
   "id": "cpu2-112-pduty-27",
@@ -15441,7 +18484,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-112-pduty-28",
@@ -15482,7 +18532,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "資料蒐集與個資保護",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "查證身分的要件",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-112-pduty-29",
@@ -15493,7 +18552,7 @@
   "originalSubject": "警察勤務",
   "mappingLevel": "部分",
   "type": "multi",
-  "stem": "下列何者符合何者符合「執行值班勤務作業程序值班勤務作業程序」及「槍械彈藥查核清點作業程序」之規定？",
+  "stem": "下列何者符合「執行值班勤務作業程序」及「槍械彈藥查核清點作業程序」之規定？",
   "options": {
    "A": "值班人員的工作包含駐地安全維護、通訊聯絡及傳達重要公文",
    "B": "值班人員負責犯罪嫌疑人及保護管束人等對象之保護、協管",
@@ -15522,7 +18581,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "即時強制與管束",
+   "勤務方式與編排",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "對人管束",
+   "六種勤務方式",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu2-112-pduty-30",
@@ -15562,7 +18632,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-112-pduty-31",
@@ -15602,7 +18676,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-112-pduty-32",
@@ -15643,7 +18723,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "身分查證與臨檢",
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "警察機關的組織與層級",
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-112-pduty-33",
@@ -15684,7 +18775,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-112-pduty-34",
@@ -15724,7 +18824,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "資料蒐集與個資保護",
+   "警勤區與家戶訪查",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "警察職權行使法的資料蒐集",
+   "警勤區的劃分與經營",
+   "勤務指揮與聯防",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-112-pduty-35",
@@ -15764,7 +18877,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-112-pduty-36",
@@ -15803,7 +18924,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-112-pduty-37",
@@ -15842,7 +18969,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營",
+   "家戶訪查與查察對象"
+  ]
  },
  {
   "id": "cpu2-112-pduty-38",
@@ -15882,7 +19016,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警械使用",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-112-pduty-39",
@@ -15921,7 +19063,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu2-112-pduty-40",
@@ -15934,11 +19084,11 @@
   "type": "multi",
   "stem": "依據「警察機關輪班輪休人員勤休實施要點」規定，下列敘述何者正確？",
   "options": {
-   "A": "服勤人員應依勤務分配表排定時間服勤，服勤時數以每日八小時，每週四十小時為原則以每日八小時，每週四十小時為原則",
-   "B": "超時服勤時同每日服勤時數，，該日不得超過十小時；每月超時服勤時數不得超過八十得超過八十小時",
+   "A": "服勤人員應依勤務分配表排定時間服勤，服勤時數以每日八小時，每週四十小時為原則",
+   "B": "超時服勤時同每日服勤時數，，該日不得超過十小時；每月超時服勤時數不得超過八十小時",
    "C": "警察分局督察組巡官編排超時服勤時數，以二小時為度，必要時，應將增加超時服勤時數陳陳報分局長核定，且最多再延長二小時為限",
-   "D": "刑事警察單位執行刑案偵查勤務刑案偵查勤務之服勤人員，每日服勤時數連同超時服，每日不得超過十六小時；超時服勤時得超過二百四十小時",
-   "E": "偵辦警察偵查犯罪手冊所列重大刑案及特殊刑案專案勤務重大刑案及特殊刑案專案勤務之服勤人員，每日服勤時同超時服勤時數，，不受十六小時限制，惟續超過二日；超時服勤時得超過一百小時"
+   "D": "刑事警察單位執行刑案偵查勤務之服勤人員，每日服勤時數連同超時服，每日不得超過十六小時；超時服勤時得超過二百四十小時",
+   "E": "偵辦警察偵查犯罪手冊所列重大刑案及特殊刑案專案勤務之服勤人員，每日服勤時同超時服勤時數，，不受十六小時限制，惟續超過二日；超時服勤時得超過一百小時"
   },
   "answers": [
    [
@@ -15961,7 +19111,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "勤務時間與勤休",
+   "勤務規劃與分配",
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-113-pduty-01",
@@ -15998,7 +19159,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "勤務時間與勤休"
+  ]
  },
  {
   "id": "cpu2-113-pduty-02",
@@ -16035,7 +19202,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "勤務時間與勤休"
+  ]
  },
  {
   "id": "cpu2-113-pduty-03",
@@ -16072,7 +19245,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-113-pduty-04",
@@ -16118,7 +19297,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 6,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "社會秩序維護法",
@@ -16130,7 +19312,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -16142,7 +19327,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "社會秩序維護法",
+   "集會遊行"
+  ],
+  "topicDetails": [
+   "現場處理與解散"
+  ]
  },
  {
   "id": "cpu2-113-pduty-05",
@@ -16184,6 +19376,9 @@
      "level": "中",
      "changeCount": 1,
      "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
     },
@@ -16199,6 +19394,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -16212,7 +19410,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "勤務規劃與督導",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "勤務指揮與聯防",
+   "洗錢防制"
+  ]
  },
  {
   "id": "cpu2-113-pduty-06",
@@ -16249,7 +19457,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警械使用",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-113-pduty-07",
@@ -16286,7 +19501,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-113-pduty-08",
@@ -16323,7 +19542,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-113-pduty-09",
@@ -16360,7 +19583,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "勤務規劃與分配",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-113-pduty-10",
@@ -16397,7 +19628,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-113-pduty-11",
@@ -16434,7 +19671,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-113-pduty-12",
@@ -16471,7 +19715,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "受理報案",
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu2-113-pduty-13",
@@ -16508,7 +19760,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未遂與中止",
+   "財產犯罪",
+   "司法警察職權與移送",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "恐嚇取財與擄人勒贖",
+   "移送與報告",
+   "偵查犯罪手冊與刑案分類",
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "cpu2-113-pduty-14",
@@ -16545,7 +19809,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-113-pduty-15",
@@ -16582,7 +19852,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "攔停與帶往",
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-113-pduty-16",
@@ -16619,7 +19897,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-113-pduty-17",
@@ -16656,7 +19940,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-113-pduty-18",
@@ -16693,7 +19985,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu2-113-pduty-19",
@@ -16730,7 +20028,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-113-pduty-20",
@@ -16767,7 +20069,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu2-113-pduty-21",
@@ -16806,7 +20116,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃",
+   "警勤區的劃分與經營",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-113-pduty-22",
@@ -16845,7 +20166,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu2-113-pduty-23",
@@ -16884,7 +20211,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-113-pduty-24",
@@ -16928,7 +20263,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "詐欺犯罪危害防制條例",
@@ -16942,6 +20280,9 @@
      "level": "高",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -16955,7 +20296,21 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "資料蒐集與個資保護",
+   "警察組織與職權",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "個人資料保護",
+   "警察機關的組織與層級",
+   "犯罪剖繪與犯罪心理",
+   "詐欺集團偵查",
+   "證人保護與人口販運"
+  ]
  },
  {
   "id": "cpu2-113-pduty-25",
@@ -16995,7 +20350,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "警察教育與訓練"
+  ]
  },
  {
   "id": "cpu2-113-pduty-26",
@@ -17035,7 +20396,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務規劃與督導",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-113-pduty-27",
@@ -17075,7 +20445,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃"
+  ]
  },
  {
   "id": "cpu2-113-pduty-28",
@@ -17114,7 +20491,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-113-pduty-29",
@@ -17154,7 +20537,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案",
+   "警察人事與風紀",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "受理報案",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-113-pduty-30",
@@ -17193,7 +20585,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "勤務規劃與督導",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "教唆與幫助",
+   "勤務規劃與分配",
+   "犯罪預防理論"
+  ]
  },
  {
   "id": "cpu2-113-pduty-31",
@@ -17238,6 +20640,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -17251,7 +20656,21 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "性犯罪與婦幼保護",
+   "司法警察職權與移送",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "詐欺與加重詐欺",
+   "性侵害案件處理",
+   "家庭暴力與保護令",
+   "偵查犯罪手冊與刑案分類",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu2-113-pduty-32",
@@ -17292,7 +20711,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-113-pduty-33",
@@ -17332,7 +20757,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-113-pduty-34",
@@ -17373,7 +20804,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "毒品與槍砲",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "施用毒品的處理"
+  ]
  },
  {
   "id": "cpu2-113-pduty-35",
@@ -17412,7 +20850,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "公務員犯罪與瀆職",
+   "勤務規劃與督導",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "濫權與洩密",
+   "勤務指揮與聯防",
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu2-113-pduty-36",
@@ -17452,7 +20900,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-113-pduty-37",
@@ -17480,7 +20932,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "低",
    "laws": [
     "中華民國刑法"
    ],
@@ -17498,9 +20950,14 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 6,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 231 條之 1"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     }
    ]
   },
@@ -17512,7 +20969,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "人身犯罪",
+   "司法警察職權與移送",
+   "警察組織與職權",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "傷害罪",
+   "偵查犯罪手冊與刑案分類",
+   "警察機關的組織與層級",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-113-pduty-38",
@@ -17552,7 +21021,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu2-113-pduty-39",
@@ -17592,7 +21068,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "拘提與緊急拘提",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-113-pduty-40",
@@ -17633,7 +21119,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "通緝與解送",
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-114-pduty-01",
@@ -17670,7 +21164,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案"
+  ],
+  "topicDetails": [
+   "受理報案"
+  ]
  },
  {
   "id": "cpu2-114-pduty-02",
@@ -17707,7 +21207,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "警械使用",
+   "集會遊行"
+  ],
+  "topicDetails": [
+   "警械種類與管理",
+   "現場處理與解散"
+  ]
  },
  {
   "id": "cpu2-114-pduty-03",
@@ -17744,7 +21253,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-114-pduty-04",
@@ -17781,7 +21296,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "警勤區的劃分與經營",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-114-pduty-05",
@@ -17818,7 +21343,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案",
+   "警勤區與家戶訪查",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "受理報案",
+   "警勤區的劃分與經營",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-114-pduty-06",
@@ -17855,7 +21390,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": [
+   "查證身分的要件",
+   "攔停與帶往"
+  ]
  },
  {
   "id": "cpu2-114-pduty-07",
@@ -17892,7 +21434,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "勤務時間與勤休"
+  ]
  },
  {
   "id": "cpu2-114-pduty-08",
@@ -17929,7 +21477,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "身分查證與臨檢",
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "緩刑與假釋",
+   "治安顧慮人口查訪",
+   "警勤區的劃分與經營",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-114-pduty-09",
@@ -17966,7 +21526,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-114-pduty-10",
@@ -18003,7 +21571,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-114-pduty-11",
@@ -18040,7 +21614,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-114-pduty-12",
@@ -18065,7 +21645,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "低",
    "laws": [
     "中華民國刑法"
    ],
@@ -18080,9 +21660,14 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 320 條"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     }
    ]
   },
@@ -18094,7 +21679,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-114-pduty-13",
@@ -18119,7 +21710,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "低",
    "laws": [
     "刑事訴訟法"
    ],
@@ -18133,9 +21724,15 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 229 條",
+      "第 231 條"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     }
    ]
   },
@@ -18147,7 +21744,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "偵查不公開",
+   "偵查犯罪手冊與刑案分類",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-114-pduty-14",
@@ -18184,7 +21791,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "羈押與強制處分",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "提審與人身自由救濟",
+   "人身自由與正當程序"
+  ]
  },
  {
   "id": "cpu2-114-pduty-15",
@@ -18221,7 +21836,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-114-pduty-16",
@@ -18258,7 +21877,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "查證身分的要件",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "cpu2-114-pduty-17",
@@ -18295,7 +21922,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務方式與編排",
+   "勤務規劃與督導",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "六種勤務方式",
+   "勤務規劃與分配",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-114-pduty-18",
@@ -18332,7 +21971,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查",
+   "警察人事與風紀",
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "定位與數位追蹤",
+   "考核獎懲與停職免職",
+   "六種勤務方式",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-114-pduty-19",
@@ -18369,7 +22020,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-114-pduty-20",
@@ -18406,7 +22063,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-114-pduty-21",
@@ -18446,7 +22109,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "受理報案",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu2-114-pduty-22",
@@ -18486,7 +22157,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "勤務指揮與聯防",
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu2-114-pduty-23",
@@ -18527,7 +22206,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未遂與中止",
+   "拘提逮捕與通緝",
+   "偵查原則與偵查不公開",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "現行犯逮捕",
+   "通緝與解送",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-114-pduty-24",
@@ -18568,7 +22258,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警械使用",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "警械種類與管理",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "cpu2-114-pduty-25",
@@ -18607,7 +22305,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警勤區與家戶訪查",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警勤區的劃分與經營",
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu2-114-pduty-26",
@@ -18646,7 +22354,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛"
+  ]
  },
  {
   "id": "cpu2-114-pduty-27",
@@ -18686,7 +22400,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-114-pduty-28",
@@ -18725,7 +22443,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-114-pduty-29",
@@ -18764,7 +22488,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "巡邏的方式與規劃",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-114-pduty-30",
@@ -18803,7 +22536,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-114-pduty-31",
@@ -18842,7 +22579,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案",
+   "社會秩序維護法",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "受理報案",
+   "處罰種類與裁處機關",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu2-114-pduty-32",
@@ -18881,7 +22628,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-114-pduty-33",
@@ -18920,7 +22671,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-114-pduty-34",
@@ -18961,7 +22718,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令",
+   "跟蹤騷擾"
+  ]
  },
  {
   "id": "cpu2-114-pduty-35",
@@ -19000,7 +22764,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "審判與救濟",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu2-114-pduty-36",
@@ -19039,7 +22810,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警械使用",
+   "集會遊行",
+   "行政程序與行政罰",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "用槍時機",
+   "現場處理與解散",
+   "行政法的一般原則",
+   "基本權的限制"
+  ]
  },
  {
   "id": "cpu2-114-pduty-37",
@@ -19079,7 +22862,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "警察教育與訓練"
+  ]
  },
  {
   "id": "cpu2-114-pduty-38",
@@ -19118,7 +22907,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-114-pduty-39",
@@ -19158,7 +22951,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-114-pduty-40",
@@ -19198,7 +22997,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "幫派調查"
+  ]
  },
  {
   "id": "cpu2-115-pduty-01",
@@ -19235,7 +23040,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "偵查原則與偵查不公開",
+   "警械使用"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-115-pduty-02",
@@ -19272,7 +23083,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "集會遊行",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "兒少性剝削與兒少保護",
+   "現場處理與解散",
+   "少年事件處理"
+  ]
  },
  {
   "id": "cpu2-115-pduty-03",
@@ -19309,7 +23130,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-115-pduty-04",
@@ -19346,7 +23171,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-115-pduty-05",
@@ -19383,7 +23212,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "證據法則"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛",
+   "有票搜索",
+   "現行犯逮捕",
+   "鑑定與勘驗",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-115-pduty-06",
@@ -19420,7 +23262,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排",
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "六種勤務方式",
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-115-pduty-07",
@@ -19457,7 +23307,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-115-pduty-08",
@@ -19494,7 +23348,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-115-pduty-09",
@@ -19528,7 +23386,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-115-pduty-10",
@@ -19565,7 +23429,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "即時強制與管束",
+   "社會秩序維護法",
+   "集會遊行"
+  ],
+  "topicDetails": [
+   "對物與對住宅的強制",
+   "現場處理與解散",
+   "六種勤務方式"
+  ]
  },
  {
   "id": "cpu2-115-pduty-11",
@@ -19602,7 +23477,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-115-pduty-12",
@@ -19627,7 +23508,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "低",
    "laws": [
     "中華民國刑法"
    ],
@@ -19640,9 +23521,14 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 235 條"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     }
    ]
   },
@@ -19654,7 +23540,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "社會秩序維護法"
+  ],
+  "topicDetails": [
+   "兒少性剝削與兒少保護",
+   "妨害善良風俗"
+  ]
  },
  {
   "id": "cpu2-115-pduty-13",
@@ -19691,7 +23585,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-115-pduty-14",
@@ -19728,7 +23626,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-115-pduty-15",
@@ -19753,7 +23655,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "低",
    "laws": [
     "中華民國刑法"
    ],
@@ -19766,9 +23668,15 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 221 條",
+      "第 222 條"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     }
    ]
   },
@@ -19780,7 +23688,20 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送",
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "性侵害案件處理",
+   "偵查犯罪手冊與刑案分類",
+   "警察機關的組織與層級",
+   "勤務指揮與聯防",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu2-115-pduty-16",
@@ -19817,7 +23738,21 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "羈押與強制處分",
+   "即時強制與管束",
+   "社會秩序維護法"
+  ],
+  "topicDetails": [
+   "二十四小時與告知義務",
+   "提審與人身自由救濟",
+   "對人管束",
+   "處罰種類與裁處機關",
+   "考核獎懲與停職免職",
+   "人身自由與正當程序"
+  ]
  },
  {
   "id": "cpu2-115-pduty-17",
@@ -19851,7 +23786,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-115-pduty-18",
@@ -19888,7 +23831,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤務規劃與分配"
+  ]
  },
  {
   "id": "cpu2-115-pduty-19",
@@ -19925,7 +23874,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "告訴告發與受理報案"
+  ],
+  "topicDetails": [
+   "受理報案"
+  ]
  },
  {
   "id": "cpu2-115-pduty-20",
@@ -19962,7 +23917,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-115-pduty-21",
@@ -20003,7 +23962,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "人身犯罪",
+   "即時強制與管束"
+  ],
+  "topicDetails": [
+   "傷害罪",
+   "對人管束"
+  ]
  },
  {
   "id": "cpu2-115-pduty-22",
@@ -20031,7 +23998,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "低",
    "laws": [
     "中華民國刑法"
    ],
@@ -20044,9 +24011,18 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 174 條",
+      "第 296 條之 2",
+      "第 302 條",
+      "第 327 條",
+      "第 339 條之 3"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     }
    ]
   },
@@ -20058,7 +24034,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-115-pduty-23",
@@ -20098,7 +24082,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警勤區與家戶訪查"
+  ],
+  "topicDetails": [
+   "警勤區的劃分與經營"
+  ]
  },
  {
   "id": "cpu2-115-pduty-24",
@@ -20137,7 +24127,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "勤前教育與督導"
+  ]
  },
  {
   "id": "cpu2-115-pduty-25",
@@ -20178,7 +24174,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "警察職權行使法的資料蒐集"
+  ]
  },
  {
   "id": "cpu2-115-pduty-26",
@@ -20218,7 +24220,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級"
+  ]
  },
  {
   "id": "cpu2-115-pduty-27",
@@ -20258,7 +24267,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "兒少性剝削與兒少保護"
+  ]
  },
  {
   "id": "cpu2-115-pduty-28",
@@ -20299,7 +24314,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "即時強制與管束"
+  ],
+  "topicDetails": [
+   "對物與對住宅的強制"
+  ]
  },
  {
   "id": "cpu2-115-pduty-29",
@@ -20340,7 +24361,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "人身犯罪",
+   "證據法則",
+   "身分查證與臨檢",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "傷害罪",
+   "證人與詰問",
+   "攔停與帶往",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "cpu2-115-pduty-30",
@@ -20379,7 +24412,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "社區警政與治安策略"
+  ]
  },
  {
   "id": "cpu2-115-pduty-31",
@@ -20419,7 +24458,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "警察組織與職權",
+   "勤務方式與編排",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "警察機關的組織與層級",
+   "勤務時間與勤休",
+   "交通事故處理"
+  ]
  },
  {
   "id": "cpu2-115-pduty-32",
@@ -20460,7 +24511,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令"
+  ]
  },
  {
   "id": "cpu2-115-pduty-33",
@@ -20500,7 +24557,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "警勤區與家戶訪查",
+   "勤務規劃與督導",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警勤區的劃分與經營",
+   "勤務規劃與分配",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-115-pduty-34",
@@ -20541,7 +24610,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-115-pduty-35",
@@ -20583,7 +24656,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "人身犯罪",
+   "警械使用",
+   "行政程序與行政罰",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "傷害罪",
+   "救濟途徑",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-115-pduty-36",
@@ -20623,7 +24707,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛"
+  ]
  },
  {
   "id": "cpu2-115-pduty-37",
@@ -20664,7 +24755,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA",
+   "偵訊與訪談技巧",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗",
+   "詢問與筆錄製作",
+   "施用毒品的處理"
+  ]
  },
  {
   "id": "cpu2-115-pduty-38",
@@ -20703,7 +24804,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢"
+  ],
+  "topicDetails": [
+   "查證身分的要件"
+  ]
  },
  {
   "id": "cpu2-115-pduty-39",
@@ -20743,7 +24850,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "勤務規劃與督導",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "恐嚇取財與擄人勒贖",
+   "勤務指揮與聯防"
+  ]
  },
  {
   "id": "cpu2-115-pduty-40",
@@ -20783,6 +24899,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "審判與救濟",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "交通事故處理"
+  ]
  }
 ]

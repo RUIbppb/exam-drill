@@ -94,7 +94,8 @@
         </div>
       </div>
       <p class="small" id="progress-note">進度只存在這台裝置的瀏覽器裡，沒有雲端備份。</p>
-      <div class="btn-row" style="margin-top:0.9rem;">
+      <button type="button" class="btn-secondary" id="weak-btn" style="margin-top:0.9rem;">看我的弱點分析</button>
+      <div class="btn-row" style="margin-top:0.7rem;">
         <button type="button" class="btn-primary" id="export-btn">匯出進度備份</button>
         <button type="button" class="btn-secondary" id="import-btn">匯入進度</button>
       </div>
@@ -300,7 +301,17 @@
         <div class="select-wrap"><select id="essay-year"></select></div>
       </div>
       <p class="small" id="essay-info"></p>
-      <button type="button" class="btn-secondary" id="essay-back-btn">回首頁</button>
+      <div class="btn-row">
+        <button type="button" class="btn-secondary btn-small" id="essay-topics-btn">看考點分布</button>
+        <button type="button" class="btn-secondary btn-small" id="essay-back-btn">回首頁</button>
+      </div>
+    </div>
+
+    <div class="card hidden" id="essay-topic-card">
+      <p class="card-title">考點分布</p>
+      <p class="small">哪些主題年年考。申論只能押題，趨勢比單一題目重要。點主題可以只看那幾題。</p>
+      <div id="essay-topic-list"></div>
+      <button type="button" class="btn-secondary" id="essay-topic-close">收起來，回去看題目</button>
     </div>
 
     <div class="card hidden" id="essay-question-card">
@@ -318,6 +329,39 @@
         <button type="button" class="btn-secondary btn-small" id="essay-next">下一題</button>
       </div>
     </div>
+  </section>
+
+  <!-- ===== 畫面十一：我的弱點 ===== -->
+  <section id="screen-weak" class="screen hidden">
+
+    <div class="card">
+      <p class="card-title">我的弱點</p>
+      <div class="field">
+        <label for="weak-target">要看哪一場考試的科目</label>
+        <div class="select-wrap">
+          <select id="weak-target">
+            <option value="警佐班第3類">警佐班第 3 類（警大）</option>
+            <option value="刑事三等">刑事警察人員三等（考選部）</option>
+            <option value="">全部科目</option>
+          </select>
+        </div>
+      </div>
+      <p class="small" id="weak-status">計算中…</p>
+      <button type="button" class="btn-secondary" id="weak-back-btn">回首頁</button>
+    </div>
+
+    <div class="card hidden" id="weak-subject-card">
+      <p class="card-title">哪一科比較弱</p>
+      <div id="weak-subjects"></div>
+    </div>
+
+    <div class="card hidden" id="weak-topic-card">
+      <p class="card-title">哪個主題比較弱</p>
+      <p class="small">由弱到強排，點一下就只刷那個主題（會先出沒刷過與答錯過的）。</p>
+      <div id="weak-topics"></div>
+      <p class="small" id="weak-topic-note"></p>
+    </div>
+
   </section>
 
   <!-- ===== 畫面十：法條速查 ===== -->
@@ -498,5 +542,6 @@
 <script src="./js/exam.js"></script>
 <script src="./js/essay.js"></script>
 <script src="./js/laws.js"></script>
+<script src="./js/weak.js"></script>
 </body>
 </html>

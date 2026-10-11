@@ -22,7 +22,7 @@
 var PQApp = (function () {
   'use strict';
 
-  var APP_VERSION = 'v2.1';
+  var APP_VERSION = 'v2.2';
 
   function $(id) { return document.getElementById(id); }
 
@@ -55,6 +55,7 @@ var PQApp = (function () {
     statTimes: $('stat-times'),
     statAccuracy: $('stat-accuracy'),
     progressNote: $('progress-note'),
+    weakBtn: $('weak-btn'),
     exportBtn: $('export-btn'),
     importBtn: $('import-btn'),
     importFile: $('import-file'),
@@ -131,11 +132,11 @@ var PQApp = (function () {
 
   // 【新增畫面時這兩個清單都要加，漏了的話畫面會切不過去】
   var SCREENS = ['home', 'setup', 'quiz', 'done', 'exam-setup', 'exam', 'exam-result',
-    'essay', 'laws', 'settings'];
+    'essay', 'laws', 'weak', 'settings'];
   var SCREEN_TITLES = {
     home: '首頁', setup: '隨機練習', quiz: '練習中', done: '本回成績',
     'exam-setup': '模擬整卷', exam: '模擬作答中', 'exam-result': '模擬結果',
-    essay: '申論題', laws: '法條速查', settings: '設定'
+    essay: '申論題', laws: '法條速查', weak: '我的弱點', settings: '設定'
   };
 
   var state = {
@@ -143,7 +144,8 @@ var PQApp = (function () {
     index: null,
     subjects: [],
     subject: null,        // 隨機練習目前選的科目
-    mode: 'random',       // random / due / wrong
+    mode: 'random',       // random / due / wrong / topic
+    modeLabel: '',        // 畫面上顯示的模式名稱（主題練習會帶主題名）
     pool: [],
     cursor: 0,
     picked: [],
@@ -501,6 +503,7 @@ var PQApp = (function () {
       }
       clearNotice('mode');
       state.mode = mode;
+      state.modeLabel = '';
       state.subject = null;
       state.pool = pool;            // 到期題與錯題本照排序出題，不洗牌
       state.cursor = 0;
@@ -529,6 +532,7 @@ var PQApp = (function () {
       return;
     }
     state.mode = 'random';
+    state.modeLabel = '';
     state.pool = PQPure.shuffle(pool);
     state.cursor = 0;
     state.records = [];
@@ -545,8 +549,8 @@ var PQApp = (function () {
     state.answered = false;
     window.scrollTo(0, 0);
 
-    var modeName = state.mode === 'due' ? '今天該複習的'
-      : (state.mode === 'wrong' ? '錯題本' : '隨機練習');
+    var modeName = state.modeLabel || (state.mode === 'due' ? '今天該複習的'
+      : (state.mode === 'wrong' ? '錯題本' : '隨機練習'));
     el.quizCounter.textContent = modeName + '　第 ' + (state.cursor + 1) +
       ' 題 ／ 本回共 ' + state.pool.length + ' 題';
     renderScore();
@@ -850,13 +854,35 @@ var PQApp = (function () {
     if (summary.total === 0) {
       el.doneNote.textContent = '這一回還沒有作答任何題目。';
     } else {
-      var where = state.mode === 'due' ? '今天該複習的'
-        : (state.mode === 'wrong' ? '錯題本' : ('科目：' + (state.subject ? state.subject.name : '不明')));
+      var where = state.modeLabel || (state.mode === 'due' ? '今天該複習的'
+        : (state.mode === 'wrong' ? '錯題本' : ('科目：' + (state.subject ? state.subject.name : '不明'))));
       el.doneNote.textContent = where + '，答錯 ' + summary.wrong + ' 題。進度已存在這台裝置。';
     }
     el.againBtn.classList.toggle('hidden', state.mode !== 'random');
     renderHome();
     showScreen('done');
+  }
+
+  /**
+   * 拿一包現成的題目開始練（弱點分析的「只刷這個主題」用）。
+   * @param {Array} pool 已經排好順序的題目
+   * @param {string} mode 模式代號
+   * @param {string} label 畫面上顯示的名稱
+   */
+  function startPool(pool, mode, label) {
+    if (!Array.isArray(pool) || pool.length === 0) {
+      showNotice('這個範圍沒有題目可以練習。', 'error', 'mode');
+      return;
+    }
+    state.mode = mode || 'topic';
+    state.modeLabel = label || '';
+    state.subject = null;
+    state.pool = pool;
+    state.cursor = 0;
+    state.records = [];
+    clearNotice();
+    showScreen('quiz');
+    renderQuestion();
   }
 
   /* ================= AI 詳解 ================= */
@@ -1295,6 +1321,9 @@ var PQApp = (function () {
     el.lawsBtn.addEventListener('click', function () {
       if (window.PQLaws) PQLaws.open();
     });
+    el.weakBtn.addEventListener('click', function () {
+      if (window.PQWeak) PQWeak.open();
+    });
     el.settingsBtn.addEventListener('click', openSettings);
     el.settingsBackBtn.addEventListener('click', goHome);
     [el.examDateCpu, el.examDateMoex, el.setThreshold, el.setDaily, el.setYearSpan]
@@ -1405,6 +1434,8 @@ var PQApp = (function () {
     getProgress: function () { return state.progress; },
     getSettings: settings,
     getSubjects: function () { return state.subjects; },
+    getIndex: function () { return state.index; },
+    startPool: startPool,
     saveProgress: saveProgressQuietly,
     renderHome: renderHome
   };

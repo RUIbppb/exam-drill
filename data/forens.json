@@ -35,7 +35,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場封鎖與保全"
+  ]
  },
  {
   "id": "moex-100-forens-02",
@@ -73,7 +79,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "moex-100-forens-03",
@@ -111,7 +123,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "證物保管與監管鏈"
+  ]
  },
  {
   "id": "moex-100-forens-04",
@@ -149,7 +167,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "moex-100-forens-05",
@@ -187,7 +211,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-100-forens-06",
@@ -225,7 +253,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-100-forens-07",
@@ -263,7 +297,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-100-forens-08",
@@ -301,7 +341,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-100-forens-09",
@@ -339,7 +383,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-100-forens-10",
@@ -377,7 +427,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-100-forens-11",
@@ -415,7 +471,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-100-forens-12",
@@ -453,7 +516,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-100-forens-13",
@@ -491,7 +558,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-100-forens-14",
@@ -529,7 +602,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-100-forens-15",
@@ -567,7 +644,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-100-forens-16",
@@ -605,7 +688,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-100-forens-17",
@@ -643,7 +732,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-100-forens-18",
@@ -681,7 +774,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "moex-100-forens-19",
@@ -719,7 +818,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-100-forens-20",
@@ -757,7 +860,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-100-forens-21",
@@ -795,7 +902,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-100-forens-22",
@@ -833,7 +948,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "moex-100-forens-23",
@@ -858,7 +979,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "毒品危害防制條例"
    ],
@@ -875,9 +996,21 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 5,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 2 條"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 2 條",
+       "modifiedAt": [
+        "109-01-15"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -890,7 +1023,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "moex-100-forens-25",
@@ -928,7 +1067,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=100110&c=503&s=2105&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=100110&c=503&s=2105&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-101-forens-01",
@@ -966,7 +1111,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-101-forens-02",
@@ -1004,7 +1155,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場封鎖與保全"
+  ]
  },
  {
   "id": "moex-101-forens-03",
@@ -1042,7 +1199,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-101-forens-04",
@@ -1080,7 +1241,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-101-forens-05",
@@ -1118,7 +1283,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-101-forens-06",
@@ -1156,7 +1328,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-101-forens-07",
@@ -1194,7 +1374,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-101-forens-08",
@@ -1232,7 +1420,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-101-forens-09",
@@ -1270,7 +1466,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-101-forens-10",
@@ -1308,7 +1510,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-101-forens-11",
@@ -1350,7 +1556,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1363,7 +1572,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "槍彈與藥毒物鑑識",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "moex-101-forens-12",
@@ -1401,7 +1619,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-101-forens-13",
@@ -1439,7 +1661,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-101-forens-14",
@@ -1477,7 +1703,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-101-forens-15",
@@ -1515,7 +1749,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-101-forens-16",
@@ -1553,7 +1791,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-101-forens-17",
@@ -1591,7 +1833,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-101-forens-18",
@@ -1629,7 +1877,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-101-forens-19",
@@ -1667,7 +1921,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-101-forens-20",
@@ -1710,6 +1968,9 @@
      "level": "中",
      "changeCount": 3,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "舊制電腦處理個人資料保護法時期的題目已過時"
     }
@@ -1724,7 +1985,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "個人資料保護"
+  ]
  },
  {
   "id": "moex-101-forens-21",
@@ -1762,7 +2029,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-101-forens-22",
@@ -1800,7 +2074,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-101-forens-23",
@@ -1838,7 +2116,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-101-forens-24",
@@ -1876,7 +2160,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-101-forens-25",
@@ -1914,7 +2202,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=101080&c=504&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=101080&c=504&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗",
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "moex-102-forens-01",
@@ -1958,7 +2253,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 5,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1971,7 +2269,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "moex-102-forens-02",
@@ -2009,7 +2313,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-102-forens-03",
@@ -2047,7 +2357,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-102-forens-04",
@@ -2085,7 +2401,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-102-forens-05",
@@ -2123,7 +2443,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-102-forens-06",
@@ -2161,7 +2485,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-102-forens-07",
@@ -2199,7 +2529,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-102-forens-08",
@@ -2237,7 +2575,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-102-forens-09",
@@ -2275,7 +2617,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-102-forens-10",
@@ -2313,7 +2659,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-102-forens-11",
@@ -2351,7 +2703,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場紀錄與測繪"
+  ]
  },
  {
   "id": "moex-102-forens-12",
@@ -2389,7 +2747,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-102-forens-13",
@@ -2427,7 +2791,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-102-forens-14",
@@ -2465,7 +2833,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "moex-102-forens-15",
@@ -2503,7 +2877,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-102-forens-16",
@@ -2541,7 +2921,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-102-forens-17",
@@ -2579,7 +2965,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-102-forens-18",
@@ -2617,7 +3009,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-102-forens-19",
@@ -2658,7 +3056,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -2671,7 +3072,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "性侵害案件處理",
+   "DNA 型別與比對",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-102-forens-20",
@@ -2709,7 +3119,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-102-forens-21",
@@ -2747,7 +3163,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "鑑定與勘驗",
+   "指認程序"
+  ]
  },
  {
   "id": "moex-102-forens-22",
@@ -2785,7 +3210,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-102-forens-23",
@@ -2823,7 +3254,12 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-102-forens-24",
@@ -2861,7 +3297,17 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "證據法則",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "證人與詰問",
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-102-forens-25",
@@ -2902,7 +3348,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -2915,7 +3364,17 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=102080&c=504&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=102080&c=504&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "性侵害案件處理",
+   "鑑定與勘驗",
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-103-forens-01",
@@ -2953,7 +3412,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-103-forens-02",
@@ -2991,7 +3457,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-103-forens-03",
@@ -3029,7 +3501,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-103-forens-04",
@@ -3067,7 +3547,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-103-forens-05",
@@ -3105,7 +3591,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "moex-103-forens-06",
@@ -3143,7 +3635,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-103-forens-07",
@@ -3181,7 +3677,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-103-forens-08",
@@ -3219,7 +3723,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-103-forens-09",
@@ -3257,7 +3768,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-103-forens-10",
@@ -3295,7 +3814,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-103-forens-11",
@@ -3333,7 +3858,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "足跡與工具痕跡"
+  ]
  },
  {
   "id": "moex-103-forens-12",
@@ -3371,7 +3902,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "指紋比對與特徵"
+  ]
  },
  {
   "id": "moex-103-forens-13",
@@ -3409,7 +3947,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-103-forens-14",
@@ -3447,7 +3989,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-103-forens-15",
@@ -3485,7 +4033,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-103-forens-16",
@@ -3523,7 +4075,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "指紋採驗與顯現",
+   "指紋比對與特徵"
+  ]
  },
  {
   "id": "moex-103-forens-17",
@@ -3561,7 +4122,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-103-forens-18",
@@ -3599,7 +4169,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-103-forens-19",
@@ -3637,7 +4211,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-103-forens-20",
@@ -3675,7 +4253,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA",
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗",
+   "屍體現象與死亡時間"
+  ]
  },
  {
   "id": "moex-103-forens-22",
@@ -3715,7 +4301,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -3728,7 +4317,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "警械使用",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-103-forens-23",
@@ -3766,7 +4362,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "moex-103-forens-24",
@@ -3804,7 +4406,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-103-forens-25",
@@ -3842,7 +4450,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=103070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=103070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-104-forens-01",
@@ -3880,7 +4494,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "moex-104-forens-02",
@@ -3918,7 +4538,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "moex-104-forens-03",
@@ -3956,7 +4582,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-104-forens-04",
@@ -3994,7 +4624,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "指紋採驗與顯現",
+   "指紋比對與特徵"
+  ]
  },
  {
   "id": "moex-104-forens-05",
@@ -4032,7 +4671,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-104-forens-06",
@@ -4070,7 +4715,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-104-forens-07",
@@ -4111,7 +4762,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -4124,7 +4778,20 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "證據法則",
+   "生物跡證與DNA",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "性侵害案件處理",
+   "鑑定與勘驗",
+   "血跡與體液檢驗",
+   "槍彈與射擊鑑識",
+   "文書與筆跡鑑識"
+  ]
  },
  {
   "id": "moex-104-forens-08",
@@ -4162,7 +4829,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "足跡與工具痕跡"
+  ]
  },
  {
   "id": "moex-104-forens-09",
@@ -4200,7 +4874,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-104-forens-10",
@@ -4238,7 +4918,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-104-forens-11",
@@ -4281,7 +4967,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 4,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -4294,7 +4983,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "moex-104-forens-12",
@@ -4332,7 +5027,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-104-forens-13",
@@ -4370,7 +5071,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-104-forens-14",
@@ -4408,7 +5113,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-104-forens-15",
@@ -4446,7 +5157,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-104-forens-16",
@@ -4484,7 +5199,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-104-forens-17",
@@ -4522,7 +5241,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-104-forens-18",
@@ -4560,7 +5285,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-104-forens-19",
@@ -4598,7 +5331,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識",
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-104-forens-20",
@@ -4636,7 +5376,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-104-forens-21",
@@ -4674,7 +5418,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "財產犯罪"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-104-forens-22",
@@ -4712,7 +5460,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-104-forens-23",
@@ -4750,7 +5504,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-104-forens-24",
@@ -4788,7 +5549,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-104-forens-25",
@@ -4826,7 +5593,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=104070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=104070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-105-forens-01",
@@ -4863,7 +5636,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "現場封鎖與保全"
+  ]
  },
  {
   "id": "moex-105-forens-02",
@@ -4900,7 +5681,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-105-forens-03",
@@ -4937,7 +5722,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-105-forens-04",
@@ -4974,7 +5766,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場紀錄與測繪"
+  ]
  },
  {
   "id": "moex-105-forens-05",
@@ -5011,7 +5809,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-105-forens-06",
@@ -5048,7 +5853,17 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "毛髮與纖維",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-105-forens-07",
@@ -5085,7 +5900,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "放火與爆炸",
+   "證物保管與監管鏈"
+  ]
  },
  {
   "id": "moex-105-forens-08",
@@ -5122,7 +5945,19 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "審判與救濟",
+   "生物跡證與DNA",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "再審與非常上訴",
+   "血跡與體液檢驗",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-105-forens-09",
@@ -5163,7 +5998,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -5175,7 +6013,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護",
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "個人資料保護",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-105-forens-10",
@@ -5212,7 +6059,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-105-forens-11",
@@ -5249,7 +6102,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "恐嚇取財與擄人勒贖",
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-105-forens-12",
@@ -5274,7 +6135,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "中華民國刑法"
    ],
@@ -5292,9 +6153,23 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 26,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 185 條之 3"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 185 條之 3",
+       "modifiedAt": [
+        "108-06-19",
+        "111-01-28",
+        "112-12-27"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -5306,7 +6181,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛"
+  ]
  },
  {
   "id": "moex-105-forens-13",
@@ -5343,7 +6224,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛"
+  ]
  },
  {
   "id": "moex-105-forens-14",
@@ -5380,7 +6267,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-105-forens-15",
@@ -5417,7 +6310,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-105-forens-16",
@@ -5442,7 +6339,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "毒品危害防制條例"
    ],
@@ -5458,9 +6355,21 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 4,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 2 條"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 2 條",
+       "modifiedAt": [
+        "109-01-15"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -5472,7 +6381,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "moex-105-forens-17",
@@ -5509,7 +6424,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "財產犯罪"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-105-forens-18",
@@ -5546,7 +6465,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-105-forens-19",
@@ -5583,7 +6509,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "moex-105-forens-20",
@@ -5620,7 +6554,19 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "證據法則",
+   "生物跡證與DNA",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "放火與爆炸",
+   "鑑定與勘驗",
+   "毛髮與纖維",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-105-forens-21",
@@ -5657,7 +6603,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "證據法則"
+  ],
+  "topicDetails": [
+   "肇事逃逸",
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-105-forens-22",
@@ -5694,7 +6648,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-105-forens-23",
@@ -5731,7 +6691,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-105-forens-24",
@@ -5768,7 +6732,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "moex-105-forens-25",
@@ -5805,7 +6775,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=105070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=105070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-106-forens-01",
@@ -5842,7 +6818,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-106-forens-02",
@@ -5879,7 +6859,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-106-forens-03",
@@ -5916,7 +6902,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-106-forens-04",
@@ -5953,7 +6947,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-106-forens-05",
@@ -5990,7 +6990,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-106-forens-06",
@@ -6027,7 +7031,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-106-forens-07",
@@ -6064,7 +7074,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-106-forens-08",
@@ -6101,7 +7115,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-106-forens-09",
@@ -6138,7 +7158,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-106-forens-10",
@@ -6175,7 +7201,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-106-forens-11",
@@ -6212,7 +7242,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-106-forens-12",
@@ -6249,7 +7283,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-106-forens-13",
@@ -6286,7 +7328,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-106-forens-14",
@@ -6323,7 +7369,17 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "證物保管與監管鏈",
+   "足跡與工具痕跡",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-106-forens-15",
@@ -6360,7 +7416,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-106-forens-16",
@@ -6397,7 +7457,18 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "刑案現場處理",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "證人與詰問",
+   "現場紀錄與測繪",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "moex-106-forens-17",
@@ -6434,7 +7505,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-106-forens-18",
@@ -6471,7 +7546,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-106-forens-19",
@@ -6508,7 +7587,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-106-forens-20",
@@ -6545,7 +7633,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛"
+  ]
  },
  {
   "id": "moex-106-forens-21",
@@ -6582,7 +7676,18 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "刑案現場處理",
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "DNA 型別與比對",
+   "詢問與筆錄製作"
+  ]
  },
  {
   "id": "moex-106-forens-22",
@@ -6619,7 +7724,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-106-forens-23",
@@ -6656,7 +7767,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "藥毒物鑑驗",
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "moex-106-forens-24",
@@ -6693,7 +7813,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-106-forens-25",
@@ -6730,7 +7854,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=106070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=106070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "交通事故處理"
+  ]
  },
  {
   "id": "moex-107-forens-01",
@@ -6767,7 +7897,14 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場封鎖與保全"
+  ]
  },
  {
   "id": "moex-107-forens-02",
@@ -6804,7 +7941,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "足跡與工具痕跡",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-107-forens-03",
@@ -6849,7 +7994,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-107-forens-04",
@@ -6886,7 +8035,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-107-forens-05",
@@ -6923,7 +8080,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-107-forens-06",
@@ -6960,7 +8121,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-107-forens-07",
@@ -6997,7 +8164,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-107-forens-08",
@@ -7034,7 +8207,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-107-forens-09",
@@ -7071,7 +8250,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-107-forens-10",
@@ -7108,7 +8293,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-107-forens-11",
@@ -7145,7 +8334,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "交通事故處理"
+  ]
  },
  {
   "id": "moex-107-forens-12",
@@ -7182,7 +8379,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "moex-107-forens-13",
@@ -7219,7 +8422,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "現場勘察與重建",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-107-forens-14",
@@ -7256,7 +8467,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-107-forens-15",
@@ -7293,7 +8510,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-107-forens-16",
@@ -7330,7 +8553,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-107-forens-17",
@@ -7367,7 +8596,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-107-forens-18",
@@ -7404,7 +8639,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "財產犯罪"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-107-forens-19",
@@ -7441,7 +8680,14 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-107-forens-20",
@@ -7478,7 +8724,14 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識",
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-107-forens-21",
@@ -7515,7 +8768,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "現場勘察與重建",
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-107-forens-22",
@@ -7552,7 +8813,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-107-forens-23",
@@ -7589,7 +8854,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-107-forens-24",
@@ -7626,7 +8897,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-107-forens-25",
@@ -7663,7 +8942,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=107070&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=107070&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-108-forens-01",
@@ -7700,7 +8985,18 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "足跡與工具痕跡",
+   "DNA 型別與比對",
+   "血跡與體液檢驗",
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-108-forens-02",
@@ -7737,7 +9033,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-108-forens-03",
@@ -7774,7 +9074,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "相驗與死因調查",
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-108-forens-04",
@@ -7811,7 +9119,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "moex-108-forens-05",
@@ -7848,7 +9162,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗",
+   "血跡型態分析"
+  ]
  },
  {
   "id": "moex-108-forens-06",
@@ -7885,7 +9207,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-108-forens-07",
@@ -7922,7 +9252,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "文書與筆跡鑑識"
+  ]
  },
  {
   "id": "moex-108-forens-08",
@@ -7959,7 +9297,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-108-forens-09",
@@ -7996,7 +9342,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未遂與中止",
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-108-forens-10",
@@ -8033,7 +9388,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-108-forens-11",
@@ -8070,7 +9429,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-108-forens-12",
@@ -8107,7 +9470,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-108-forens-13",
@@ -8144,7 +9513,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-108-forens-14",
@@ -8181,7 +9554,17 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "血跡與體液檢驗",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-108-forens-15",
@@ -8218,7 +9601,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-108-forens-16",
@@ -8255,7 +9644,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "財產犯罪"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-108-forens-17",
@@ -8292,7 +9685,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "毛髮與纖維",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-108-forens-18",
@@ -8329,7 +9730,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗",
+   "交通事故處理"
+  ]
  },
  {
   "id": "moex-108-forens-19",
@@ -8366,7 +9775,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場紀錄與測繪"
+  ]
  },
  {
   "id": "moex-108-forens-20",
@@ -8403,7 +9818,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "藥毒物鑑驗",
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "moex-108-forens-21",
@@ -8440,7 +9864,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-108-forens-22",
@@ -8477,7 +9908,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "moex-108-forens-23",
@@ -8514,7 +9951,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "足跡與工具痕跡"
+  ]
  },
  {
   "id": "moex-108-forens-24",
@@ -8551,7 +9995,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-108-forens-25",
@@ -8588,7 +10038,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=108070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=108070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-109-forens-01",
@@ -8625,7 +10079,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-109-forens-02",
@@ -8662,7 +10122,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-109-forens-03",
@@ -8699,7 +10163,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-109-forens-04",
@@ -8736,7 +10206,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-109-forens-05",
@@ -8773,7 +10251,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "moex-109-forens-06",
@@ -8810,7 +10294,14 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗",
+   "血跡型態分析"
+  ]
  },
  {
   "id": "moex-109-forens-07",
@@ -8871,7 +10362,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-109-forens-08",
@@ -8908,7 +10405,14 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗",
+   "血跡型態分析"
+  ]
  },
  {
   "id": "moex-109-forens-09",
@@ -8945,7 +10449,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "文書與筆跡鑑識"
+  ]
  },
  {
   "id": "moex-109-forens-10",
@@ -8982,7 +10492,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-109-forens-11",
@@ -9019,7 +10535,14 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-109-forens-12",
@@ -9056,7 +10579,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-109-forens-13",
@@ -9093,7 +10622,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-109-forens-14",
@@ -9130,7 +10665,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-109-forens-15",
@@ -9167,7 +10708,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-109-forens-16",
@@ -9204,7 +10751,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-109-forens-17",
@@ -9241,7 +10792,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-109-forens-18",
@@ -9278,7 +10833,17 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "生物跡證與DNA",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "毛髮與纖維",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-109-forens-19",
@@ -9315,7 +10880,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-109-forens-20",
@@ -9352,7 +10921,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-109-forens-21",
@@ -9389,7 +10962,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-109-forens-22",
@@ -9426,7 +11005,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-109-forens-23",
@@ -9463,7 +11046,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-109-forens-24",
@@ -9500,7 +11089,14 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "指紋比對與特徵"
+  ]
  },
  {
   "id": "moex-109-forens-25",
@@ -9537,7 +11133,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=109070&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=109070&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-110-forens-01",
@@ -9574,7 +11174,19 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "警察組織與職權",
+   "刑案現場處理",
+   "指紋與痕跡鑑識",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "證物保管與監管鏈",
+   "指紋採驗與顯現",
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-110-forens-02",
@@ -9611,7 +11223,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "moex-110-forens-03",
@@ -9648,7 +11266,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-110-forens-04",
@@ -9685,7 +11309,19 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "刑案現場處理",
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "相驗與死因調查",
+   "現場封鎖與保全",
+   "現場勘察與重建",
+   "現場紀錄與測繪",
+   "死因與損傷"
+  ]
  },
  {
   "id": "moex-110-forens-05",
@@ -9722,7 +11358,17 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "毛髮與纖維",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-110-forens-06",
@@ -9767,7 +11413,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "moex-110-forens-07",
@@ -9804,7 +11456,18 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "證據法則",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "有票搜索",
+   "鑑定與勘驗",
+   "現場封鎖與保全",
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "moex-110-forens-08",
@@ -9841,7 +11504,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-110-forens-09",
@@ -9878,7 +11547,18 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "生物跡證與DNA",
+   "槍彈與藥毒物鑑識",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "放火與爆炸",
+   "毛髮與纖維",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-110-forens-10",
@@ -9915,7 +11595,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-110-forens-11",
@@ -9952,7 +11636,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-110-forens-12",
@@ -9989,7 +11679,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-110-forens-13",
@@ -10026,7 +11724,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "死因與損傷"
+  ]
  },
  {
   "id": "moex-110-forens-14",
@@ -10063,7 +11769,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "屍體現象與死亡時間"
+  ]
  },
  {
   "id": "moex-110-forens-15",
@@ -10108,7 +11820,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-110-forens-16",
@@ -10145,7 +11863,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "證物保管與監管鏈",
+   "死因與損傷"
+  ]
  },
  {
   "id": "moex-110-forens-17",
@@ -10182,7 +11908,14 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗",
+   "血跡型態分析"
+  ]
  },
  {
   "id": "moex-110-forens-18",
@@ -10219,7 +11952,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-110-forens-19",
@@ -10256,7 +11993,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-110-forens-20",
@@ -10293,7 +12034,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-110-forens-21",
@@ -10330,7 +12075,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "放火與爆炸"
+  ]
  },
  {
   "id": "moex-110-forens-22",
@@ -10367,7 +12118,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-110-forens-23",
@@ -10404,7 +12159,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-110-forens-24",
@@ -10441,7 +12202,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-110-forens-25",
@@ -10478,7 +12243,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=110070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-111-forens-01",
@@ -10515,7 +12284,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-111-forens-02",
@@ -10552,7 +12325,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-111-forens-03",
@@ -10589,7 +12366,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-111-forens-04",
@@ -10626,7 +12407,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-111-forens-05",
@@ -10663,7 +12448,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-111-forens-06",
@@ -10700,7 +12489,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "毛髮與纖維",
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-111-forens-07",
@@ -10737,7 +12534,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-111-forens-08",
@@ -10774,7 +12577,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "足跡與工具痕跡",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-111-forens-09",
@@ -10811,7 +12623,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-111-forens-10",
@@ -10848,7 +12666,18 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "現場勘察與重建",
+   "指紋採驗與顯現",
+   "足跡與工具痕跡",
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-111-forens-11",
@@ -10885,7 +12714,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-111-forens-12",
@@ -10922,7 +12757,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗",
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-111-forens-13",
@@ -10959,7 +12801,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-111-forens-14",
@@ -10996,7 +12842,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-111-forens-15",
@@ -11033,7 +12885,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-111-forens-16",
@@ -11075,6 +12931,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -11088,7 +12947,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識",
+   "詐欺洗錢與財經犯罪",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗",
+   "詐欺集團偵查"
+  ]
  },
  {
   "id": "moex-111-forens-17",
@@ -11125,7 +12993,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-111-forens-18",
@@ -11162,7 +13036,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-111-forens-19",
@@ -11199,7 +13077,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛"
+  ]
  },
  {
   "id": "moex-111-forens-20",
@@ -11236,7 +13120,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-111-forens-21",
@@ -11273,7 +13163,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗",
+   "血跡型態分析"
+  ]
  },
  {
   "id": "moex-111-forens-22",
@@ -11310,7 +13207,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-111-forens-23",
@@ -11347,7 +13250,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-111-forens-24",
@@ -11384,7 +13291,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗",
+   "血跡型態分析"
+  ]
  },
  {
   "id": "moex-111-forens-25",
@@ -11421,7 +13335,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111070&c=503&s=1601&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=111070&c=503&s=1601&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-112-forens-01",
@@ -11458,7 +13376,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-112-forens-02",
@@ -11495,7 +13419,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "人身犯罪"
+  ],
+  "topicDetails": [
+   "傷害罪"
+  ]
  },
  {
   "id": "moex-112-forens-03",
@@ -11532,7 +13462,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-112-forens-04",
@@ -11569,7 +13503,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "人身犯罪"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-112-forens-05",
@@ -11606,7 +13544,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-112-forens-06",
@@ -11643,7 +13585,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-112-forens-07",
@@ -11680,7 +13628,17 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "證據法則",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "肇事逃逸",
+   "鑑定與勘驗",
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-112-forens-08",
@@ -11717,7 +13675,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-112-forens-09",
@@ -11754,7 +13716,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "屍體現象與死亡時間"
+  ]
  },
  {
   "id": "moex-112-forens-10",
@@ -11791,7 +13759,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-112-forens-11",
@@ -11828,7 +13802,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "現場勘察與重建"
+  ]
  },
  {
   "id": "moex-112-forens-12",
@@ -11865,7 +13846,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-112-forens-13",
@@ -11902,7 +13890,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "moex-112-forens-14",
@@ -11939,7 +13933,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-112-forens-15",
@@ -11976,7 +13977,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "槍彈與藥毒物鑑識",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "現場勘察與重建",
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-112-forens-16",
@@ -12013,7 +14023,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-112-forens-17",
@@ -12050,7 +14067,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-112-forens-18",
@@ -12087,7 +14110,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-112-forens-19",
@@ -12124,7 +14153,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-112-forens-20",
@@ -12161,7 +14196,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "刑案現場處理",
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-112-forens-21",
@@ -12198,7 +14239,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-112-forens-22",
@@ -12235,7 +14280,17 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "指紋與痕跡鑑識",
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "指紋採驗與顯現",
+   "文書與筆跡鑑識"
+  ]
  },
  {
   "id": "moex-112-forens-23",
@@ -12272,7 +14327,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-112-forens-24",
@@ -12309,7 +14368,18 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "偵查的發動與計畫",
+   "現場勘察與重建",
+   "血跡與體液檢驗",
+   "血跡型態分析"
+  ]
  },
  {
   "id": "moex-112-forens-25",
@@ -12346,7 +14416,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112070&c=503&s=1701&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=112070&c=503&s=1701&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-113-forens-01",
@@ -12383,7 +14457,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-113-forens-02",
@@ -12420,7 +14502,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-113-forens-03",
@@ -12457,7 +14547,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "現場勘察與重建",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-113-forens-04",
@@ -12494,7 +14592,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-113-forens-05",
@@ -12531,7 +14633,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "指紋比對與特徵"
+  ]
  },
  {
   "id": "moex-113-forens-06",
@@ -12573,6 +14682,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -12586,7 +14698,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-113-forens-07",
@@ -12623,7 +14743,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-113-forens-08",
@@ -12660,7 +14787,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-113-forens-09",
@@ -12697,7 +14830,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "moex-113-forens-10",
@@ -12734,7 +14875,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-113-forens-11",
@@ -12771,7 +14919,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-113-forens-12",
@@ -12808,7 +14962,19 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA",
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "指紋採驗與顯現",
+   "DNA 型別與比對",
+   "文書與筆跡鑑識"
+  ]
  },
  {
   "id": "moex-113-forens-13",
@@ -12845,7 +15011,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-113-forens-14",
@@ -12882,7 +15054,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-113-forens-15",
@@ -12919,7 +15099,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-113-forens-16",
@@ -12956,7 +15140,14 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-113-forens-17",
@@ -12993,7 +15184,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-113-forens-18",
@@ -13030,7 +15225,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "足跡與工具痕跡",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-113-forens-19",
@@ -13067,7 +15270,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-113-forens-20",
@@ -13104,7 +15313,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "現場勘察與重建",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-113-forens-21",
@@ -13141,7 +15358,13 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-113-forens-22",
@@ -13178,7 +15401,16 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "藥毒物鑑驗",
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "moex-113-forens-23",
@@ -13215,7 +15447,19 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "現場勘察與重建",
+   "足跡與工具痕跡",
+   "血跡與體液檢驗",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-113-forens-24",
@@ -13252,7 +15496,15 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-113-forens-25",
@@ -13289,7 +15541,11 @@
    "answerKind": "標準答案",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113060&c=503&s=1401&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=113060&c=503&s=1401&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-114-forens-01",
@@ -13326,7 +15582,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-114-forens-02",
@@ -13363,7 +15623,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-114-forens-03",
@@ -13400,7 +15664,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "足跡與工具痕跡"
+  ]
  },
  {
   "id": "moex-114-forens-04",
@@ -13437,7 +15707,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "moex-114-forens-05",
@@ -13474,7 +15750,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "文書與筆跡鑑識"
+  ]
  },
  {
   "id": "moex-114-forens-06",
@@ -13518,7 +15802,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-114-forens-07",
@@ -13555,7 +15847,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-114-forens-08",
@@ -13592,7 +15890,17 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現",
+   "DNA 型別與比對",
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-114-forens-09",
@@ -13629,7 +15937,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
  },
  {
   "id": "moex-114-forens-10",
@@ -13666,7 +15980,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-114-forens-11",
@@ -13703,7 +16025,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-114-forens-12",
@@ -13740,7 +16070,14 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 型別與比對",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-114-forens-13",
@@ -13777,7 +16114,17 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "證據法則",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "酒駕與不能安全駕駛",
+   "鑑定與勘驗",
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-114-forens-14",
@@ -13814,7 +16161,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-114-forens-15",
@@ -13851,7 +16206,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "槍彈與射擊鑑識"
+  ]
  },
  {
   "id": "moex-114-forens-16",
@@ -13888,7 +16249,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "藥毒物鑑驗"
+  ]
  },
  {
   "id": "moex-114-forens-17",
@@ -13929,7 +16296,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-114-forens-18",
@@ -13966,7 +16337,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "縱火與爆裂物鑑識"
+  ]
  },
  {
   "id": "moex-114-forens-19",
@@ -14003,7 +16380,13 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
  },
  {
   "id": "moex-114-forens-20",
@@ -14040,7 +16423,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "人身犯罪",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "傷害罪",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "moex-114-forens-21",
@@ -14077,7 +16468,17 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "警察組織與職權",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "警察機關的組織與層級",
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-114-forens-22",
@@ -14114,7 +16515,14 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
  },
  {
   "id": "moex-114-forens-23",
@@ -14151,7 +16559,11 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
  },
  {
   "id": "moex-114-forens-24",
@@ -14188,7 +16600,15 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "毛髮與纖維"
+  ]
  },
  {
   "id": "moex-114-forens-25",
@@ -14225,6 +16645,14 @@
    "answerKind": "答案更正",
    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114060&c=503&s=1501&q=1",
    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=114060&c=503&s=1501&q=1"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "肇事逃逸",
+   "藥毒物鑑驗"
+  ]
  }
 ]

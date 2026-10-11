@@ -22,6 +22,11 @@ var PQEssay = (function () {
     info: $('essay-info'),
     backBtn: $('essay-back-btn'),
 
+    topicsBtn: $('essay-topics-btn'),
+    topicCard: $('essay-topic-card'),
+    topicList: $('essay-topic-list'),
+    topicClose: $('essay-topic-close'),
+
     card: $('essay-question-card'),
     tags: $('essay-tags'),
     session: $('essay-session'),
@@ -37,8 +42,9 @@ var PQEssay = (function () {
     subjects: null,     // 科目代號 → { name, years, demo }
     demo: false,
     questions: [],      // 目前這一科的全部申論題
-    pool: [],           // 依年度篩選後的題目
+    pool: [],           // 依年度（與主題）篩選後的題目
     cursor: 0,
+    topic: '',          // 目前只看哪一個考點（空字串＝全部）
     loaded: false
   };
 
@@ -81,6 +87,7 @@ var PQEssay = (function () {
   function loadSubject() {
     var code = el.subject.value;
     if (!code) return;
+    state.topic = '';        // 換科目就不留上一科的考點篩選
     el.info.textContent = '正在載入題目…';
     el.card.classList.add('hidden');
 
@@ -114,6 +121,7 @@ var PQEssay = (function () {
     state.pool = year
       ? state.questions.filter(function (q) { return String(q.year) === String(year); })
       : state.questions.slice();
+    if (state.topic) state.pool = PQPure.filterByTopic(state.pool, state.topic);
 
     // 新的年度排前面，同年度照題號
     state.pool.sort(function (a, b) {
@@ -127,7 +135,9 @@ var PQEssay = (function () {
       el.card.classList.add('hidden');
       return;
     }
-    el.info.textContent = '這個範圍有 ' + state.pool.length + ' 題。系統不批改，草稿只存在這台裝置。';
+    el.info.textContent = '這個範圍有 ' + state.pool.length + ' 題' +
+      (state.topic ? ('（只看「' + state.topic + '」這個考點）') : '') +
+      '。系統不批改，草稿只存在這台裝置。';
     renderQuestion();
   }
 
@@ -197,7 +207,77 @@ var PQEssay = (function () {
     renderQuestion();
   }
 
+  /* ---------- 考點分布 ---------- */
+
+  /**
+   * 哪些主題年年考。
+   * 申論題只能押題，所以「考過幾次、哪幾年考」比單一題目重要得多。
+   */
+  function renderTopicStats() {
+    var year = el.year.value;
+    // 考點統計看的是整個科目的歷年題目，不受目前年度篩選影響
+    var rows = PQPure.essayTopicStats(state.questions);
+    el.topicList.textContent = '';
+
+    if (rows.length === 0) {
+      el.topicList.appendChild(makeEl('p', 'small', '這一科沒有題目可以統計。'));
+    } else if (rows.length === 1 && rows[0].topic === PQPure.UNTAGGED) {
+      el.topicList.appendChild(makeEl('div', 'notice',
+        '這一科的申論題還沒有主題標籤，所以統計不出考點分布。' +
+        '等題庫補上標籤之後，這裡就會列出哪些主題年年考。'));
+    } else {
+      rows.forEach(function (row) {
+        el.topicList.appendChild(makeTopicRow(row));
+      });
+      el.topicList.appendChild(makeEl('p', 'small',
+        '一題可能掛好幾個考點，所以次數加起來會比題數多。' +
+        (year ? '（統計看的是這一科的歷年全部題目，不受上面的年度篩選影響）' : '')));
+    }
+
+    el.topicCard.classList.remove('hidden');
+    el.card.classList.add('hidden');
+    window.scrollTo(0, 0);
+  }
+
+  function makeTopicRow(row) {
+    var box = document.createElement('button');
+    box.type = 'button';
+    box.className = 'stat-line stat-line-clickable';
+
+    var head = makeEl('div', 'stat-line-head');
+    head.appendChild(makeEl('span', 'stat-line-name', row.topic));
+    head.appendChild(makeEl('span', 'stat-line-rate', '考過 ' + row.count + ' 次'));
+    box.appendChild(head);
+
+    // 年度標籤列：一眼看得出是年年考還是偶爾考
+    var years = makeEl('div', 'year-chips');
+    row.years.forEach(function (year) {
+      years.appendChild(makeEl('span', 'year-chip', year + ' 年'));
+    });
+    box.appendChild(years);
+
+    box.appendChild(makeEl('span', 'stat-line-note',
+      '橫跨 ' + row.yearCount + ' 個年度' +
+      (row.latestYear ? ('，最近一次 ' + row.latestYear + ' 年') : '') + '　點一下只看這幾題'));
+
+    box.addEventListener('click', function () {
+      state.topic = row.topic;
+      el.year.value = '';               // 看某個考點時不再限年度
+      el.topicCard.classList.add('hidden');
+      applyFilter();
+    });
+    return box;
+  }
+
+  function closeTopicStats() {
+    el.topicCard.classList.add('hidden');
+    state.topic = '';
+    applyFilter();
+  }
+
   function bind() {
+    el.topicsBtn.addEventListener('click', renderTopicStats);
+    el.topicClose.addEventListener('click', closeTopicStats);
     el.subject.addEventListener('change', loadSubject);
     el.year.addEventListener('change', applyFilter);
     el.backBtn.addEventListener('click', function () {

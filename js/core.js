@@ -408,6 +408,238 @@ var PQPure = (function () {
   }
 
   // ============================================================
+  // 主題統計（弱點分析、申論考點）
+  // ============================================================
+
+  var UNTAGGED = '未分類';            // 沒有標主題的題目統一歸這一類，不可以讓它們消失
+  var LOW_CONFIDENCE_MIN = 5;         // 作答題數少於這個數字，答對率參考價值低
+
+  /** 取出一題的主題；沒有標籤的歸「未分類」，不會回空陣列 */
+  function topicsOf(question) {
+    var list = question && question.topics;
+    if (!Array.isArray(list)) return [UNTAGGED];
+    var clean = list.map(function (item) { return String(item || '').trim(); })
+      .filter(function (item) { return item !== ''; });
+    return clean.length > 0 ? clean : [UNTAGGED];
+  }
+
+  /**
+   * 讀索引裡的主題清單（建置器會附各主題題數，不用自己掃全庫）。
+   * 格式可能是 { 主題: 題數 } 或 { 主題: { count: 題數 } }，兩種都接。
+   * @returns {Object|null} { 主題: 題數 }
+   */
+  function readTopicTotals(index) {
+    var block = index && (index.topics || index['主題'] || index.topicIndex);
+    if (!block || typeof block !== 'object') return null;
+    var source = block.topics && typeof block.topics === 'object' ? block.topics : block;
+
+    var totals = {};
+    Object.keys(source).forEach(function (topic) {
+      var value = source[topic];
+      var count = (value && typeof value === 'object') ? Number(value.count) : Number(value);
+      if (isFinite(count)) totals[topic] = count;
+    });
+    return Object.keys(totals).length > 0 ? totals : null;
+  }
+
+  /** 一題有沒有作答過 */
+  function hasAnswered(entry) {
+    if (!entry) return false;
+    return ((Number(entry.correctCount) || 0) + (Number(entry.wrongCount) || 0)) > 0;
+  }
+
+  /**
+   * 依主題統計答對率（弱點分析用）。
+   *
+   * 【注意】一題可以掛好幾個主題，所以各主題的題數加起來會比總題數多，
+   * 這是正常的，畫面上要跟使用者講清楚。
+   *
+   * @param {Array} questions 題目（要含 topics）
+   * @param {Object} progress 進度
+   * @param {Object} options { topicTotals, minAnswered }
+   * @returns {Array} 由弱到強排序
+   */
+  function topicStats(questions, progress, options) {
+    var settings = options || {};
+    var map = (progress && progress.questions) || {};
+    var totals = settings.topicTotals || null;
+    var minAnswered = Number(settings.minAnswered) || LOW_CONFIDENCE_MIN;
+    var box = {};
+
+    (Array.isArray(questions) ? questions : []).forEach(function (question) {
+      if (!question) return;
+      var entry = map[question.id];
+      var answered = hasAnswered(entry);
+      var correct = Number(entry && entry.correctCount) || 0;
+      var wrong = Number(entry && entry.wrongCount) || 0;
+
+      topicsOf(question).forEach(function (topic) {
+        if (!box[topic]) {
+          box[topic] = { topic: topic, total: 0, answeredQuestions: 0, correct: 0, wrong: 0 };
+        }
+        box[topic].total += 1;
+        if (answered) {
+          box[topic].answeredQuestions += 1;
+          box[topic].correct += correct;
+          box[topic].wrong += wrong;
+        }
+      });
+    });
+
+    var rows = Object.keys(box).map(function (topic) {
+      var item = box[topic];
+      var times = item.correct + item.wrong;
+      // 題庫總題數優先用索引給的；沒刷過的題數一定要用同一個基準算，
+      // 否則會出現「題庫 120 題、還有 1 題沒刷過」這種自相矛盾的數字
+      var total = totals && totals[topic] !== undefined ? totals[topic] : item.total;
+      return {
+        topic: topic,
+        total: total,
+        answered: item.answeredQuestions,          // 刷過幾題（不重複計）
+        times: times,                              // 總共作答幾次
+        correct: item.correct,
+        wrong: item.wrong,
+        accuracy: times === 0 ? null : Math.round((item.correct / times) * 100),
+        untouched: Math.max(0, total - item.answeredQuestions),
+        lowConfidence: item.answeredQuestions > 0 && item.answeredQuestions < minAnswered
+      };
+    });
+
+    // 最弱的排最前面；還沒刷過的（沒有答對率）排最後，因為那不是「弱」是「還沒練」
+    rows.sort(function (a, b) {
+      if (a.accuracy === null && b.accuracy === null) return b.total - a.total;
+      if (a.accuracy === null) return 1;
+      if (b.accuracy === null) return -1;
+      if (a.accuracy !== b.accuracy) return a.accuracy - b.accuracy;
+      return b.answered - a.answered;              // 答對率一樣時，刷得多的排前面（比較可信）
+    });
+    return rows;
+  }
+
+  /** 依科目統計答對率（哪一科整體最弱） */
+  function subjectStats(questions, progress) {
+    var map = (progress && progress.questions) || {};
+    var box = {};
+
+    (Array.isArray(questions) ? questions : []).forEach(function (question) {
+      if (!question) return;
+      var name = question.subject || '不明科目';
+      if (!box[name]) box[name] = { subject: name, total: 0, answered: 0, correct: 0, wrong: 0 };
+      box[name].total += 1;
+
+      var entry = map[question.id];
+      if (hasAnswered(entry)) {
+        box[name].answered += 1;
+        box[name].correct += Number(entry.correctCount) || 0;
+        box[name].wrong += Number(entry.wrongCount) || 0;
+      }
+    });
+
+    var rows = Object.keys(box).map(function (name) {
+      var item = box[name];
+      var times = item.correct + item.wrong;
+      return {
+        subject: name,
+        total: item.total,
+        answered: item.answered,
+        times: times,
+        correct: item.correct,
+        wrong: item.wrong,
+        accuracy: times === 0 ? null : Math.round((item.correct / times) * 100),
+        untouched: Math.max(0, item.total - item.answered),
+        lowConfidence: item.answered > 0 && item.answered < LOW_CONFIDENCE_MIN
+      };
+    });
+
+    rows.sort(function (a, b) {
+      if (a.accuracy === null && b.accuracy === null) return b.total - a.total;
+      if (a.accuracy === null) return 1;
+      if (b.accuracy === null) return -1;
+      return a.accuracy - b.accuracy;
+    });
+    return rows;
+  }
+
+  /**
+   * 從某個主題挑題目出來練。
+   * 順序：沒刷過的 → 答錯過的（錯最多次的優先）→ 其他，
+   * 因為「補弱點」最該補的是沒碰過與一直錯的。
+   */
+  function pickTopicQuestions(questions, progress, topic, limit, randomFn) {
+    var map = (progress && progress.questions) || {};
+    var fresh = [];
+    var wrong = [];
+    var rest = [];
+
+    (Array.isArray(questions) ? questions : []).forEach(function (question) {
+      if (!question) return;
+      if (topic && topicsOf(question).indexOf(topic) === -1) return;
+      var entry = map[question.id];
+      if (!hasAnswered(entry)) { fresh.push(question); return; }
+      if ((Number(entry.wrongCount) || 0) > 0) { wrong.push(question); return; }
+      rest.push(question);
+    });
+
+    fresh = shuffle(fresh, randomFn);
+    wrong.sort(function (a, b) {
+      return (Number(map[b.id].wrongCount) || 0) - (Number(map[a.id].wrongCount) || 0);
+    });
+    rest = shuffle(rest, randomFn);
+
+    var all = fresh.concat(wrong).concat(rest);
+    var max = Number(limit) > 0 ? Number(limit) : all.length;
+    return all.slice(0, max);
+  }
+
+  /**
+   * 申論考點統計：哪些主題年年考。
+   * 申論只能押題，所以「出現幾次、哪幾年考過」比題目本身重要。
+   * @returns {Array} 由考得最多的排到最少
+   */
+  function essayTopicStats(questions) {
+    var box = {};
+
+    (Array.isArray(questions) ? questions : []).forEach(function (question) {
+      if (!question) return;
+      var year = Number(question.year);
+      topicsOf(question).forEach(function (topic) {
+        if (!box[topic]) box[topic] = { topic: topic, count: 0, years: {}, ids: [] };
+        box[topic].count += 1;
+        if (isFinite(year)) box[topic].years[year] = true;
+        if (question.id) box[topic].ids.push(question.id);
+      });
+    });
+
+    var rows = Object.keys(box).map(function (topic) {
+      var item = box[topic];
+      var years = Object.keys(item.years).map(Number).sort(function (a, b) { return a - b; });
+      return {
+        topic: topic,
+        count: item.count,
+        years: years,
+        yearCount: years.length,
+        latestYear: years.length ? years[years.length - 1] : null,
+        ids: item.ids
+      };
+    });
+
+    rows.sort(function (a, b) {
+      if (b.count !== a.count) return b.count - a.count;
+      if (b.yearCount !== a.yearCount) return b.yearCount - a.yearCount;
+      return a.topic.localeCompare(b.topic);
+    });
+    return rows;
+  }
+
+  /** 照主題篩題目（申論考點點進去看那幾題用） */
+  function filterByTopic(questions, topic) {
+    if (!topic) return Array.isArray(questions) ? questions.slice() : [];
+    return (Array.isArray(questions) ? questions : []).filter(function (question) {
+      return topicsOf(question).indexOf(topic) !== -1;
+    });
+  }
+
+  // ============================================================
   // 法條速查
   // ============================================================
 
@@ -1284,6 +1516,22 @@ var PQPure = (function () {
         var single = item.amendedAt || item.amendedOn || item.revisedAt || item.revisedDate ||
           item.date || item['修正日期'] || item.year || item['修正年'];
 
+        /*
+         * 有條號就講得更具體：「刑法第 339-4 條在 113-07-31 修正過」。
+         * 欄位名以建置器寫進 docs/題庫格式.md 的為準，接不到就只講法規名。
+         */
+        var articleField = item.articles || item.article || item.articleNos ||
+          item['條號'] || item['條文'];
+        var articleList = Array.isArray(articleField) ? articleField.filter(Boolean)
+          : (articleField ? [articleField] : []);
+        if (articleList.length > 0) {
+          var shown = articleList.slice(0, 3).map(function (no) {
+            var text = String(no).trim();
+            return /^第/.test(text) ? text : formatArticleKey(normalizeArticleKey(text) || text);
+          });
+          law = law + shown.join('、') + (articleList.length > 3 ? ' 等條文' : '');
+        }
+
         if (dates.length > 1) {
           pieces.push(law + '在出題後修正過 ' + count + ' 次（最近 ' + dates[dates.length - 1] + '）');
         } else if (dates.length === 1) {
@@ -1413,6 +1661,17 @@ var PQPure = (function () {
     staleNotice: staleNotice,
     staleLawRefs: staleLawRefs,
     oldQuestionNotice: oldQuestionNotice,
+
+    // 主題統計
+    UNTAGGED: UNTAGGED,
+    LOW_CONFIDENCE_MIN: LOW_CONFIDENCE_MIN,
+    topicsOf: topicsOf,
+    readTopicTotals: readTopicTotals,
+    topicStats: topicStats,
+    subjectStats: subjectStats,
+    pickTopicQuestions: pickTopicQuestions,
+    essayTopicStats: essayTopicStats,
+    filterByTopic: filterByTopic,
 
     // 法條速查
     normalizeArticleKey: normalizeArticleKey,

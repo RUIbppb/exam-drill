@@ -34,7 +34,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-02",
@@ -76,7 +82,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -88,7 +97,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-03",
@@ -131,7 +146,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 4,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -143,7 +161,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "審判與救濟",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "組織犯罪防制條例"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-04",
@@ -184,7 +209,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -196,7 +224,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "表意自由",
+   "隱私與資訊自主"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-05",
@@ -242,7 +277,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 26,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "詐欺犯罪危害防制條例",
@@ -256,6 +294,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -269,7 +310,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "強盜與搶奪",
+   "詐欺與加重詐欺",
+   "恐嚇取財與擄人勒贖",
+   "少年事件處理"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-06",
@@ -310,7 +361,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -322,7 +376,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "羈押與強制處分",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-07",
@@ -368,7 +430,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 26,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "性侵害犯罪防治法",
@@ -380,7 +445,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -392,7 +460,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "緩刑與假釋",
+   "妨害性自主"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-08",
@@ -429,7 +505,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "審判與救濟",
+   "行政程序與行政罰"
+  ],
+  "topicDetails": [
+   "妨害性自主",
+   "行政處分與程序"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-09",
@@ -466,7 +551,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-10",
@@ -509,7 +600,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 4,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -521,7 +615,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "毒品與槍砲",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "施用毒品的處理",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-11",
@@ -564,7 +666,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 4,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -576,7 +681,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "拘提逮捕與通緝",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "兒少性剝削與兒少保護",
+   "二十四小時與告知義務",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-12",
@@ -623,6 +738,9 @@
      "level": "中",
      "changeCount": 19,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
     },
@@ -637,7 +755,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -649,7 +770,12 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查",
+   "證據法則"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-105-spclaw-13",
@@ -686,7 +812,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "資料蒐集與個資保護",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 與生物資料庫",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-14",
@@ -727,7 +861,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -739,7 +876,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "起訴與不起訴",
+   "行政程序與行政罰"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令",
+   "救濟途徑"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-15",
@@ -764,7 +910,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "組織犯罪防制條例"
    ],
@@ -780,9 +926,23 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 4,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 3 條"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 3 條",
+       "modifiedAt": [
+        "106-04-19",
+        "107-01-03",
+        "112-05-24"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -794,7 +954,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "行政程序與行政罰",
+   "組織犯罪與治安顧慮",
+   "憲法基本權",
+   "釋憲與違憲審查"
+  ],
+  "topicDetails": [
+   "行政法的一般原則",
+   "組織犯罪防制條例",
+   "人身自由與正當程序",
+   "基本權的限制"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-16",
@@ -834,7 +1006,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -846,7 +1021,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "證據法則",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-17",
@@ -883,7 +1067,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "攔停與帶往",
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-18",
@@ -924,7 +1116,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -936,7 +1131,21 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "性犯罪與婦幼保護",
+   "偽造與妨害自由名譽",
+   "通訊監察與科技偵查"
+  ],
+  "topicDetails": [
+   "強盜與搶奪",
+   "侵占與背信",
+   "妨害性自主",
+   "通信紀錄調取",
+   "司法警察的身分與職權",
+   "官職分立與陞遷"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-19",
@@ -982,6 +1191,9 @@
      "level": "中",
      "changeCount": 19,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "年代越久的題目風險越高，建議以近 10 年為主"
     }
@@ -995,7 +1207,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "偵查的發動與計畫",
+   "司法警察的身分與職權",
+   "官職分立與陞遷"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-20",
@@ -1037,7 +1260,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1049,7 +1275,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "通緝與解送",
+   "少年事件處理"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-21",
@@ -1097,7 +1332,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 26,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "性侵害犯罪防治法",
@@ -1109,7 +1347,10 @@
      "matched": "名稱",
      "level": "高",
      "changeCount": 1,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -1121,7 +1362,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "性犯罪與婦幼保護",
+   "公務員犯罪與瀆職"
+  ],
+  "topicDetails": [
+   "強盜與搶奪",
+   "妨害性自主",
+   "性侵害案件處理",
+   "貪污治罪條例"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-22",
@@ -1165,7 +1417,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1177,7 +1432,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-23",
@@ -1216,7 +1477,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "人身犯罪",
+   "公共危險與交通犯罪",
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "強盜與搶奪",
+   "放火與爆炸",
+   "DNA 與生物資料庫",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-24",
@@ -1259,7 +1532,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1271,7 +1547,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "公務員犯罪與瀆職",
+   "通訊監察與科技偵查",
+   "告訴告發與受理報案"
+  ],
+  "topicDetails": [
+   "濫權與洩密",
+   "告訴乃論與告訴期間"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-25",
@@ -1314,7 +1599,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1326,7 +1614,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "通訊監察與科技偵查"
+  ],
+  "topicDetails": [
+   "強盜與搶奪",
+   "恐嚇取財與擄人勒贖",
+   "通訊監察書"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-26",
@@ -1372,7 +1669,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 4,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1384,7 +1684,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "組織犯罪防制條例"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-27",
@@ -1431,7 +1737,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "詐欺犯罪危害防制條例",
@@ -1445,6 +1754,9 @@
      "level": "中",
      "changeCount": 2,
      "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "這是新法，113 年以前的題目不會出現，但舊題裡以普通詐欺處理的情境答案可能已不同"
     }
@@ -1458,7 +1770,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "少年事件處理"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-28",
@@ -1497,7 +1817,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "少年事件處理"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-29",
@@ -1545,7 +1871,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 26,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "槍砲彈藥刀械管制條例",
@@ -1559,7 +1888,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1571,7 +1903,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "行政程序與行政罰",
+   "毒品與槍砲",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "行政法的一般原則",
+   "槍砲彈藥刀械",
+   "基本權的限制"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-30",
@@ -1616,7 +1958,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 4,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1628,7 +1973,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "毒品危害防制條例",
+   "施用毒品的處理"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-31",
@@ -1677,6 +2029,9 @@
      "level": "中",
      "changeCount": 4,
      "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
     }
@@ -1690,7 +2045,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "沒收新制",
+   "洗錢防制"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-32",
@@ -1739,7 +2102,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 26,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "兒童及少年性剝削防制條例",
@@ -1754,7 +2120,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 4,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1766,7 +2135,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "兒少性剝削與兒少保護"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-33",
@@ -1810,7 +2185,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1822,7 +2200,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查",
+   "司法警察職權與移送",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "通信紀錄調取",
+   "司法警察的身分與職權",
+   "官職分立與陞遷"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-34",
@@ -1861,7 +2249,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "起訴與不起訴",
+   "審判與救濟",
+   "資料蒐集與個資保護",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 與生物資料庫",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-35",
@@ -1907,7 +2305,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -1919,7 +2320,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-36",
@@ -1958,7 +2365,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "少年事件處理"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-37",
@@ -2001,7 +2414,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -2013,7 +2429,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "勤務規劃與督導",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "勤務指揮與聯防",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-38",
@@ -2059,7 +2484,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 4,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2071,7 +2499,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "組織犯罪防制條例"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-39",
@@ -2110,7 +2545,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "毒品與槍砲",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "槍砲彈藥刀械",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-105-spclaw-40",
@@ -2153,7 +2596,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2165,7 +2611,11 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查"
+  ],
+  "topicDetails": []
  },
  {
   "id": "cpu2-106-spclaw-01",
@@ -2190,7 +2640,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "槍砲彈藥刀械管制條例"
    ],
@@ -2205,9 +2655,21 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 7 條"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 7 條",
+       "modifiedAt": [
+        "109-06-10"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -2219,7 +2681,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "身分查證與臨檢",
+   "勤務方式與編排",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "強盜與搶奪",
+   "六種勤務方式",
+   "巡邏的方式與規劃",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-02",
@@ -2256,7 +2730,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-03",
@@ -2281,7 +2763,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "低",
    "laws": [
     "刑事訴訟法"
    ],
@@ -2299,9 +2781,17 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 17,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 228 條",
+      "第 229 條",
+      "第 230 條",
+      "第 231 條"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     }
    ]
   },
@@ -2313,7 +2803,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送",
+   "警察人事與風紀",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "偵查的發動與計畫",
+   "司法警察的身分與職權",
+   "官職分立與陞遷"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-04",
@@ -2355,7 +2856,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2367,7 +2871,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "起訴與不起訴",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "緩起訴與職權不起訴",
+   "毒品危害防制條例",
+   "施用毒品的處理"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-05",
@@ -2410,7 +2923,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 4,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2422,7 +2938,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "拘提逮捕與通緝",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "兒少性剝削與兒少保護",
+   "二十四小時與告知義務",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-06",
@@ -2463,7 +2989,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2475,7 +3004,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查",
+   "憲法基本權",
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "通訊監察書",
+   "平等權與受益權"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-07",
@@ -2516,7 +3055,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2528,7 +3070,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "公務員犯罪與瀆職",
+   "組織犯罪與治安顧慮",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "組織犯罪防制條例",
+   "選舉罷免與公民投票"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-08",
@@ -2565,7 +3116,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "少年事件與犯罪預防",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "少年事件處理",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-09",
@@ -2602,7 +3161,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "公共危險與交通犯罪",
+   "羈押與強制處分",
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "妨害性自主",
+   "放火與爆炸",
+   "DNA 與生物資料庫",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-10",
@@ -2644,7 +3215,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2656,7 +3230,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "少年事件處理"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-11",
@@ -2696,7 +3278,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -2708,7 +3293,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "勤務規劃與督導",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "勤務指揮與聯防",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-12",
@@ -2733,7 +3327,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "槍砲彈藥刀械管制條例"
    ],
@@ -2748,9 +3342,22 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 4 條"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 4 條",
+       "modifiedAt": [
+        "109-06-10",
+        "113-01-03"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -2762,7 +3369,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "槍彈與藥毒物鑑識",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "放火與爆炸",
+   "槍彈與射擊鑑識",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-13",
@@ -2787,7 +3404,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "毒品危害防制條例"
    ],
@@ -2802,9 +3419,21 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 12 條"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 12 條",
+       "modifiedAt": [
+        "111-05-04"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -2816,7 +3445,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "未遂與中止",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-14",
@@ -2857,7 +3493,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2869,7 +3508,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "公務員犯罪與瀆職",
+   "證據法則",
+   "偵訊與訪談技巧",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "濫權與洩密",
+   "證人與詰問",
+   "詢問與筆錄製作",
+   "組織犯罪防制條例"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-15",
@@ -2910,7 +3561,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2922,7 +3576,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "構成要件與不法",
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-16",
@@ -2963,7 +3624,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -2975,7 +3639,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "羈押與強制處分",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-17",
@@ -3000,7 +3672,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "通訊保障及監察法"
    ],
@@ -3014,9 +3686,21 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 29 條"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 29 條",
+       "modifiedAt": [
+        "113-07-31"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -3028,7 +3712,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查"
+  ],
+  "topicDetails": [
+   "通訊監察書"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-18",
@@ -3068,7 +3758,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -3080,7 +3773,17 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "警察組織與職權",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "性侵害案件處理",
+   "警察機關的組織與層級",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-19",
@@ -3123,7 +3826,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 4,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -3135,7 +3841,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "兒少性剝削與兒少保護",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-20",
@@ -3172,7 +3886,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-21",
@@ -3200,7 +3920,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "槍砲彈藥刀械管制條例"
    ],
@@ -3215,9 +3935,21 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 20 條"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 20 條",
+       "modifiedAt": [
+        "109-06-10"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -3229,7 +3961,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "構成要件與不法",
+   "證據法則",
+   "偵訊與訪談技巧",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "詢問與筆錄製作",
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-22",
@@ -3274,7 +4017,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -3286,7 +4032,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-23",
@@ -3331,7 +4083,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -3343,7 +4098,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "毒品危害防制條例",
+   "施用毒品的處理"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-24",
@@ -3388,7 +4150,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "社會秩序維護法",
@@ -3403,7 +4168,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 4,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -3415,7 +4183,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "社會秩序維護法",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "少年事件處理"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-25",
@@ -3455,7 +4230,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "罪責與刑罰"
+  ],
+  "topicDetails": [
+   "沒收新制"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-26",
@@ -3483,7 +4264,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "家庭暴力防治法"
    ],
@@ -3497,9 +4278,21 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 61 條"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 61 條",
+       "modifiedAt": [
+        "112-12-06"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -3511,7 +4304,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-27",
@@ -3554,7 +4353,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -3566,7 +4368,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "通訊監察與科技偵查",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "通信紀錄調取",
+   "司法警察的身分與職權",
+   "官職分立與陞遷"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-28",
@@ -3610,7 +4423,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -3622,7 +4438,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "正犯與共犯",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "少年事件處理"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-29",
@@ -3662,7 +4485,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "資料蒐集與個資保護",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "DNA 與生物資料庫",
+   "DNA 型別與比對"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-30",
@@ -3706,7 +4538,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -3718,7 +4553,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "組織犯罪與治安顧慮",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "組織犯罪防制條例",
+   "總統與行政院"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-31",
@@ -3765,9 +4608,14 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "低",
      "changeCount": 17,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 152 條"
+     ],
+     "articleMatch": "沒動到這幾條",
+     "matchedArticles": []
     },
     {
      "law": "通訊保障及監察法",
@@ -3780,7 +4628,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -3792,7 +4643,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "搜索與扣押",
+   "通訊監察與科技偵查",
+   "證據法則"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "通訊監察書"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-32",
@@ -3821,7 +4681,7 @@
   ],
   "revised": false,
   "staleRisk": {
-   "level": "中",
+   "level": "高",
    "laws": [
     "組織犯罪防制條例"
    ],
@@ -3835,9 +4695,23 @@
      ],
      "abandoned": false,
      "matched": "名稱",
-     "level": "中",
+     "level": "高",
      "changeCount": 2,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [
+      "第 3 條",
+      "第 6 條"
+     ],
+     "articleMatch": "命中",
+     "matchedArticles": [
+      {
+       "article": "第 3 條",
+       "modifiedAt": [
+        "107-01-03",
+        "112-05-24"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -3849,7 +4723,13 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "組織犯罪防制條例"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-33",
@@ -3889,7 +4769,19 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "拘提逮捕與通緝",
+   "即時強制與管束",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "緩刑與假釋",
+   "拘提與緊急拘提",
+   "對人管束",
+   "毒品危害防制條例"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-34",
@@ -3941,6 +4833,9 @@
      "level": "高",
      "changeCount": 3,
      "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": [],
      "manual": true,
      "manualReason": "113 年以前涉及洗錢防制的題目，條號與構成要件多半已變動"
     }
@@ -3954,7 +4849,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "詐欺洗錢與財經犯罪",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "洗錢防制",
+   "總統與行政院"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-35",
@@ -4001,7 +4904,10 @@
      "matched": "名稱",
      "level": "中",
      "changeCount": 3,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     },
     {
      "law": "警械使用條例",
@@ -4013,7 +4919,10 @@
      "matched": "關鍵詞",
      "level": "中",
      "changeCount": 1,
-     "lastChange": "修正"
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
     }
    ]
   },
@@ -4025,7 +4934,14 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "警械使用",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "槍砲彈藥刀械"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-36",
@@ -4064,7 +4980,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "財產犯罪",
+   "性犯罪與婦幼保護",
+   "拘提逮捕與通緝"
+  ],
+  "topicDetails": [
+   "緩刑與假釋",
+   "強盜與搶奪",
+   "妨害性自主"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-37",
@@ -4107,7 +5034,10 @@
      "matched": "名稱",
      "level": "高",
      "changeCount": 1,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -4119,7 +5049,16 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "拘提逮捕與通緝",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "性侵害案件處理",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-38",
@@ -4163,7 +5102,10 @@
      "matched": "名稱",
      "level": "高",
      "changeCount": 1,
-     "lastChange": "全文修正"
+     "lastChange": "全文修正",
+     "citedArticles": [],
+     "articleMatch": "整部翻新",
+     "matchedArticles": []
     }
    ]
   },
@@ -4175,7 +5117,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "證據法則",
+   "集會遊行",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "性侵害案件處理",
+   "緘默權與辯護權",
+   "地方自治團體與自治法規"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-39",
@@ -4217,7 +5170,18 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "財產犯罪",
+   "起訴與不起訴",
+   "即時強制與管束",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "對人管束",
+   "少年事件處理"
+  ]
  },
  {
   "id": "cpu2-106-spclaw-40",
@@ -4258,6 +5222,15 @@
    "answerKind": "答案更正",
    "url": "https://www.cpu.edu.tw/p/412-1000-260.php",
    "answerUrl": "https://www.cpu.edu.tw/p/412-1000-260.php"
-  }
+  },
+  "topics": [
+   "罪責與刑罰",
+   "羈押與強制處分",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "緩刑與假釋",
+   "組織犯罪防制條例"
+  ]
  }
 ]
