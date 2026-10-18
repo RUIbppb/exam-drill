@@ -14,6 +14,13 @@
  *   分開還有個好處：詳解快取真的出問題，清掉它不會動到作答進度。
  *   快取不是效能優化，是離線可用性的核心——沒網路時照樣看得到問過的詳解。
  *
+ * 【快取綁定題目內容】一筆快取 = { id: 題號, text, model, provider, askedAt, contentFingerprint }。
+ *   題庫修正題幹或選項時題號不變，用題號存的舊詳解可能是對著壞掉的題目寫的，
+ *   所以新存的詳解多帶一個「題目內容指紋」，讀的時候指紋對不上就當作沒有快取、重新問。
+ *   舊版存的沒有指紋，就看題號在不在 index.json 的 contentFixedIds（修正過的題號清單）。
+ *   判斷規則是純函式，在 core.js 的 explainCacheVerdict，自我檢查頁有測試。
+ *   作廢的舊詳解不主動刪除，重新問完直接蓋掉；沒問題的舊詳解一筆都不會被動到。
+ *
  * 【分層】AI 的網路請求只在這支檔案裡，app.js 不直接碰。
  */
 
@@ -222,13 +229,44 @@ var PQExplain = (function () {
     return 'unknown';
   }
 
+  /* ---------- 快取和題目內容對不對得上 ---------- */
+
+  /**
+   * 判斷快取能不能用（規則在 core.js 的 explainCacheVerdict）。
+   * 萬一判斷過程出了意外，退回改版前的行為（有講解就用），絕不讓按鈕因此壞掉。
+   */
+  function checkCache(cached, question, contentFixedIds) {
+    try {
+      return PQPure.explainCacheVerdict(cached, question, contentFixedIds);
+    } catch (e) {
+      logDetail('判斷快取是否還能用時出錯，改用舊規則', e);
+      var hasText = !!(cached && cached.text);
+      return { usable: hasText, invalidated: false, backfill: false, fingerprint: null };
+    }
+  }
+
+  /**
+   * 舊版存的詳解（沒有指紋）確認可以用之後，順手補上目前題目的指紋，
+   * 以後題目再修正也判斷得出來。整筆照抄、只多一個欄位，講解內容一個字都不動。
+   * 補不進去也沒關係，下次打開再補，所以不等它寫完、也不往外丟錯。
+   */
+  function backfillFingerprint(cached, fingerprint) {
+    if (!cached || !fingerprint) return;
+    var updated = {};
+    Object.keys(cached).forEach(function (field) { updated[field] = cached[field]; });
+    updated.contentFingerprint = fingerprint;
+    writeCache(updated);
+  }
+
   /* ---------- 對外：問一題 ---------- */
 
   /**
-   * 要一題的詳解。有快取就直接給，沒有才真的去問 AI。
+   * 要一題的詳解。有快取（而且跟目前題目內容對得上）就直接給，沒有才真的去問 AI。
    * @param {Object} question 題目
-   * @param {Object} options { key, provider, model, force }
-   * @returns {Promise<{text, fromCache, model, askedAt}>}
+   * @param {Object} options { key, provider, model, force, contentFixedIds }
+   *   contentFixedIds：index.json 裡「題目內容修正過」的題號清單，沒有就不傳（照舊行為）
+   * @returns {Promise<{text, fromCache, model, askedAt, contentChanged}>}
+   *   contentChanged：題目內容修正過、舊講解作廢，這次是重新問的
    */
   function ask(question, options) {
     var settings = options || {};
@@ -236,9 +274,12 @@ var PQExplain = (function () {
     if (!id) return Promise.reject(new Error(PQPure.aiErrorText('unknown')));
 
     return readCache(id).then(function (cached) {
-      if (cached && cached.text && !settings.force) {
+      var verdict = checkCache(cached, question, settings.contentFixedIds);
+      if (verdict.usable && !settings.force) {
+        if (verdict.backfill) backfillFingerprint(cached, verdict.fingerprint);
         return { text: cached.text, fromCache: true, model: cached.model, askedAt: cached.askedAt };
       }
+      var contentChanged = verdict.invalidated;
 
       var key = String(settings.key || '').trim();
       if (!key) throw new Error(PQPure.aiErrorText('nokey'));
@@ -259,10 +300,17 @@ var PQExplain = (function () {
             text: text,
             model: model,
             provider: settings.provider || 'anthropic',
-            askedAt: PQPure.toTaipeiStampString(new Date())
+            askedAt: PQPure.toTaipeiStampString(new Date()),
+            contentFingerprint: verdict.fingerprint   // 題目內容一變就對不上，舊講解自動作廢
           };
           return writeCache(record).then(function () {
-            return { text: text, fromCache: false, model: model, askedAt: record.askedAt };
+            return {
+              text: text,
+              fromCache: false,
+              model: model,
+              askedAt: record.askedAt,
+              contentChanged: contentChanged
+            };
           });
         })
         .catch(function (error) {

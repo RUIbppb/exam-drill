@@ -19,7 +19,7 @@
 
 'use strict';
 
-var SHELL_CACHE = 'pq-shell-v2.2';  // 程式本體快取（改版要進位）
+var SHELL_CACHE = 'pq-shell-v2.3';  // 程式本體快取（改版要進位）
 var DATA_CACHE = 'pq-data';         // 題庫快取（名稱固定，內容靠網址版本號區分）
 
 var SHELL_TIMEOUT = 4500;           // 程式本體等網路幾毫秒，超過就先用快取頂著

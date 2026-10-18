@@ -1381,6 +1381,128 @@
     assert(PQPure.storageErrorText(secure).indexOf('無痕') !== -1, '要提到無痕模式');
   });
 
+  /* ---------- 情境十之一：AI 詳解快取要綁定題目內容 ---------- */
+
+  /*
+   * 題目內容（題幹、選項）修正後題號不變，用題號存的舊詳解可能是針對壞掉的題目寫的。
+   * 新詳解會多存一個「題目內容指紋」；舊詳解沒有指紋，就看題號在不在 index.json 的
+   * contentFixedIds（修正過的題號清單）裡。這裡把判斷規則一條一條釘死。
+   */
+  group('AI 詳解快取綁定題目內容');
+
+  /** 選項依 D、C、B、A 的順序塞進去，用來確認指紋跟選項的存放順序無關 */
+  function reversedOptionsQuestion() {
+    var question = singleQuestion();
+    question.options = { D: '選項四', C: '選項三', B: '選項二', A: '選項一' };
+    return question;
+  }
+
+  test('同一題內容算出來的指紋每次都一樣', function () {
+    var first = PQPure.questionFingerprint(singleQuestion());
+    var second = PQPure.questionFingerprint(singleQuestion());
+    assert(typeof first === 'string' && /^[0-9a-f]{8}$/.test(first), '指紋應該是 8 碼 16 進位：' + first);
+    assertSame(second, first, '同內容應該同指紋');
+  });
+
+  test('選項存放順序不同，指紋也一樣', function () {
+    assertSame(PQPure.questionFingerprint(reversedOptionsQuestion()),
+      PQPure.questionFingerprint(singleQuestion()), '選項順序不該影響指紋');
+    var multiA = multiQuestion();
+    var multiB = multiQuestion();
+    multiB.answers = [['D', 'A', 'C']];   // 正解字母順序不同，意思一樣
+    assertSame(PQPure.questionFingerprint(multiB), PQPure.questionFingerprint(multiA), '正解字母順序不該影響指紋');
+  });
+
+  test('題幹、選項或正解差一個字，指紋就不同', function () {
+    var base = PQPure.questionFingerprint(singleQuestion());
+    var stemFixed = singleQuestion();
+    stemFixed.stem = '這是一道單選題。';
+    var optionFixed = singleQuestion();
+    optionFixed.options.C = '選項參';
+    var answerFixed = singleQuestion();
+    answerFixed.answers = [['C']];
+    assert(PQPure.questionFingerprint(stemFixed) !== base, '題幹多一個句號就該不同');
+    assert(PQPure.questionFingerprint(optionFixed) !== base, '選項改一個字就該不同');
+    assert(PQPure.questionFingerprint(answerFixed) !== base, '正解不同就該不同');
+  });
+
+  test('題號、主題標籤、過時提示這些欄位變了，指紋不變', function () {
+    var other = singleQuestion();
+    other.id = 'test-single-99';
+    other.year = 100;
+    other.topics = ['偵查'];
+    other.staleRisk = { level: '高', laws: ['刑法'] };
+    assertSame(PQPure.questionFingerprint(other), PQPure.questionFingerprint(singleQuestion()),
+      '只有題幹、選項、正解會影響指紋，其他欄位重新建置時常會變，不能害詳解作廢');
+  });
+
+  test('快取有指紋而且跟目前題目相同：照用', function () {
+    var question = singleQuestion();
+    var cached = { id: question.id, text: '舊講解', contentFingerprint: PQPure.questionFingerprint(question) };
+    var verdict = PQPure.explainCacheVerdict(cached, question, []);
+    assertSame([verdict.usable, verdict.invalidated, verdict.backfill], [true, false, false]);
+  });
+
+  test('快取有指紋而且相同，就算題號在修正清單裡也照用（修正後才問的不能再作廢）', function () {
+    var question = singleQuestion();
+    var cached = { id: question.id, text: '修正後問的講解', contentFingerprint: PQPure.questionFingerprint(question) };
+    var verdict = PQPure.explainCacheVerdict(cached, question, [question.id]);
+    assertSame([verdict.usable, verdict.invalidated, verdict.backfill], [true, false, false]);
+  });
+
+  test('快取有指紋但跟目前題目不同：作廢、要重新問', function () {
+    var question = singleQuestion();
+    var cached = { id: question.id, text: '針對舊題目的講解', contentFingerprint: 'deadbeef' };
+    var verdict = PQPure.explainCacheVerdict(cached, question, []);
+    assertSame([verdict.usable, verdict.invalidated, verdict.backfill], [false, true, false]);
+  });
+
+  test('舊版快取沒有指紋、題號在修正清單裡：作廢、要重新問', function () {
+    var question = singleQuestion();
+    var cached = { id: question.id, text: '舊版存的講解' };
+    var verdict = PQPure.explainCacheVerdict(cached, question, ['moex-99-consteng-47', question.id]);
+    assertSame([verdict.usable, verdict.invalidated, verdict.backfill], [false, true, false]);
+  });
+
+  test('舊版快取沒有指紋、題號不在修正清單裡：照用，並補上目前的指紋', function () {
+    var question = singleQuestion();
+    var cached = { id: question.id, text: '舊版存的講解' };
+    var verdict = PQPure.explainCacheVerdict(cached, question, ['moex-99-consteng-47']);
+    assertSame([verdict.usable, verdict.invalidated, verdict.backfill], [true, false, true]);
+    assertSame(verdict.fingerprint, PQPure.questionFingerprint(question), '要補上的就是目前題目的指紋');
+  });
+
+  test('舊題庫沒有修正清單（不存在或格式不對）：照舊行為，不報錯', function () {
+    var question = singleQuestion();
+    var cached = { id: question.id, text: '舊版存的講解' };
+    [undefined, null, '', {}, 'test-single-01'].forEach(function (missing) {
+      var verdict = PQPure.explainCacheVerdict(cached, question, missing);
+      assertSame([verdict.usable, verdict.invalidated, verdict.backfill], [true, false, true],
+        '清單是 ' + JSON.stringify(missing) + ' 時');
+    });
+  });
+
+  test('沒有快取、或快取沒有講解內容：要問 AI，但不算作廢', function () {
+    var question = singleQuestion();
+    [null, undefined, {}, { id: question.id, text: '' }].forEach(function (cached) {
+      var verdict = PQPure.explainCacheVerdict(cached, question, [question.id]);
+      assertSame([verdict.usable, verdict.invalidated], [false, false], '快取是 ' + JSON.stringify(cached) + ' 時');
+    });
+  });
+
+  test('空值不會爆掉', function () {
+    assertSame(PQPure.questionFingerprint(null), null);
+    assertSame(PQPure.questionFingerprint(undefined), null);
+    var verdict = PQPure.explainCacheVerdict(null, null, null);
+    assertSame([verdict.usable, verdict.invalidated], [false, false]);
+  });
+
+  test('作廢重問的提示是白話中文', function () {
+    var text = PQPure.EXPLAIN_REASKED_NOTICE;
+    assertNoEnglishLeak(text);
+    assert(text.indexOf('修正過') !== -1 && text.indexOf('作廢') !== -1, '要講明題目修正過、舊講解作廢：' + text);
+  });
+
   /* ---------- 情境十一：壞資料不可以讓程式爆掉 ---------- */
 
   group('壞資料防護');

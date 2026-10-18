@@ -933,6 +933,114 @@ var PQPure = (function () {
   var AI_DISCLAIMER = '本詳解由 AI 生成，可能有誤，以法條原文為準。';
 
   // ============================================================
+  // AI 詳解快取綁定題目內容（題目修正過，舊詳解自動作廢）
+  // ============================================================
+
+  /*
+   * 為什麼要綁：詳解快取原本只用題號當鑰匙。題庫修正題幹或選項時題號不變，
+   * 舊詳解可能是對著壞掉的題目寫的（例如題組引文缺一段、選項尾巴黏到下一題的字）。
+   * 所以新詳解多存一個「題目內容指紋」，題目內容一變指紋就對不上，舊詳解自動作廢。
+   *
+   * 指紋只看題幹、選項、正解三樣。主題標籤、過時提示、出處這些欄位每次重新建置都可能變，
+   * 算進去會害沒問題的詳解被白白作廢（使用者要再花一次錢問 AI）。
+   * 題幹逐字比對、不做空白整理：寧可多重問一次，也不要把針對壞題目的講解留著。
+   *
+   * 【注意】演算法或納入的欄位一旦改了，所有舊指紋都會對不上、全部詳解要重問。
+   * 真的要改，請換一個新的欄位名稱存（例如 contentFingerprint2），不要直接改這裡。
+   */
+
+  /** 題目內容修正過、舊詳解作廢而重新問 AI 時，講解上方要顯示的一行小字 */
+  var EXPLAIN_REASKED_NOTICE = '這題的題目內容修正過，之前的講解已作廢，這是重新問的';
+
+  /**
+   * FNV-1a 32 位元雜湊，回傳 8 碼 16 進位。
+   * 逐個 UTF-16 字碼計算（不轉位元組），任何瀏覽器、任何裝置算出來都一樣。
+   */
+  function fnv1aHex(text) {
+    var hash = 0x811c9dc5;
+    for (var i = 0; i < text.length; i += 1) {
+      hash ^= text.charCodeAt(i);
+      // 乘上 FNV 質數 16777619；拆成移位相加，避免大數相乘超出精度算錯
+      hash = (hash + (hash << 1) + (hash << 4) + (hash << 7) + (hash << 8) + (hash << 24)) >>> 0;
+    }
+    var hex = hash.toString(16);
+    while (hex.length < 8) hex = '0' + hex;
+    return hex;
+  }
+
+  /** 任何值轉成字串，null / undefined 一律當空字串 */
+  function plainText(value) {
+    return value === null || value === undefined ? '' : String(value);
+  }
+
+  /**
+   * 算一題的「題目內容指紋」。
+   * 選項依字母排序、正解組內字母排序、正解組之間也排序，
+   * 所以只是存放順序不同不會變；內容差一個字就會變。
+   * @param {Object} question 題目
+   * @returns {string|null} 8 碼 16 進位；傳進來的不是題目就回 null
+   */
+  function questionFingerprint(question) {
+    if (!question || typeof question !== 'object') return null;
+
+    // 用控制字元當分隔，題目文字裡不會出現，避免「AB｜C」跟「A｜BC」被串成同一串
+    var FIELD_SEP = '\u001e';
+    var ITEM_SEP = '\u001f';
+
+    var options = question.options && typeof question.options === 'object' ? question.options : {};
+    var optionPart = Object.keys(options).sort().map(function (letter) {
+      return letter + '=' + plainText(options[letter]);
+    }).join(ITEM_SEP);
+
+    var answerPart = (Array.isArray(question.answers) ? question.answers : []).map(function (group) {
+      var letters = Array.isArray(group) ? group : [group];
+      return letters.map(function (item) { return plainText(item).trim().toUpperCase(); })
+        .sort().join(',');
+    }).sort().join(ITEM_SEP);
+
+    return fnv1aHex(['S' + plainText(question.stem), 'O' + optionPart, 'A' + answerPart].join(FIELD_SEP));
+  }
+
+  /**
+   * 判斷一筆 AI 詳解快取還能不能用。
+   *   有指紋：跟目前題目的指紋相同才用，不同就作廢（要重新問）。
+   *   沒指紋（舊版存的）：題號在修正清單裡就作廢；不在就照用，並且補上目前的指紋，
+   *                       以後題目再修正也判斷得出來。
+   *   修正清單不存在（舊題庫）或格式不對：當成空清單，一律照舊行為。
+   * @param {Object} cached 快取紀錄 { id, text, model, askedAt, contentFingerprint? }
+   * @param {Object} question 目前的題目
+   * @param {Array} contentFixedIds index.json 的 contentFixedIds（題目內容修正過的題號）
+   * @returns {{usable: boolean, invalidated: boolean, backfill: boolean, fingerprint: (string|null)}}
+   *   usable 能直接用；invalidated 有舊詳解但已作廢；backfill 要補寫指紋；fingerprint 目前題目的指紋
+   */
+  function explainCacheVerdict(cached, question, contentFixedIds) {
+    var fingerprint = questionFingerprint(question);
+    var verdict = { usable: false, invalidated: false, backfill: false, fingerprint: fingerprint };
+    if (!cached || typeof cached !== 'object' || !cached.text) return verdict;   // 根本沒有快取
+
+    var stored = cached.contentFingerprint;
+    if (typeof stored === 'string' && stored !== '') {
+      if (stored === fingerprint) {
+        verdict.usable = true;
+      } else {
+        verdict.invalidated = true;
+      }
+      return verdict;
+    }
+
+    // 舊版存的，沒有指紋：只能靠修正清單判斷
+    var questionId = plainText(question && question.id ? question.id : cached.id);
+    var fixedIds = Array.isArray(contentFixedIds) ? contentFixedIds : [];
+    if (questionId !== '' && fixedIds.indexOf(questionId) !== -1) {
+      verdict.invalidated = true;
+      return verdict;
+    }
+    verdict.usable = true;
+    verdict.backfill = fingerprint !== null;
+    return verdict;
+  }
+
+  // ============================================================
   // 進度紀錄
   // ============================================================
 
@@ -1725,7 +1833,10 @@ var PQPure = (function () {
     // AI 詳解
     buildExplainPrompt: buildExplainPrompt,
     aiErrorText: aiErrorText,
-    AI_DISCLAIMER: AI_DISCLAIMER
+    AI_DISCLAIMER: AI_DISCLAIMER,
+    EXPLAIN_REASKED_NOTICE: EXPLAIN_REASKED_NOTICE,
+    questionFingerprint: questionFingerprint,
+    explainCacheVerdict: explainCacheVerdict
   };
 }());
 

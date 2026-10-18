@@ -22,7 +22,7 @@
 var PQApp = (function () {
   'use strict';
 
-  var APP_VERSION = 'v2.2';
+  var APP_VERSION = 'v2.3';
 
   function $(id) { return document.getElementById(id); }
 
@@ -911,11 +911,14 @@ var PQApp = (function () {
     PQExplain.ask(question, {
       key: key,
       provider: set.aiProvider,
-      model: set.aiModel
+      model: set.aiModel,
+      // 題目內容修正過的題號清單（舊題庫沒有這欄就是 undefined，explain.js 會照舊行為）
+      contentFixedIds: state.index ? state.index.contentFixedIds : undefined
     }).then(function (result) {
       var wrap = document.createElement('div');
       wrap.appendChild(makeEl('p', 'ai-head',
         result.fromCache ? '這題之前問過了（存在這台裝置，離線也看得到）' : 'AI 講解'));
+      if (result.contentChanged) wrap.appendChild(makeEl('p', 'ai-head', PQPure.EXPLAIN_REASKED_NOTICE));
       wrap.appendChild(makeEl('p', 'ai-text', result.text));
       wrap.appendChild(makeEl('p', 'ai-disclaimer', PQPure.AI_DISCLAIMER));
       renderAiBox(wrap, 'ai-ready');
