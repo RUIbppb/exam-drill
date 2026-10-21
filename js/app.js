@@ -22,7 +22,7 @@
 var PQApp = (function () {
   'use strict';
 
-  var APP_VERSION = 'v2.3';
+  var APP_VERSION = 'v2.4';
 
   function $(id) { return document.getElementById(id); }
 
@@ -32,6 +32,82 @@ var PQApp = (function () {
     if (className) node.className = className;
     if (text !== undefined && text !== null) node.textContent = text;
     return node;
+  }
+
+  /* ---------- 人工校正標示（刷題、模擬整卷、申論三個畫面共用） ---------- */
+
+  var correctionMarkSerial = 0;   // 每個標示的說明框要有自己的 id，給讀屏軟體對得上
+
+  /**
+   * 做一個「部分文字經人工對照官方 PDF 校正」的小標示。
+   * 電腦上滑鼠移上去就看得到原因（title）；手機沒有滑鼠，所以整個標示是一顆按鈕，
+   * 點一下展開說明（校正位置、原因、官方出處連結），再點一下收起來。
+   * 題目沒有人工校正紀錄就回 null，什麼都不畫。
+   * @param {Object} question 題目（選擇題或申論題）
+   * @returns {HTMLElement|null}
+   */
+  function makeCorrectionMark(question) {
+    var notice = PQPure.manualCorrectionNotice(question);
+    if (!notice) return null;
+
+    correctionMarkSerial += 1;
+    var detailId = 'fix-mark-detail-' + correctionMarkSerial;
+
+    var wrap = makeEl('div', 'fix-mark');
+    var button = makeEl('button', 'fix-mark-btn');
+    button.type = 'button';
+    button.title = notice.detail;
+    button.setAttribute('aria-expanded', 'false');
+    button.setAttribute('aria-controls', detailId);
+
+    var chip = makeEl('span', 'fix-mark-chip');
+    chip.appendChild(makeEl('span', 'fix-mark-text', notice.text));
+    var hint = makeEl('span', 'fix-mark-hint', '看原因');
+    chip.appendChild(hint);
+    button.appendChild(chip);
+
+    var detail = makeEl('div', 'fix-mark-detail hidden');
+    detail.id = detailId;
+    detail.appendChild(makeEl('p', null, notice.detail));
+    var link = PQPure.officialSourceLink(question);
+    if (link) {
+      detail.appendChild(makeEl('p', null, '有疑問可以打開官方原始檔自己核對：'));
+      var anchor = makeEl('a', 'fix-mark-link', link.label);
+      anchor.href = link.url;           // 已在 core.js 擋掉 https 以外的網址
+      anchor.target = '_blank';
+      anchor.rel = 'noopener noreferrer';
+      detail.appendChild(anchor);
+    }
+
+    button.addEventListener('click', function () {
+      var opening = detail.classList.contains('hidden');
+      detail.classList.toggle('hidden', !opening);
+      button.setAttribute('aria-expanded', opening ? 'true' : 'false');
+      hint.textContent = opening ? '收起' : '看原因';
+    });
+
+    wrap.appendChild(button);
+    wrap.appendChild(detail);
+    return wrap;
+  }
+
+  /**
+   * 把人工校正標示畫在某個標籤列的正下方。
+   * index.html 沒有預留位置，第一次用到時在標籤列後面補一個空格子，之後每次換題只清內容，
+   * 所以換到沒有校正紀錄的題目時，上一題的標示一定會被清掉。
+   * @param {HTMLElement} anchor 標籤列（標示會放在它後面）
+   * @param {Object} question 目前的題目
+   */
+  function renderCorrectionMark(anchor, question) {
+    if (!anchor || !anchor.parentNode) return;
+    var slot = anchor.nextElementSibling;
+    if (!slot || !slot.classList.contains('fix-slot')) {
+      slot = makeEl('div', 'fix-slot');
+      anchor.parentNode.insertBefore(slot, anchor.nextSibling);
+    }
+    slot.textContent = '';
+    var mark = makeCorrectionMark(question);
+    if (mark) slot.appendChild(mark);
   }
 
   var el = {
@@ -571,6 +647,9 @@ var PQApp = (function () {
       el.questionTags.appendChild(makeEl('span', 'tag tag-box',
         boxText + '｜對 ' + (entry.correctCount || 0) + '／錯 ' + (entry.wrongCount || 0)));
     }
+
+    // 官方 PDF 文字層壞掉、由人工補字的題目，標籤列下面加一個小標示
+    renderCorrectionMark(el.questionTags, question);
 
     el.questionSession.textContent = question.session ? ('場次：' + question.session) : '';
 
@@ -1428,6 +1507,8 @@ var PQApp = (function () {
   /* 給 exam.js 與 essay.js 用的共用小工具 */
   return {
     makeEl: makeEl,
+    makeCorrectionMark: makeCorrectionMark,
+    renderCorrectionMark: renderCorrectionMark,
     showScreen: showScreen,
     showNotice: showNotice,
     clearNotice: clearNotice,

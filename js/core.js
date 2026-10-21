@@ -1744,6 +1744,91 @@ var PQPure = (function () {
     return note ? ('官方釋疑更正：' + note) : null;
   }
 
+  // ============================================================
+  // 人工校正標示
+  // ============================================================
+
+  /** 畫面上的固定標示文字（RUI 拍板的用字，不要自己改寫） */
+  var MANUAL_CORRECTION_TEXT = '部分文字經人工對照官方 PDF 校正';
+
+  /** manualCorrections 的 field 換成白話位置；不在這張表上的一律不列出來 */
+  var CORRECTION_FIELD_LABELS = {
+    'stem': '題幹',
+    'options.A': '選項 A',
+    'options.B': '選項 B',
+    'options.C': '選項 C',
+    'options.D': '選項 D',
+    'options.E': '選項 E'
+  };
+
+  /** 清單裡沒有才加進去（保留第一次出現的順序） */
+  function pushUnique(list, value) {
+    if (list.indexOf(value) === -1) list.push(value);
+  }
+
+  /**
+   * 人工校正標示。
+   * 少數題目的官方 PDF 文字層本身壞掉，建置器照人工校正表補字後會加上
+   *   manualCorrections: [{ field: 'stem' 或 'options.A'～'options.E', reason: '原因' }]
+   * 這裡把它整理成畫面要顯示的東西，三個畫面（刷題、模擬整卷、申論）共用。
+   *
+   * 規則：
+   *   不是陣列、空陣列、裡面沒有任何一筆是物件 → 不顯示（回 null）
+   *   原因用頓號接起來，相同的只列一次；原因尾巴的句號拿掉，免得變成「。、」
+   *   位置只認得題幹與選項 A～E，其他寫法不列（不把程式欄位名露給使用者看）
+   * @param {Object} question 題目（選擇題或申論題）
+   * @returns {null|{text: string, reason: string, fields: string[], detail: string}}
+   *   text 固定標示文字；reason 原因（可能是空字串）；fields 白話位置；detail 點開後的完整說明
+   */
+  function manualCorrectionNotice(question) {
+    var list = question && typeof question === 'object' ? question.manualCorrections : null;
+    if (!Array.isArray(list) || list.length === 0) return null;
+
+    var reasons = [];
+    var fields = [];
+    var validCount = 0;
+
+    list.forEach(function (item) {
+      if (!item || typeof item !== 'object' || Array.isArray(item)) return;
+      validCount += 1;
+
+      if (typeof item.reason === 'string') {
+        var reason = item.reason.replace(/[\s。．.；;，,、]+$/, '').trim();
+        if (reason) pushUnique(reasons, reason);
+      }
+      if (typeof item.field === 'string' &&
+          Object.prototype.hasOwnProperty.call(CORRECTION_FIELD_LABELS, item.field)) {
+        pushUnique(fields, CORRECTION_FIELD_LABELS[item.field]);
+      }
+    });
+    if (validCount === 0) return null;
+
+    var reasonText = reasons.join('、');
+    var detail = (fields.length > 0 ? '校正位置：' + fields.join('、') + '。' : '') +
+      '原因：' + (reasonText || '未註明') + '。';
+
+    return { text: MANUAL_CORRECTION_TEXT, reason: reasonText, fields: fields, detail: detail };
+  }
+
+  /**
+   * 官方出處連結（sourceRef.url），讓使用者自己打開官方原始檔核對。
+   * 只接受 https 開頭的網址：題庫是從外面抓來的資料，不能讓 javascript: 這類網址變成可點的連結。
+   * @param {Object} question 題目
+   * @returns {null|{url: string, label: string}} label 例如「官方出處：國文_試題.pdf 第 1 題」
+   */
+  function officialSourceLink(question) {
+    var ref = question && typeof question === 'object' ? question.sourceRef : null;
+    if (!ref || typeof ref !== 'object') return null;
+    var url = typeof ref.url === 'string' ? ref.url.trim() : '';
+    if (!/^https:\/\/[^\s]+$/i.test(url)) return null;
+
+    var file = typeof ref.file === 'string' ? ref.file.trim() : '';
+    var number = Number(ref.no);
+    var label = '官方出處' + (file ? '：' + file : '') +
+      (isFinite(number) && number > 0 ? (file ? ' ' : '：') + '第 ' + number + ' 題' : '');
+    return { url: url, label: label };
+  }
+
   return {
     ALL_LETTERS: ALL_LETTERS,
     OPTION_COUNT: OPTION_COUNT,
@@ -1794,6 +1879,11 @@ var PQPure = (function () {
     userStaleNotice: userStaleNotice,
     mappingNotice: mappingNotice,
     revisionNotice: revisionNotice,
+
+    // 人工校正標示
+    MANUAL_CORRECTION_TEXT: MANUAL_CORRECTION_TEXT,
+    manualCorrectionNotice: manualCorrectionNotice,
+    officialSourceLink: officialSourceLink,
 
     // 間隔重複
     BOX_INTERVALS: BOX_INTERVALS,

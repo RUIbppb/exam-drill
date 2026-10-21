@@ -12,3 +12,6 @@ secrets.json
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# 原始考卷 PDF 不上傳（題庫已轉成 JSON，PDF 留在本機 原始題庫\）
+*.pdf

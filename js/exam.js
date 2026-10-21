@@ -197,6 +197,7 @@ var PQExam = (function () {
     el.tags.appendChild(makeEl('span', 'tag tag-year', PQPure.yearLabel(question.year)));
     el.tags.appendChild(makeEl('span', 'tag', PQPure.typeLabel(question.type)));
     if (question.language === 'en') el.tags.appendChild(makeEl('span', 'tag', '英文題'));
+    PQApp.renderCorrectionMark(el.tags, question);   // 人工校正過的題目才會出現
 
     el.stem.textContent = question.stem || '';
     el.qid.textContent = '題號 ' + (question.id || '');
@@ -354,6 +355,9 @@ var PQExam = (function () {
       head.appendChild(makeEl('span', 'review-mark review-' +
         (record.verdict.correct ? 'ok' : (record.answered ? 'ng' : 'blank')), mark));
       wrap.appendChild(head);
+
+      var correctionMark = PQApp.makeCorrectionMark(question);   // 人工校正過的題目才會出現
+      if (correctionMark) wrap.appendChild(correctionMark);
 
       wrap.appendChild(makeEl('p', 'review-stem', question.stem || ''));
       wrap.appendChild(makeEl('p', 'review-line',

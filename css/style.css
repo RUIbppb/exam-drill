@@ -1156,3 +1156,83 @@ input[type="search"] {
   border-radius: 999px;
   white-space: nowrap;
 }
+
+/* ---------- 人工校正標示 ---------- */
+
+/*
+ * 官方 PDF 文字層本身壞掉、由人工對照 PDF 補字的題目才會出現（題目帶 manualCorrections）。
+ * 要低調但看得到：外觀是跟標籤同色系的細框小方塊，點擊區留到 44px 高，手機才點得到。
+ * 文字比一般標籤長，【一定要能換行】——不可以套 .tag（它有 nowrap，375px 寬會橫向溢出）。
+ */
+.fix-slot:empty {
+  display: none;
+}
+
+.fix-mark {
+  margin: -0.35rem 0 0.6rem;
+  max-width: 100%;
+}
+
+.fix-mark-btn {
+  display: block;
+  max-width: 100%;
+  min-height: 44px;
+  padding: 0.3rem 0;
+  border: 0;
+  background: none;
+  text-align: left;
+  font-size: 0.8rem;
+  line-height: 1.6;
+  color: var(--text-sub);
+}
+
+.fix-mark-btn:active {
+  background: none;
+}
+
+.fix-mark-chip {
+  display: inline-block;
+  max-width: 100%;
+  padding: 0.15rem 0.6rem;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+  background: #F6F4F0;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.fix-mark-hint {
+  display: inline-block;
+  margin-left: 0.5rem;
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  white-space: nowrap;
+}
+
+.fix-mark-detail {
+  margin-top: 0.1rem;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--border-strong);
+  border-radius: var(--radius);
+  background: #F6F4F0;
+  font-size: 0.84rem;
+  line-height: 1.75;
+  color: var(--text-sub);
+  overflow-wrap: anywhere;
+}
+
+.fix-mark-detail p {
+  margin: 0 0 0.3rem;
+}
+
+/* 官方檔名常常很長（括號裡塞一整串法規名），一定要能在任何地方斷行 */
+.fix-mark-link {
+  display: inline-block;
+  max-width: 100%;
+  padding: 0.35rem 0;
+  color: var(--accent);
+  text-underline-offset: 3px;
+  word-break: break-all;
+}

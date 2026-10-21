@@ -1503,6 +1503,130 @@
     assert(text.indexOf('修正過') !== -1 && text.indexOf('作廢') !== -1, '要講明題目修正過、舊講解作廢：' + text);
   });
 
+  /* ---------- 情境十之二：人工校正標示 ---------- */
+
+  /*
+   * 少數題目的官方 PDF 文字層本身壞掉（字型沒附對照表、讀出來是亂碼），
+   * 建置器照人工校正表補字之後，會在題目上加 manualCorrections：
+   *   [{ field: 'stem' 或 'options.A'～'options.E', reason: '為什麼要人工補' }]
+   * 畫面上要標示「部分文字經人工對照官方 PDF 校正」，點開看得到原因。
+   * 選擇題、申論題都可能有；沒有這個欄位、空陣列、或格式壞掉都不可以顯示也不可以爆掉。
+   */
+  group('人工校正標示');
+
+  var MANUAL_TEXT = '部分文字經人工對照官方 PDF 校正';
+  var GLYPH_REASON = '官方 PDF 作文題目的字型沒有附 Unicode 對照，文字層是亂碼';
+
+  function essayQuestion() {
+    return {
+      id: 'test-essay-01', source: 'moex', session: '測試場次', year: 98,
+      subject: '國文', type: 'essay', no: 1, stem: '作文題目', language: 'zh',
+      sourceRef: {
+        file: '國文(作文、公文與測驗)_試題.pdf', no: 1,
+        url: 'https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=098100&c=303&s=1001&q=1'
+      }
+    };
+  }
+
+  test('有人工校正紀錄的選擇題會顯示固定標示文字與原因', function () {
+    var question = singleQuestion();
+    question.manualCorrections = [{ field: 'options.B', reason: '選項的圈號字型沒有對照表' }];
+    var notice = PQPure.manualCorrectionNotice(question);
+    assert(notice !== null && typeof notice === 'object', '應該要回傳標示內容');
+    assertSame(notice.text, MANUAL_TEXT, '標示文字要固定');
+    assertSame(PQPure.MANUAL_CORRECTION_TEXT, MANUAL_TEXT, '常數也要是同一句');
+    assertSame(notice.reason, '選項的圈號字型沒有對照表');
+    assertSame(notice.fields, ['選項 B'], '要講白話的位置，不要露出 options.B');
+    assert(notice.detail.indexOf('選項 B') !== -1 && notice.detail.indexOf('選項的圈號字型沒有對照表') !== -1,
+      '點開的說明要同時有位置與原因：' + notice.detail);
+  });
+
+  test('申論題也會顯示人工校正標示', function () {
+    var question = essayQuestion();
+    question.manualCorrections = [{ field: 'stem', reason: GLYPH_REASON }];
+    var notice = PQPure.manualCorrectionNotice(question);
+    assert(notice !== null, '申論題有校正紀錄也要顯示');
+    assertSame(notice.text, MANUAL_TEXT);
+    assertSame(notice.reason, GLYPH_REASON);
+    assertSame(notice.fields, ['題幹']);
+  });
+
+  test('人工校正紀錄是空陣列時不顯示', function () {
+    var question = singleQuestion();
+    question.manualCorrections = [];
+    assertSame(PQPure.manualCorrectionNotice(question), null);
+  });
+
+  test('沒有人工校正欄位時不顯示', function () {
+    assertSame(PQPure.manualCorrectionNotice(singleQuestion()), null);
+    assertSame(PQPure.manualCorrectionNotice(essayQuestion()), null);
+  });
+
+  test('多筆原因用頓號接起來，相同的原因只列一次，位置照順序列出', function () {
+    var question = multiQuestion();
+    question.manualCorrections = [
+      { field: 'stem', reason: GLYPH_REASON },
+      { field: 'options.A', reason: '選項的圈號字型沒有對照表。' },
+      { field: 'options.C', reason: '選項的圈號字型沒有對照表' }
+    ];
+    var notice = PQPure.manualCorrectionNotice(question);
+    assertSame(notice.reason, GLYPH_REASON + '、選項的圈號字型沒有對照表',
+      '原因尾巴的句號要拿掉，不然頓號前面會多一個句號');
+    assertSame(notice.fields, ['題幹', '選項 A', '選項 C']);
+  });
+
+  test('人工校正欄位格式壞掉也不會爆掉、也不會亂顯示', function () {
+    ['stem', 5, true, {}, { field: 'stem', reason: '不是陣列' }, [null, 3, 'stem', [], true]]
+      .forEach(function (broken) {
+        var question = singleQuestion();
+        question.manualCorrections = broken;
+        assertSame(PQPure.manualCorrectionNotice(question), null, '欄位是 ' + JSON.stringify(broken) + ' 時');
+      });
+    assertSame(PQPure.manualCorrectionNotice(null), null);
+    assertSame(PQPure.manualCorrectionNotice(undefined), null);
+    assertSame(PQPure.manualCorrectionNotice('moex-98-chin-e01'), null);
+  });
+
+  test('紀錄缺原因或位置不明時照樣標示，說明不會出現亂碼字樣', function () {
+    var question = singleQuestion();
+    question.manualCorrections = [{ field: 'answers', reason: 12345 }, { reason: '' }];
+    var notice = PQPure.manualCorrectionNotice(question);
+    assert(notice !== null, '建置器說有校正就要標示');
+    assertSame(notice.text, MANUAL_TEXT);
+    assertSame(notice.reason, '', '原因不是文字就當沒寫');
+    assertSame(notice.fields, [], '不認得的位置不列出來');
+    assertNoEnglishLeak(notice.detail);
+    ['null', 'NaN', 'object', 'answers', '12345'].forEach(function (word) {
+      assert(notice.detail.indexOf(word) === -1, '說明裡不該出現「' + word + '」：' + notice.detail);
+    });
+  });
+
+  test('官方出處連結：只接受 https 網址，連結文字寫出檔名與題號', function () {
+    var link = PQPure.officialSourceLink(essayQuestion());
+    assert(link !== null, '有官方網址就要給連結');
+    assertSame(link.url, essayQuestion().sourceRef.url);
+    assert(link.label.indexOf('國文(作文、公文與測驗)_試題.pdf') !== -1 && link.label.indexOf('第 1 題') !== -1,
+      '連結文字要有檔名與題號：' + link.label);
+
+    var unsafe = essayQuestion();
+    unsafe.sourceRef.url = 'javascript:alert(1)';
+    assertSame(PQPure.officialSourceLink(unsafe), null, '不是 https 的網址一律不給連結');
+    var plain = essayQuestion();
+    plain.sourceRef.url = 'http://wwwq.moex.gov.tw/x.pdf';
+    assertSame(PQPure.officialSourceLink(plain), null, '沒加密的網址也不給');
+    assertSame(PQPure.officialSourceLink(singleQuestion()), null, '沒有出處就不給');
+    assertSame(PQPure.officialSourceLink(null), null);
+    var broken = essayQuestion();
+    broken.sourceRef = 'https://example.com';
+    assertSame(PQPure.officialSourceLink(broken), null, '出處格式不對就不給');
+  });
+
+  test('加上人工校正紀錄不會讓 AI 詳解快取作廢（指紋只看題幹、選項、正解）', function () {
+    var question = singleQuestion();
+    question.manualCorrections = [{ field: 'stem', reason: GLYPH_REASON }];
+    assertSame(PQPure.questionFingerprint(question), PQPure.questionFingerprint(singleQuestion()));
+  });
+
   /* ---------- 情境十一：壞資料不可以讓程式爆掉 ---------- */
 
   group('壞資料防護');

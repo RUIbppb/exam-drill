@@ -156,6 +156,7 @@ var PQEssay = (function () {
     if (question.no) el.tags.appendChild(makeEl('span', 'tag', '第 ' + question.no + ' 題'));
     if (question.points) el.tags.appendChild(makeEl('span', 'tag', question.points + ' 分'));
     if (question.demo) el.tags.appendChild(makeEl('span', 'tag tag-demo', '示範題目'));
+    PQApp.renderCorrectionMark(el.tags, question);   // 人工校正過的題目才會出現
 
     el.session.textContent = question.session ? ('場次：' + question.session) : '';
     el.stem.textContent = question.stem || '';   // 換行用 CSS 的 pre-wrap 保留
