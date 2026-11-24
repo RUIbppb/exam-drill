@@ -22,7 +22,7 @@
 var PQApp = (function () {
   'use strict';
 
-  var APP_VERSION = 'v2.5';
+  var APP_VERSION = 'v2.6';
 
   function $(id) { return document.getElementById(id); }
 
@@ -136,6 +136,8 @@ var PQApp = (function () {
     importBtn: $('import-btn'),
     importFile: $('import-file'),
     lawsBtn: $('laws-btn'),
+    setTheme: $('set-theme'),
+    setDeskFont: $('set-deskfont'),
     settingsBtn: $('settings-btn'),
     updateBtn: $('update-btn'),
     offlineNote: $('offline-note'),
@@ -256,7 +258,16 @@ var PQApp = (function () {
     noticeSource = null;
   }
 
+  /*
+   * 目前停在哪一頁。法條速查要靠這個才知道「返回」該回到哪裡——
+   * 從刷題中途點進去，回來就該回到那一題，不是被丟回首頁。
+   */
+  var currentScreenName = 'home';
+
+  function currentScreen() { return currentScreenName; }
+
   function showScreen(name) {
+    currentScreenName = name;
     SCREENS.forEach(function (key) {
       var node = $('screen-' + key);
       if (node) node.classList.toggle('hidden', key !== name);
@@ -266,6 +277,32 @@ var PQApp = (function () {
     document.body.classList.toggle('has-bottom-bar', withBar);
     el.headSub.textContent = SCREEN_TITLES[name] || '';
     window.scrollTo(0, 0);
+  }
+
+  /* ================= 外觀（配色與電腦字級） ================= */
+
+  /*
+   * 配色寫在 <html> 的 data-theme，字級寫在 data-desk-font，實際配色由 CSS 決定。
+   * 'auto' 時把 data-theme 整個拿掉，交給 CSS 的 prefers-color-scheme 跟著系統走。
+   */
+  function applyAppearance(set) {
+    var root = document.documentElement;
+    var theme = set && set.theme;
+    if (theme === 'light' || theme === 'dark') {
+      root.setAttribute('data-theme', theme);
+    } else {
+      root.removeAttribute('data-theme');
+    }
+    root.setAttribute('data-desk-font', (set && set.deskFont) || 'large');
+
+    // 手機的狀態列顏色也要跟著換，不然深色模式上面會露出一條米白
+    var meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) {
+      var dark = theme === 'dark' ||
+        (theme !== 'light' && window.matchMedia &&
+         window.matchMedia('(prefers-color-scheme: dark)').matches);
+      meta.setAttribute('content', dark ? '#1B1917' : '#FAF8F4');
+    }
   }
 
   /** 台北時間的今天 */
@@ -1160,6 +1197,8 @@ var PQApp = (function () {
     el.setThreshold.value = String(set.streakThreshold);
     el.setDaily.value = String(set.dailyLimit);
     el.setYearSpan.value = String(set.yearSpan);
+    el.setTheme.value = set.theme || 'auto';
+    el.setDeskFont.value = set.deskFont || 'large';
 
     renderProviderOptions(set);
     el.aiKey.value = PQStore.loadAiKey();
@@ -1239,6 +1278,9 @@ var PQApp = (function () {
     set.streakThreshold = Number(el.setThreshold.value) || 3;
     set.dailyLimit = Number(el.setDaily.value) || 60;
     set.yearSpan = Number(el.setYearSpan.value);
+    set.theme = el.setTheme.value;
+    set.deskFont = el.setDeskFont.value;
+    applyAppearance(set);
     set.aiProvider = el.aiProvider.value;
     set.aiModel = el.aiModel.value;
     state.progress.settings = set;
@@ -1417,7 +1459,8 @@ var PQApp = (function () {
     });
     el.settingsBtn.addEventListener('click', openSettings);
     el.settingsBackBtn.addEventListener('click', goHome);
-    [el.examDateCpu, el.examDateMoex, el.setThreshold, el.setDaily, el.setYearSpan]
+    [el.examDateCpu, el.examDateMoex, el.setThreshold, el.setDaily, el.setYearSpan,
+     el.setTheme, el.setDeskFont]
       .forEach(function (node) { node.addEventListener('change', saveSettingsFromForm); });
     el.aiProvider.addEventListener('change', function () {
       renderModelOptions(settings());
@@ -1478,6 +1521,7 @@ var PQApp = (function () {
       showNotice(loaded.error, 'error', 'storage');
     }
 
+    applyAppearance(settings());
     bindEvents();
     renderHome();
     registerServiceWorker();
@@ -1519,6 +1563,7 @@ var PQApp = (function () {
     makeCorrectionMark: makeCorrectionMark,
     renderCorrectionMark: renderCorrectionMark,
     showScreen: showScreen,
+    currentScreen: currentScreen,
     showNotice: showNotice,
     clearNotice: clearNotice,
     confirmDialog: confirmDialog,

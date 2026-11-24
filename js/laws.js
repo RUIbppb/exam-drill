@@ -53,7 +53,17 @@ var PQLaws = (function () {
 
   /* ---------- 進入畫面 ---------- */
 
+  /*
+   * 【2026-11-25 修掉的 bug】返回鍵以前一律回首頁，所以刷題刷到一半點法條、
+   * 看完就回不去那一題了——題目其實還在記憶體裡，只是沒有路走回去。
+   * 現在進來前先記住是從哪一頁來的，返回就回那一頁。
+   */
+  var returnScreen = 'home';
+
   function open(lawCode) {
+    var from = PQApp.currentScreen ? PQApp.currentScreen() : 'home';
+    if (from !== 'laws') returnScreen = from;
+    el.backBtn.textContent = (returnScreen === 'quiz') ? '回到剛才那一題' : '回首頁';
     PQApp.showScreen('laws');
     if (state.loaded) {
       if (lawCode) { openLaw(lawCode); } else { showCatalog(); }
@@ -272,7 +282,11 @@ var PQLaws = (function () {
       onSearchList();
       showCatalog();
     });
-    el.backBtn.addEventListener('click', PQApp.goHome);
+    el.backBtn.addEventListener('click', function () {
+      // 回刷題只要把畫面切回去就好，題目與作答狀態都還在，不要重新渲染首頁
+      if (returnScreen === 'quiz') { PQApp.showScreen('quiz'); return; }
+      PQApp.goHome();
+    });
   }
 
   bind();

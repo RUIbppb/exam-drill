@@ -33,6 +33,9 @@
   --warn: #8D6D2C;         /* 提醒 土黃（修法提示用） */
   --warn-bg: #F7F1E3;
   --warn-border: #E3D5B8;
+  --btn-on-accent: #FDFCFA; /* 主要按鈕上的字（配 --accent 底色） */
+  --subtle-bg: #F4F1EC;     /* 停用、次要區塊的淺底 */
+  --inset-bg: #F6F4F0;      /* 內嵌說明區塊的淺底 */
   --radius: 6px;
   --font: "Microsoft JhengHei", "微軟正黑體", "PingFang TC", "Heiti TC",
     "Noto Sans CJK TC", "Noto Sans TC", sans-serif;
@@ -178,7 +181,7 @@ select {
 
 select:disabled {
   color: var(--text-muted);
-  background: #F4F1EC;
+  background: var(--subtle-bg);
 }
 
 select:focus-visible,
@@ -246,7 +249,7 @@ button:active {
 /* 停用狀態的文字不能太淡：底部「請選一個選項」在戶外強光下要看得見 */
 button:disabled {
   color: var(--text-muted);
-  background: #F4F1EC;
+  background: var(--subtle-bg);
   border-color: var(--border);
   cursor: default;
 }
@@ -254,7 +257,7 @@ button:disabled {
 /* 強調色只用在主要動作這一個小面積 */
 .btn-primary {
   width: 100%;
-  color: #FDFCFA;
+  color: var(--btn-on-accent);
   background: var(--accent);
   border-color: var(--accent);
   font-weight: 600;
@@ -267,7 +270,7 @@ button:disabled {
 
 .btn-primary:disabled {
   color: var(--text-muted);
-  background: #F4F1EC;
+  background: var(--subtle-bg);
   border-color: var(--border);
 }
 
@@ -365,7 +368,7 @@ button:disabled {
 .notice-soft {
   border-color: var(--border);
   border-left-color: var(--border-strong);
-  background: #F6F4F0;
+  background: var(--inset-bg);
   color: var(--text-sub);
 }
 
@@ -494,7 +497,7 @@ button:disabled {
 }
 
 .option.picked .option-letter {
-  color: #FDFCFA;
+  color: var(--btn-on-accent);
   background: var(--accent);
   border-color: var(--accent);
 }
@@ -505,7 +508,7 @@ button:disabled {
 }
 
 .option.correct .option-letter {
-  color: #FDFCFA;
+  color: var(--btn-on-accent);
   background: var(--ok);
   border-color: var(--ok);
 }
@@ -520,7 +523,7 @@ button:disabled {
 }
 
 .option.wrong .option-letter {
-  color: #FDFCFA;
+  color: var(--btn-on-accent);
   background: var(--ng);
   border-color: var(--ng);
 }
@@ -1196,7 +1199,7 @@ input[type="search"] {
   padding: 0.15rem 0.6rem;
   border: 1px solid var(--border-strong);
   border-radius: var(--radius);
-  background: #F6F4F0;
+  background: var(--inset-bg);
   white-space: normal;
   overflow-wrap: anywhere;
 }
@@ -1216,7 +1219,7 @@ input[type="search"] {
   border: 1px solid var(--border);
   border-left: 3px solid var(--border-strong);
   border-radius: var(--radius);
-  background: #F6F4F0;
+  background: var(--inset-bg);
   font-size: 0.84rem;
   line-height: 1.75;
   color: var(--text-sub);
@@ -1235,4 +1238,94 @@ input[type="search"] {
   color: var(--accent);
   text-underline-offset: 3px;
   word-break: break-all;
+}
+
+/* ============================================================
+ * 深色模式
+ *
+ * 兩條路都要有：使用者在設定選「深色」時 data-theme="dark"；
+ * 選「跟隨系統」時沒有 data-theme，交給 prefers-color-scheme。
+ * 那個媒體查詢要擋掉 data-theme="light"，不然使用者明明選了淺色，
+ * 系統是深色還是會被蓋過去。
+ *
+ * 配色不用純黑。長時間看純黑配純白會因為對比過強而更累，
+ * 所以底色用帶暖調的深灰，文字用米白，維持無印良品的調性。
+ * ============================================================ */
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #1B1917;
+    --card: #232120;
+    --border: #38352F;
+    --border-strong: #4C473F;
+    --text: #E9E4DB;
+    --text-sub: #A8A196;
+    --text-muted: #B5ADA2;
+    --accent: #8C7B64;
+    --accent-dark: #776851;
+    --accent-tint: #302C25;
+    --btn-on-accent: #FDFCFA;
+    --subtle-bg: #2C2926;
+    --inset-bg: #2A2724;
+    --ok: #8FB392;
+    --ok-bg: #232B24;
+    --ng: #D4918A;
+    --ng-bg: #2F2422;
+    --warn: #D2B274;
+    --warn-bg: #2C2619;
+    --warn-border: #4B4029;
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #1B1917;
+  --card: #232120;
+  --border: #38352F;
+  --border-strong: #4C473F;
+  --text: #E9E4DB;
+  --text-sub: #A8A196;
+  --text-muted: #B5ADA2;
+  --accent: #8C7B64;
+  --accent-dark: #776851;
+  --accent-tint: #302C25;
+  --btn-on-accent: #FDFCFA;
+  --subtle-bg: #2C2926;
+  --inset-bg: #2A2724;
+  --ok: #8FB392;
+  --ok-bg: #232B24;
+  --ng: #D4918A;
+  --ng-bg: #2F2422;
+  --warn: #D2B274;
+  --warn-bg: #2C2619;
+  --warn-border: #4B4029;
+}
+
+/* ============================================================
+ * 電腦螢幕：放寬版面、放大字級
+ *
+ * 手機直式的 44rem 在桌機上只占中間一條，兩側大片空白，字也偏小。
+ * 長時間閱讀會累，所以寬螢幕時把內容區加寬、基準字級調大。
+ * 手機維持 14pt 不動（規範的基準字級）。
+ * 級距由設定頁控制，預設「大」。
+ * ============================================================ */
+
+@media (min-width: 1024px) {
+  :root { font-size: 15pt; }
+  :root[data-desk-font="standard"] { font-size: 14pt; }
+  :root[data-desk-font="large"] { font-size: 16.5pt; }
+  :root[data-desk-font="xlarge"] { font-size: 18pt; }
+
+  .page {
+    max-width: 52rem;
+    padding: 2rem 1.6rem 2.6rem;
+  }
+
+  /* 選項在大螢幕上不用撐到跟題目一樣寬才好讀，但也不要太窄 */
+  .option { min-height: 56px; }
+}
+
+@media (min-width: 1500px) {
+  .page { max-width: 58rem; }
 }
