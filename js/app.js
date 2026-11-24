@@ -22,7 +22,7 @@
 var PQApp = (function () {
   'use strict';
 
-  var APP_VERSION = 'v2.4';
+  var APP_VERSION = 'v2.5';
 
   function $(id) { return document.getElementById(id); }
 
@@ -1249,6 +1249,13 @@ var PQApp = (function () {
 
   /* ================= 鍵盤（電腦上用） ================= */
 
+  /*
+   * 數字鍵對照選項：1→A、2→B…5→E。
+   * 為什麼要有這個：選項畫面上是「第幾個」，手指找 1~5 比找 A~E 直覺，
+   * 而且數字鍵在鍵盤上連成一排，不用把視線移開題目。字母鍵照舊能用，兩套並存。
+   */
+  var DIGIT_TO_LETTER = { '1': 'A', '2': 'B', '3': 'C', '4': 'D', '5': 'E' };
+
   function onKeyDown(event) {
     if ($('screen-quiz').classList.contains('hidden')) return;
     if (event.metaKey || event.ctrlKey || event.altKey) return;
@@ -1258,6 +1265,8 @@ var PQApp = (function () {
       if (!el.actionBtn.disabled) { event.preventDefault(); onActionClick(); }
       return;
     }
+    // 數字鍵先翻成字母，後面的流程完全共用，不必為數字另寫一套
+    if (DIGIT_TO_LETTER[key]) key = DIGIT_TO_LETTER[key];
     if (PQPure.ALL_LETTERS.indexOf(key) !== -1 && !state.answered) {
       var button = el.optionList.querySelector('.option[data-letter="' + key + '"]');
       if (button) { event.preventDefault(); onOptionClick(key); }
