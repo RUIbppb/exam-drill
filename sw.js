@@ -19,7 +19,7 @@
 
 'use strict';
 
-var SHELL_CACHE = 'pq-shell-v2.9';  // 程式本體快取（改版要進位）
+var SHELL_CACHE = 'pq-shell-v2.10';  // 程式本體快取（改版要進位）
 var DATA_CACHE = 'pq-data';         // 題庫快取（名稱固定，內容靠網址版本號區分）
 
 var SHELL_TIMEOUT = 4500;           // 程式本體等網路幾毫秒，超過就先用快取頂著
@@ -132,11 +132,29 @@ function fallbackFromCache(request, error) {
  * 這時 fetch 不會馬上失敗，會一路等到瀏覽器自己放棄（可能超過一分鐘），
  * 畫面就這樣白著。所以等 SHELL_TIMEOUT 毫秒沒回應就先用快取頂著，
  * 網路那邊繼續跑，回來之後照樣把新版存進快取，下次開就是新的。
+ *
+ * 【2026-11-25 修掉的大洞】「先問網路」以前是假的。
+ * service worker 裡的 fetch 預設還是會先經過**瀏覽器自己的 HTTP 快取**，
+ * 所以推了新版上去、使用者也連得上網，拿到的卻仍然是舊檔——
+ * 實測 transferSize 是 0，代表根本沒出門問過伺服器。
+ * RUI 就是這樣卡在舊版，怎麼關掉重開都沒用。
+ *
+ * 加上 cache:'no-cache' 之後會強制跟伺服器對一次（帶 ETag／If-Modified-Since），
+ * 沒改就回 304 幾乎不花流量，改了才真的重新下載。
  */
+function noHttpCache(request) {
+  try {
+    return new Request(request, { cache: 'no-cache' });
+  } catch (e) {
+    // 舊瀏覽器不支援就照原樣送，至少不要讓整個 service worker 掛掉
+    return request;
+  }
+}
+
 function shellNetworkFirst(request) {
   var settled = false;
 
-  var fromNetwork = fetch(request).then(function (response) {
+  var fromNetwork = fetch(noHttpCache(request)).then(function (response) {
     if (isCacheable(response)) {
       var copy = response.clone();
       caches.open(SHELL_CACHE).then(function (cache) {
