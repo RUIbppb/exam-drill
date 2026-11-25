@@ -22,7 +22,7 @@
 var PQApp = (function () {
   'use strict';
 
-  var APP_VERSION = 'v2.14';
+  var APP_VERSION = 'v2.15';
 
   function $(id) { return document.getElementById(id); }
 
@@ -438,13 +438,44 @@ var PQApp = (function () {
     var hasSaved = state.subjects.some(function (item) { return item.code === saved; });
     var selected = hasSaved ? saved : (state.subjects[0] ? state.subjects[0].code : '');
 
+    /*
+     * 依「哪一場考試要考」分組。
+     * RUI 兩場都要考，但科目不完全重疊，混在一起很難挑。
+     * 分組之後一眼就看得出這科該不該花時間——尤其最後那組根本不是他的考科。
+     */
+    var GROUPS = [
+      { title: '兩場都考（最划算，先刷這裡）',
+        test: function (it) { return !it.extraPractice && it.targets.length > 1; } },
+      { title: '警佐班第 3 類（116 年 3 月）',
+        test: function (it) { return !it.extraPractice && it.targets.length === 1 &&
+          it.targets[0].indexOf('警佐') !== -1; } },
+      { title: '刑事三等（116 年 6 月）',
+        test: function (it) { return !it.extraPractice && it.targets.length === 1 &&
+          it.targets[0].indexOf('警佐') === -1; } },
+      { title: '額外練習（不是你的考科）',
+        test: function (it) { return !!it.extraPractice; } },
+      { title: '其他',
+        test: function () { return true; } }
+    ];
+
     el.subjectSelect.textContent = '';
-    state.subjects.forEach(function (item) {
-      var option = document.createElement('option');
-      option.value = item.code;
-      option.textContent = item.name + '（' + item.count + ' 題）';
-      if (item.code === selected) option.selected = true;
-      el.subjectSelect.appendChild(option);
+    var used = {};
+    GROUPS.forEach(function (group) {
+      var members = state.subjects.filter(function (item) {
+        return !used[item.code] && group.test(item);
+      });
+      if (members.length === 0) return;
+      var box = document.createElement('optgroup');
+      box.label = group.title;
+      members.forEach(function (item) {
+        used[item.code] = true;
+        var option = document.createElement('option');
+        option.value = item.code;
+        option.textContent = item.name + '（' + item.count + ' 題）';
+        if (item.code === selected) option.selected = true;
+        box.appendChild(option);
+      });
+      el.subjectSelect.appendChild(box);
     });
   }
 

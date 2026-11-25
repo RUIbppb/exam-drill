@@ -156,7 +156,8 @@ var PQBank = (function () {
         file: item.file || (code + '.json'),
         count: Number(item.count) || 0,
         years: Array.isArray(item.years) ? item.years.slice().sort(function (a, b) { return a - b; }) : [],
-        targets: Array.isArray(item.targets) ? item.targets : []
+        targets: Array.isArray(item.targets) ? item.targets : [],
+        extraPractice: !!item.extraPractice
       };
     });
   }
