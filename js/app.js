@@ -22,7 +22,7 @@
 var PQApp = (function () {
   'use strict';
 
-  var APP_VERSION = 'v2.12';
+  var APP_VERSION = 'v2.13';
 
   function $(id) { return document.getElementById(id); }
 
@@ -1032,18 +1032,22 @@ var PQApp = (function () {
     claude: 'https://claude.ai/new'
   };
 
+  var WEB_AI_NAMES = { gemini: 'Gemini', chatgpt: 'ChatGPT', claude: 'Claude' };
+
   /*
-   * 開過的那個分頁記起來。
+   * 這一輪開過網頁 AI 了沒。
    *
-   * 【為什麼不能每次都 window.open】那樣按幾題就開幾個分頁，很快就是一排 Gemini。
-   * 記住handle 之後：還開著就只把它切到前面（focus），不重新導向——
-   * 他上一題的對話還在，新題目貼進同一個對話就好。
-   * 分頁被關掉了（closed）才重新開一個。
+   * 【為什麼只看「開過沒」，不去管那個分頁還在不在】
+   * 第一版試過記住 window.open 的 handle，分頁還開著就 focus() 切過去。
+   * 實際上行不通：跨網域分頁的 focus() 常被瀏覽器擋下，裝成 App 的獨立視窗
+   * 更不一定拿得到可用的 handle，結果就是每按一次又開一個分頁。
    *
-   * 這裡刻意不帶 noopener：帶了的話 window.open 會回傳 null，就拿不到 handle、
-   * 也就沒辦法判斷分頁還在不在。網址是寫死的那三個站，不是使用者輸入的，沒有注入風險。
+   * 改成 RUI 自己提的規則，不靠瀏覽器配合也不會錯：
+   *   第一次按 → 幫他把網頁開起來
+   *   之後再按 → 只複製，他自己切過去貼上
+   * 重新整理或重開 App 會歸零，那時候分頁多半也關了，再開一次剛好。
    */
-  var webAiWindow = null;
+  var webAiOpened = false;
 
   /*
    * 老方法：塞一個看不見的 textarea、選起來、execCommand('copy')。
@@ -1087,28 +1091,30 @@ var PQApp = (function () {
     var question = currentQuestion();
     if (!question) return;
     var prompt = PQPure.buildExplainPrompt(question);
-    var site = WEB_AI_SITES[(settings().webAiSite || 'gemini')];
+    var choice = settings().webAiSite || 'gemini';
+    var site = WEB_AI_SITES[choice];
+    var siteName = WEB_AI_NAMES[choice] || '網頁 AI';
 
     copyText(prompt).then(function () {
       if (!site) {
         showNotice('題目已經複製好了，貼到你要問的地方就行。', 'good', 'copyask');
         return;
       }
-      // 先複製再處理分頁；分頁開不起來（被擋彈出視窗）也不影響已經複製好的內容
-      var reused = false;
-      try {
-        if (webAiWindow && !webAiWindow.closed) {
-          webAiWindow.focus();
-          reused = true;
-        } else {
-          webAiWindow = window.open(site, '_blank');
-        }
-      } catch (e) {
-        webAiWindow = null;
+      if (webAiOpened) {
+        // 已經幫他開過了，不要再開第二個分頁
+        showNotice('題目已經複製好了，切到你的 ' + siteName + ' 分頁按貼上（Ctrl+V）就可以問。',
+          'good', 'copyask');
+        return;
       }
-      showNotice(reused
-        ? '題目已經複製好了，已經幫你切到剛才那個分頁，按貼上（Ctrl+V）就可以問。'
-        : '題目已經複製好了。到剛開的分頁按貼上（Ctrl+V）就可以問。', 'good', 'copyask');
+      // 第一次才開；開不起來（被擋彈出視窗）也不影響已經複製好的內容
+      try {
+        window.open(site, '_blank', 'noopener');
+        webAiOpened = true;
+      } catch (e) {
+        webAiOpened = false;
+      }
+      showNotice('題目已經複製好了。到剛開的分頁按貼上（Ctrl+V）就可以問。' +
+        '之後再按這顆就只會複製，你自己切過去貼上就好。', 'good', 'copyask');
     }).catch(function () {
       showNotice('複製失敗，可能是瀏覽器不給。請改用「問 AI 為什麼」，或手動把題目抄過去。',
         'error', 'copyask');
