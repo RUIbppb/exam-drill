@@ -24,6 +24,7 @@ var PQLaws = (function () {
     searchInfo: $('law-search-info'),
     searchResult: $('law-search-result'),
     backBtn: $('law-back-btn'),
+    amendedBtn: $('law-amended-btn'),
 
     catalogCard: $('law-catalog-card'),
     catalog: $('law-catalog'),
@@ -164,6 +165,14 @@ var PQLaws = (function () {
         el.meta.appendChild(document.createTextNode('來源：' + law.source));
       }
 
+      // 「只看最近修正」：有標註的手冊才出現這顆
+      var amended = law.articles.filter(function (a) { return a.amended; });
+      state.amendedOnly = false;
+      el.amendedBtn.classList.toggle('hidden', amended.length === 0);
+      if (amended.length) {
+        el.amendedBtn.textContent = '只看最近修正的 ' + amended.length + ' 點';
+      }
+
       renderAmendments(law);
       el.officialLink.href = law.url || '#';
       el.officialLink.classList.toggle('hidden', !law.url);
@@ -218,6 +227,15 @@ var PQLaws = (function () {
   function makeArticle(article) {
     var box = makeEl('div', 'article');
     box.appendChild(makeEl('p', 'article-no', article.no || ''));
+    /*
+     * 最近修正過的點要標出來。考題很愛考剛改的地方，
+     * 而手冊沒有官方網址可以點過去比對，這個標籤是他唯一的線索。
+     */
+    if (article.amended) {
+      box.classList.add('article-amended');
+      box.appendChild(makeEl('p', 'article-amend',
+        '最近修正' + (article.amendNote ? ('：' + article.amendNote) : '')));
+    }
     // 條文有縮排與換行（全形空格排版），用 CSS 的 pre-wrap 原樣顯示
     box.appendChild(makeEl('p', 'article-text', article.text || ''));
     return box;
@@ -298,6 +316,22 @@ var PQLaws = (function () {
       onSearchList();
       showCatalog();
     });
+    el.amendedBtn.addEventListener('click', function () {
+      state.amendedOnly = !state.amendedOnly;
+      if (state.amendedOnly) {
+        state.filtered = state.law.articles.filter(function (a) { return a.amended; });
+        el.amendedBtn.textContent = '看全部 ' + state.law.articles.length + ' 點';
+        el.articleInfo.textContent = '現在只顯示這次修正過的點。';
+      } else {
+        state.filtered = null;
+        el.amendedBtn.textContent = '只看最近修正的 ' +
+          state.law.articles.filter(function (a) { return a.amended; }).length + ' 點';
+        el.articleInfo.textContent = '';
+      }
+      el.search2 ? (el.search2.value = '') : null;
+      renderArticles(true);
+    });
+
     el.backBtn.addEventListener('click', function () {
       // 回刷題只要把畫面切回去就好，題目與作答狀態都還在，不要重新渲染首頁
       if (returnScreen === 'quiz') { PQApp.showScreen('quiz'); return; }

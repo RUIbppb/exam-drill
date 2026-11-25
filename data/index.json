@@ -8,7 +8,7 @@
   "file": "laws/index.json",
   "count": 45,
   "articles": 3758,
-  "version": "laws-8a602ffaa274"
+  "version": "laws-a81c2ed454dc"
  },
  "topics": {
   "note": "主題標籤的題數。一題可能掛多個主題，所以加起來會大於總題數。標籤規則見 研究/主題標籤表.json，侷限見 建置/品質報告.md 第八節。",

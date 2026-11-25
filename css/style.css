@@ -1329,3 +1329,20 @@ input[type="search"] {
 @media (min-width: 1500px) {
   .page { max-width: 58rem; }
 }
+
+/* 手冊裡「最近修正」的點：考題最愛考這些，要一眼看得到 */
+.article-amended {
+  border-left: 3px solid var(--warn);
+  padding-left: 0.8rem;
+}
+
+.article-amend {
+  margin: 0 0 0.35rem;
+  font-size: 0.8rem;
+  color: var(--warn);
+  background: var(--warn-bg);
+  border: 1px solid var(--warn-border);
+  border-radius: 3px;
+  padding: 0.25rem 0.6rem;
+  display: inline-block;
+}

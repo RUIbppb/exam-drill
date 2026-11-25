@@ -348,7 +348,8 @@
    "articles": 290,
    "modified": "114-12-11",
    "url": "",
-   "versionNote": "本檔已含 114-12-11 之後的最新一次修正，但檔案未載明該次修正的施行日期"
+   "versionNote": "本檔已含 114-12-11 之後的最新一次修正，但檔案未載明該次修正的施行日期",
+   "amendedCount": 10
   },
   "forensic-manual": {
    "name": "刑事鑑識手冊",
@@ -357,7 +358,8 @@
    "articles": 72,
    "modified": "103-03-11",
    "url": "",
-   "versionNote": "本檔已含 103-03-11 之後的最新一次修正（配合刑事警察局組織改造、增訂國民法官法案件檢核事項等），但檔案未載明該次修正的施行日期"
+   "versionNote": "本檔已含 103-03-11 之後的最新一次修正（配合刑事警察局組織改造、增訂國民法官法案件檢核事項等），但檔案未載明該次修正的施行日期",
+   "amendedCount": 15
   },
   "fingerprint-manual": {
    "name": "指紋鑑識作業手冊",
@@ -366,7 +368,8 @@
    "articles": 38,
    "modified": "",
    "url": "",
-   "versionNote": "檔案未載明修正日期"
+   "versionNote": "檔案未載明修正日期",
+   "amendedCount": 0
   },
   "digital-evidence-manual": {
    "name": "刑案現場數位證物蒐證手冊",
@@ -375,7 +378,8 @@
    "articles": 10,
    "modified": "",
    "url": "",
-   "versionNote": "檔案未載明修正日期"
+   "versionNote": "檔案未載明修正日期",
+   "amendedCount": 0
   }
  },
  "暫時不收": [
@@ -392,5 +396,5 @@
    "原因": "這是警政署的行政規則，不是法規，法規資料庫裡沒有。犯罪偵查學很愛考，但只能靠人工整理。"
   }
  ],
- "版本": "laws-8a602ffaa274"
+ "版本": "laws-a81c2ed454dc"
 }
