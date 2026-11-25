@@ -535,6 +535,10 @@ var PQBank = (function () {
           abandoned: data.abandoned === true,
           url: data.url || entry.url || '',
           recentAmendments: Array.isArray(data.recentAmendments) ? data.recentAmendments : [],
+          // 警政署手冊沒有官方網址可以點過去對照，版本說明與來源就是使用者
+          // 唯一能判斷「這份是哪個版本」的依據，不能在這裡被濾掉
+          versionNote: data.versionNote || '',
+          source: data.source || '',
           articles: articles
         };
         lawCache[code] = result;

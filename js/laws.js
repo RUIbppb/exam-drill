@@ -144,9 +144,25 @@ var PQLaws = (function () {
       state.shown = 0;
 
       el.name.textContent = law.name + (law.abandoned ? '（已廢止）' : '');
-      el.meta.textContent = '共 ' + law.articles.length + ' 條' +
+      el.meta.textContent = '';
+      el.meta.appendChild(document.createTextNode('共 ' + law.articles.length + ' 條' +
         (law.modified ? ('　最後修正 ' + law.modified) : '') +
-        (law.category ? ('　' + law.category) : '');
+        (law.category ? ('　' + law.category) : '')));
+
+      /*
+       * 手冊的版本說明一定要顯示出來。
+       * 這幾本是行政規則，沒有官方網址可以點過去對照，使用者唯一能知道
+       * 「這份是哪個版本」的管道就是這一行。藏起來等於讓人拿舊版當現行法讀。
+       */
+      var note = law.versionNote || '';
+      if (note) {
+        el.meta.appendChild(document.createElement('br'));
+        el.meta.appendChild(document.createTextNode('版本說明：' + note));
+      }
+      if (law.source && !law.url) {
+        el.meta.appendChild(document.createElement('br'));
+        el.meta.appendChild(document.createTextNode('來源：' + law.source));
+      }
 
       renderAmendments(law);
       el.officialLink.href = law.url || '#';

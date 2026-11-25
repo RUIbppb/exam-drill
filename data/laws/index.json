@@ -9,7 +9,8 @@
   "刑事法",
   "偵查相關",
   "婦幼與被害人",
-  "其他"
+  "其他",
+  "警政署手冊"
  ],
  "法規": {
   "constitution": {
@@ -339,6 +340,42 @@
    "articles": 134,
    "modified": "115-08-17",
    "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0040012"
+  },
+  "police-investigation-manual": {
+   "name": "警察偵查犯罪手冊",
+   "file": "police-investigation-manual.json",
+   "category": "警政署手冊",
+   "articles": 290,
+   "modified": "114-12-11",
+   "url": "",
+   "versionNote": "本檔已含 114-12-11 之後的最新一次修正，但檔案未載明該次修正的施行日期"
+  },
+  "forensic-manual": {
+   "name": "刑事鑑識手冊",
+   "file": "forensic-manual.json",
+   "category": "警政署手冊",
+   "articles": 72,
+   "modified": "103-03-11",
+   "url": "",
+   "versionNote": "本檔已含 103-03-11 之後的最新一次修正（配合刑事警察局組織改造、增訂國民法官法案件檢核事項等），但檔案未載明該次修正的施行日期"
+  },
+  "fingerprint-manual": {
+   "name": "指紋鑑識作業手冊",
+   "file": "fingerprint-manual.json",
+   "category": "警政署手冊",
+   "articles": 38,
+   "modified": "",
+   "url": "",
+   "versionNote": "檔案未載明修正日期"
+  },
+  "digital-evidence-manual": {
+   "name": "刑案現場數位證物蒐證手冊",
+   "file": "digital-evidence-manual.json",
+   "category": "警政署手冊",
+   "articles": 10,
+   "modified": "",
+   "url": "",
+   "versionNote": "檔案未載明修正日期"
   }
  },
  "暫時不收": [
@@ -355,5 +392,5 @@
    "原因": "這是警政署的行政規則，不是法規，法規資料庫裡沒有。犯罪偵查學很愛考，但只能靠人工整理。"
   }
  ],
- "版本": "laws-43cf9b4a1c9c"
+ "版本": "laws-8a602ffaa274"
 }

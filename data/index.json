@@ -6,9 +6,9 @@
  "lawDataUpdatedAt": "2026/11/13 上午 12:00:00",
  "laws": {
   "file": "laws/index.json",
-  "count": 41,
-  "articles": 3348,
-  "version": "laws-43cf9b4a1c9c"
+  "count": 45,
+  "articles": 3758,
+  "version": "laws-8a602ffaa274"
  },
  "topics": {
   "note": "主題標籤的題數。一題可能掛多個主題，所以加起來會大於總題數。標籤規則見 研究/主題標籤表.json，侷限見 建置/品質報告.md 第八節。",
