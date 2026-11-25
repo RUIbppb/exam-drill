@@ -1923,5 +1923,103 @@
    "現場封鎖與保全",
    "幫派調查"
   ]
+ },
+ {
+  "id": "moex-115-pscen-e01",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 20,
+  "stem": "民國114年12月19日臺北車站捷運站及中山區南西商圈發生隨機襲擊事件，為精進警察人員快速打擊犯罪機制，整合各級警力進行應變並縮減整備時間，內政部警政署優化修訂「各警察機關啟動快速打擊犯罪部隊實施計畫」，以全面回應可能發生之治安事件。你是派出所所長，在主持勤前教育時，如何跟員警說明該計畫本次優化之修正重點為何？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0904&q=1",
+   "answerUrl": ""
+  },
+  "topics": [
+   "警察組織與職權",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "勤前教育與督導"
+  ]
+ },
+ {
+  "id": "moex-115-pscen-e02",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "你是派出所所長，某日接獲轄區民眾報案，指述其對面大樓出租套房，最近搬來一對年輕情侶並帶著一個幼童，偶爾會聽到此名幼童不斷哭鬧聲，而且曾經目睹此名幼童身上疑似有瘀傷，因擔心此名幼童的安危而報警。請問：\n①此案件的處理流程為何？（10分）\n②處理上有何需要特別注意的事項？（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0904&q=1",
+   "answerUrl": ""
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-pscen-e03",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察情境實務",
+  "originalSubject": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 3,
+  "points": 20,
+  "stem": "你帶班執行路檢盤查勤務，發現民眾駕駛車輛闖紅燈，且拒絕停車接受稽查並逃逸時，請問你決定執行追蹤稽查的考量要件為何？執行追蹤稽查應採取那些作為及注意事項？又於那些狀況下應該適時終止追蹤稽查？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察情境實務(包括警察法規、實務操作標準作業程序、人權保障與正當法律程序)_試題.pdf",
+   "no": 3,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0904&q=1",
+   "answerUrl": ""
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "交通事故與交通執法"
+  ],
+  "topicDetails": []
  }
 ]

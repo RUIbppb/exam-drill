@@ -2750,5 +2750,77 @@
    "現場勘察與重建",
    "血跡與體液檢驗"
   ]
+ },
+ {
+  "id": "moex-115-forens-e01",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 25,
+  "stem": "為因應我國《刑事訴訟法》修正通過擴大「預防性羈押」適用範圍之規定，刑事警察於第一線執法時之證據保全益顯重要。假若您身為分局偵查隊人員，於配合派出所執行擴大臨檢勤務時，負責現場蒐證工作，適逢盤查到一名神情恍惚、疑似毒駕之可疑駕駛人。請問您應如何進行現場處理與蒐證工作，方能有效完備刑事訴訟法所定預防性羈押之相關法定要件與程序？（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": ""
+  },
+  "topics": [
+   "羈押與強制處分",
+   "身分查證與臨檢",
+   "勤務方式與編排"
+  ],
+  "topicDetails": [
+   "羈押要件",
+   "六種勤務方式"
+  ]
+ },
+ {
+  "id": "moex-115-forens-e02",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 25,
+  "stem": "目前我國指紋鑑定程序，係採用指紋分析、研究及技術科學工作小組（The Scientific Working Group on Friction Ridge Analysis, Study and Technology, SWGFAST）與歐洲鑑識科學機構聯盟（The European Network of Forensic Science Institutes, ENFSI）之所推行之科學規範。請詳細說明我國指紋比對程序與研判標準之具體內涵。（25分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": ""
+  },
+  "topics": [
+   "證據法則",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "指紋採驗與顯現",
+   "指紋比對與特徵"
+  ]
  }
 ]

@@ -8711,5 +8711,435 @@
    "國文文意理解"
   ],
   "topicDetails": []
+ },
+ {
+  "id": "moex-115-chin-01",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "「根據研究，人類在判斷資訊真偽時主要依賴兩種模式：捷思式判斷與系統式判斷。捷思式判斷是一種快速、直覺性的思考方式，使人們迅速接受資訊，但容易受到錯誤資訊影響；而系統式判斷則需要較多時間與認知資源，較為精確但使用頻率較低。由於大腦的資訊處理能力有限，我們通常傾向使用捷思式判斷，以致假新聞更容易被接受。這種現象與『真實偏差』有關，即人類大腦預設資訊為真，除非發現矛盾點才會啟動系統式分析。假新聞能夠成功影響閱聽人，與此心理傾向密切相關。」根據上文，下列選項何者最貼合本文意旨？",
+  "options": {
+   "A": "假新聞通常使用複雜專業的術語，使閱聽人更容易相信其內容",
+   "B": "人類依賴捷思式判斷可快速做出決策，不易受多元資訊的蒙蔽",
+   "C": "假新聞利用真實偏差，使閱聽人容易接受資訊而不進行深度分析",
+   "D": "當人類運用系統式判斷，保持懷疑、辨識能力，即可避開假訊息"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 1,
+   "answerFile": "國文(作文與測驗)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0102&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0102&q=1"
+  },
+  "topics": [
+   "國文文意理解"
+  ],
+  "topicDetails": [
+   "詞句解讀"
+  ]
+ },
+ {
+  "id": "moex-115-chin-02",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "「在我又一次大病之時，母親猶然回到藥爐邊，熬出一碗融注了她的憂慮與關懷的藥汁。我凜然坐起，從母親手上接過藥碗；但我猶豫了片刻，沒有立即去喝它。我已經是一個裝滿了新知識、裝滿了科學觀念的現代人，再也不會毫無置疑地接受這樣古老而落伍的藥方──雖然我也未曾真正地研究過它。『喝下去吧！這是祖傳的祕方！幾代人都喝過它哩！』唔！我一口一口，慢慢地吞嚥著，終至全部飲盡。」根據上文，作者後來飲盡中藥最可能的原因為：",
+  "options": {
+   "A": "回應母親的關愛",
+   "B": "違反母親的期望",
+   "C": "支持祖傳的祕方",
+   "D": "藥汁為科學中藥"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 2,
+   "answerFile": "國文(作文與測驗)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0102&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0102&q=1"
+  },
+  "topics": [
+   "國文文意理解"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-chin-03",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "「食物裡的化學物質必須溶解之後才能與味蕾裡的化學受體結合，這意味著你需要液體媒介。味蕾負責感知味道，如果用紙巾擦乾舌頭，然後把有味道的東西放在舌頭上，在唾液腺分泌唾液潤滑你的口腔之前，舌頭上的樣本嚐起來完全無味，關鍵在於唾液裡的酶，它們會分解食物並釋放分子，味蕾將分析這些分子。鳳梨含有鳳梨酵素，會分解舌頭、嘴唇和口腔黏膜上的蛋白質，這就是為什麼吃鳳梨時嘴裡會覺得刺刺的，因為鳳梨正在消化你。」根據上文，下列選項何者正確？",
+  "options": {
+   "A": "吃鳳梨會感覺到刺刺的，是因為鳳梨的品種所造成的影響",
+   "B": "我們可以透過啤酒來溶解食物裡的化學物質，進而感知味道",
+   "C": "唾液中的酶與鳳梨酵素中的成分有一樣的功能，都能分解食物",
+   "D": "舌頭上的味蕾負責分解食物並釋放分子，由此感知食物的味道"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 3,
+   "answerFile": "國文(作文與測驗)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0102&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0102&q=1"
+  },
+  "topics": [
+   "生物跡證與DNA",
+   "國文文意理解"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
+ },
+ {
+  "id": "moex-115-chin-04",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "「如今回想，年輕時似懂非懂的翻頁，若非自己悟性差，是不是早應該明白的？年輕時候，我曾把《紅樓夢》當作枕邊書，每晚讀一段，再推開書進入夢鄉。篇章中還情還淚，說的是好物無常，生在世上，哪裡能夠執著與攀附？」根據上文，下列敘述何者最接近文意？",
+  "options": {
+   "A": "讀過《紅樓夢》後，作者開始了解生命中的轉變和無常",
+   "B": "年輕時對於《紅樓夢》的深刻體悟，讓作者現在感到欣慰",
+   "C": "作者年輕時閱歷不足，沒能充分理解《紅樓夢》通透世情的哲理",
+   "D": "不同時期閱讀《紅樓夢》感受不同，是因為作者經歷了愛情的幻滅"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 4,
+   "answerFile": "國文(作文與測驗)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0102&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0102&q=1"
+  },
+  "topics": [
+   "國文文意理解"
+  ],
+  "topicDetails": [
+   "詞句解讀"
+  ]
+ },
+ {
+  "id": "moex-115-chin-05",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "「小時候，我的老家務農，每當農事正忙，下午時間，總會有嬸嬸們將點心烹煮，再由長工挑到田頭，讓忙著割稻的農友墊墊肚子。我年幼也喜歡湊熱鬧，尤其那一碗不燙手，溫溫美味的米篩目。媽媽是這麼做的：用手掌推著米粹在勺篩上，米粹受到壓力穿過圓形小洞的篩目，白白長長的米條就墜溜下來，入了沸水，米條立刻熟成滑溜的米篩目。我的古早味，鄉愁十足的米篩目湯裡有蔥酥、韭菜段子和說不清楚的童年。」根據上文，下列選項何者正確？",
+  "options": {
+   "A": "為能表達誠摯的謝意，給工人的餐點必須自製",
+   "B": "現在因為生活型態轉變，米篩目湯已變成甜點",
+   "C": "藉由米篩目的製作過程，書寫童年回憶與美食",
+   "D": "米篩目是農家日常生活三餐最主要的飲食種類"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 5,
+   "answerFile": "國文(作文與測驗)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0102&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0102&q=1"
+  },
+  "topics": [
+   "國文文意理解"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-chin-06",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "「根據美國心臟病學者的著作《小麥完全真相》觀點，現代小麥經過數十年雜交、配種與基因改造，不僅抗旱性與產量大幅提高，其結構也隨之改變，包含更多麩質蛋白質，營養價值卻大不如前。研究指出，現代小麥的升糖指數甚至高於白麵包與蔗糖，可能導致脂肪囤積與慢性發炎，進一步與心血管疾病、糖尿病、神經失調等病症相關。部分學者亦提醒，與小麥同源的穀類如卡姆小麥、大麥與裸麥等，可能引發相似生理反應，應特別留意。此外，燕麥等非小麥穀物雖較為溫和，但對麩質耐受性差者，仍可能造成代謝壓力，甚至須暫時戒除。」下列選項，最合乎本文意旨的是：",
+  "options": {
+   "A": "穀類普遍被視為有益健康的食材，若能避免加工即可降低相關健康風險",
+   "B": "若無特殊體質或慢性疾病，為健康考量仍推薦將小麥作為日常主食來源",
+   "C": "現代小麥的升糖指數對健康影響不大，比過去更適合大多數人長期食用",
+   "D": "現代小麥經雜交與基因改造，結構與營養改變，可能與慢性病風險相關"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 6,
+   "answerFile": "國文(作文與測驗)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0102&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0102&q=1"
+  },
+  "topics": [
+   "國文文意理解"
+  ],
+  "topicDetails": [
+   "詞句解讀"
+  ]
+ },
+ {
+  "id": "moex-115-chin-07",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "「人類學定義文化一詞，乃指『一個社會的生活方式』，用以標誌人類社會不同於動物群體。這個用法是在強調人類社會的諸多要素，如風俗習慣、觀念與態度等，乃是經過學習過程而非生物遺傳累世傳遞。『文明』簡言之是指『高級的文化』，它至少要具備數個『先進的』條件，如農牧業、冶金、專業化與分工的社會、文字的使用、城市的發展、國家規模和政府組織等。由此可見，『文化』與『文明』頗為接近，但『文化』的定義顯然較『文明』廣泛或寬鬆，它可以指任何一種『生活方式』，包含初等與高級之流，而『文明』則僅指複雜而開化的生活方式。」根據上文，下列敘述何者正確？",
+  "options": {
+   "A": "文化偏向自然天成，文明則仰賴教育制度長期培養",
+   "B": "文明具城市、國家等特徵，文化難獨立存在於現代",
+   "C": "文化為生活方式，文明是文化中較高階的表現形式",
+   "D": "文明著重精神層面，文化重物質，是人類學習成果"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 7,
+   "answerFile": "國文(作文與測驗)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0102&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0102&q=1"
+  },
+  "topics": [
+   "國文文意理解",
+   "國文古文與韻文"
+  ],
+  "topicDetails": [
+   "詩詞曲"
+  ]
+ },
+ {
+  "id": "moex-115-chin-08",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "「在臺老八十九歲的人生中，接觸他的人都說他處人處事的風格寬厚、自在和舒坦，謙和中不與人爭。但是在〈腐鼠〉一詩中，以及他稱之為『自遣』的書藝和隨筆中，似乎都是經由人生的飄泊、挫折、戰亂，以及種種人生諸相，來思考生命的真正意義。莊子說：『處無可奈何之世而視之若命』，臺老說：『老夫一例觀興廢，不信人間有道窮。』二者對照，似乎後者更具有積極的意義。」根據上文，下列選項何者最接近作者對臺老的核心理解？",
+  "options": {
+   "A": "用〈腐鼠〉一詩尖銳地諷刺世俗庸眾的腐敗與求功利的汲汲營營",
+   "B": "以寬厚、自在、謙和品格應世，內心深刻相信人生理想終能實現",
+   "C": "最欣賞與信仰莊子的哲學，人生價值終究要清空放心、一無所住",
+   "D": "一生儒道雙修，到了晚年亦深懂明哲保身，以謙和不爭全身而退"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 8,
+   "answerFile": "國文(作文與測驗)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0102&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0102&q=1"
+  },
+  "topics": [
+   "國文文意理解",
+   "國文古文與韻文"
+  ],
+  "topicDetails": [
+   "詞句解讀",
+   "詩詞曲",
+   "經史與諸子"
+  ]
+ },
+ {
+  "id": "moex-115-chin-09",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "「便這麼向東向西，取小街，便能看到不少僻處隱晦的舊日生活情狀，這像是不經意的看到不少臺灣老電影的片斷一樣的經驗，於我是特好的娛樂。像安樂街190巷，L形的弄堂，安靜極了，卻又像不久有事要發生，實是電影（Motion picture）的畫面，而不是拍照（still）的畫面。像光彩街670號『榮南實業』（中油辦事處），是那種和風兼臺灣瓦房式町家，既是辦公室，側面推開玻璃門，或又是住家，極有生活感。我站在外面停看，覺得盯個三、五分鐘也不膩，特別是裡面有人走來走去拿東西或點菸或取報紙什麼的。」根據上文，作者認為自己最好的娛樂應是：",
+  "options": {
+   "A": "等待戲劇性時刻的發生",
+   "B": "找尋臺灣電影拍攝場景",
+   "C": "欣賞懷舊平凡居家畫面",
+   "D": "挖掘攝影取景最佳角度"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 9,
+   "answerFile": "國文(作文與測驗)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0102&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0102&q=1"
+  },
+  "topics": [
+   "國文文意理解"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-chin-10",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "國文",
+  "originalSubject": "國文(作文與測驗)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "「數位記憶造成資訊權力重新分配的特點之一，在於耐久性。在數位記憶發展之前，大多數資訊都會很快遭到遺忘。到了數位時代，『記憶』花費的心力降低，但價值卻飆升。像是Google，雖然每天都有十億筆以上的搜尋，但它什麼都記得。如果某個人看著你上網，幾天之後他可能已忘了你在什麼時候搜尋了什麼內容；但是Google不會忘，它對於個人搜尋查詢的記憶不僅更為耐久、也更為精確。像是留言、照片、點按某個連結的動作、甚至搜尋某個關鍵詞都記得。」根據上文，有關「數位記憶」的敘述，下列選項何者正確？",
+  "options": {
+   "A": "更精準易保存，降低個人遺忘的可能性",
+   "B": "具耐久性，有利於歷史判斷與政策延續",
+   "C": "方便使用，人們對隱私的關注因此降低",
+   "D": "提高搜尋門檻，應重視真相與記憶篩選"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "國文(作文與測驗)_試題.pdf",
+   "no": 10,
+   "answerFile": "國文(作文與測驗)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0102&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0102&q=1"
+  },
+  "topics": [
+   "國文文意理解",
+   "國文古文與韻文"
+  ],
+  "topicDetails": [
+   "詩詞曲"
+  ]
  }
 ]

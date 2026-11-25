@@ -64210,5 +64210,2637 @@
    "警用英文用語"
   ],
   "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-01",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "下列何者直接涉及憲法中生命權之保障？",
+  "options": {
+   "A": "禁止刑求行為",
+   "B": "禁止安樂死行為",
+   "C": "禁止公娼行為",
+   "D": "禁止虐待動物"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 1,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-02",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依現行憲法規定，有關立法院之職權，下列敘述何者錯誤？",
+  "options": {
+   "A": "提出憲法修正案",
+   "B": "提出行政院院長彈劾案",
+   "C": "提出總統彈劾案",
+   "D": "議決行政院移請覆議案"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 2,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "總統與行政院",
+   "立法院與監察院"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-03",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依憲法增修條文規定，關於總統、副總統彈劾程序，下列何者正確？",
+  "options": {
+   "A": "立法院提出彈劾案，經決議後，聲請司法院大法官審理",
+   "B": "監察院提出彈劾案，經決議後，聲請司法院大法官審理",
+   "C": "立法院提出彈劾案，經決議後，移送監察院審理",
+   "D": "監察院提出彈劾案，經決議後，移送立法院審理"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 3,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "總統與行政院",
+   "立法院與監察院",
+   "修憲程序"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-04",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依司法院大法官解釋，有關憲法第11條保障之人民言論及出版自由，下列敘述何者錯誤？",
+  "options": {
+   "A": "化粧品廣告之事前審查乃對言論自由之重大干預，原則上應為違憲",
+   "B": "促使人為性交易之商業言論，因涉及非法交易活動，故可對之為合理限制",
+   "C": "少數性文化族群之性言論，仍應予以保障",
+   "D": "菸品容器上應為一定之標示，對菸品業者財產權之限制非屬輕微，違憲"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 4,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "社會秩序維護法",
+   "憲法基本權",
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "妨害善良風俗",
+   "表意自由",
+   "違憲審查的標準"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-05",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "關於國民主權原則之直接實踐方式，下列何者不屬之？",
+  "options": {
+   "A": "公民投票",
+   "B": "選舉代議士",
+   "C": "服公職",
+   "D": "行使創制權與複決權"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 5,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "憲法基本權",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "選舉罷免與公民投票"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-06",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "下列何者並非法治原則之內涵？",
+  "options": {
+   "A": "法律保留",
+   "B": "基本權利保障",
+   "C": "法律明確",
+   "D": "多元民主"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 6,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "行政程序與行政罰",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "行政法的一般原則",
+   "基本權的限制"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-07",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依憲法基本國策章規定，軍人不得為下列何項行為？",
+  "options": {
+   "A": "兼任文官",
+   "B": "加入政黨",
+   "C": "進修學業",
+   "D": "投資營利"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 7,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "選舉罷免與公民投票"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-08",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "下列何者並非憲法本文明定，國家對於邊疆地區各民族應積極舉辦之事業？",
+  "options": {
+   "A": "交通事業",
+   "B": "水利事業",
+   "C": "衛生事業",
+   "D": "國防事業"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 8,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-09",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "憲法對於人身自由並無明確定義，但就憲法第8條條文觀之，下列何者最接近憲法保障人身自由之核心意涵？",
+  "options": {
+   "A": "隨時任意前往他方或停留一定處所之自由",
+   "B": "私人生活領域不受任意侵入之自由",
+   "C": "不受非法逮捕拘禁審問處罰之自由",
+   "D": "依個人意志行為或不行為之自由"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 9,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "人身自由與正當程序"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-10",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依司法院解釋意旨，通常情形下，戒嚴時期戒嚴地域內經軍事審判機關審判之非現役軍人刑事案件已確定者，於解嚴後應如何處理始符合憲法意旨？",
+  "options": {
+   "A": "得於解嚴之翌日起依法上訴於普通法院",
+   "B": "得於解嚴之翌日起依法向普通法院聲請非常上訴或再審",
+   "C": "基於判決之既判力，僅得於解嚴之翌日起請求國家賠償",
+   "D": "基於判決之既判力，僅得於解嚴之翌日起請求刑事補償"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 10,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "審判與救濟",
+   "行政程序與行政罰"
+  ],
+  "topicDetails": [
+   "上訴制度",
+   "再審與非常上訴",
+   "救濟途徑"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-11",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依民法第195條第1項後段之規定，「……名譽被侵害者，並得請求回復名譽之適當處分」。原告欲透過法院判決強制命被告道歉，下列敘述何者錯誤？",
+  "options": {
+   "A": "法院依法判決命加害人道歉，符合憲法保障言論自由之意旨",
+   "B": "不表意之自由係有關人民內在精神活動及自主決定權",
+   "C": "不表意之自由乃個人主體性維護與人格自由完整發展所不可或缺",
+   "D": "不表意之自由與人性尊嚴之維護關係密切"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 11,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "審判與救濟",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "表意自由"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-12",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "關於受刑人之權利，下列何者的保障程度最低？",
+  "options": {
+   "A": "秘密通訊自由",
+   "B": "言論自由",
+   "C": "財產權",
+   "D": "行動自由"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 12,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "表意自由"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-13",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依司法院釋字第490號解釋，下列敘述何者錯誤？",
+  "options": {
+   "A": "內在信仰之自由，受絕對之保障",
+   "B": "宗教行為之自由，受相對之保障",
+   "C": "信仰特定宗教者，其對國家所應負之基本義務，得因宗教信仰之關係而免除",
+   "D": "男子服兵役之義務，原屬立法政策之考量，無助長、促進或限制宗教之效果"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 13,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "釋憲與違憲審查"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-14",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依司法院大法官解釋，有關結社自由，下列敘述何者錯誤？",
+  "options": {
+   "A": "結社自由包括加入、退出社團之自由",
+   "B": "現職法官亦享有完全之結社自由",
+   "C": "結社自由包括各該團體內部組織之自由",
+   "D": "人民團體得主張共產主義"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 14,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-15",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "下列何者並非優惠性差別對待措施？",
+  "options": {
+   "A": "依原住民族工作權保障法及政府採購法規定，政府採購得標廠商符合特定條件者，必須強制僱用一定比例之原住民",
+   "B": "依身心障礙者權益保障法規定，具身心障礙證明者搭乘大眾捷運工具得享半價優待",
+   "C": "依據兵役法規定，身高、體重或體格指標過高或過低，達不適服役標準者，准以免役",
+   "D": "依據公益彩券發行條例規定，公益彩券經銷商之遴選以低收入單親家庭為優先"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 15,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "平等權與受益權"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-16",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依司法院大法官解釋意旨，有關財產權保障之正當行政程序，下列敘述何者錯誤？",
+  "options": {
+   "A": "都市更新事業計畫之核定，法律應規定由主管機關以公開方式舉辦聽證",
+   "B": "區段徵收申請發給抵價地之申請期限規定，應確保利害關係人及時獲知相關資訊",
+   "C": "該管主管機關應自徵收完成時起一定期限內，定期通知原土地所有權人，使其適時知悉被徵收土地之後續使用情形",
+   "D": "政黨及其附隨組織不當取得財產之調查與返還，須由法院以司法程序直接決定，不得由行政機關透過公開聽證程序主動行使職權"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 16,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "行政程序與行政罰",
+   "憲法基本權",
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "行政處分與程序",
+   "選舉罷免與公民投票"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-17",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "入出國及移民法第58條第2項規定：「跨國（境）婚姻媒合不得要求或期約報酬。」違反者處以罰鍰。上開規定與下列何者無關？",
+  "options": {
+   "A": "工作權",
+   "B": "財產權",
+   "C": "平等權",
+   "D": "遷徙自由"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 17,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "平等權與受益權"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-18",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "司法院釋字第665號解釋理由書所稱「法院經由案件分配作業，決定案件之承辦法官，與司法公正及審判獨立之落實，具有密切關係。」此在學理上稱為何種原則？",
+  "options": {
+   "A": "直接審理原則",
+   "B": "法定法官原則",
+   "C": "訴訟上武器平等原則",
+   "D": "公開審判原則"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 18,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "審判與救濟",
+   "行政程序與行政罰",
+   "憲法基本權",
+   "釋憲與違憲審查"
+  ],
+  "topicDetails": [
+   "行政法的一般原則",
+   "平等權與受益權"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-19",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "下列關於人民報考或任用資格之限制規定，依司法院大法官解釋，下列何者與憲法應考試服公職權利之意旨不符？",
+  "options": {
+   "A": "曾受刑之宣告者，不得報考國防部預備軍士官班",
+   "B": "我國籍醫師兼具外國國籍者，不得擔任以公務人員身分任用之公立醫療機構醫師",
+   "C": "大陸地區人民非設籍臺灣地區滿10年，不得擔任公務人員",
+   "D": "色盲者不得報考中央警察大學研究所"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 19,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警察人事與風紀",
+   "憲法基本權",
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "警察教育與訓練"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-20",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依憲法規定及相關司法院大法官解釋，下列何種法律關係的義務主體，與其他三者不同？",
+  "options": {
+   "A": "服兵役",
+   "B": "服公職",
+   "C": "繳納租稅",
+   "D": "加入健保"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 20,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "憲法基本權",
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-21",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依據憲法及大法官釋憲實務，下列敘述何者錯誤？",
+  "options": {
+   "A": "憲法條文先規定政府組織，再規定人民權利，以指示政府機關不應侵害人民權利",
+   "B": "為保障人民得享有符合人性尊嚴之生活，國家有相應之照顧義務",
+   "C": "秘密通訊自由為維護人性尊嚴、個人主體性及人格發展之完整所不可或缺之基本權利",
+   "D": "國家對於兒童及少年之身心健康及人格健全成長，負有特別保護之義務"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 21,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "憲法基本權",
+   "釋憲與違憲審查"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-22",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依現行憲法及增修條文規定，對於立法委員之保障，下列敘述何者正確？",
+  "options": {
+   "A": "立法委員，除現行犯外，非經立法院之許可，均不得逮捕或拘禁",
+   "B": "立法委員在院內所為之言論及表決，對院外不負責任",
+   "C": "立法委員任期4年，除連選得連任外，於任期中不得罷免之",
+   "D": "於不分區立委選舉中，各政黨當選名單中，婦女名額不得低於3分之1"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 22,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "中央政府體制",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "現行犯逮捕",
+   "立法院與監察院",
+   "選舉罷免與公民投票"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-23",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依現行規定，關於考試院考試委員，下列敘述何者正確？",
+  "options": {
+   "A": "由總統提名，經監察院同意任命之",
+   "B": "任期4年，無連任次數之限制",
+   "C": "7至9人，其中2人並為考試院院長、副院長",
+   "D": "考試院正、副院長與考試委員之法定資格要件相同"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 23,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "總統與行政院",
+   "立法院與監察院"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-24",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依據現行憲法規定及相關司法院大法官解釋，監察院已不具有下列何種職權？",
+  "options": {
+   "A": "調查權",
+   "B": "人事同意權",
+   "C": "糾正權",
+   "D": "彈劾權"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 24,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "立法院與監察院"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-25",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依憲法及增修條文規定，國民健康之維護，乃國家之重要任務。下列敘述何者錯誤？",
+  "options": {
+   "A": "針對原住民族及離島地區人民之衛生醫療，國家應予以保障扶助並促進其發展",
+   "B": "國家應推行全民健康保險，並促進現代及傳統醫藥之研究發展",
+   "C": "國家為增進民族健康，應普遍推行衛生保健事業及公醫制度，其支出應優先編列",
+   "D": "為維護國民健康，藥物廣告於刊播前，應受主管機關之審查，非憲法所不許"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 25,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-26",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依憲法規定及司法院大法官解釋意旨，下列敘述何者正確？",
+  "options": {
+   "A": "大學基於大學自治，得自訂學生之畢業條件",
+   "B": "憲法保障大學自治，故大學不受法律之監督",
+   "C": "受限於國家教育資源之有限性，憲法並不保障人民享有接受各階段教育之公平機會",
+   "D": "憲法保障私人興學自由，故私立學校不受法律監督"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 26,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-27",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依司法院大法官解釋，有關憲法保障之婚姻自由，下列敘述何者錯誤？",
+  "options": {
+   "A": "婚姻與家庭均受憲法之保障，國家得制定相關規範確保婚姻制度之存續與圓滿",
+   "B": "關於立法維護婚姻關係中雙方互負忠誠義務，大法官尊重立法機關之價值判斷與形成自由",
+   "C": "適婚人民而無配偶者之結婚自由，包含「是否結婚」暨「與何人結婚」",
+   "D": "婚姻自由包括與配偶共同形成與經營其婚姻關係之權利"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 27,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-28",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依司法院大法官解釋，關於憲法第22條規定，下列敘述何者錯誤？",
+  "options": {
+   "A": "為非明文基本權之依據",
+   "B": "為一般人格發展自由之憲法依據",
+   "C": "憲法第22條權利之限制，仍須符合第23條之比例原則",
+   "D": "本條所保障之自由權利不適用法律保留原則"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 28,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "行政程序與行政罰",
+   "憲法基本權",
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "行政法的一般原則",
+   "基本權的限制"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-29",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依司法院大法官解釋，關於憲法第22條所保障之行動自由，下列敘述何者錯誤？",
+  "options": {
+   "A": "指人民有隨時任意前往他方或停留一定處所之自由",
+   "B": "警察實施臨檢涉及對人民行動自由之限制",
+   "C": "吊銷駕照只是不能駕駛汽車，個人仍可選擇其他方式前往特定處所之自由，故不涉及侵害行動自由",
+   "D": "人民的行動自由包含選擇使用特定交通工具前往一定處所之自由"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 29,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "交通事故與交通執法",
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "交通違規裁罰"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-30",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "關於地方自治條例之限制人民權利，下列敘述何者正確？",
+  "options": {
+   "A": "地方自治條例得限制人民基本權利，惟不得牴觸憲法有關中央與地方權限劃分之規定",
+   "B": "地方自治條例不得限制人民基本權利，法律保留原則所稱法律僅限國會制定之規範",
+   "C": "地方自治條例得限制人民基本權利，惟均須於制訂前獲得中央政府之特別授權",
+   "D": "地方自治條例不得限制人民基本權利，但地方自治團體得以地方自治規則限制之"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 30,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "行政程序與行政罰",
+   "憲法基本權",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "行政法的一般原則",
+   "基本權的限制",
+   "地方自治團體與自治法規"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-31",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "憲法增修條文第2條第3項變更憲法第43條關於總統發布緊急命令之規定。下列敘述何者錯誤？",
+  "options": {
+   "A": "總統發布緊急命令已不須立法院追認",
+   "B": "即使在立法院開會期間，總統亦可即時發布緊急命令",
+   "C": "立法院若不同意，該緊急命令只向後失效，並不溯及失效",
+   "D": "緊急命令係總統直接依憲法授權所發布，具有暫時替代或變更法律效力之命令，其內容應力求周延，應以可逕予執行為原則"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 31,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "總統與行政院",
+   "修憲程序"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-32",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依司法院大法官解釋及現行規定，有關行政院與立法院之互動關係，下列敘述何者錯誤？",
+  "options": {
+   "A": "對於立法院決議之法律案，行政院如認為有窒礙難行時，得經總統之核可，於該決議案送達行政院10日內，移請立法院覆議",
+   "B": "立法院開會時，行政院應向立法院提出施政方針及施政報告，對於行政院院長之施政報告，立法委員得提出口頭或書面質詢",
+   "C": "預算制度乃係行政部門實現其施政方針並經立法部門參與決策之憲法建制，審議預算及監督執行，屬立法機關之權限與職責",
+   "D": "行政院於會計年度結束後4個月內，應提出決算於立法院，於行政院提出決算後3個月內，立法院應完成決算之審查及監督"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 32,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "行政程序與行政罰",
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "行政處分與程序",
+   "總統與行政院",
+   "立法院與監察院"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-33",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "下列何者並非考試院依法舉辦之考試？",
+  "options": {
+   "A": "高等考試營養師考試",
+   "B": "高級中等以下學校及幼兒園教師資格考試",
+   "C": "國軍上校以上軍官轉任公務人員考試",
+   "D": "普通考試地政士考試"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 33,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "中央政府體制"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-34",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依憲法及現行法規定，關於憲法訴訟，下列敘述何者正確？",
+  "options": {
+   "A": "依憲法訴訟法所為暫時處分之裁定，於裁定後已逾3個月者，失其效力",
+   "B": "人民對於經司法院解釋或憲法法庭判決宣告未違憲之法規範，因相關法規範修正，認有重行認定與判斷之必要者，得依法聲請憲法法庭為變更之判決",
+   "C": "憲法法庭判決宣告法律位階法規範定期失效時，就判決前已繫屬於各法院而尚未終結之案件，各法院應裁定停止審理程序，俟該法規修正後，依新法續行審理",
+   "D": "經全體立法委員過半數提議並經全體立法委員3分之2以上決議所提出總統、副總統之彈劾案，憲法法庭應於收受彈劾案件聲請之日起3個月內為裁判"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 34,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "審判與救濟",
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "釋憲程序",
+   "違憲審查的標準",
+   "總統與行政院",
+   "立法院與監察院"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-35",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "下列何者並非憲法明定專屬中央立法並執行之事項？",
+  "options": {
+   "A": "幣制",
+   "B": "度量衡",
+   "C": "公營事業",
+   "D": "民刑事法律"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 35,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-36",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "私立國民中學與學生之以下爭議，何者應循民事途徑救濟？",
+  "options": {
+   "A": "確定學籍",
+   "B": "懲處",
+   "C": "錄取與否",
+   "D": "學校制服與餐點之費用"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 36,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "考核獎懲與停職免職"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-37",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "有關總統之規定，下列何者未曾經修憲改變？",
+  "options": {
+   "A": "總統享有三軍統帥權",
+   "B": "總統經全民直接選舉產生",
+   "C": "總統享有對行政院院長的獨立任命權",
+   "D": "總統得解散立法院"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 37,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "中央政府體制",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "總統與行政院",
+   "修憲程序",
+   "選舉罷免與公民投票"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-38",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依司法院大法官解釋，關於獨立行政機關，下列敘述何者正確？",
+  "options": {
+   "A": "獨立行政機關的設置屬立法形成自由的範圍，司法機關不得審查",
+   "B": "為避免獨立行政機關濫權，其組織必須採取委員合議制",
+   "C": "有關獨立行政機關成員同一黨籍人數上限的規定，實質剝奪行政院的人事決定權，違憲",
+   "D": "憲法第56條關於「行政院各部會首長由行政院院長提請總統任命」的規範範圍，不及於獨立行政機關"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 38,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "違憲審查的標準",
+   "總統與行政院"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-39",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "下列有關司法院院長之敘述，何者正確？",
+  "options": {
+   "A": "司法院院長得咨請立法院召開臨時會",
+   "B": "司法院院長若認為立法院所通過之法律違憲時，得提出覆議",
+   "C": "司法院院長得列席立法院會議陳述意見",
+   "D": "立法院院會得質詢司法院院長"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 39,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "行政程序與行政罰",
+   "釋憲與違憲審查",
+   "中央政府體制"
+  ],
+  "topicDetails": [
+   "行政處分與程序",
+   "違憲審查的標準",
+   "總統與行政院",
+   "立法院與監察院"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-40",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "下列何者，非屬我國法上「司法獨立」的內涵？",
+  "options": {
+   "A": "法官非依法律，不得停職、轉任或減俸之保障",
+   "B": "年度司法概算編製的獨立",
+   "C": "法官超出黨派之外依法審判",
+   "D": "法官逕行拒絕適用違憲的法律"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 40,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "審判與救濟",
+   "警察人事與風紀",
+   "釋憲與違憲審查"
+  ],
+  "topicDetails": [
+   "考核獎懲與停職免職",
+   "違憲審查的標準"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-41",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "The officers carefully searched the area for any ＿＿＿ that could help identify the suspect involvedin the robbery.",
+  "options": {
+   "A": "equipment",
+   "B": "audience",
+   "C": "evidence",
+   "D": "application"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 41,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語",
+   "犯罪與當事人用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-42",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "Many road accidents happen because drivers are ＿＿＿ by their mobile phones and fail to see thered light.",
+  "options": {
+   "A": "distracted",
+   "B": "delivered",
+   "C": "displayed",
+   "D": "defeated"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 42,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-43",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "During the large public festival, additional police officers were hired to provide better ＿＿＿ andensured that everyone remained safe.",
+  "options": {
+   "A": "authority",
+   "B": "quality",
+   "C": "evaluation",
+   "D": "security"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 43,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-44",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "When officers are driving through the neighborhood, it is important to ＿＿＿ any suspiciousbehavior and report it to the station immediately.",
+  "options": {
+   "A": "utilize",
+   "B": "observe",
+   "C": "affect",
+   "D": "involve"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 44,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-45",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "According to the Domestic Violence Prevention Act, medical professionals are ＿＿＿ reporterswith a legal obligation to report suspected cases. Whenever they treat a patient with injuries relatedto domestic violence, they are duty-bound to notify the local competent authority.",
+  "options": {
+   "A": "mandatory",
+   "B": "reliable",
+   "C": "courageous",
+   "D": "secret"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 45,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "犯罪與當事人用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-46",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "The main responsibility of a traffic officer is to ＿＿＿ road safety laws, such as speed limits, toprevent accidents.",
+  "options": {
+   "A": "enforce",
+   "B": "endure",
+   "C": "encourage",
+   "D": "enlarge"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 46,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-47",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "Despite the absence of a signed treaty, Taiwanese law enforcement agencies still strived to obtainbank records from Singapore for the corruption case via mutual legal ＿＿＿ channels.",
+  "options": {
+   "A": "action",
+   "B": "assistance",
+   "C": "obligation",
+   "D": "advice"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 47,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-48",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "In an effort to solve this criminal case as quickly as possible, the investigative team has set upa ＿＿＿ for members of the public to call in and provide reports.",
+  "options": {
+   "A": "hotline",
+   "B": "committee",
+   "C": "security camera",
+   "D": "service desk"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 48,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-49",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "The police will set up DUI checkpoints on several main streets every holiday weekend. Once theofficer smells alcohol inside the car, the driver will be requested to perform the field ＿＿＿ test bythe roadside.",
+  "options": {
+   "A": "blood",
+   "B": "sobriety",
+   "C": "road",
+   "D": "eye"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 49,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-50",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "The department decided to increase patrols in the city center to ＿＿＿ potential criminals fromcommitting robberies during the holiday season.",
+  "options": {
+   "A": "detach",
+   "B": "declare",
+   "C": "define",
+   "D": "deter"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 50,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-consteng-51",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "請依下文回答第51題至第55題Two Jewish men were stabbed in north London two days ago by an attacker who ran down astreet51Jews in what police said was a suspected terrorist incident. Police said the two victims,aged 76 and 34, were both in a stable condition in hospital, and counter-terror officers, some of whom thesuspect also attacked, had arrested a 45-year-old man after stopped him with a Taser52gun.The suspect is a British national, born in Somalia, the Metropolitan Police said in a statement.On being arrested, he was initially taken to a hospital. After examination and treatment, he was soon53and taken to London police station where he remains in custody on54of attempted murder.This stabbing incident is the latest one in a55of UK antisemitic attacks. The consecutiveattacks have drawn demands for urgent action from Jewish community leaders in London. Israeli PrimeMinister Benjamin Netanyahu and the Israeli president also expressed concerns over the safety of Britain’s290,000 Jews.\n",
+  "options": {
+   "A": "targeting",
+   "B": "haunting",
+   "C": "ignoring",
+   "D": "staring"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 51,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語",
+   "犯罪與當事人用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-52",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "請依下文回答第51題至第55題Two Jewish men were stabbed in north London two days ago by an attacker who ran down astreet51Jews in what police said was a suspected terrorist incident. Police said the two victims,aged 76 and 34, were both in a stable condition in hospital, and counter-terror officers, some of whom thesuspect also attacked, had arrested a 45-year-old man after stopped him with a Taser52gun.The suspect is a British national, born in Somalia, the Metropolitan Police said in a statement.On being arrested, he was initially taken to a hospital. After examination and treatment, he was soon53and taken to London police station where he remains in custody on54of attempted murder.This stabbing incident is the latest one in a55of UK antisemitic attacks. The consecutiveattacks have drawn demands for urgent action from Jewish community leaders in London. Israeli PrimeMinister Benjamin Netanyahu and the Israeli president also expressed concerns over the safety of Britain’s290,000 Jews.\n",
+  "options": {
+   "A": "machine",
+   "B": "shot",
+   "C": "stun",
+   "D": "flare"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 52,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語",
+   "犯罪與當事人用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-53",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "請依下文回答第51題至第55題Two Jewish men were stabbed in north London two days ago by an attacker who ran down astreet51Jews in what police said was a suspected terrorist incident. Police said the two victims,aged 76 and 34, were both in a stable condition in hospital, and counter-terror officers, some of whom thesuspect also attacked, had arrested a 45-year-old man after stopped him with a Taser52gun.The suspect is a British national, born in Somalia, the Metropolitan Police said in a statement.On being arrested, he was initially taken to a hospital. After examination and treatment, he was soon53and taken to London police station where he remains in custody on54of attempted murder.This stabbing incident is the latest one in a55of UK antisemitic attacks. The consecutiveattacks have drawn demands for urgent action from Jewish community leaders in London. Israeli PrimeMinister Benjamin Netanyahu and the Israeli president also expressed concerns over the safety of Britain’s290,000 Jews.\n",
+  "options": {
+   "A": "dismissed",
+   "B": "released",
+   "C": "prosecuted",
+   "D": "discharged"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 53,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語",
+   "犯罪與當事人用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-54",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "請依下文回答第51題至第55題Two Jewish men were stabbed in north London two days ago by an attacker who ran down astreet51Jews in what police said was a suspected terrorist incident. Police said the two victims,aged 76 and 34, were both in a stable condition in hospital, and counter-terror officers, some of whom thesuspect also attacked, had arrested a 45-year-old man after stopped him with a Taser52gun.The suspect is a British national, born in Somalia, the Metropolitan Police said in a statement.On being arrested, he was initially taken to a hospital. After examination and treatment, he was soon53and taken to London police station where he remains in custody on54of attempted murder.This stabbing incident is the latest one in a55of UK antisemitic attacks. The consecutiveattacks have drawn demands for urgent action from Jewish community leaders in London. Israeli PrimeMinister Benjamin Netanyahu and the Israeli president also expressed concerns over the safety of Britain’s290,000 Jews.\n",
+  "options": {
+   "A": "guess",
+   "B": "suspicion",
+   "C": "fear",
+   "D": "doubt"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 54,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語",
+   "犯罪與當事人用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-55",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "請依下文回答第51題至第55題Two Jewish men were stabbed in north London two days ago by an attacker who ran down astreet51Jews in what police said was a suspected terrorist incident. Police said the two victims,aged 76 and 34, were both in a stable condition in hospital, and counter-terror officers, some of whom thesuspect also attacked, had arrested a 45-year-old man after stopped him with a Taser52gun.The suspect is a British national, born in Somalia, the Metropolitan Police said in a statement.On being arrested, he was initially taken to a hospital. After examination and treatment, he was soon53and taken to London police station where he remains in custody on54of attempted murder.This stabbing incident is the latest one in a55of UK antisemitic attacks. The consecutiveattacks have drawn demands for urgent action from Jewish community leaders in London. Israeli PrimeMinister Benjamin Netanyahu and the Israeli president also expressed concerns over the safety of Britain’s290,000 Jews.\n",
+  "options": {
+   "A": "spate",
+   "B": "piece",
+   "C": "kind",
+   "D": "bit"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 55,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語",
+   "犯罪與當事人用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-56",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "請依下文回答第56題至第60題As digital deception becomes more indistinguishable from reality, law enforcement agencies areshifting their public education strategies toward a “Zero Trust” framework. Historically, crime preventionadvice focused on identifying “red flags,” such as poor grammar in an email or a strange accent on thephone. However, with the advent of AI-driven scams, these traditional markers have vanished. The “ZeroTrust” protocol operates on a simple but strict principle: never trust, always verify.In a “Zero Trust” environment, the public is taught to treat every digital interaction as potentiallycompromised, regardless of the apparent source. For example, if a citizen receives a video call from their“bank manager” or a voice note from a “family member” requesting urgent financial assistance, theprotocol dictates that they must immediately terminate the connection. Verification is then conductedthrough an independent, “out-of-band” channel—such as calling a trusted, officially listed phone numberor visiting a physical branch.For police officers, promoting this mindset requires a delicate balance. The goal is not to create asociety of paranoia, but to foster “digital skepticism.” Officers are now being trained to conductcommunity workshops that demonstrate how easily a “digital identity” can be faked. They emphasize thatin the modern era, “seeing is no longer believing.” By teaching the public to pause and verify, police cansignificantly reduce the success rate of high-tech fraud without needing to trace every individual packetof data across international borders.Ultimately, the “Zero Trust” model represents a shift in responsibility. While the police continue topursue the technical “attribution” of cybercrimes, the first line of defense has moved to the individual’sdecision-making process. By adopting a “verify-first” culture, communities can create a hostileenvironment for scammers, making it much harder for AI-generated deceptions to result in successfulthefts.\nWhat is the main purpose of this reading passage?",
+  "options": {
+   "A": "To criticize police departments for failing to catch international criminals.",
+   "B": "To provide a technical guide on how to create deepfake videos for workshops.",
+   "C": "To argue that AI technology like Deep Fake should be banned to prevent financial fraud.",
+   "D": "To explain a new safety mindset that helps the public defend against modern scams."
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 56,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "英文閱讀測驗",
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-57",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "請依下文回答第56題至第60題As digital deception becomes more indistinguishable from reality, law enforcement agencies areshifting their public education strategies toward a “Zero Trust” framework. Historically, crime preventionadvice focused on identifying “red flags,” such as poor grammar in an email or a strange accent on thephone. However, with the advent of AI-driven scams, these traditional markers have vanished. The “ZeroTrust” protocol operates on a simple but strict principle: never trust, always verify.In a “Zero Trust” environment, the public is taught to treat every digital interaction as potentiallycompromised, regardless of the apparent source. For example, if a citizen receives a video call from their“bank manager” or a voice note from a “family member” requesting urgent financial assistance, theprotocol dictates that they must immediately terminate the connection. Verification is then conductedthrough an independent, “out-of-band” channel—such as calling a trusted, officially listed phone numberor visiting a physical branch.For police officers, promoting this mindset requires a delicate balance. The goal is not to create asociety of paranoia, but to foster “digital skepticism.” Officers are now being trained to conductcommunity workshops that demonstrate how easily a “digital identity” can be faked. They emphasize thatin the modern era, “seeing is no longer believing.” By teaching the public to pause and verify, police cansignificantly reduce the success rate of high-tech fraud without needing to trace every individual packetof data across international borders.Ultimately, the “Zero Trust” model represents a shift in responsibility. While the police continue topursue the technical “attribution” of cybercrimes, the first line of defense has moved to the individual’sdecision-making process. By adopting a “verify-first” culture, communities can create a hostileenvironment for scammers, making it much harder for AI-generated deceptions to result in successfulthefts.\nHow does the “Zero Trust” protocol differ from older crime prevention methods?",
+  "options": {
+   "A": "It relies on the police to verify every message for the citizens.",
+   "B": "It focuses on “never trusting” rather than just looking for “red flags.”",
+   "C": "It teaches people to ignore all emails and phone calls entirely.",
+   "D": "It encourages people to trust their instincts more than technology."
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 57,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-58",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "請依下文回答第56題至第60題As digital deception becomes more indistinguishable from reality, law enforcement agencies areshifting their public education strategies toward a “Zero Trust” framework. Historically, crime preventionadvice focused on identifying “red flags,” such as poor grammar in an email or a strange accent on thephone. However, with the advent of AI-driven scams, these traditional markers have vanished. The “ZeroTrust” protocol operates on a simple but strict principle: never trust, always verify.In a “Zero Trust” environment, the public is taught to treat every digital interaction as potentiallycompromised, regardless of the apparent source. For example, if a citizen receives a video call from their“bank manager” or a voice note from a “family member” requesting urgent financial assistance, theprotocol dictates that they must immediately terminate the connection. Verification is then conductedthrough an independent, “out-of-band” channel—such as calling a trusted, officially listed phone numberor visiting a physical branch.For police officers, promoting this mindset requires a delicate balance. The goal is not to create asociety of paranoia, but to foster “digital skepticism.” Officers are now being trained to conductcommunity workshops that demonstrate how easily a “digital identity” can be faked. They emphasize thatin the modern era, “seeing is no longer believing.” By teaching the public to pause and verify, police cansignificantly reduce the success rate of high-tech fraud without needing to trace every individual packetof data across international borders.Ultimately, the “Zero Trust” model represents a shift in responsibility. While the police continue topursue the technical “attribution” of cybercrimes, the first line of defense has moved to the individual’sdecision-making process. By adopting a “verify-first” culture, communities can create a hostileenvironment for scammers, making it much harder for AI-generated deceptions to result in successfulthefts.\nWhat is an example of an “out-of-band” verification mentioned in the text?",
+  "options": {
+   "A": "Calling an independent, official phone number to verify.",
+   "B": "Asking the caller to send a photo of their ID card.",
+   "C": "Replying immediately to the suspicious video call to ask questions.",
+   "D": "Sending a follow-up email to the same address that contacted you."
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 58,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-59",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "請依下文回答第56題至第60題As digital deception becomes more indistinguishable from reality, law enforcement agencies areshifting their public education strategies toward a “Zero Trust” framework. Historically, crime preventionadvice focused on identifying “red flags,” such as poor grammar in an email or a strange accent on thephone. However, with the advent of AI-driven scams, these traditional markers have vanished. The “ZeroTrust” protocol operates on a simple but strict principle: never trust, always verify.In a “Zero Trust” environment, the public is taught to treat every digital interaction as potentiallycompromised, regardless of the apparent source. For example, if a citizen receives a video call from their“bank manager” or a voice note from a “family member” requesting urgent financial assistance, theprotocol dictates that they must immediately terminate the connection. Verification is then conductedthrough an independent, “out-of-band” channel—such as calling a trusted, officially listed phone numberor visiting a physical branch.For police officers, promoting this mindset requires a delicate balance. The goal is not to create asociety of paranoia, but to foster “digital skepticism.” Officers are now being trained to conductcommunity workshops that demonstrate how easily a “digital identity” can be faked. They emphasize thatin the modern era, “seeing is no longer believing.” By teaching the public to pause and verify, police cansignificantly reduce the success rate of high-tech fraud without needing to trace every individual packetof data across international borders.Ultimately, the “Zero Trust” model represents a shift in responsibility. While the police continue topursue the technical “attribution” of cybercrimes, the first line of defense has moved to the individual’sdecision-making process. By adopting a “verify-first” culture, communities can create a hostileenvironment for scammers, making it much harder for AI-generated deceptions to result in successfulthefts.\nWhat is the meaning of the phrase “seeing is no longer believing” in this context?",
+  "options": {
+   "A": "People are losing their eyesight due to high-tech screen usage.",
+   "B": "Officers should not collect video evidence because it is useless.",
+   "C": "Digital images and videos can be faked so easily that they cannot be trusted.",
+   "D": "Most crimes now happen in the dark where officers cannot see anything."
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 59,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語"
+  ]
+ },
+ {
+  "id": "moex-115-consteng-60",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "中華民國憲法與警察專業英文",
+  "originalSubject": "中華民國憲法與警察專業英文",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "請依下文回答第56題至第60題As digital deception becomes more indistinguishable from reality, law enforcement agencies areshifting their public education strategies toward a “Zero Trust” framework. Historically, crime preventionadvice focused on identifying “red flags,” such as poor grammar in an email or a strange accent on thephone. However, with the advent of AI-driven scams, these traditional markers have vanished. The “ZeroTrust” protocol operates on a simple but strict principle: never trust, always verify.In a “Zero Trust” environment, the public is taught to treat every digital interaction as potentiallycompromised, regardless of the apparent source. For example, if a citizen receives a video call from their“bank manager” or a voice note from a “family member” requesting urgent financial assistance, theprotocol dictates that they must immediately terminate the connection. Verification is then conductedthrough an independent, “out-of-band” channel—such as calling a trusted, officially listed phone numberor visiting a physical branch.For police officers, promoting this mindset requires a delicate balance. The goal is not to create asociety of paranoia, but to foster “digital skepticism.” Officers are now being trained to conductcommunity workshops that demonstrate how easily a “digital identity” can be faked. They emphasize thatin the modern era, “seeing is no longer believing.” By teaching the public to pause and verify, police cansignificantly reduce the success rate of high-tech fraud without needing to trace every individual packetof data across international borders.Ultimately, the “Zero Trust” model represents a shift in responsibility. While the police continue topursue the technical “attribution” of cybercrimes, the first line of defense has moved to the individual’sdecision-making process. By adopting a “verify-first” culture, communities can create a hostileenvironment for scammers, making it much harder for AI-generated deceptions to result in successfulthefts.\nWhy is the “Zero Trust” model considered a “shift in responsibility”?",
+  "options": {
+   "A": "Because the individual’s decision-making has become the first line of defense.",
+   "B": "Because the police are not responsible for catching criminals any longer.",
+   "C": "Because scammers are now responsible for proving they are real.",
+   "D": "Because the public must now pay for their own digital protection."
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "en",
+  "sourceRef": {
+   "file": "中華民國憲法與警察專業英文_試題.pdf",
+   "no": 60,
+   "answerFile": "中華民國憲法與警察專業英文_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0205&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0205&q=1"
+  },
+  "topics": [
+   "警用英文用語"
+  ],
+  "topicDetails": [
+   "執法人員與程序用語"
+  ]
  }
 ]

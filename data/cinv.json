@@ -49336,5 +49336,1191 @@
    "洗錢防制",
    "金流追查與虛擬通貨"
   ]
+ },
+ {
+  "id": "moex-115-cinv-01",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "關於現場勘察相關規定，實施現場勘察及採證應注意原則，下列敘述何者正確？",
+  "options": {
+   "A": "勘察人員發現重要跡證時，應迅速報告調查組長，採證前宜先瞭解跡證之種類、性狀、型態及其與案情之關係",
+   "B": "重要跡證在採取或製模前宜先照相，採取跡證宜顧及檢驗鑑定之需要量，需全部採取者，應全部採取，無法採取足夠數量時，應予註明",
+   "C": "勘察現場發現爆裂物或疑似爆裂物時，應先通報航警局泰山防爆小組至現場排除，確定無安全顧慮，始續行勘察",
+   "D": "現場勘察之步驟，由高而低，由地面開始勘察，依序為天花板、牆壁、窗，而後門，現場範圍寬闊者，宜尋找制高點，進行全面觀察"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "證據法則",
+   "勤務規劃與督導",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "放火與爆炸",
+   "鑑定與勘驗",
+   "勤務指揮與聯防",
+   "現場勘察與重建"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-02",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "司法警察官依據刑事訴訟法及憲法法庭111年憲判字第16號判決意旨，為調查犯罪情形及蒐集證據之必要，對於經逮捕到案之犯罪嫌疑人所為採證作為之敘述，下列何者正確？",
+  "options": {
+   "A": "不得違反其意思，採取其指紋、掌紋、腳印，予以照相、測量身高或類似之行為",
+   "B": "受採取尿液者對於司法警察官所為之採取不服者，得向該管法院聲請撤銷，聲請期間為自採取之日起算10日",
+   "C": "有相當理由認為採取尿液得作為犯罪之證據，並有鑑定之必要，不得違反其意思，以非侵入方式採取之，採取尿液時，應出示許可書及可證明其身分之文件",
+   "D": "於有非即時採尿，無法有效保全證據之急迫情況，得逕以非侵入方式採取之，惟應於採取後24小時內報請檢察官許可，檢察官認為不應准許者，應於10日內撤銷之"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "司法警察的身分與職權",
+   "官職分立與陞遷",
+   "指紋採驗與顯現",
+   "釋憲程序"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-03",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "司法警察官因調查犯罪及蒐集證據等正當事由，針對偵查辯護之敘述，下列何者錯誤？",
+  "options": {
+   "A": "禁止辯護人在場，致犯罪嫌疑人無其他辯護人在場陪同，應再行告知其刑事訴訟法第95條第1項第2、3款之事項",
+   "B": "偵查中之辯護人於詢問犯罪嫌疑人時得主張在場，並得陳述意見及不以手寫方式為限筆記詢問要點等執行辯護工作之必要措施",
+   "C": "情況急迫而認有暫緩辯護人與受逮捕之犯罪嫌疑人第一次接見通信，以及指定適當接見時間及場所之必要時，應即報請檢察官為之",
+   "D": "偵查中之辯護人得檢閱、抄錄或攝影卷宗及證物，亦得於執行搜索或扣押時在場"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 3,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "證據法則",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "緘默權與辯護權",
+   "司法警察的身分與職權",
+   "用槍時機",
+   "官職分立與陞遷",
+   "行政處分與程序"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-04",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "實施特殊強制處分，宜審酌使用科技方法之性質、功能及效果、實施目的、所涉犯罪之刑度、案件情節及程序進行之程度，依比例原則妥適決定，警察機關依刑事訴訟法規定，實施犯罪調查或蒐集證據，關於特殊強制處分之敘述，下列何者正確？",
+  "options": {
+   "A": "偵查手段倘有壓制或違反個人意思，而侵害憲法所保障重要之法律利益時，即屬「任意偵查」，不以使用有形的強制力者為限，縱使未使用有形之強制手段，仍可能實質侵害或危害他人權利或利益，而屬於任意偵查",
+   "B": "使用GPS之科技方法實施期間，不得逾連續48小時或累計逾3日，實施當日不足24小時，以1日計",
+   "C": "有再次或繼續實施之必要者，至遲應於再次實施前，由司法警察官報請檢察官許可後，以書面記載與實施調查之必要性及其理由向該管法院聲請核發許可書",
+   "D": "法院許可之期間，每次不得逾30日。有繼續實施之必要者，至遲應於期間屆滿之3日前，由檢察官依職權或由司法警察官報請檢察官許可後，以書面記載具體理由向該管法院聲請核發許可書"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 4,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "羈押與強制處分",
+   "通訊監察與科技偵查",
+   "司法警察職權與移送",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "定位與數位追蹤",
+   "司法警察的身分與職權",
+   "官職分立與陞遷",
+   "行政法的一般原則",
+   "基本權的限制"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-05",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "為調查少年觸犯刑罰法律之行為，少年案件移送前相關程序之敘述，下列何者正確？",
+  "options": {
+   "A": "對少年之法定代理人及依法不得揭露足以識別其身分資訊之被害人其法定代理人送達文書時，得為公示送達",
+   "B": "少年所觸犯之刑罰法律顯係最重本刑為5年以下有期徒刑、拘役或專科罰金之罪時，得填載不護送報告書，以傳真或其他適當方式，報請該管地方檢察署檢察官許可後，不予護送，逕行釋放",
+   "C": "經許可不護送少年時，應將批示許可不護送報告書附於警卷內，檢同相關卷證於10日內將案件移送該管少年法院處理",
+   "D": "對少年執行護送時，應注意其身體及名譽；除依少年之身心狀況、使用暴力情形、所處環境、年齡或其他事實，認有防止其自傷、傷人、脫逃或嚴重毀損他人財物之必要，且無其他約制方法外，不應對少年使用約束工具"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 5,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "財產犯罪",
+   "行政程序與行政罰",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "行政處分與程序",
+   "少年事件處理"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-06",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "受理報案，態度應誠懇和藹，不論本轄或他轄案件，應即受理並反應處置，且詳實記錄，有關受理報案有關告訴權之敘述，下列何者正確？",
+  "options": {
+   "A": "被害人之四親等內之血親為被告者，被害人之直系血親、三親等內之旁系血親、二親等內之姻親或家長、家屬得獨立告訴",
+   "B": "被害人之配偶，得獨立告訴。係指被害人之配偶得以自己的名義提出告訴，不得與其意思相反",
+   "C": "被害人已死亡者，得由三親等內之姻親告訴。但告訴乃論之罪，不得與被害人明示之意思相反",
+   "D": "告訴乃論之罪，無得為告訴之人行使告訴權者，該管法官得依利害關係人之聲請或依職權指定代行告訴人"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 6,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "告訴告發與受理報案"
+  ],
+  "topicDetails": [
+   "告訴乃論與告訴期間",
+   "受理報案"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-07",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "實務上犯罪嫌疑人多使用具網路連線功能之智慧型手機、電腦設備或通訊軟體進行犯罪行為，為避免過度擴張認定為網路犯罪，有關偵辦及網路犯罪案類相關之敘述，下列何者正確？",
+  "options": {
+   "A": "偵辦網路犯罪案件涉及個資外洩或資安駭侵等特殊或跨轄案件者，得會同法務部調查局資通安全處協助偵辦",
+   "B": "網路犯罪案件之搜索計畫內容應包括依據搜索之數位證物型態，擬訂搜索項目、越轄規劃及通報，勤務跨越縣市轄區者，應事先向內政部警政署通報或請求刑事警察局支援，並回報搜索結果",
+   "C": "網路犯罪案件，包含個資外洩、資安駭侵、重大兒少性剝削、性私密影像案件及其他涉及妨害電腦使用罪，或偽冒政府機關、金融機構、民生關鍵基礎設施網站等重大案件",
+   "D": "對使用於網路犯罪之電腦執行搜索時，電腦或手機等數位證物相關設備檔案之證據，應先扣押帶回後再存證或依雲端勘察證物鏈平臺執行工作計畫規範上鏈"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 7,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "性犯罪與婦幼保護",
+   "搜索與扣押",
+   "偵查原則與偵查不公開",
+   "資料蒐集與個資保護"
+  ],
+  "topicDetails": [
+   "兒少性剝削與兒少保護",
+   "扣押與發還",
+   "警察機關的組織與層級",
+   "勤務指揮與聯防",
+   "證物保管與監管鏈"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-08",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依處理公益揭弊案件工作指引辦理受理公益揭弊者保護法案件，有關偵辦揭弊刑案，應注意事項之敘述，下列何者正確？",
+  "options": {
+   "A": "揭弊案件高度保護揭弊者身分，非經揭弊者同意，不得無故洩露於揭弊對象或他人",
+   "B": "受理公益揭弊者保護法案件，由受理機關偵辦，適用警察機關刑案管轄規定辦理",
+   "C": "偵查卷資揭弊者代號應與筆錄代號不同；如需再通知揭弊者配合調查時，通知書案由不顯示揭弊案件，另通知到場日期、時段或地點應與其他調查人錯開",
+   "D": "偵辦過程注意保密，卷資傳遞親自持陳避免遭窺視、不談論案情、防止無關人聽聞並妥予存放，移送案卷應以函送檢察機關"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 8,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "司法警察職權與移送",
+   "資料蒐集與個資保護",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "詢問與筆錄製作"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-09",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "司法警察機關辦理刑事案件，應隨時與各級檢察署檢察官交換意見，並指定人員切實聯繫，依據檢察官與司法警察機關聯繫辦法之規定，下列敘述何者正確？",
+  "options": {
+   "A": "司法警察官、司法警察帶同被告前往轄區外追查贓證共犯，預計不能於當日返回者，應事先請准該管檢察官檢附原押票影本行文當地看守所，將被告暫寄押於該看守所，但其寄押期間不得逾5日",
+   "B": "司法警察人員帶同被告外出繼續追查贓證、共犯，應於當日21時前解交檢察官",
+   "C": "司法警察官、司法警察逮捕現行犯，但屬告訴或請求乃論之罪，其告訴或請求已經撤回，得填載不解送報告書，以傳真或其他適當方式報請檢察官許可後，不予解送，逕行釋放。但檢察官未許可者，應即解送",
+   "D": "司法警察官、司法警察逮捕或拘提犯罪嫌疑人後，除依規定得不解送者外，應於逮捕或拘提之時起24小時內，將人犯解送檢察官訊問。但檢察官命其即時解送者，應即解送"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 9,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "正犯與共犯",
+   "拘提逮捕與通緝",
+   "偵查原則與偵查不公開",
+   "告訴告發與受理報案"
+  ],
+  "topicDetails": [
+   "現行犯逮捕",
+   "拘提與緊急拘提",
+   "通緝與解送",
+   "司法警察的身分與職權",
+   "官職分立與陞遷"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-10",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "司法警察官或司法警察偵查犯罪時，為維護偵查程序之順利進行及真實發現，與保障被告、犯罪嫌疑人、被害人或其他訴訟關係人之名譽、隱私、安全，並確保被告受公平審判之權利，以落實無罪推定原則及偵查不公開，下列關於偵查不公開之敘述何者正確？",
+  "options": {
+   "A": "應遵循偵查不公開原則之人員，指犯罪嫌疑人、被害人、證人與利害關係人、檢察官、檢察事務官、司法警察官、司法警察、辯護人、告訴代理人或其他於偵查程序依法執行職務之人員等均屬之",
+   "B": "案件在偵查中，得帶同媒體辦案，或使犯罪嫌疑人受媒體拍攝、直接採訪或藉由監視器畫面拍攝，使偵查犯罪蒐集證據更臻完整",
+   "C": "偵查不公開，不包括偵查程序、內容及所得之心證，但案件在偵查中，有對於社會治安有重大影響之案件，有適度公開說明之必要者，經審酌公共利益之維護或合法權益之保護，認有必要時，偵查機關得適度公開或揭露偵查程序或偵查內容",
+   "D": "偵查不公開檢討小組對未遵守偵查不公開作業辦法之人員，應報請機關首長，依各該應負之行政、懲戒或其他法律規定之責任，送交各權責機關依法官法、公務員懲戒法、公務人員考績法或其他法律規定處理。如涉及刑事犯罪者，應向偵查機關告發"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 10,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開",
+   "告訴告發與受理報案",
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "緘默權與辯護權",
+   "證人與詰問",
+   "偵查不公開",
+   "告發與自訴",
+   "司法警察的身分與職權",
+   "官職分立與陞遷"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-11",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "犯罪偵查基本觀念上，首重人權保障，證據排除法則觀念更應深固，對於證據證明力必須善盡調查，以及正確情報布建觀念必須建立，故在於犯罪偵查基本原則上之敘述，下列何者正確？",
+  "options": {
+   "A": "偵查犯罪應以現場為基礎，運用科學器材與方法，合法取證係屬現場為基礎之原則",
+   "B": "偵查犯罪係偵查人員之共同任務，應相互信任與尊重，竭誠合作，不爭功、不諉過，並應密切聯繫，協調配合、分工合作，同心協力，係屬偵查管理認知原則",
+   "C": "執行偵查任務人員，應依據法令不得有逾越權限之不法行為，如與犯罪嫌疑人具有親屬關係，應與迴避，係屬實事求是態度原則",
+   "D": "為檢舉犯罪或提供破案線索之人的名譽、隱私或安全，不得公開或揭露足資識別其身分之資訊相關規定，係屬嚴守偵查不公開原則"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 11,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "證據法則",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "違法取證與證據排除",
+   "偵查不公開"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-12",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "有關犯罪剖繪係從刑案現場物證、犯罪手法、行為跡證及被害特性等方面蒐集、歸納出犯罪者之犯案特徵及人格特質之偵查技巧，有關犯罪剖繪分類之敘述，下列何者正確？",
+  "options": {
+   "A": "犯罪剖繪的演繹法，係依據先前案件統計研究得到一組犯罪者之特徵，再依據實際偵查經驗推論同類的未知犯罪者亦擁有這些特徵",
+   "B": "犯罪心理剖繪技術，乃是將犯罪心理學與司法精神醫學對犯罪者的系統研究，予以整理、比較、分析、歸納、分類並標準化各種罪犯類型，最典型的案例為殺人案件或是性侵害案件",
+   "C": "犯案工具剖繪係關於犯案過程的剖繪，係指犯案人數、年齡、犯罪時間、犯案工具、作案方式等彙整之分析",
+   "D": "犯案手法剖繪大致分為習性時間、上班外時間、歹徒有利地點等歹徒作案習性當然以選擇對其最熟悉環境和有利時間點犯案，主要可以避開警方查緝和有利下手時機"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 12,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "人身犯罪",
+   "性犯罪與婦幼保護",
+   "刑案現場處理",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "殺人罪",
+   "性侵害案件處理",
+   "犯罪剖繪與犯罪心理"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-13",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "警察機關偵辦涉及毒品危害防制條例所定刑事或行政處罰之毒品案件之敘述，下列何者正確？",
+  "options": {
+   "A": "查獲現役軍人涉案者，應即將其姓名、國民身分證統一編號及案件類型，通報查獲地區的憲兵隊，並以電話、傳真等方式確認，即使有妨害案件偵辦之虞者，亦須通報，避免影響部隊管理",
+   "B": "依毒品危害防制條例所處之罰鍰及毒品危害講習，由戶籍地之直轄市、縣（市）警察局裁處",
+   "C": "毒品危害講習，由戶籍地之直轄市、縣（市）衛生主管機關辦理之，並得委任所屬下級機關或委託醫療院所及其他專業機關（構）執行",
+   "D": "毒品危害講習每次以不超過1天，採集體方式講習為原則。但未成年人與成年人之講習應分別辦理，講習之內容，包含戒毒法令及毒品之簡介、危害、戒治、濫用防治等有關事項"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 13,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "勤務規劃與督導",
+   "毒品與槍砲",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "勤務指揮與聯防",
+   "毒品危害防制條例",
+   "施用毒品的處理",
+   "地方自治團體與自治法規"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-14",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "下列關於「現行犯」的敘述，何者錯誤？",
+  "options": {
+   "A": "因現行犯之供述，且有事實足認為共犯嫌疑重大者，得逕行拘提之",
+   "B": "無偵查犯罪權限之人逮捕現行犯者，應即送交法官、檢察官、司法警察官或司法警察",
+   "C": "警察人員發現家庭暴力罪之現行犯時，應逕行逮捕之，並依刑事訴訟法第92條規定處理",
+   "D": "犯罪在實施中或實施後即時發覺者，為現行犯"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 14,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "正犯與共犯",
+   "性犯罪與婦幼保護",
+   "拘提逮捕與通緝",
+   "司法警察職權與移送"
+  ],
+  "topicDetails": [
+   "家庭暴力與保護令",
+   "現行犯逮捕",
+   "拘提與緊急拘提",
+   "司法警察的身分與職權",
+   "官職分立與陞遷"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-15",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "關於網際網路路由數據協議，IP位址在犯罪偵查應用上的敘述，下列何者正確？",
+  "options": {
+   "A": "需結合連線時間戳記（timestamp）及連接埠（source port）資料才能查明使用者的資料",
+   "B": "浮動IP位址完全無法回溯",
+   "C": "是網路設備（如電腦、手機）的實體硬體位址",
+   "D": "利用Whois公開查詢工具只能查到所在地國家"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 15,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-cinv-16",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "你是內政部警政署刑事警察局偵查第七大隊偵查員，於偵查跨國電信詐欺集團案件時，在清查金流時，若發現多名不同被害人的匯出至不同帳戶後，不同帳戶再分別匯出至不同帳戶，最後所有金錢去向皆指向同一個實質控制人，再以「合法」的名義投入實體經濟，購買不動產。請問最後以「合法的名義投入實體經濟」，在洗錢偵查中稱為什麼？",
+  "options": {
+   "A": "金流配置（placement）",
+   "B": "金流分層（layering）",
+   "C": "金流整合（integration）",
+   "D": "金流多樣（diversity）"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 16,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "財產犯罪",
+   "警察組織與職權",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "詐欺與加重詐欺",
+   "警察機關的組織與層級",
+   "詐欺集團偵查",
+   "洗錢防制",
+   "金流追查與虛擬通貨"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-17",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "內政部警政署刑事警察局偵查員甲正在偵辦一起跨境假檢警詐騙案。甲於受理報案後，準備利用「警政資訊系統」中的金融資料查詢介面，針對嫌犯及其人頭帳戶進行金流分析。下列資料何者「不」屬於警政資訊系統金融資料查詢範圍？",
+  "options": {
+   "A": "保管箱承租資料",
+   "B": "所得資料",
+   "C": "第三方支付交易資料",
+   "D": "會計報稅資料"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 17,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "告訴告發與受理報案",
+   "警察組織與職權",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "受理報案",
+   "警察機關的組織與層級",
+   "洗錢防制",
+   "金流追查與虛擬通貨"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-18",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "某日凌晨，新北市政府警察局某分局交通分隊分隊長執行酒測勤務時，逮捕一名疑似毒駕且神智不清的犯罪嫌疑人。由於當時檢察官難以即時聯繫，且犯罪嫌疑人有生理反應欲排尿，若不即時採尿，證據將會生理代謝消失。此時交通分隊分隊長應如何處理？",
+  "options": {
+   "A": "得逕以非侵入方式採取之，事後再補正程序",
+   "B": "因有蒐集證據之必要，對於經逮捕到案之犯罪嫌疑人，得違反其意思，逕行以侵入性方式採取其尿液",
+   "C": "視同犯罪嫌疑人明示拒絕，不得採取",
+   "D": "立即報請法官簽發強制採取許可書"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 18,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-cinv-19",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "你是臺北市政府警察局刑事警察大隊分隊長，在偵辦跨國詐騙案時，發現犯罪嫌疑人名下有多輛隱匿的超跑及大量虛擬貨幣需立即「扣押」。下列關於扣押的程序，何者錯誤？",
+  "options": {
+   "A": "報請檢察官許可後，向該管法院聲請核發扣押裁定",
+   "B": "經向法院聲請扣押裁定，遭到法院裁定駁回，得依刑事訴訟法向法院提出抗告",
+   "C": "於跟監時，發現嫌犯正準備透過筆電銷毀虛擬貨幣紀錄，情況急迫，得逕行扣押",
+   "D": "你於某日早上10點執行了逕行扣押，最遲應於三日後早上10點前報告檢察官與法院"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 19,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "搜索與扣押",
+   "偵查原則與偵查不公開",
+   "資料蒐集與個資保護",
+   "警械使用"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "警察職權行使法的資料蒐集",
+   "用槍時機"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-20",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "你是內政部警政署航空警察局刑事警察大隊偵查員，正負責偵辦一起跨國走私毒品案件，欲對主要嫌疑人的未成年小孩（已確認非為犯罪嫌犯人）實施全球衛星定位系統位置追蹤，其法律門檻為何？",
+  "options": {
+   "A": "絕對禁止",
+   "B": "需符合法官保留原則",
+   "C": "以有相當理由可信與犯罪嫌疑人或應扣押之物或電磁紀錄有所關連時為限",
+   "D": "應符合最輕本刑5年以上之重罪原則"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 20,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "搜索與扣押",
+   "通訊監察與科技偵查",
+   "偵查原則與偵查不公開",
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "扣押與發還",
+   "定位與數位追蹤",
+   "警察機關的組織與層級"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-21",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "代號「DataMaster」網路駭客入侵並封鎖某知名大學「繁星計畫」入學考試的資料庫，嚴重影響招生考試結果。請問按該學校的資安侵害的影響程度，依「警察偵查犯罪手冊」之規定，下列何者不屬於資安駭侵案件？",
+  "options": {
+   "A": "經濟損失達新臺幣5百萬元以上",
+   "B": "受駭電腦設備達50臺以上",
+   "C": "影響資料達10 TB以上",
+   "D": "遭恐嚇未遂金額達泰達幣1萬顆以上"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 21,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "未遂與中止",
+   "司法警察職權與移送",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "偵查犯罪手冊與刑案分類",
+   "現場封鎖與保全"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-22",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "某分局轄內發生一件銀行強盜案，犯罪手法為：歹徒身穿雨衣，並利用下雨天持槍犯案，經該分局成立專案小組管制偵辦，依警察偵查犯罪手冊之規定，若此案經過多久仍未偵破，應將相關卷宗及證物專卷建檔並移交專責管理？",
+  "options": {
+   "A": "三個月",
+   "B": "半年",
+   "C": "一年",
+   "D": "二年"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 22,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "財產犯罪",
+   "司法警察職權與移送",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "強盜與搶奪",
+   "偵查犯罪手冊與刑案分類",
+   "犯罪剖繪與犯罪心理"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-23",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "某派出所員警執行巡邏勤務，在一處河濱公園發現一名男子倒臥血泊，疑似遭利刃砍傷身亡。針對此案，該員警的應處作為，下列何者為最優先處理事項？",
+  "options": {
+   "A": "為求尊重死者，應先用官方制發的白布覆蓋後再報告",
+   "B": "應即照相或錄影，並循系統通報檢察官相驗",
+   "C": "應立即報告派出所所長，待所長到場後，再進行案件分工",
+   "D": "立即通報家屬到場後，徵得家屬同意再行報驗"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 23,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "偵查原則與偵查不公開",
+   "勤務方式與編排",
+   "勤務規劃與督導",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "相驗與死因調查",
+   "六種勤務方式",
+   "勤務指揮與聯防",
+   "詢問與筆錄製作"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-24",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依刑事訴訟法，下列關於逕行搜索的敘述，何者錯誤？",
+  "options": {
+   "A": "依刑事訴訟法第131條逕行搜索執行後，未陳報該管法院者，審判時法院得參酌刑事訴訟法第158條之4權衡證據能力",
+   "B": "檢察官執行刑事訴訟法第131條逕行搜索，應於實施後三日內陳報該管法院",
+   "C": "司法警察查據有明顯事實足信為有人在內犯罪而情形急迫者，得逕行搜索該處所",
+   "D": "司法警察因逮捕犯罪嫌疑人，有事實足認犯罪嫌疑人確實在內者，得逕行搜索該處所"
+  },
+  "answers": [],
+  "revised": true,
+  "allCorrect": true,
+  "revisionNote": "第24題一律給分",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 24,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "搜索與扣押",
+   "拘提逮捕與通緝",
+   "證據法則",
+   "偵查原則與偵查不公開"
+  ],
+  "topicDetails": [
+   "無票搜索"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-25",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "某日深夜某高級住宅區發生一起侵入重大住宅竊盜案，你是第一個抵達現場的派出所員警。根據警察偵查犯罪手冊，關於現場封鎖範圍的界定，下列敘述何者最適當？",
+  "options": {
+   "A": "應先評估最小影響交通秩序的方法封鎖",
+   "B": "必須等待刑事鑑識中心的鑑識人員到達後，由鑑識人員明確界定範圍",
+   "C": "應建議偵查隊隊長直接封鎖整棟建築物，嚴禁任何人出入",
+   "D": "初期封鎖範圍應廣，待初步勘察後視需要縮減"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 25,
+   "answerFile": "115年_犯罪偵查學_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1104&q=1"
+  },
+  "topics": [
+   "財產犯罪",
+   "司法警察職權與移送",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "竊盜與加重竊盜",
+   "偵查犯罪手冊與刑案分類",
+   "現場封鎖與保全"
+  ]
  }
 ]

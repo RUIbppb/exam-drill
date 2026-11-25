@@ -16670,5 +16670,1126 @@
    "肇事逃逸",
    "藥毒物鑑驗"
   ]
+ },
+ {
+  "id": "moex-115-forens-01",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "刑案現場各類微物與生物跡證之蒐集、包裝與保全，直接影響後續實驗室鑑定之成敗與證據能力。依據現行證物處理標準作業程序與鑑識學理，下列關於證物包裝與保全之敘述，何者最適當？",
+  "options": {
+   "A": "現場採獲沾有潮濕血液或體液之衣物，為防止檢體乾燥揮發並阻絕外界環境污染，應立即將其密封於阻氣性佳之聚乙烯（PE）塑膠袋或夾鏈袋中送驗",
+   "B": "肇事逃逸現場採集之大片玻璃破片，因其斷裂面可能與嫌疑車輛殘留玻璃產生極具個化價值之物理吻合（Physical match），包裝時應妥善防護固定（如置於堅固盒內），以避免運送過程中發生二次碰撞碎裂",
+   "C": "現場採集之可疑紙張文書證物（Questioned documents），為便於歸檔儲存與避免遺失，應將其適當摺疊放入標準證物信封內，並直接於封套表面以原子筆用力書寫註明案號與特徵",
+   "D": "針對火災現場疑似含有可燃性液體殘跡（Ignitable liquid residues）之碳化殘渣，因其含有大量水分與灰燼，應優先使用透氣之牛皮紙袋包裝，以防止證物發霉腐敗"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 1,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "證據法則",
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "肇事逃逸",
+   "鑑定與勘驗",
+   "證物保管與監管鏈",
+   "血跡與體液檢驗",
+   "毛髮與纖維"
+  ]
+ },
+ {
+  "id": "moex-115-forens-02",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "鑑識人員於兇殺命案現場勘察時，在平滑的牆面上發現數滴呈現橢圓形且具方向性之中速噴濺血跡。經挑選其中一枚輪廓最完整之血跡進行精細測量，其短軸（寬度）為11 mm，長軸（長度）為22 mm，且該血跡之尖銳端（Tail）朝向右方。依據血跡型態分析（Bloodstain PatternAnalysis）之學理與現場重建原則，下列敘述何者最適當？",
+  "options": {
+   "A": "依據三角函數公式計算，該血滴撞擊牆面之入射角（Angle of impact）約為30度；且血跡尖銳端朝右，代表血滴撞擊牆面時的行進方向為「由右向左」",
+   "B": "依據三角函數公式計算，該血滴撞擊牆面之入射角（Angle of impact）約為60度；該主血跡周圍若伴隨產生衛星血跡（Satellite stains），其尖銳端通常會指向與主血跡行進方向「相同」的方向",
+   "C": "依據三角函數公式計算，該血滴撞擊牆面之入射角（Angle of impact）約為60度；鑑識人員可利用此角度數值，直接在2D平面上以拉線法找出出血點的「匯合區域（Area ofconvergence）」",
+   "D": "依據三角函數公式計算，該血滴撞擊牆面之入射角（Angle of impact）約為30度；且血跡尖銳端朝右，代表血滴撞擊牆面時的行進方向為「由左向右」"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 2,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "現場勘察與重建",
+   "血跡與體液檢驗",
+   "血跡型態分析"
+  ]
+ },
+ {
+  "id": "moex-115-forens-03",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依據內政部警政署頒布爆裂物案件處理要點及刑事鑑識手冊規定，轄區發生爆裂物或爆炸案件時其處理作為，下列敘述何者最適當？",
+  "options": {
+   "A": "刑事警察局地區防爆隊到場支援處理爆裂物爆炸案件時，防爆隊帶隊官即為現場指揮官，全權負責指揮爆炸案現場處理事宜",
+   "B": "管轄機關轄內發生爆裂物爆炸案件，不論有無人員傷亡，均應通報地區防爆隊派員到場協助處理",
+   "C": "火（炸）藥鑑驗成分之案件，應取樣0.5公克，並小心將火藥放入塑膠夾鏈袋內送驗",
+   "D": "火（炸）藥已結合電雷管者，應先用紙袋包裝妥善後，再小心放入尼龍證物袋內送驗"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 3,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "警察組織與職權",
+   "勤務規劃與督導",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "放火與爆炸",
+   "警察機關的組織與層級",
+   "勤務指揮與聯防",
+   "證物保管與監管鏈",
+   "槍彈與射擊鑑識"
+  ]
+ },
+ {
+  "id": "moex-115-forens-04",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "刑案現場的系統化搜尋與勘察，是獲取物理與生物跡證以進行犯罪偵查的基石。結合傳統的現場搜尋法則（Search patterns）之實務幾何限制，以及現代《雪梨宣言》（Sydney Declaration）對現場調查之核心定義，下列敘述何者最適當？",
+  "options": {
+   "A": "螺旋式搜尋法（Spiral search method）：由單人由外向內或由內向外呈螺旋狀進行。實務上，此方法不受現場障礙物或邊界缺乏的影響，人員能輕易走出完美的螺旋軌跡，是確保微物跡證絕對不被遺漏的最佳搜尋法",
+   "B": "依據《雪梨宣言》原則2：現場調查是一項需要科學專業知識的科學與診斷任務（Sceneinvestigation is a scientific and diagnostic endeavour requiring scientific expertise）。現場調查的目標是透過殘存的跡證推論並重建事件，這不僅僅是技術性的蒐集工作，更是高度智力與分析性的挑戰。這項任務必須由具備廣泛科學知識、熟知自然法則的通才鑑識科學家來執行，以便在現場辨識跡證的相對位置、方向與互動關係，從而提出潛在的事件解釋",
+   "C": "輻射狀或派餅式搜尋法（Wheel or ray search method）：以現場中心為起點向外放射。由於射線之間的扇形區域會隨著向外延伸而逐漸重疊，能對外圍的微小物證進行多次重複檢視，為大範圍室外現場之首選",
+   "D": "方格式搜尋法（Grid search method）：為單線式搜尋法的一種，由多名搜尋人員僅沿著單一方向平行前進。其缺點為無法對同一位置進行交叉搜尋，極易遺漏跡證，因此在現代勘察實務中已較少被採用"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 4,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "毛髮與纖維"
+  ]
+ },
+ {
+  "id": "moex-115-forens-05",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "在血跡型態分析（Bloodstain Pattern Analysis, BPA）中，觀察個別血跡的物理特徵可協助鑑識人員研判血液撞擊物面時的行進方向。關於「衛星血跡」（Satellite stain / spatter）之定義及其在現場重建上的幾何特徵，下列敘述何者最適當？",
+  "options": {
+   "A": "衛星血跡係指因液壓將血液自受傷動脈中噴射而出所形成之血滴群，其伴隨的尖端（pointed end）永遠指向出血源頭",
+   "B": "衛星血跡係指單一血滴撞擊目標表面時，自母血跡（parent stain）周圍濺出之較小次生血滴；在方向性上，該衛星血跡的尖端（pointed end）通常會朝向與血液原始行進方向相反之位置",
+   "C": "衛星血跡係指乾淨物體擦過未乾血跡所產生之次生痕跡，可藉由其羽毛狀邊緣（feathering）來判斷物體移動的方向",
+   "D": "當血液以90度垂直撞擊平滑無孔隙表面（如玻璃）時，因表面張力影響，必定會產生大量帶有長尾巴的衛星血跡"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 5,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "現場勘察與重建",
+   "血跡與體液檢驗",
+   "血跡型態分析"
+  ]
+ },
+ {
+  "id": "moex-115-forens-06",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "血跡型態為現場重建中最常見且重要的型態證據，有關血跡型態定義或分析，下列敘述何者正確？",
+  "options": {
+   "A": "在流血事件現場，血灘（Pool）可以提供血液流出的量與受傷種類的訊息",
+   "B": "反向噴濺血跡（Back Spatter Pattern）通常和槍傷射出口有關",
+   "C": "抛甩血跡型態，其特徵常為線性型態及重複形狀緩慢變化的個別血滴",
+   "D": "接觸移轉的血跡型態，在靜態的移轉時會出現物體的形狀"
+  },
+  "answers": [
+   [
+    "A"
+   ],
+   [
+    "C"
+   ],
+   [
+    "D"
+   ]
+  ],
+  "revised": true,
+  "revisionNote": "第6題答Ａ或Ｃ或Ｄ者均給分",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 6,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "現場勘察與重建",
+   "血跡與體液檢驗",
+   "血跡型態分析"
+  ]
+ },
+ {
+  "id": "moex-115-forens-07",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "為防止機車失竊及增加失竊機車銷贓困難度，很多機車會在車燈、車殼、儀表板等處，烙（打）印與「引擎號碼」相同的代碼。請問在部分透明聚合物上之打印號碼遭磨滅，運用下列何種方法來顯現號碼，效果最佳？",
+  "options": {
+   "A": "偏光鏡觀察法",
+   "B": "電解法",
+   "C": "超音波減壓腐蝕法",
+   "D": "化學腐蝕法"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 7,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-forens-08",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "三過氧化三丙酮（Triacetone triperoxide, TATP），俗稱撒旦之母，國內曾有查獲相關案例；然而近期已陸續有相關研究指出，某一特定化學試劑，可能因多年保存不當，亦會自發性變質而產生TATP，請問該特定試劑為何？",
+  "options": {
+   "A": "異丙醇（2-propanol）",
+   "B": "甲醛（Formaldehyde）",
+   "C": "醋酸鈉（Sodium acetate）",
+   "D": "氫氧化鈉（Sodium Hydroxide）"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 8,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-forens-09",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "近年來國內外爆炸物與爆裂物案件頻傳，從土製炸藥到軍規炸藥均可能出現於刑案現場。關於各類爆炸物之化學特性、現場初篩與實驗室分析技術，下列敘述何者最適當？",
+  "options": {
+   "A": "三過氧化三丙酮（Triacetone triperoxide, TATP）為一種具高度摩擦與撞擊敏感性之土製炸藥，其合成方式係將丙酮（Acetone）與雙氧水（Hydrogen peroxide）在酸性催化劑（如鹽酸）存在下反應製得",
+   "B": "離子移動光譜儀（Ion Mobility Spectrometer, IMS）常作為現場爆炸物殘跡之初篩工具，但其無法偵測如三過氧化三丙酮（Triacetone triperoxide, TATP）等不含硝基之過氧化物炸藥",
+   "C": "低爆藥（Low explosives）之分解速度較慢，係以超音速之震波進行反應，此過程稱為爆燃（Deflagration）；而高爆藥（High explosives）則產生次音速之壓力波，此過程稱為爆轟（Detonation）",
+   "D": "實驗室進行爆炸殘跡前處理時，無論是有機高爆藥（如三硝基甲苯Trinitrotoluene，簡稱TNT）或無機低爆藥（如氯酸鹽、硝酸鹽），均應統一使用丙酮（Acetone）作為溶劑進行洗滌萃取，以利後續儀器分析"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 9,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "公共危險與交通犯罪",
+   "刑案現場處理"
+  ],
+  "topicDetails": [
+   "放火與爆炸"
+  ]
+ },
+ {
+  "id": "moex-115-forens-10",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "現場勘察人員經常會使用各式光源以協助辨識現場跡證，請問紫外線（UV）在刑事鑑識應用方面，下列敘述何者最不適當？",
+  "options": {
+   "A": "紫外線波長較短（波長約為10至400 nm），其光的能量較可見光高",
+   "B": "紫外線攝影因其穿透力低，能強化皮膚表面紋理，記錄皮膚表面特徵痕跡（如抓痕、壓痕）",
+   "C": "在射擊案件中，紫外線主要利用其高能量特性穿過衣物纖維，用以定位深層的槍彈殘跡（GSR）",
+   "D": "在性侵案件中，利用特定波長的紫外線照射證物，可使精液、唾液等生物跡證產生螢光反應"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 10,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "現場勘察與重建",
+   "血跡與體液檢驗",
+   "毛髮與纖維"
+  ]
+ },
+ {
+  "id": "moex-115-forens-11",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "顯微鏡是刑事實驗室裡不可或缺的基本設備，分析證物工作有一半以上是要靠顯微鏡來完成。在顯微鏡基本構造中，鏡頭系統之物鏡是顯微鏡最重要的部分，而鏡徑值（NA值，numerical aperture）是鏡頭最重要的參數，它代表著鏡頭對光的蒐集能力，對觀察物體的解析能力及鏡頭放大倍數的極限。請問：A物鏡之NA值是0.6，B物鏡之NA值是0.2，則A物鏡對於光的蒐集能力是B物鏡的幾倍？",
+  "options": {
+   "A": "1/3倍",
+   "B": "3倍",
+   "C": "9倍",
+   "D": "1/9倍"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 11,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-forens-12",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "鑑識人員於刑案現場查獲一把表面帶有複雜深色圖案及金屬反光的兇刀，以及一張陳舊的恐嚇信紙。為有效顯現這兩項證物上的潛伏指紋，並排除背景顏色與材質干擾，下列鑑識策略何者最適當？",
+  "options": {
+   "A": "對於深色複雜圖案的兇刀，應首選黑碳粉末顯現，再使用紫外光源觀察；恐嚇信則優先使用寧海德林（Ninhydrin），因其顯現陳舊指紋之靈敏度為目前最高",
+   "B": "兇刀因具複雜圖案與反光，宜使用螢光粉末並配合特定波長多波域光源激發以排除背景干擾；恐嚇信可先使用DFO（1,8-Diazafluoren-9-one）處理，因其顯現紙張潛伏指紋的靈敏度高於寧海德林",
+   "C": "兇刀表面應優先使用碘燻法（Iodine fuming），因其蒸氣能與金屬表面產生穩定永久的共價鍵印痕；恐嚇信則應使用物理顯現法（Physical Developer）與殘留的胺基酸反應",
+   "D": "兇刀宜使用氰基丙烯酸酯（Cyanoacrylate）處理後，利用寧海德林染色以產生螢光；恐嚇信因屬吸水性材質，僅能使用小粒子浮液法（Small particle reagent，SPR）處理"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 12,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "刑案現場處理",
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
+ },
+ {
+  "id": "moex-115-forens-13",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "為了得到指紋最佳化的顯現效果，經常會以多重方法處理，請問白色紙張使用物理顯影法顯現指紋，後續會使用下列何種溶液，來增顯指紋？",
+  "options": {
+   "A": "次氯酸鈉（sodium hypochlorite）",
+   "B": "鹽酸（hydrochloric acid）",
+   "C": "磷酸（phosphoric acid）",
+   "D": "三氯醋酸（Trichloroacetic acid）"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 13,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "指紋與痕跡鑑識"
+  ],
+  "topicDetails": [
+   "指紋採驗與顯現"
+  ]
+ },
+ {
+  "id": "moex-115-forens-14",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "實務上，目前現場或物證的指紋採驗上，會同時評估採驗DNA跡證；且常優先採取指紋後，再接續採取DNA。因而必須瞭解指紋常規的系統採證技術，會不會對DNA鑑定產生干擾？請問下列的指紋採證技術，何者對後續DNA鑑定會產生最大的負面影響？",
+  "options": {
+   "A": "近紅外線",
+   "B": "物理顯影法",
+   "C": "寧海得林法",
+   "D": "Acid Yellow7"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 14,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "證據法則",
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "指紋採驗與顯現",
+   "DNA 型別與比對"
+  ]
+ },
+ {
+  "id": "moex-115-forens-15",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "在文書鑑定中，若要檢視紙張上肉眼不可見的「潛伏壓印字跡（Indented writing）」，關於各種顯現技術與靜電壓痕顯現儀（Electrostatic Detection Apparatus, ESDA）之運作原理，下列敘述何者最適當？",
+  "options": {
+   "A": "靜電壓痕顯現儀（ESDA）係利用特定化學試劑與紙張纖維受壓處產生氧化還原反應，為一種破壞性之化學檢測方法",
+   "B": "ESDA的操作原理是將文件置於多孔性平板上，覆蓋薄膜並通以高壓電後，利用磁性鐵粉聚集於靜電較弱的平坦處以顯現字跡",
+   "C": "傳統的低角度斜光照射法（Oblique lighting）雖然簡便，但其顯現壓痕字跡的靈敏度與效果，實務上通常不及靜電壓痕顯現儀（ESDA）",
+   "D": "若同一張恐嚇信件需同時進行潛伏指紋與壓痕字跡之採證，為求指紋顯現清晰，應先使用寧海德林（Ninhydrin）試劑處理後，再使用ESDA顯現壓印字跡"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 15,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "證據法則",
+   "指紋與痕跡鑑識",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "指紋採驗與顯現",
+   "毛髮與纖維"
+  ]
+ },
+ {
+  "id": "moex-115-forens-16",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "偽變造文件常以鈔券為鑑定標的，而辨識鈔券真偽主要是依據其上各項安全防偽特徵，其中有部分特徵係可運用觸覺或肉眼，搭配日常環境的背景光或簡易手電筒即可辨識，而我國中央銀行在宣導新臺幣辨識的要訣中，「摸一摸、看一看、轉一轉」，即是用以辨識該種特徵。目前流通市面的新臺幣仟元鈔上安全防偽特徵，其辨識方法下列敘述何者最正確？",
+  "options": {
+   "A": "水印是運用看一看的方式，即可觀察到紙張上「1000」及「梅花」的水印圖案",
+   "B": "新臺幣仟元鈔上的折光變色油墨，可運用轉一轉的方式辨識，變色效果為紫色變金色",
+   "C": "以看一看方式，檢視鈔券正面右下角的隱藏字，以迎光方法可發現隱藏的「1000」字樣",
+   "D": "以看一看方式，藉由透射光可觀察鈔券上光影變化箔膜的顏色及圖案變化"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 16,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "偽造與妨害自由名譽",
+   "證據法則"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗"
+  ]
+ },
+ {
+  "id": "moex-115-forens-17",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "鑑識人員利用浸液法（Immersionmethod）配合加熱台（Hot stage）測定刑案現場微小玻璃碎片的折射率。當持續加熱浸液時，觀察到玻璃邊緣的「貝克線」（Becke line）逐漸消失，且玻璃與浸液的影像對比降至最低。關於此現象之物理學理與鑑識科學意義，下列敘述何者最適當？",
+  "options": {
+   "A": "此現象稱為「匹配點（Match point）」，代表此時玻璃的密度與浸液相同，故可同時測得該玻璃之折射率與絕對密度",
+   "B": "若現場碎玻璃與嫌犯衣物上採獲之玻璃碎片，在相同溫度下皆發生貝克線消失，依鑑識科學標準即可將兩者個化（Individualize）至單一來源",
+   "C": "玻璃與浸液的折射率皆會隨溫度升高而大幅下降，當兩者下降曲線交會時，貝克線即會消失並產生繞射",
+   "D": "加熱過程中，浸液的折射率會隨溫度升高而顯著下降，直到與玻璃折射率相等時，即導致貝克線消失"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 17,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "刑案現場處理"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-forens-18",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "玻璃破裂之型態特徵為刑案現場重建之重要物理跡證。現場勘察人員在鑑識破裂玻璃時，常應用「3R原則」（3R rule）及其他破壞力學特徵來判定外力撞擊方向。依據鑑識科學學理，下列關於玻璃裂痕分析之敘述，何者最適當？",
+  "options": {
+   "A": "依據3R原則之精確定義，放射狀裂痕（Radial cracks）斷面邊緣的垂直紋痕（Hackle marks或Stress marks），必定會與受力面的反面（Reverse side）形成直角，此為判定撞擊方向之關鍵",
+   "B": "高速彈頭穿透一般平板玻璃時，通常會形成漏斗狀或覆盆狀（Crater-shaped）之孔洞，且該孔洞在子彈之「射入面」會比「射出面」更為寬闊",
+   "C": "依據3R原則，同心圓狀裂痕（Concentric cracks）邊緣之應力痕（Stress marks），必定會與外力撞擊面之反面（Reverse side）形成直角",
+   "D": "現代汽車的側邊車窗與後車窗多採用強化玻璃（Tempered glass），其受外力撞擊後仍可保留完整之放射狀與同心圓裂痕，故現場勘察時亦可直接適用3R原則進行彈道重建"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 18,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "刑案現場處理",
+   "槍彈與藥毒物鑑識"
+  ],
+  "topicDetails": [
+   "現場勘察與重建",
+   "槍彈與射擊鑑識"
+  ]
+ },
+ {
+  "id": "moex-115-forens-19",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "警方在執行毒品查緝專案時，於現場查獲兩包不明白色粉末（標示為甲、乙）。鑑識人員依法使用馬蓋斯試劑（Marquis Reagent，即含甲醛之濃硫酸溶液）進行初步呈色試驗。若粉末甲滴入試劑後呈現紫（藍紫）色反應，粉末乙滴入後呈現橘棕色反應，則下列針對此兩包粉末的初步研判，何者最適當？",
+  "options": {
+   "A": "甲極可能為古柯鹼（Cocaine），乙極可能為愷他命（Ketamine）",
+   "B": "甲極可能為大麻（Marijuana），乙極可能為海洛因（Heroin）",
+   "C": "甲極可能為海洛因（Heroin），乙極可能為甲基安非他命（Methamphetamine）",
+   "D": "甲極可能為甲基安非他命（Methamphetamine），乙極可能為海洛因（Heroin）"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 19,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "毒品與槍砲"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-forens-20",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "為防制毒駕，運用毒品唾液快篩措施已正式於114年上路，請問毒品唾液快篩的原理與下列那一選項最接近？",
+  "options": {
+   "A": "唾液分泌物的酸鹼性",
+   "B": "毒品散發在口腔味道特異性",
+   "C": "毒品作用在人體的心律反應",
+   "D": "酵素免疫分析反應"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 20,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "生物跡證與DNA",
+   "毒品與槍砲"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
+ },
+ {
+  "id": "moex-115-forens-21",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "警方接獲報案，於一處公寓內發現一具仰臥的男性屍體。法醫與鑑識人員抵達現場後，記錄下相關的死後變化（Postmortem changes）特徵：發現屍斑（Livor mortis）主要沉積於背部且呈現「指壓會褪色（Blanching）」之狀態；屍僵（Rigor mortis）現象僅初步出現於下頷與頸部，四肢肌肉仍具柔軟度；現場測量其肛溫為31℃，而當時室內環境溫度為20℃。綜合上述屍體現象，法醫推斷其死亡時間（Postmortem interval, PMI）最可能落於下列那一個區間？",
+  "options": {
+   "A": "3～8小時",
+   "B": "1～2小時以內",
+   "C": "12～24小時",
+   "D": "36小時以上"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 21,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "文書數位與法醫鑑識"
+  ],
+  "topicDetails": [
+   "屍體現象與死亡時間",
+   "死因與損傷"
+  ]
+ },
+ {
+  "id": "moex-115-forens-22",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "毛髮的顯微形態觀察是區分人類與動物毛髮的首要步驟。關於毛髮各層之顯微特徵與物種鑑定（Species identification）之敘述，下列何者正確？",
+  "options": {
+   "A": "觀察毛髮的表皮層（Cuticle），人類毛髮通常呈現覆瓦狀（Imbricate）鱗片；而動物毛髮常呈現冠狀（Coronal）或棘狀（Spinous）鱗片，其多樣的鱗片圖案為鑑定動物物種（Speciesidentification）的重要特徵",
+   "B": "髓質係數（Medullary Index）為髓質（Medulla）直徑與毛髮總直徑之比值。若現場測得一根未知毛髮之毛幹總直徑為80 μm，髓質直徑為24 μm，因其髓質係數為0.30，符合動物毛髮通常大於1/4的標準，故依據學理研判該毛髮應屬動物毛髮",
+   "C": "觀察毛髮中心之髓質（Medulla）連續性，人類頭部毛髮通常呈現連續狀（Continuous）或中斷狀（Interrupted）；而多數動物的髓質則不具有髓質或僅呈破碎狀（Fragmented）",
+   "D": "觀察皮質層（Cortex）內的色素顆粒（Pigment granules）分布情形，人類毛髮的色素顆粒通常高度集中於毛幹中央的髓質（Medulla）周圍；而多數動物毛髮的色素顆粒則較平均分布於靠近表皮層（Cuticle）處"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 22,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "毛髮與纖維"
+  ]
+ },
+ {
+  "id": "moex-115-forens-23",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "刑案現場發現疑似發生過流血衝突，但地面已遭嫌犯使用大量清水與清潔劑刷洗，肉眼難以察覺血跡。為提高檢出靈敏度以大面積搜尋潛伏血跡，下列何種化學試劑或方法最適合用於初步勘察？",
+  "options": {
+   "A": "酚酞試劑（Kastle-Meyer test）",
+   "B": "高山氏試驗（Takayama test）",
+   "C": "胺黑試劑（Amido Black）",
+   "D": "發光胺試劑（Luminol test）"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 23,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "刑案現場處理",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "血跡與體液檢驗"
+  ]
+ },
+ {
+  "id": "moex-115-forens-24",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "鑑識實驗室進行一起親子血緣鑑定案。經STR基因座分析，發現子代之型別為（12, 14），其生母之型別為（10, 12），而待測生父之型別為（14, 14）。已知在該地區之族群資料庫中，對偶基因型14的出現頻率（f）為0.08。請計算該STR基因座之親子指數（Paternity Index,PI）為何？",
+  "options": {
+   "A": "6.25",
+   "B": "8.0",
+   "C": "12.5",
+   "D": "25.0"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 24,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
+ },
+ {
+  "id": "moex-115-forens-25",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "刑案現場處理與刑事鑑識",
+  "originalSubject": "刑案現場處理與刑事鑑識",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "聚合酶連鎖反應（Polymerase Chain Reaction, PCR）為現代刑事DNA鑑定普遍使用之核心技術，其熱循環（Thermal cycle）包含三個主要步驟。關於此三步驟之先後次序及其對應之分子作用機制，下列敘述何者最適當？",
+  "options": {
+   "A": "變性（Denaturation）→延伸（Extension）→黏合（Annealing）。變性係使用高溫破壞細胞核膜；延伸係利用72℃高溫強迫游離核苷酸延長；最後降溫至60℃進行雙股黏合",
+   "B": "黏合（Annealing）→變性（Denaturation）→延伸（Extension）。黏合係加入限制酶（Restrictionenzymes）尋找目標序列；變性係升溫至94℃切斷雙股DNA；延伸係降溫至60℃進行互補鹼基配對",
+   "C": "變性（Denaturation）→黏合（Annealing）→延伸（Extension）。變性係加熱至約94℃使雙股DNA解鍊為單股；黏合係降溫至約60℃使引子（Primers）與目標序列結合；延伸則升溫至72℃由DNA聚合酶（DNA polymerase）進行複製",
+   "D": "延伸（Extension）→變性（Denaturation）→黏合（Annealing）。延伸係先讓引子延長；再加熱至94℃變性解開雙股；最後降至60℃進行黏合與修復"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "刑案現場處理與刑事鑑識_試題.pdf",
+   "no": 25,
+   "answerFile": "115年_刑案現場處理與刑事鑑識_答案更正.pdf",
+   "answerKind": "答案更正",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1501&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115060&c=203&s=1501&q=1"
+  },
+  "topics": [
+   "證據法則",
+   "生物跡證與DNA"
+  ],
+  "topicDetails": [
+   "鑑定與勘驗",
+   "DNA 型別與比對"
+  ]
  }
 ]

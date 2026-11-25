@@ -69989,5 +69989,1160 @@
    "構成要件與不法"
   ],
   "topicDetails": []
+ },
+ {
+  "id": "moex-115-plaw-01",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "關於警察意義之敘述，下列何者正確？",
+  "options": {
+   "A": "憲法第8條第1項所稱「非經司法或警察機關依法定程序，不得逮捕、拘禁」之「警察機關」，指組織法上形式意義「警察」",
+   "B": "凡法律規定，以維持社會秩序或增進公共利益為目的，賦予其機關或人員得使用干預、取締之手段者，指功能上形式意義「警察」",
+   "C": "行政執行法第19條第1項關於拘提、管收交由行政執行分署派執行員執行，指實質意義「警察」",
+   "D": "依警察人員人事條例任官授階執行警察任務之人員，指實質意義「警察」"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 1,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "警察組織與職權",
+   "警察人事與風紀",
+   "憲法基本權"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "警察任務與權限",
+   "官職分立與陞遷",
+   "人身自由與正當程序"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-02",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "下列關於主管機關管轄權限之敘述，何者正確？",
+  "options": {
+   "A": "警用武器彈藥之保養修理，由地方編列預算辦理",
+   "B": "駐衛警察使用警械管理辦法由內政部訂定",
+   "C": "警監職務，由內政部遴任或交由直轄市政府遴任",
+   "D": "使用警械致第三人遭受財產損失之補償經費，由內政部編列預算"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 2,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "警械使用",
+   "毒品與槍砲",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "槍砲彈藥刀械",
+   "地方自治團體與自治法規"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-03",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "關於中央警察組織之敘述，下列何者正確？",
+  "options": {
+   "A": "內政部警政署為行政院所屬中央二級機關",
+   "B": "內政部警政署刑事警察局勤務指揮中心為行政院所屬中央四級機關",
+   "C": "內政部警政署警察廣播電臺為內政部警政署所屬機構",
+   "D": "臺灣警察專科學校學生總隊為具有單獨法定地位之組織"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 3,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "警察組織與職權",
+   "警察人事與風紀",
+   "勤務規劃與督導"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警察教育與訓練",
+   "勤務指揮與聯防"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-04",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "下列關於集會遊行之說明，何者錯誤？",
+  "options": {
+   "A": "工會宣布罷工無需事先向警察機關申請許可",
+   "B": "工會為聲援漁工，得於東港漁港集會",
+   "C": "罷工之集會為維持秩序，由糾察隊隊長負責",
+   "D": "集會遺留之污染，由環境主管機關依據廢棄物清理法管轄"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 4,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "集會遊行"
+  ],
+  "topicDetails": [
+   "許可與報備"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-05",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依警械使用條例第10條之1及警械使用調查小組組織及運作辦法，關於警械使用調查小組之敘述，下列何者錯誤？",
+  "options": {
+   "A": "內政部應遴聘相關機關（構）代表及專家學者組成調查小組，得依職權或依司法警察機關之申請，就所屬人員使用警械致人死亡或重傷爭議事件之使用時機、過程與相關行政責任進行調查及提供意見",
+   "B": "其組織及運作方式，由內政部定之",
+   "C": "警械使用調查小組之調查報告依機密檔案管理辦法規定，依機密等級分別保管",
+   "D": "調查小組置執行秘書1人，由內政部警政署刑事警察局司法科科長兼任，並置幹事3人至5人，由該科人員兼任"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 5,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "人身犯罪",
+   "警械使用",
+   "警察組織與職權"
+  ],
+  "topicDetails": [
+   "傷害罪",
+   "用槍的界限與責任",
+   "警察機關的組織與層級"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-06",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "關於警察人員進修及深造教育實施辦法之敘述，下列何者正確？",
+  "options": {
+   "A": "警察人員進修及深造教育實施辦法為法規命令",
+   "B": "警察人員進修及深造教育實施辦法依據警察法訂定",
+   "C": "進修或深造教育所需經費，由內政部警政署編列年度預算",
+   "D": "進修及深造教育由中央警察大學辦理。但巡佐班、專業班應由警察專科學校辦理"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 6,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "警察組織與職權",
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "警察機關的組織與層級",
+   "警察教育與訓練"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-07",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "關於警察人員人事條例之敘述，下列何者正確？",
+  "options": {
+   "A": "依公務人員任用法第32條及警察法第5條規定制定之",
+   "B": "警察人員人事事項，依該條例之規定，該條例未規定者，適用中央行政機關組織基準法之規定",
+   "C": "警察人員由內政部管理，或交由直轄市政府管理",
+   "D": "警正、警佐職務，由內政部遴任或交由內政部警政署遴任"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 7,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "警察組織與職權",
+   "警察人事與風紀",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "警察任務與權限",
+   "警察機關的組織與層級",
+   "官職分立與陞遷",
+   "地方自治團體與自治法規"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-08",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依據警察人員人事條例規定，有關警察人員考核及考績之敘述，下列何者正確？",
+  "options": {
+   "A": "警察人員平時考核之獎懲種類，準用公務人員考績法之規定",
+   "B": "警察人員之考績，除依警察人員人事條例規定者外，適用公務人員考績法之規定",
+   "C": "同一考績年度中，其平時考核獎懲互相抵銷後累積已達二大過，得予以免職",
+   "D": "警察人員平時考核之功過，依公務人員考績法第12條規定抵銷後，尚有記一大功二次人員，考績不得列甲等以下"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 8,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "官職分立與陞遷",
+   "考核獎懲與停職免職"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-09",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "下列關於警察命令之說明，何者正確？",
+  "options": {
+   "A": "兼具組織法與行為法之性質",
+   "B": "有管轄事務之性質，得為限制人民自由及權利",
+   "C": "查禁物以主管機關依法為查禁公告為前提",
+   "D": "保全業不具警察身分，其安全裝備毋庸公告"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 9,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-plaw-10",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "警察人員執行職務時，遇有下列何種情形，得直接使用槍械？",
+  "options": {
+   "A": "警察人員之土地、建築物受威脅時",
+   "B": "民眾違反集會遊行法逾時不為解散",
+   "C": "警察人員之生命、身體受暴力脅迫，且情況急迫時",
+   "D": "嫌犯於室外聚眾鬥毆時"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 10,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "人身犯罪",
+   "警械使用",
+   "集會遊行",
+   "組織犯罪與治安顧慮"
+  ],
+  "topicDetails": [
+   "傷害罪",
+   "用槍時機"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-11",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "有關扣留之說明，下列何者正確？",
+  "options": {
+   "A": "發現有大量遺棄飼養犬貓，依據警察職權行使法得予扣留",
+   "B": "保管、照料或持有所費過鉅或有其困難，得予變賣或銷毀",
+   "C": "扣留之正當程序包括簽發與交付扣留物清單、加封緘妥善保管",
+   "D": "扣留物僅得由警察保管"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 11,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "人身犯罪"
+  ],
+  "topicDetails": [
+   "遺棄與凌虐"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-12",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "下列關於治安顧慮人口查訪規定之敘述，何者正確？",
+  "options": {
+   "A": "為維護少年身心健全發展，不得查訪18歲以下之學生",
+   "B": "曾受觀察勒戒之人雖得查訪，但不影響受查訪人擔任警察人員之服公職權",
+   "C": "警員與查訪對象交往，屬於執行公務不力，應予申誡",
+   "D": "查訪對象110年2月4日強制勒戒執行完畢，查訪期間至113年2月4日止"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 12,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "身分查證與臨檢",
+   "社會秩序維護法",
+   "毒品與槍砲",
+   "少年事件與犯罪預防"
+  ],
+  "topicDetails": [
+   "治安顧慮人口查訪",
+   "處罰種類與裁處機關",
+   "施用毒品的處理",
+   "社區警政與治安策略"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-13",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依據警察職權行使法第16條第1項：「警察於其行使職權之目的範圍內，必要時，得依其他機關之請求，傳遞與個人有關之資料。其他機關亦得依警察之請求，傳遞其保存與個人有關之資料。」該條第1項規定，在學理上稱為下列何種概念？",
+  "options": {
+   "A": "警察公共性原則",
+   "B": "警察職權概括條款",
+   "C": "警察補充性原則",
+   "D": "職務協助"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 13,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-plaw-14",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "關於警察人員人事相關規定之說明，何者正確？",
+  "options": {
+   "A": "年滿55歲，不得初任警監",
+   "B": "警察人員須經升官等考試及格，始得晉升官等",
+   "C": "警察人員平時考核之功過，不得相互抵銷",
+   "D": "警佐之任官，僅得由內政部核轉銓敘部銓敘審定合格"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 14,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "警察人事與風紀"
+  ],
+  "topicDetails": [
+   "考核獎懲與停職免職"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-15",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依據警械使用條例第6條規定：「警察人員應基於急迫需要，合理使用槍械，不得逾越必要程度。」該條所指的法律原則，其具體內涵規定於下列何種法律？",
+  "options": {
+   "A": "刑法",
+   "B": "行政罰法",
+   "C": "行政程序法",
+   "D": "行政執行法"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "中華民國刑法"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "lawCode": "criminal-code",
+     "modifiedAfter": [
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 15,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "警械使用",
+   "行政程序與行政罰"
+  ],
+  "topicDetails": [
+   "用槍的界限與責任",
+   "行政處分與程序",
+   "行政罰的原則"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-16",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "關於社會秩序維護法上處罰規定之敘述，何者正確？",
+  "options": {
+   "A": "逾期不完納罰鍰者，得易以拘留",
+   "B": "民營加油站業於加油站外販油，僅得裁罰",
+   "C": "得對於營業場所從事兌換現金之賭博行為，作成停業處分",
+   "D": "拘留不滿一日者，得轉換為申誡"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 16,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "社會秩序維護法",
+   "行政程序與行政罰"
+  ],
+  "topicDetails": [
+   "處罰種類與裁處機關"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-17",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依集會遊行法第28條第1項：「集會、遊行，經該管主管機關命令解散而不解散者，處集會、遊行負責人或其代理人或主持人新臺幣3萬元以上15萬元以下罰鍰。」集會、遊行負責人如被處罰5萬元罰鍰，其裁處權時效適用下列何者規定？",
+  "options": {
+   "A": "行政罰法",
+   "B": "行政程序法",
+   "C": "社會秩序維護法",
+   "D": "刑法"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "中",
+   "laws": [
+    "中華民國刑法"
+   ],
+   "detail": [
+    {
+     "law": "中華民國刑法",
+     "lawCode": "criminal-code",
+     "modifiedAfter": [
+      "115-07-22"
+     ],
+     "abandoned": false,
+     "matched": "名稱",
+     "level": "中",
+     "changeCount": 1,
+     "lastChange": "修正",
+     "citedArticles": [],
+     "articleMatch": "題目沒寫條號",
+     "matchedArticles": []
+    }
+   ]
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 17,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "社會秩序維護法",
+   "集會遊行",
+   "行政程序與行政罰"
+  ],
+  "topicDetails": [
+   "現場處理與解散",
+   "行政處分與程序",
+   "行政罰的原則"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-18",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依警察職權行使法第21條：「警察對軍器、凶器或其他危險物品，為預防危害之必要，得扣留之。」該條規定警察對軍器、凶器或其他危險物品得具有何種權力？",
+  "options": {
+   "A": "剝奪危險物品所有權",
+   "B": "移轉危險物品所有權",
+   "C": "暫時限制或保管危險物品權",
+   "D": "危險物品處罰權"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 18,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "未分類"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-plaw-19",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依行政執行法規定，關於即時強制之發動要件，下列敘述何者錯誤？",
+  "options": {
+   "A": "行政機關為阻止犯罪之發生，而有即時處置之必要時",
+   "B": "依法令負有行為義務而不為，因情況急迫，如不及時執行，顯難達成執行目的時",
+   "C": "行政機關為避免急迫危險，而有即時處置之必要時",
+   "D": "行政機關為阻止危害之發生，而有即時處置之必要時"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 19,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "即時強制與管束",
+   "警械使用"
+  ],
+  "topicDetails": [
+   "用槍時機"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-20",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "當義務之履行經證明為不可能者，下列何者規定執行機關應依職權或因義務人、利害關係人之申請終止執行？",
+  "options": {
+   "A": "行政罰法",
+   "B": "行政執行法",
+   "C": "社會秩序維護法",
+   "D": "警察職權行使法"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 20,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "社會秩序維護法",
+   "行政程序與行政罰"
+  ],
+  "topicDetails": [
+   "行政罰的原則"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-21",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "有關偶發性及緊急性集會遊行處理原則之敘述，下列何者正確？",
+  "options": {
+   "A": "係關於機關內部之組織、事務之分配、業務處理方式、人事管理等一般性規定",
+   "B": "係對多數不特定人民就一般事項所作抽象之對外發生法律效果之規定",
+   "C": "係上級機關對下級機關，依其權限或職權為規範機關內部秩序及運作，所為直接對外發生法規範效力之一般、抽象之規定",
+   "D": "係為協助下級機關或屬官統一解釋法令、認定事實及行使裁量權，而訂頒之解釋性規定及裁量基準"
+  },
+  "answers": [
+   [
+    "D"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 21,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "集會遊行",
+   "釋憲與違憲審查"
+  ],
+  "topicDetails": [
+   "許可與報備"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-22",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依社會秩序維護法第31條：「違反本法行為，逾2個月者，警察機關不得訊問、處罰，並不得移送法院。前項期間，自違反本法行為成立之日起算。但其行為有連續或繼續之狀態者，自行為終了之日起算。」該條規定，為下列何種性質？",
+  "options": {
+   "A": "處罰權時效",
+   "B": "執行權時效",
+   "C": "裁處確定",
+   "D": "逕行處分"
+  },
+  "answers": [
+   [
+    "A"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 22,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "社會秩序維護法",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": []
+ },
+ {
+  "id": "moex-115-plaw-23",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依行政執行法規定，有關拘提、管收之敘述，下列何者正確？",
+  "options": {
+   "A": "法院對於原處分機關對義務人的拘提聲請，應於5日內裁定；其情況急迫者，應即時裁定",
+   "B": "義務人經拘提到場，行政法院法官應即訊問其人有無錯誤，並應命義務人據實報告其財產狀況或為其他必要調查",
+   "C": "有管收必要者，行政執行分署應自拘提時起24小時內，聲請地方法院裁定管收之",
+   "D": "義務人不服法院關於拘提、管收之裁定者，得於10日內提起抗告；其程序準用刑事訴訟法有關抗告程序之規定"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 23,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "拘提逮捕與通緝",
+   "警械使用",
+   "偵訊與訪談技巧"
+  ],
+  "topicDetails": [
+   "拘提與緊急拘提",
+   "用槍時機"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-24",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "依集會遊行法第13條第2項：「室外集會、遊行不予許可之通知書，應載明理由及不服之救濟程序。」該項應載明「不服之救濟程序」規定，在學理上稱為下列何者制度？",
+  "options": {
+   "A": "救濟布告",
+   "B": "救濟教示",
+   "C": "救濟確認",
+   "D": "救濟公告"
+  },
+  "answers": [
+   [
+    "B"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 24,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "集會遊行"
+  ],
+  "topicDetails": [
+   "許可與報備"
+  ]
+ },
+ {
+  "id": "moex-115-plaw-25",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "警察法規",
+  "originalSubject": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)",
+  "mappingLevel": "完全",
+  "type": "single",
+  "stem": "關於公務人員及駐衛警察行政中立規定之敘述，下列何者錯誤？",
+  "options": {
+   "A": "公務人員行政中立之規範，依公務人員行政中立法規定；該法未規定或其他法律另有嚴格規定者，適用其他有關之法律",
+   "B": "公務人員得加入政黨或其他政治團體。不得兼任政黨或其他政治團體之職務",
+   "C": "公務人員為支持或反對特定之政黨、其他政治團體或公職候選人，得在辦公場所懸掛、張貼、穿戴或標示特定政黨、其他政治團體或公職候選人之旗幟、徽章或服飾",
+   "D": "各機關及公立學校駐衛警察行政中立事項，準用公務人員行政中立法規定"
+  },
+  "answers": [
+   [
+    "C"
+   ]
+  ],
+  "revised": false,
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_試題.pdf",
+   "no": 25,
+   "answerFile": "警察法規(包括警察法、行政執行法、社會秩序維護法、警械使用條例、集會遊行法、警察職權行使法、公務人員行政中立法)_答案.pdf",
+   "answerKind": "標準答案",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=0901&q=1",
+   "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=115060&c=203&s=0901&q=1"
+  },
+  "topics": [
+   "警察人事與風紀",
+   "地方自治與選舉"
+  ],
+  "topicDetails": [
+   "行政中立與公務員義務",
+   "選舉罷免與公民投票"
+  ]
  }
 ]

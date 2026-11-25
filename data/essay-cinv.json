@@ -1245,5 +1245,73 @@
    "移送與報告",
    "偵查犯罪手冊與刑案分類"
   ]
+ },
+ {
+  "id": "moex-115-cinv-e01",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 1,
+  "points": 30,
+  "stem": "請說明下列問題：\n①何謂附帶扣押？（10分）\n②何謂另案扣押？（10分）\n③何謂一目瞭然法則（plain view doctrine）？適用該法則之要件為何？（10分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 1,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": ""
+  },
+  "topics": [
+   "搜索與扣押"
+  ],
+  "topicDetails": [
+   "扣押與發還"
+  ]
+ },
+ {
+  "id": "moex-115-cinv-e02",
+  "source": "moex",
+  "session": "115 年刑事警察人員三等",
+  "year": 115,
+  "subject": "犯罪偵查學",
+  "originalSubject": "犯罪偵查學",
+  "mappingLevel": "完全",
+  "type": "essay",
+  "no": 2,
+  "points": 20,
+  "stem": "根據113年7月31日修正發布之洗錢防制法，請說明：制定洗錢防制法之立法目的為何？何謂洗錢？洗錢防制法第3條規範特定犯罪，然何謂特定犯罪所得？（20分）",
+  "staleRisk": {
+   "level": "無",
+   "laws": [],
+   "detail": []
+  },
+  "language": "zh",
+  "sourceRef": {
+   "file": "犯罪偵查學_試題.pdf",
+   "no": 2,
+   "answerFile": "",
+   "answerKind": "無（申論題不公布答案）",
+   "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115060&c=203&s=1104&q=1",
+   "answerUrl": ""
+  },
+  "topics": [
+   "罪責與刑罰",
+   "詐欺洗錢與財經犯罪"
+  ],
+  "topicDetails": [
+   "沒收新制",
+   "洗錢防制"
+  ]
  }
 ]
