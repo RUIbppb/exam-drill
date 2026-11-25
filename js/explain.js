@@ -274,6 +274,27 @@ var PQExplain = (function () {
     return PROVIDERS[id] || PROVIDERS.anthropic;
   }
 
+  /**
+   * 把供應商自己回的錯誤訊息挖出來。
+   *
+   * 【為什麼一定要挖】不挖的話，所有沒歸類到的失敗都只會顯示「出了狀況，稍後再試」，
+   * 那句話對使用者毫無幫助，對除錯的人也一樣。2026-11-25 實際踩到：Gemini 的金鑰
+   * 錯誤回的是 400 不是 401，分類表認不出來，畫面就只剩那句萬用句。
+   *
+   * 兩家的格式都是 { error: { message } }，拿不到就回空字串，絕不讓它自己丟錯。
+   */
+  function apiMessage(error) {
+    try {
+      var body = error && error.rawBody;
+      if (!body) return '';
+      var data = JSON.parse(body);
+      var msg = (data && data.error && data.error.message) || '';
+      return String(msg).trim().slice(0, 200);
+    } catch (e) {
+      return '';
+    }
+  }
+
   /** 把各種失敗歸類成原因代號，再交給 core.js 翻成白話 */
   function classify(error) {
     if (!error) return 'unknown';
@@ -282,6 +303,12 @@ var PQExplain = (function () {
     if (status === 401 || status === 403) return 'auth';
     if (status === 429) return 'rate';
     if (status >= 500) return 'busy';
+    // Gemini 的金鑰不對回的是 400 不是 401，只看狀態碼會漏掉，要連訊息一起看
+    if (status === 400 && /API[ _]key|API_KEY_INVALID|api key/i.test(apiMessage(error))) {
+      return 'auth';
+    }
+    if (status === 404) return 'model';
+    if (status === 400) return 'badrequest';
     if (error.name === 'TypeError') {
       // 直連被擋跟沒網路都是 TypeError，分不出來就看瀏覽器在不在線上
       return navigator.onLine === false ? 'offline' : 'blocked';
@@ -376,7 +403,10 @@ var PQExplain = (function () {
         .catch(function (error) {
           if (timer) window.clearTimeout(timer);
           logDetail('問 AI 失敗', error);
-          throw new Error(PQPure.aiErrorText(classify(error)));
+          // 把供應商自己的說法附在後面：歸類得再好，也不如對方親口講的原因精準
+          var detail = apiMessage(error);
+          var text = PQPure.aiErrorText(classify(error));
+          throw new Error(detail ? (text + '\n（對方回報：' + detail + '）') : text);
         });
     });
   }

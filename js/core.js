@@ -923,8 +923,14 @@ var PQPure = (function () {
     if (reason === 'offline') {
       return '現在連不上網路，沒辦法問 AI。已經問過的題目離線也看得到。';
     }
+    if (reason === 'model') {
+      return '這個模型找不到，可能是名稱改了或你的帳號不能用。請到設定頁換一個模型試試。';
+    }
+    if (reason === 'badrequest') {
+      return '請求被對方退回了。多半是模型名稱或金鑰的問題，下面那行是對方的原話。';
+    }
     if (reason === 'blocked') {
-      return '瀏覽器擋住了連到 AI 的請求。請確認金鑰是 Anthropic 的，而且網路沒有經過會攔截的代理伺服器。';
+      return '瀏覽器擋住了連到 AI 的請求。請確認金鑰跟你選的供應商是同一家，而且網路沒有經過會攔截的代理伺服器。';
     }
     return '問 AI 的時候出了狀況，稍後再試一次。';
   }
