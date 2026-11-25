@@ -22,7 +22,7 @@
 var PQApp = (function () {
   'use strict';
 
-  var APP_VERSION = 'v2.6';
+  var APP_VERSION = 'v2.7';
 
   function $(id) { return document.getElementById(id); }
 
@@ -1019,7 +1019,7 @@ var PQApp = (function () {
     if (!question || state.aiBusy) return;
 
     var set = settings();
-    var key = PQStore.loadAiKey();
+    var key = PQStore.loadAiKey(set.aiProvider);
     state.aiBusy = true;
     el.askAiBtn.disabled = true;
     renderAiBox('正在請 AI 講解，可能要等十幾秒…', 'ai-loading');
@@ -1201,7 +1201,7 @@ var PQApp = (function () {
     el.setDeskFont.value = set.deskFont || 'large';
 
     renderProviderOptions(set);
-    el.aiKey.value = PQStore.loadAiKey();
+    el.aiKey.value = PQStore.loadAiKey(set.aiProvider);
     renderAiCacheInfo();
     renderExamDateInfo();
     renderStaleInfo();
@@ -1463,18 +1463,20 @@ var PQApp = (function () {
      el.setTheme, el.setDeskFont]
       .forEach(function (node) { node.addEventListener('change', saveSettingsFromForm); });
     el.aiProvider.addEventListener('change', function () {
+      // 每家金鑰分開存，換了就要把那一家的帶出來，不然畫面上還留著上一家的
+      el.aiKey.value = PQStore.loadAiKey(el.aiProvider.value);
       renderModelOptions(settings());
       saveSettingsFromForm();
     });
     el.aiModel.addEventListener('change', saveSettingsFromForm);
 
     el.aiSaveBtn.addEventListener('click', function () {
-      var result = PQStore.saveAiKey(el.aiKey.value.trim());
+      var result = PQStore.saveAiKey(settings().aiProvider, el.aiKey.value.trim());
       showNotice(result.ok ? 'AI 金鑰已存在這台裝置（不會跟著進度匯出）。' : result.error,
         result.ok ? 'good' : 'error', 'ai');
     });
     el.aiClearBtn.addEventListener('click', function () {
-      PQStore.clearAiKey();
+      PQStore.clearAiKey(settings().aiProvider);
       el.aiKey.value = '';
       showNotice('已清除這台裝置上的 AI 金鑰。', 'soft', 'ai');
     });

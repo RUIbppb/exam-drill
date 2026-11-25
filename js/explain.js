@@ -151,11 +151,20 @@ var PQExplain = (function () {
   /* ---------- 供應商 ---------- */
 
   /**
-   * 目前只接 Anthropic（Claude）。
-   * 官方支援瀏覽器直連，就是為了「使用者自己貼自己的金鑰」這種用法設計的，
-   * 但要帶 anthropic-dangerous-direct-browser-access 這個標頭它才肯放行。
+   * 兩家供應商，設定頁可以隨時切換，金鑰分開存。
    *
-   * 要換供應商時在這裡加一筆，設定頁的下拉就會多一個選項。
+   * Anthropic（Claude）：官方支援瀏覽器直連，就是為了「使用者自己貼自己的金鑰」
+   * 這種用法設計的，但要帶 anthropic-dangerous-direct-browser-access 標頭才放行。
+   *
+   * Google（Gemini）：有免費額度。
+   *   ⚠️ 只能用 models/<模型>:generateContent 這個端點。
+   *   2026-11-25 從 ruibppb.github.io 實測：generateContent 的 CORS 通得過
+   *   （回得到可讀的 400），但官方現在主推的 /v1beta/interactions 會被 CORS 擋掉。
+   *   要換端點之前先實測，不要照搬官方 quickstart。
+   *   ⚠️ 免費方案的條款寫明 Google 會用送進去的內容改善產品、人工審閱者可能讀得到，
+   *   而且要求不要送敏感或個人資訊。刷題送的是公開考古題，但別拿它問別的東西。
+   *
+   * 要再加供應商時在這裡加一筆，設定頁的下拉就會多一個選項。
    */
   var PROVIDERS = {
     anthropic: {
@@ -198,6 +207,57 @@ var PQExplain = (function () {
           var answer = parts.filter(function (part) { return part && part.type === 'text'; })
             .map(function (part) { return part.text; }).join('\n').trim();
           if (!answer) throw new Error('AI 沒有回傳內容');
+          return answer;
+        });
+      }
+    },
+
+    google: {
+      name: 'Google（Gemini）— 有免費額度',
+      models: [
+        { id: 'gemini-3.8-flash', name: 'Gemini 3.8 Flash（免費額度內）' },
+        { id: 'gemini-4-hydrogen', name: 'Gemini 4 Hydrogen（免費額度內）' },
+        { id: 'gemini-3.5-flash-lite', name: 'Gemini 3.5 Flash Lite（最輕量，免費額度內）' }
+      ],
+      keyHint: '到 Google AI Studio（aistudio.google.com）的 API keys 頁面申請，免費額度不用綁信用卡。' +
+        '⚠️ 免費方案的內容 Google 會拿去改善產品，也可能有人工審閱，所以只拿來問考古題，別問別的。',
+      send: function (prompt, key, model, signal) {
+        var url = 'https://generativelanguage.googleapis.com/v1beta/models/' +
+          encodeURIComponent(model) + ':generateContent';
+        return fetch(url, {
+          method: 'POST',
+          signal: signal,
+          headers: {
+            'content-type': 'application/json',
+            // 金鑰放標頭不放網址，才不會被記進瀏覽器歷史或伺服器日誌
+            'x-goog-api-key': key
+          },
+          body: JSON.stringify({
+            contents: [{ role: 'user', parts: [{ text: prompt }] }],
+            generationConfig: { maxOutputTokens: 1500 }
+          })
+        }).then(function (response) {
+          return response.text().then(function (text) {
+            return { status: response.status, ok: response.ok, text: text };
+          });
+        }).then(function (raw) {
+          if (!raw.ok) {
+            var err = new Error('AI 回應狀態 ' + raw.status);
+            err.httpStatus = raw.status;
+            err.rawBody = raw.text;
+            throw err;
+          }
+          var data = JSON.parse(raw.text);
+          var candidates = (data && data.candidates) || [];
+          var parts = (candidates[0] && candidates[0].content && candidates[0].content.parts) || [];
+          var answer = parts.map(function (part) { return (part && part.text) || ''; })
+            .join('\n').trim();
+          if (!answer) {
+            // 被安全設定擋下時 candidates 會是空的或帶 finishReason，講清楚免得以為是壞掉
+            var reason = (candidates[0] && candidates[0].finishReason) ||
+              (data && data.promptFeedback && data.promptFeedback.blockReason) || '';
+            throw new Error(reason ? ('AI 沒有回傳內容（' + reason + '）') : 'AI 沒有回傳內容');
+          }
           return answer;
         });
       }

@@ -244,40 +244,56 @@ var PQStore = (function () {
 
   /* ---------- AI 金鑰（單獨存，不進匯出檔） ---------- */
 
-  function loadAiKey() {
+  /*
+   * 【金鑰一家一把】兩家供應商的金鑰各存各的，切換供應商不會把另一把洗掉。
+   *
+   * 舊版只有一個欄位（KEY.aiKey），那時只接 Anthropic，所以舊資料一律當成
+   * Anthropic 的金鑰：讀不到專屬欄位時回頭去讀舊欄位，使用者不用重貼。
+   */
+  function aiKeyName(provider) {
+    return KEY.aiKey + '.' + (provider || 'anthropic');
+  }
+
+  function loadAiKey(provider) {
     var store = getStore();
     if (!store) return '';
     try {
-      return store.getItem(KEY.aiKey) || '';
+      var own = store.getItem(aiKeyName(provider));
+      if (own) return own;
+      // 舊版留下的單一欄位只可能是 Anthropic 的
+      if ((provider || 'anthropic') === 'anthropic') return store.getItem(KEY.aiKey) || '';
+      return '';
     } catch (e) {
       return '';
     }
   }
 
-  function saveAiKey(key) {
+  function saveAiKey(provider, key) {
     var store = getStore();
     if (!store) return { ok: false, error: '這個瀏覽器不能儲存資料，金鑰沒有存起來。' };
     try {
-      store.setItem(KEY.aiKey, String(key || ''));
+      store.setItem(aiKeyName(provider), String(key || ''));
       return { ok: true, error: null };
     } catch (e) {
       return { ok: false, error: '金鑰存不進去（' + explainError(e) + '）。' };
     }
   }
 
-  function clearAiKey() {
+  function clearAiKey(provider) {
     var store = getStore();
     if (!store) return false;
     try {
-      store.removeItem(KEY.aiKey);
+      store.removeItem(aiKeyName(provider));
+      // 清 Anthropic 時連舊版那個欄位一起清掉，不然清完又會被讀回來
+      if ((provider || 'anthropic') === 'anthropic') store.removeItem(KEY.aiKey);
       return true;
     } catch (e) {
       return false;
     }
   }
 
-  function hasAiKey() {
-    return loadAiKey().length > 0;
+  function hasAiKey(provider) {
+    return loadAiKey(provider).length > 0;
   }
 
   return {
