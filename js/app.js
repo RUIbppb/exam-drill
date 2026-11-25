@@ -22,7 +22,7 @@
 var PQApp = (function () {
   'use strict';
 
-  var APP_VERSION = 'v2.15';
+  var APP_VERSION = 'v2.16';
 
   function $(id) { return document.getElementById(id); }
 
@@ -1136,26 +1136,36 @@ var PQApp = (function () {
     var site = WEB_AI_SITES[choice];
     var siteName = WEB_AI_NAMES[choice] || '網頁 AI';
 
+    /*
+     * 【順序很重要，不能先複製再開】
+     * Safari（尤其 iPhone 上加到主畫面的 App）只認「使用者按下去當下」的那一刻，
+     * 中間只要插進一個 await，window.open 就會被當成自己彈出來的視窗擋掉。
+     * 原本是等剪貼簿寫完才開，在手機上十之八九開不起來。
+     * 所以先同步把網頁開起來，再去處理複製。
+     */
+    var opening = false;
+    if (site && !webAiOpened) {
+      try {
+        window.open(site, '_blank', 'noopener');
+        webAiOpened = true;
+        opening = true;
+      } catch (e) {
+        webAiOpened = false;
+      }
+    }
+
     copyText(prompt).then(function () {
       if (!site) {
         showNotice('題目已經複製好了，貼到你要問的地方就行。', 'good', 'copyask');
         return;
       }
-      if (webAiOpened) {
-        // 已經幫他開過了，不要再開第二個分頁
-        showNotice('題目已經複製好了，切到你的 ' + siteName + ' 分頁按貼上（Ctrl+V）就可以問。',
-          'good', 'copyask');
+      if (opening) {
+        showNotice('題目已經複製好了。到剛開的 ' + siteName + ' 按貼上就可以問。' +
+          '之後再按這顆就只會複製，你自己切過去貼上就好。', 'good', 'copyask');
         return;
       }
-      // 第一次才開；開不起來（被擋彈出視窗）也不影響已經複製好的內容
-      try {
-        window.open(site, '_blank', 'noopener');
-        webAiOpened = true;
-      } catch (e) {
-        webAiOpened = false;
-      }
-      showNotice('題目已經複製好了。到剛開的分頁按貼上（Ctrl+V）就可以問。' +
-        '之後再按這顆就只會複製，你自己切過去貼上就好。', 'good', 'copyask');
+      showNotice('題目已經複製好了，切到你的 ' + siteName + ' 按貼上就可以問。',
+        'good', 'copyask');
     }).catch(function () {
       showNotice('複製失敗，可能是瀏覽器不給。請改用「問 AI 為什麼」，或手動把題目抄過去。',
         'error', 'copyask');
