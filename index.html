@@ -169,6 +169,7 @@
       <div class="after-answer hidden" id="after-answer">
         <div class="btn-row">
           <button type="button" class="btn-secondary btn-small" id="ask-ai-btn">問 AI 為什麼</button>
+          <button type="button" class="btn-secondary btn-small" id="copy-ask-btn">複製題目，去網頁問</button>
           <button type="button" class="btn-secondary btn-small" id="stale-btn">標記已過時</button>
         </div>
         <div id="ai-box" class="hidden"></div>
@@ -504,6 +505,19 @@
       <div class="field">
         <label for="ai-model">模型</label>
         <div class="select-wrap"><select id="ai-model"></select></div>
+      </div>
+      <div class="field">
+        <label for="web-ai-site">「複製題目，去網頁問」要開哪個網站</label>
+        <div class="select-wrap">
+          <select id="web-ai-site">
+            <option value="gemini">Gemini（gemini.google.com）</option>
+            <option value="chatgpt">ChatGPT（chatgpt.com）</option>
+            <option value="claude">Claude（claude.ai）</option>
+            <option value="none">不要自動開，只複製</option>
+          </select>
+        </div>
+        <p class="small">這條路<strong>不用金鑰、不花錢</strong>，用的是你平常登入的那個帳號，
+          模型也比免費 API 額度好。缺點是講解不會存回 App，離線看不到。</p>
       </div>
       <div class="field">
         <label for="ai-key">金鑰</label>

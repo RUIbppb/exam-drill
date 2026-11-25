@@ -31,11 +31,12 @@ var PQExplain = (function () {
   var DB_VERSION = 1;
   var STORE_NAME = 'explanations';
   /*
-   * 整個流程（含自動重試）的總時限。
-   * 一次請求本來就可能要十幾秒，加上重試之間要等 2 秒與 6 秒，
-   * 原本的 60 秒不夠用，會在第三次還沒回來之前就被自己的時鐘砍掉。
+   * 【時限要算在每個模型頭上，不是整段共用】
+   * 原本整段只有一個時鐘，第一個模型卡住就把時間吃光，後面兩個根本沒機會試，
+   * 使用者等滿一分多鐘換來一句「AI 想太久了」。
+   * 改成一個模型最多等 30 秒，超過就當它不通、立刻換下一個。
    */
-  var ASK_TIMEOUT = 75000;        // 最多等一分十五秒（含換模型重試，中間不等待）
+  var PER_MODEL_TIMEOUT = 30000;  // 單一模型最多等 30 秒
 
   var memoryCache = {};           // IndexedDB 不能用時的退路（關掉分頁就沒了）
   var dbPromise = null;
@@ -340,7 +341,7 @@ var PQExplain = (function () {
    * 問 AI 是純讀取、不會改到任何東西，所以重試是安全的。
    * （會寫入的動作不重試——這條界線在記帳 App 那邊也是一樣的。）
    */
-  var RETRYABLE = { busy: true, rate: true };
+  var RETRYABLE = { busy: true, rate: true, timeout: true };
 
   /** 把使用者選的模型排第一，其餘依序當備胎 */
   function modelQueue(provider, model) {
@@ -350,19 +351,32 @@ var PQExplain = (function () {
     return queue;
   }
 
-  function sendWithFallback(provider, prompt, key, queue, signal, index, onSwitch) {
+  function sendOnce(provider, prompt, key, model) {
+    var controller = typeof AbortController === 'function' ? new AbortController() : null;
+    var timer = controller
+      ? window.setTimeout(function () { controller.abort(); }, PER_MODEL_TIMEOUT) : null;
+    return provider.send(prompt, key, model, controller ? controller.signal : undefined)
+      .then(function (text) {
+        if (timer) window.clearTimeout(timer);
+        return text;
+      }, function (error) {
+        if (timer) window.clearTimeout(timer);
+        throw error;
+      });
+  }
+
+  function sendWithFallback(provider, prompt, key, queue, index, onSwitch) {
     index = index || 0;
     var model = queue[index];
-    return provider.send(prompt, key, model, signal).then(function (text) {
+    return sendOnce(provider, prompt, key, model).then(function (text) {
       return { text: text, model: model };
     }).catch(function (error) {
       var reason = classify(error);
       var next = index + 1;
       if (!RETRYABLE[reason] || next >= queue.length) throw error;
-      if (signal && signal.aborted) throw error;
-      logDetail(model + ' 擠不進去（' + reason + '），立刻改用 ' + queue[next], error);
+      logDetail(model + ' 不通（' + reason + '），立刻改用 ' + queue[next], error);
       if (onSwitch) onSwitch(queue[next]);
-      return sendWithFallback(provider, prompt, key, queue, signal, next, onSwitch);
+      return sendWithFallback(provider, prompt, key, queue, next, onSwitch);
     });
   }
 
@@ -425,15 +439,9 @@ var PQExplain = (function () {
       var model = settings.model || (provider.models[0] && provider.models[0].id);
       var prompt = PQPure.buildExplainPrompt(question);
 
-      var controller = typeof AbortController === 'function' ? new AbortController() : null;
-      var timer = controller
-        ? window.setTimeout(function () { controller.abort(); }, ASK_TIMEOUT) : null;
-
       var queue = modelQueue(provider, model);
-      return sendWithFallback(provider, prompt, key, queue,
-          controller ? controller.signal : undefined, 0, settings.onModelSwitch)
+      return sendWithFallback(provider, prompt, key, queue, 0, settings.onModelSwitch)
         .then(function (sent) {
-          if (timer) window.clearTimeout(timer);
           var text = sent.text;
           // 可能是備胎模型回的，記下真正用到的那一個
           model = sent.model;
@@ -456,7 +464,6 @@ var PQExplain = (function () {
           });
         })
         .catch(function (error) {
-          if (timer) window.clearTimeout(timer);
           logDetail('問 AI 失敗', error);
           // 把供應商自己的說法附在後面：歸類得再好，也不如對方親口講的原因精準
           var detail = apiMessage(error);

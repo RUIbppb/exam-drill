@@ -22,7 +22,7 @@
 var PQApp = (function () {
   'use strict';
 
-  var APP_VERSION = 'v2.10';
+  var APP_VERSION = 'v2.11';
 
   function $(id) { return document.getElementById(id); }
 
@@ -136,6 +136,8 @@ var PQApp = (function () {
     importBtn: $('import-btn'),
     importFile: $('import-file'),
     lawsBtn: $('laws-btn'),
+    copyAskBtn: $('copy-ask-btn'),
+    webAiSite: $('web-ai-site'),
     setTheme: $('set-theme'),
     setDeskFont: $('set-deskfont'),
     settingsBtn: $('settings-btn'),
@@ -1014,6 +1016,63 @@ var PQApp = (function () {
     el.aiBox.classList.remove('hidden');
   }
 
+  /* ----- 不用 API 的那條路：複製題目，到網頁去問 ----- */
+
+  /*
+   * 【為什麼要有這條路】API 這條路要申請金鑰、要管額度，免費額度還常塞車。
+   * 但 RUI 本來就有 Gemini／ChatGPT 的網頁帳號，直接貼過去問最快，
+   * 用到的還是完整版模型，不是免費 API 額度那個。
+   *
+   * 代價是講解不會存回 App（離線看不到、不進快取），所以兩條路並存，
+   * 不是拿這個取代「問 AI 為什麼」。
+   */
+  var WEB_AI_SITES = {
+    gemini: 'https://gemini.google.com/app',
+    chatgpt: 'https://chatgpt.com/',
+    claude: 'https://claude.ai/new'
+  };
+
+  function copyText(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      return navigator.clipboard.writeText(text);
+    }
+    // 舊瀏覽器或非安全來源沒有 clipboard API，退回老方法
+    return new Promise(function (resolve, reject) {
+      try {
+        var box = document.createElement('textarea');
+        box.value = text;
+        box.setAttribute('readonly', '');
+        box.style.position = 'fixed';
+        box.style.left = '-9999px';
+        document.body.appendChild(box);
+        box.select();
+        var ok = document.execCommand('copy');
+        document.body.removeChild(box);
+        ok ? resolve() : reject(new Error('複製失敗'));
+      } catch (e) { reject(e); }
+    });
+  }
+
+  function copyAskPrompt() {
+    var question = currentQuestion();
+    if (!question) return;
+    var prompt = PQPure.buildExplainPrompt(question);
+    var site = WEB_AI_SITES[(settings().webAiSite || 'gemini')];
+
+    copyText(prompt).then(function () {
+      if (site) {
+        // 先複製再開新分頁；開不起來（被擋彈出視窗）也不影響已經複製好的內容
+        window.open(site, '_blank', 'noopener');
+        showNotice('題目已經複製好了。到剛開的分頁按貼上（Ctrl+V）就可以問。', 'good', 'copyask');
+      } else {
+        showNotice('題目已經複製好了，貼到你要問的地方就行。', 'good', 'copyask');
+      }
+    }).catch(function () {
+      showNotice('複製失敗，可能是瀏覽器不給。請改用「問 AI 為什麼」，或手動把題目抄過去。',
+        'error', 'copyask');
+    });
+  }
+
   function askAi() {
     var question = currentQuestion();
     if (!question || state.aiBusy) return;
@@ -1203,6 +1262,7 @@ var PQApp = (function () {
     el.setYearSpan.value = String(set.yearSpan);
     el.setTheme.value = set.theme || 'auto';
     el.setDeskFont.value = set.deskFont || 'large';
+    el.webAiSite.value = set.webAiSite || 'gemini';
 
     renderProviderOptions(set);
     el.aiKey.value = PQStore.loadAiKey(set.aiProvider);
@@ -1284,6 +1344,7 @@ var PQApp = (function () {
     set.yearSpan = Number(el.setYearSpan.value);
     set.theme = el.setTheme.value;
     set.deskFont = el.setDeskFont.value;
+    set.webAiSite = el.webAiSite.value;
     applyAppearance(set);
     set.aiProvider = el.aiProvider.value;
     set.aiModel = el.aiModel.value;
@@ -1440,6 +1501,7 @@ var PQApp = (function () {
     el.actionBtn.addEventListener('click', onActionClick);
     el.finishBtn.addEventListener('click', finishRound);
     el.askAiBtn.addEventListener('click', askAi);
+    el.copyAskBtn.addEventListener('click', copyAskPrompt);
     el.staleBtn.addEventListener('click', toggleStaleFlag);
     document.addEventListener('keydown', onKeyDown);
 
@@ -1464,7 +1526,7 @@ var PQApp = (function () {
     el.settingsBtn.addEventListener('click', openSettings);
     el.settingsBackBtn.addEventListener('click', goHome);
     [el.examDateCpu, el.examDateMoex, el.setThreshold, el.setDaily, el.setYearSpan,
-     el.setTheme, el.setDeskFont]
+     el.setTheme, el.setDeskFont, el.webAiSite]
       .forEach(function (node) { node.addEventListener('change', saveSettingsFromForm); });
     el.aiProvider.addEventListener('change', function () {
       // 每家金鑰分開存，換了就要把那一家的帶出來，不然畫面上還留著上一家的
