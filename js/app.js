@@ -22,7 +22,7 @@
 var PQApp = (function () {
   'use strict';
 
-  var APP_VERSION = 'v2.11';
+  var APP_VERSION = 'v2.12';
 
   function $(id) { return document.getElementById(id); }
 
@@ -1032,11 +1032,24 @@ var PQApp = (function () {
     claude: 'https://claude.ai/new'
   };
 
-  function copyText(text) {
-    if (navigator.clipboard && navigator.clipboard.writeText) {
-      return navigator.clipboard.writeText(text);
-    }
-    // 舊瀏覽器或非安全來源沒有 clipboard API，退回老方法
+  /*
+   * 開過的那個分頁記起來。
+   *
+   * 【為什麼不能每次都 window.open】那樣按幾題就開幾個分頁，很快就是一排 Gemini。
+   * 記住handle 之後：還開著就只把它切到前面（focus），不重新導向——
+   * 他上一題的對話還在，新題目貼進同一個對話就好。
+   * 分頁被關掉了（closed）才重新開一個。
+   *
+   * 這裡刻意不帶 noopener：帶了的話 window.open 會回傳 null，就拿不到 handle、
+   * 也就沒辦法判斷分頁還在不在。網址是寫死的那三個站，不是使用者輸入的，沒有注入風險。
+   */
+  var webAiWindow = null;
+
+  /*
+   * 老方法：塞一個看不見的 textarea、選起來、execCommand('copy')。
+   * 醜，但它不需要安全來源、也不需要權限，是最後一道防線。
+   */
+  function copyByTextarea(text) {
     return new Promise(function (resolve, reject) {
       try {
         var box = document.createElement('textarea');
@@ -1046,11 +1059,28 @@ var PQApp = (function () {
         box.style.left = '-9999px';
         document.body.appendChild(box);
         box.select();
+        box.setSelectionRange(0, text.length);   // iOS 要這一行才選得到
         var ok = document.execCommand('copy');
         document.body.removeChild(box);
         ok ? resolve() : reject(new Error('複製失敗'));
       } catch (e) { reject(e); }
     });
+  }
+
+  /*
+   * 【新版剪貼簿 API 會「有，但是失敗」】
+   * navigator.clipboard 存在不代表能用——視窗沒有焦點、權限被擋、
+   * 非安全來源，它都會丟出拒絕。原本只在「這個 API 不存在」時才走老方法，
+   * 所以一旦是被拒絕就直接顯示「複製失敗」，整個功能等於廢掉。
+   * 改成先試新的，被拒絕再退回老方法，兩個都不行才認輸。
+   */
+  function copyText(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      return navigator.clipboard.writeText(text).catch(function () {
+        return copyByTextarea(text);
+      });
+    }
+    return copyByTextarea(text);
   }
 
   function copyAskPrompt() {
@@ -1060,13 +1090,25 @@ var PQApp = (function () {
     var site = WEB_AI_SITES[(settings().webAiSite || 'gemini')];
 
     copyText(prompt).then(function () {
-      if (site) {
-        // 先複製再開新分頁；開不起來（被擋彈出視窗）也不影響已經複製好的內容
-        window.open(site, '_blank', 'noopener');
-        showNotice('題目已經複製好了。到剛開的分頁按貼上（Ctrl+V）就可以問。', 'good', 'copyask');
-      } else {
+      if (!site) {
         showNotice('題目已經複製好了，貼到你要問的地方就行。', 'good', 'copyask');
+        return;
       }
+      // 先複製再處理分頁；分頁開不起來（被擋彈出視窗）也不影響已經複製好的內容
+      var reused = false;
+      try {
+        if (webAiWindow && !webAiWindow.closed) {
+          webAiWindow.focus();
+          reused = true;
+        } else {
+          webAiWindow = window.open(site, '_blank');
+        }
+      } catch (e) {
+        webAiWindow = null;
+      }
+      showNotice(reused
+        ? '題目已經複製好了，已經幫你切到剛才那個分頁，按貼上（Ctrl+V）就可以問。'
+        : '題目已經複製好了。到剛開的分頁按貼上（Ctrl+V）就可以問。', 'good', 'copyask');
     }).catch(function () {
       showNotice('複製失敗，可能是瀏覽器不給。請改用「問 AI 為什麼」，或手動把題目抄過去。',
         'error', 'copyask');
