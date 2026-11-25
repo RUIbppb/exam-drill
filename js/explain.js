@@ -30,7 +30,12 @@ var PQExplain = (function () {
   var DB_NAME = 'policeQuizExplain';
   var DB_VERSION = 1;
   var STORE_NAME = 'explanations';
-  var ASK_TIMEOUT = 60000;        // AI 要想一下，給它一分鐘
+  /*
+   * 整個流程（含自動重試）的總時限。
+   * 一次請求本來就可能要十幾秒，加上重試之間要等 2 秒與 6 秒，
+   * 原本的 60 秒不夠用，會在第三次還沒回來之前就被自己的時鐘砍掉。
+   */
+  var ASK_TIMEOUT = 75000;        // 最多等一分十五秒（含換模型重試，中間不等待）
 
   var memoryCache = {};           // IndexedDB 不能用時的退路（關掉分頁就沒了）
   var dbPromise = null;
@@ -316,6 +321,51 @@ var PQExplain = (function () {
     return 'unknown';
   }
 
+  /* ---------- 暫時性失敗自動重試 ---------- */
+
+  /*
+   * 【塞車就換模型，不要叫人等】免費額度的模型常常塞車，Google 會回
+   * 「This model is currently experiencing high demand」。
+   *
+   * 直覺做法是「等幾秒再試同一個模型」，但那等於把人晾在那裡，
+   * 而且同一個模型剛塞爆，幾秒後多半還是塞的。
+   *
+   * 改成**立刻換下一個模型**：每個模型的容量是分開的，這個擠不進去
+   * 不代表另一個也擠不進去。塞車的回應本來就回得很快（直接回 503），
+   * 所以整段流程不會比單打一個模型慢多少，使用者按下去就有反應。
+   *
+   * 只有「換一個就可能成功」的失敗才換（塞車、額度節流）；
+   * 金鑰錯、模型不存在這種換幾個都一樣，立刻放棄比較快。
+   *
+   * 問 AI 是純讀取、不會改到任何東西，所以重試是安全的。
+   * （會寫入的動作不重試——這條界線在記帳 App 那邊也是一樣的。）
+   */
+  var RETRYABLE = { busy: true, rate: true };
+
+  /** 把使用者選的模型排第一，其餘依序當備胎 */
+  function modelQueue(provider, model) {
+    var all = (provider.models || []).map(function (m) { return m.id; });
+    var queue = model ? [model] : [];
+    all.forEach(function (id) { if (queue.indexOf(id) === -1) queue.push(id); });
+    return queue;
+  }
+
+  function sendWithFallback(provider, prompt, key, queue, signal, index, onSwitch) {
+    index = index || 0;
+    var model = queue[index];
+    return provider.send(prompt, key, model, signal).then(function (text) {
+      return { text: text, model: model };
+    }).catch(function (error) {
+      var reason = classify(error);
+      var next = index + 1;
+      if (!RETRYABLE[reason] || next >= queue.length) throw error;
+      if (signal && signal.aborted) throw error;
+      logDetail(model + ' 擠不進去（' + reason + '），立刻改用 ' + queue[next], error);
+      if (onSwitch) onSwitch(queue[next]);
+      return sendWithFallback(provider, prompt, key, queue, signal, next, onSwitch);
+    });
+  }
+
   /* ---------- 快取和題目內容對不對得上 ---------- */
 
   /**
@@ -379,9 +429,14 @@ var PQExplain = (function () {
       var timer = controller
         ? window.setTimeout(function () { controller.abort(); }, ASK_TIMEOUT) : null;
 
-      return provider.send(prompt, key, model, controller ? controller.signal : undefined)
-        .then(function (text) {
+      var queue = modelQueue(provider, model);
+      return sendWithFallback(provider, prompt, key, queue,
+          controller ? controller.signal : undefined, 0, settings.onModelSwitch)
+        .then(function (sent) {
           if (timer) window.clearTimeout(timer);
+          var text = sent.text;
+          // 可能是備胎模型回的，記下真正用到的那一個
+          model = sent.model;
           var record = {
             id: id,
             text: text,

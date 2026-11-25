@@ -22,7 +22,7 @@
 var PQApp = (function () {
   'use strict';
 
-  var APP_VERSION = 'v2.8';
+  var APP_VERSION = 'v2.9';
 
   function $(id) { return document.getElementById(id); }
 
@@ -1028,6 +1028,10 @@ var PQApp = (function () {
       key: key,
       provider: set.aiProvider,
       model: set.aiModel,
+      // 塞車換模型時讓畫面講一聲，不然會以為是卡住不動
+      onModelSwitch: function (nextModel) {
+        renderAiBox('剛才那個模型塞車，改用 ' + nextModel + ' 再試…', 'ai-loading');
+      },
       // 題目內容修正過的題號清單（舊題庫沒有這欄就是 undefined，explain.js 會照舊行為）
       contentFixedIds: state.index ? state.index.contentFixedIds : undefined
     }).then(function (result) {
