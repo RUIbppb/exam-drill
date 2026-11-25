@@ -560,6 +560,16 @@ var PQPure = (function () {
     return rows;
   }
 
+  /** 這批題目裡還有幾題沒刷過（用來告訴使用者「還有多少新的」） */
+  function countUnseen(questions, progress) {
+    var map = (progress && progress.questions) || {};
+    var count = 0;
+    (Array.isArray(questions) ? questions : []).forEach(function (question) {
+      if (question && !hasAnswered(map[question.id])) count += 1;
+    });
+    return count;
+  }
+
   /**
    * 從某個主題挑題目出來練。
    * 順序：沒刷過的 → 答錯過的（錯最多次的優先）→ 其他，
@@ -1871,6 +1881,7 @@ var PQPure = (function () {
     topicStats: topicStats,
     subjectStats: subjectStats,
     pickTopicQuestions: pickTopicQuestions,
+    countUnseen: countUnseen,
     essayTopicStats: essayTopicStats,
     filterByTopic: filterByTopic,
 

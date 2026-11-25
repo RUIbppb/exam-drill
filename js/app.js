@@ -22,7 +22,7 @@
 var PQApp = (function () {
   'use strict';
 
-  var APP_VERSION = 'v2.13';
+  var APP_VERSION = 'v2.14';
 
   function $(id) { return document.getElementById(id); }
 
@@ -507,8 +507,12 @@ var PQApp = (function () {
       el.poolInfo.textContent = '「' + state.subject.name + '」在 ' + rangeText + '沒有可練習的題目，請換一個年度範圍。';
       el.startBtn.disabled = true;
     } else {
+      var freshCount = PQPure.countUnseen(pool, state.progress);
+      var freshText = freshCount === 0
+        ? '這個範圍你全部都刷過了，接下來會從錯最多次的開始。'
+        : ('其中 ' + freshCount + ' 題還沒刷過，會先出這些。');
       el.poolInfo.textContent = '「' + state.subject.name + '」' + rangeText +
-        '，這個範圍可以練習 ' + pool.length + ' 題。';
+        '，這個範圍可以練習 ' + pool.length + ' 題。' + freshText;
       el.startBtn.disabled = false;
     }
 
@@ -648,7 +652,13 @@ var PQApp = (function () {
     }
     state.mode = 'random';
     state.modeLabel = '';
-    state.pool = PQPure.shuffle(pool);
+    /*
+     * 【2026-11-25 修掉的坑】這裡原本是純粹 shuffle，完全不看進度，
+     * 所以每開一回合都可能又抽到已經刷熟的題目——RUI 回報「很多我都看過好幾次了」。
+     * 主題練習那邊早就有「沒刷過的優先」的排法，這個模式卻沒用到。
+     * 改成共用同一套：沒刷過的 → 答錯過的（錯最多次的先）→ 其他。
+     */
+    state.pool = PQPure.pickTopicQuestions(pool, state.progress, null, 0);
     state.cursor = 0;
     state.records = [];
     clearNotice('bank');
