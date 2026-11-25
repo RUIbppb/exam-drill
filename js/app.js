@@ -22,7 +22,7 @@
 var PQApp = (function () {
   'use strict';
 
-  var APP_VERSION = 'v2.18';
+  var APP_VERSION = 'v2.19';
 
   function $(id) { return document.getElementById(id); }
 
